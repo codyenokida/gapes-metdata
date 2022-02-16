@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #13",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdBiu5CModfsdsk5Cvgzz9dvv7Xo9vSbzidJXxAu5ZaZz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

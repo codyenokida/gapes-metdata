@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #12",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVz7a8oKYx4kw8F5XM2J4F1f3CPDJvBMF274gjw4aQA6x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

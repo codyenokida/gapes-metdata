@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeEtovarzYyUKha4TPEMS3noX9gkNXEN7TYwotBzVyT9t",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

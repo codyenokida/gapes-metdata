@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmceemgiD1rHjjHM67rx2AwxSsu3XYT166tdjm4GoLEMqi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdpw8brMtrHRTZ9KPhjNUDTNLDRhpUac5SAVobhGmTd9d",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}
