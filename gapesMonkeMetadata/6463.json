@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6463",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTsKph4Zq59quU5wDuCXFb5S3w2FgFAzKVZk2jxehFZJv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

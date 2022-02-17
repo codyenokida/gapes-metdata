@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2667",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcdTQknUur9rh6cULGrbvMKZVPFWxyP6s3gTjjNWJSJ3e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

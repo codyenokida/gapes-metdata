@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #119",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmagLyZZowc8hoF7AMQPEFPFtBXQD1r6qSr85eiXNrEDPd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

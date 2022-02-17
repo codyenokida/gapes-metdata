@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #743",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYLXoY378tYy219XuoBYwfCfd6PUbBsdFcx4KLgAEr7eY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

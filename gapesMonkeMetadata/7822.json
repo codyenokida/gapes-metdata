@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7822",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfRVqHGq3ZZPR2gyEVmebbq7nhuPhBK1PwdYDYi6n6hhC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

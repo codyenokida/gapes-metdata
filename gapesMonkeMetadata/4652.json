@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4652",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmakEXUW8JjmbMSPbGFmSEDqaVzrU73pBSQ2JQtaajM8kP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

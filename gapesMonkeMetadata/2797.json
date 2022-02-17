@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2797",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb3DamtdiASoALucGxbq7g8wraRWYwbUu6icJ2myqveVS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

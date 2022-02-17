@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2057",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPrBEs7wQwhDinm7SZgoKZCB5EV7E4TBMTKNZryYBKshF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

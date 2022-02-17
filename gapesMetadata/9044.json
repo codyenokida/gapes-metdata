@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9044",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPYfqDnT66NAuzsvw3fxUMb75pmQF8bvXxXkBcuPERyiS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

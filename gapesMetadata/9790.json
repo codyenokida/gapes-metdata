@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9790",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNUmZu5kh6G6fD6PwAa549QaBbB8HYGKhS3vYu5W29yeB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

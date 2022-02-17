@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #515",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRdZZgdCi9f4QshT4NdGDfyRSRf9ufzu5V84jPVwcBuff",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

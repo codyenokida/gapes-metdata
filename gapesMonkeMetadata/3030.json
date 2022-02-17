@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3030",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRQoheMyB7T5EBonPhJaKtSb561m8fNJ6dtzWuvkTaWyf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4244",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfKVKgU3GkmtisukKeENbyW6xFbUFN6D8NHDoXKLyyjnU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

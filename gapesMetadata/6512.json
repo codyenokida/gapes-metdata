@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6512",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW7WQR6WqVdcxmCDJk4CX2yFk7jmuKVHAYRxUJfH9Mm4P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

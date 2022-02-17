@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8156",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmecADz6RVC45XY21yMJeoShtXVAgFxHKYFeTVNvs8uksX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

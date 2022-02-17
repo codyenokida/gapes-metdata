@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8037",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNikFQioUtrzw9xVdJ3gFPL2rHp8oAFBteKqUER3NHdZE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

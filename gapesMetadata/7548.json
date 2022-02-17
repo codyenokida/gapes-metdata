@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7548",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQXKcuivcFxJbmxoSFVCRrZ4zTG77Nx15vGnSADvf2Vw3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

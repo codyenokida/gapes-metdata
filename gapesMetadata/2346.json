@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2346",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbKPbL8HqstxgT4wC4QjfWKBn4qV9y84ah1bBMGHd43tK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Four"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

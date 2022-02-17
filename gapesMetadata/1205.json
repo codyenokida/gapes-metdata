@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXcJbmnCYNgi5MzwAXJmpud69Ta8AMhkCwoLtYdzsa5ih",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

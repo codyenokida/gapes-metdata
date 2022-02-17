@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5953",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWb5CJjxp4ncgy2SGR13xgwNMNusjsXBTSPqN2xrGs8Vm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

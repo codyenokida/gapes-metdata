@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6242",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaWWaJYg8NaY7q27PRZQr2K6qNARBADtx8KX2s3eTiRUG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

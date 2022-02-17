@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2545",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcSHY12ySYXpbh7L7jKrH38c6Td91xoB8dSSGJXPBPGjH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1009",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTR8CXx3PUci41QCYaxJQnQBwuHtFySv5Tyvat8jNZhkU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

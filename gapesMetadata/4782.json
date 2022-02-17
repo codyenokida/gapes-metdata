@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4782",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdzSfbWmi4wBfWeNUFHzDXc3q7FJP9QCHL49Rrb86JPAv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

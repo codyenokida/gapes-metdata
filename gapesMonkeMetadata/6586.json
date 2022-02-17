@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6586",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS6ZH65ukBWw8jir3HqsYCVb7sJefLtEynqVYiSM9dmtr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9694",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVZYX5QpxZrz7VDjxj9Rd5szBRyr2qg6Z6z2w7whWsVWS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

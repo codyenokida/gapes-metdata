@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9607",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYefG2sd7wQHh8UHsdzJySGVRApoUb9UhcSva6nJjiCW6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

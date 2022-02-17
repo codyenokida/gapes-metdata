@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5300",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbV9MBQmd96c1cm8JT3eAJutKjPPgsgSioQ8PbQ13nJCC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

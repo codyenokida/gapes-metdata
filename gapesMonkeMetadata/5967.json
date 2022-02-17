@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5967",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeBExEERJTvpWPrvwg6wiJTLPiTxU2h7CS1dZ1NXovUQY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2341",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfUnyggXeW85v3kRrLSthUYqpZQGJTBVWaZ7go9H8bwJz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

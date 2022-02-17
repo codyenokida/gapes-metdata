@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9638",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQXSHnW2CesNzWQQQkcVQZxvhj98NkvVmYhddZjSedjHS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

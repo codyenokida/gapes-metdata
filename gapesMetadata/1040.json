@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1040",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQWddFPgh2ZQ5QBqsH9g359qjbY9UCm4wq2KKegaRFXTk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

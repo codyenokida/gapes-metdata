@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5888",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZqYMPPkbYEiRrJ7CSW5kAETJGMNgGZRNqvvmasenj2k2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

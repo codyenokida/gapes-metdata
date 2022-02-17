@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4748",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYPet7PJ7xNu8ZMRjH5SdCgxeg6rUZf78rkNuY7Noph2K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

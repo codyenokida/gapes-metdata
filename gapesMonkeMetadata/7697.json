@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7697",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc9hWXSpnbSfWx9Ko1hLabt1zUEEijYmFEFU585NUtAzd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

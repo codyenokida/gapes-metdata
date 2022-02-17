@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5926",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY57xtCwbPd7kfZtzASQQtFcA9TzVTTKpYLbJLttYCPcB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

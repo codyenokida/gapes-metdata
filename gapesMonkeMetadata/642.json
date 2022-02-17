@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #642",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPRPiN8gohnXYhuyxzbQoEMX7638SKRXJRoQYRyUyQqMP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

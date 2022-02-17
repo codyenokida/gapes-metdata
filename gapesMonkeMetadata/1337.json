@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1337",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRmnZMPom7WJLDGxN7RysGNrPSLmnTqbFgCsah7tn4hv9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6165",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ8QEZjjHGs8cDCUme9GHvWHkhffqFci6Jcfui1FWJDWs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

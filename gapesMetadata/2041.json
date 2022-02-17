@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2041",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWbjyZCTKfijBhQ74xBy5pdtTpSYmZjsjBa8x1eSxC1b8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

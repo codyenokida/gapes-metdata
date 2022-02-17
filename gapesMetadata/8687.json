@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8687",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfL4ZQo3SUZvGDWWmUrt2AndGG8ork8NErjtT2y8HDHqa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #975",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZDkFhVZTn5yAxQvd12bSNFmLjs5G7qCtMxAhbHfpqGT3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

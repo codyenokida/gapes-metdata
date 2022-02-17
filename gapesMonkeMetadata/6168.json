@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6168",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVpgr93v3jKmgJiaE4pjG4cJTSC3d9XkA6jRx8LnGs2ed",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

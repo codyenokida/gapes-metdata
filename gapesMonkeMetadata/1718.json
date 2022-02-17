@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1718",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmToxKXKm7ZumcTh1mYt7AUJvr1uUrkmn3MhHRD7NjdkGe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

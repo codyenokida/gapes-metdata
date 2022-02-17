@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #776",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaeMDAuD4WpLjKPDBSDBfNbMraYchNLKFxY8nMH99jqSE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

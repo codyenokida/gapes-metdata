@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5568",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8iEv8NocEMEragjvhQx85aAnHbh9V7YUDFMDFgevvBz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

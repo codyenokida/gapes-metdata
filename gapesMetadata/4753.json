@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4753",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWwyrYk5owxQygAS77uERLg6SHa7g6jYdJ5ERfWZ4n6Na",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

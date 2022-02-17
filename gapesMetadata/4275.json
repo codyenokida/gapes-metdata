@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4275",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRQzXWTovD9dRtJpShU11mC76D9veiLkS19M3EttVHinE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

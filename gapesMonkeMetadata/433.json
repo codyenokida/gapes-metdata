@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #433",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb3xiLy4R5p2WYVL7tv3LPqQqe8FCRwjdUQhRJsfLoi1y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

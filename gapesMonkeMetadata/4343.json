@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4343",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY4Pa6obur9XyixTLSuXjN5iAjtVWXTPQwDNLievP7g9m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5684",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcZBqVAda7j55zKBiNcJg1Q9trLr8GJkJuA5Ya8y6LYZf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5055",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWeEzg5WqVPEo13WeuTjNjFiDwGxbGw7cLpMGn7t7h5hJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

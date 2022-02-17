@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4922",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc98sgNKyuyN1XUnoc8qRRm5XF7Trndc6vQL8nAc6yJbX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

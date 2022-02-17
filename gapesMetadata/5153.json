@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5153",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSNdZ3nXcRY4JskV7RJf6MjC5UhHeunbL3w9bXomQqkNP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9621",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd4DK4VmbyACyUWBvdRo4Mw1NTW58MgKXbA5nMFXNadcM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

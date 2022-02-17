@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2816",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSFxnXAbiu673g8AiVFxYcF3AdnJSoLmCoBspfoqp1xR2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

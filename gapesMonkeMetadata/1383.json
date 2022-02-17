@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1383",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZsmWByWDE8w7aThLLDLrSEV8YpjNYshFbwaL4SwZRGQf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

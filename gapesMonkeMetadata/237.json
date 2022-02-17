@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #237",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQDbq4GUshcj5EsvQjAhp1RCXbEV7C7m9ypNe3qcWeFKL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

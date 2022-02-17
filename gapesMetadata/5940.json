@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5940",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSLf4gkNu8i13i8LF7kt2Ay2MrUpXHmLP2je47UBoNyzh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

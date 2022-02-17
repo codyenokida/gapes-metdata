@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8679",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdYehrrsDgP9rc2FUPKQx8vLVRdULqLqHDkn7zKuM1sNy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

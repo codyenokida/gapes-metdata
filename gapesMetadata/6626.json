@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6626",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYzsY7nkzjqQ3CY2KKtQa3MXypgmvTRavHythLhY6n6jq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

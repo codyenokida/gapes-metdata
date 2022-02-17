@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5850",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQrZCbvyRduSAvjeHDXkBzZWakr8bsjsbEuXx23oZm9dp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

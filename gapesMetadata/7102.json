@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7102",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT8AoRnibt8x1uXy6bkmfjP7gAmVSxQ4PxWWxHm4czrsn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5336",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSbd1W1xZT3yZRR8NNKvzj4xo1YSiWCRctAgZovyWfNST",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

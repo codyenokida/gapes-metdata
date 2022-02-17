@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5942",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdAF7MK9rmKRKuxhUoCZuTDhgDuWp4fZW4ui6qRaVbdP8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

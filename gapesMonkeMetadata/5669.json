@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5669",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS1vXE8VUqTHUpXSUNN2Uhmn9ejvwgbv8mLHrnd2f1RBv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

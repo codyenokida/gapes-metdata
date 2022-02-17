@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5058",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZSoov86cPcxe2d4e9tdFmggkLKPibit5JoQbbx5moKcR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

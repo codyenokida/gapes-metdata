@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7298",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbAT5CPyANmuJs5tWMMCRYUUwFESSh8G8v1x6LKHUXqCM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVZQV2aq5yUaV7hJnjbEbcmUd3koJA71d7ogE5Vjuki9d",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

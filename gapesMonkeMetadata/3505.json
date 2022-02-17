@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3505",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbUb2EvC31TZ9q3kEcWFEfuno7Yeccq3ZwRsx8QFpRsKK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

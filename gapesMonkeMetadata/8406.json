@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8406",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmayUyE6ajT6zhqnxRvFK91NEwvR6AVqqsbKqjd2SEkNnb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

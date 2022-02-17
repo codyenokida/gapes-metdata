@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2212",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYk1L9BuSk5pYNQoYrmcxedVPSNa1joMy8tRLsYvGbK6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

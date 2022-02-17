@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #923",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUji5uwGZkmUpysnjLzXH7LyN8KapgTCAZb2dX2NHKeLH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mecha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

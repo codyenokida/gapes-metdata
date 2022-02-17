@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4974",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme6BxusCtzUVASRBZuUyJPHMy3mjHB84CSDCgeU8da1Gf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

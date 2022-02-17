@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2826",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW5dxK5t3rB6seTQW8kPA9seTvT6XTpHbSi6jhKREyp1z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

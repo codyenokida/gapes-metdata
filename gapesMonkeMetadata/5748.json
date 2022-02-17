@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5748",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQXhZFQUycoEc7z86Jt4LEv2WKhswG2H3QcBPNnriumGf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

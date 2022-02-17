@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8347",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbeMzKmZyN565Bt8LqzLKioRXzuxDZG7eTXCFbsrW9PsK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6813",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWaZ3ACAV5NVPYVME3qia5YtkUxV9vh4iJaAp6URRnAi9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

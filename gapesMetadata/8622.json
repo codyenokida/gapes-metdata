@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8622",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd6tTj69grnVcvmjiFee6VwKcuPWZ6rbeCnEVoKX3h9mE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

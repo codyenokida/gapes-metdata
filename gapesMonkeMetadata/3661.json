@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3661",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbU7TJuTizvH3J8RYFjJuBRBcGGGR31eZsy4BfnZQXt1m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

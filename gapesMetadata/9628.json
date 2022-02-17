@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9628",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXnkdV2Z8cdZp3UPGNwhB9wmdvLhgibTrxUkrYEm6SaAt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

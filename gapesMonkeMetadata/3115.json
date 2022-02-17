@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3115",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX9EwpuxZngtAeg7v4EYKXFQrPPyrF58fKJDbcUg8GA1u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

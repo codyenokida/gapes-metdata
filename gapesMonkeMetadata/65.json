@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #65",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcH32XfcoTyVzLLxHhfTE3xehKnffymEdT28nmhFANRAG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

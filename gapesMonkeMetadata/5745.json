@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5745",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTUxmdMyVJsgUPjKZd7HUtSKpYEPuyKaK6vHvf1idkE87",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

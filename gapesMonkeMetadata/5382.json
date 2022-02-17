@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5382",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWATwLQkT5BytdSM8vzgbZk18y68SL6nYGAZeJktTmGiw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

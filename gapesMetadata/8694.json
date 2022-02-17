@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8694",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPepPLtMc3TT7Yy53pgTX2gXn16T7ozXXoxBbM57wUFsq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    }
+  ]
+}

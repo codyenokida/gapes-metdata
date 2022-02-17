@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7215",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaVZozWZttik5ULhX6tU2ANsPfZkygUj3bwJYCpsE8pF2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    }
+  ]
+}

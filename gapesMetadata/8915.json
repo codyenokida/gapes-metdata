@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8915",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNRLe66QosvKiqaKhaYhGtJMfrbd3Fyo31hV6rr2ioQMN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

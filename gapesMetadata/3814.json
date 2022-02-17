@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3814",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYneCVYynaXeBQAMWB2tuN2ptmjoAGdufxAbivvfBR9sG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

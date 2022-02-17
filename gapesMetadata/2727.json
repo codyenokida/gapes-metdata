@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2727",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX9K2gJpHe7fwGJBj4wqFUh4hvqCwLMMxaQTf3qU1ZBWE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

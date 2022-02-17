@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3895",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbyuV91k18MV6DRtVspYAH2LLjrvbhvnoJz5kXtQnkpvL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

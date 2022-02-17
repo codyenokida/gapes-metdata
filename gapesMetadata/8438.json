@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8438",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYtYyxGP3vyE5LjYKvX7M9v3aVY45r96QmtM9vSZCGyXA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

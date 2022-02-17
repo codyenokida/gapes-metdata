@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8518",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNRVky6cCBcf4Qy5zzZFp5J8Gj6DDcPmWu6kHSwj7xsdf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

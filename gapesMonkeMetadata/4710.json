@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4710",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNtc9aqh6bbwVKmnRXnW5PZ26NpAkWp9TT8n6xjDKdbpc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

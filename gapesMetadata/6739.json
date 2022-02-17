@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6739",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8xT42RcjiSsjP9GYs4wdzrksLeeXYjYgu7TbfD7YyD7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

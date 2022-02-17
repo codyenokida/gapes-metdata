@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5125",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmURU3rCrqjPhqm8JHGq342f5kj2U1zRrCSyZA2vuuW1gQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

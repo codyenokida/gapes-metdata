@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7414",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXuB3PB5EtiQBMErKLwE9DdxE48Mdk9oBVVNcdudPHxng",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2737",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd3pCMM1wgeSNyKeBZ5XPFBfwY8WKjpwd8GUQ8zdM4Bmi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

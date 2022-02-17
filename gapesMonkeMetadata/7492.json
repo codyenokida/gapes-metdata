@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7492",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPmbTzCECZpPUYeWHMPxegosR6E3eUEUdxZXs3MLinYE8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

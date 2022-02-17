@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8529",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd2odjxBy37Qr7tzyaqPxmy24hocWGRf6Zfr1RiwWs3u6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

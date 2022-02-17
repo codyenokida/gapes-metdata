@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4488",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR2MB9g6VrZPjuKtosnFfebmQxX2hfYghvMfPio5p5qR2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4809",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYTC8SgkM8XivS2shw9MwWzXWHHpmyaGwh6xBkUD5MPjs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

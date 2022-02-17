@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8567",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWsY7UAf87YX5CrEjwb4zMFtj8QHcP1Ug11Qmyt8rYEFb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

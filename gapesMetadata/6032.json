@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6032",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRuBT74zo59hY8CtdVRvFY4p2un6XDAX8iXyLmwDHUbsL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7332",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmURkM2E3dBZTnvJ8VDCKQKt5hKshmvgW3WVMcAzae33VZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

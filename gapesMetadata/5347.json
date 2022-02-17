@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5347",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf8kGFcsPLSXTB5CKb63AV7hZixDHW2ZowLHCv2UCytQz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

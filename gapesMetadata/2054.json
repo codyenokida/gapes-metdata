@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2054",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ9dioxryadRigUWU4FYvs59CBVZx5T3PNu4YpSagLmEM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5428",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYkEQpbKDRaP4LtSHs47B6k6epmaKCvLWFLApb9Sny63b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4311",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZomwEJLyuGyAQyKyxVdpy3yrutGup1dhSGVR3kcHtF1w",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

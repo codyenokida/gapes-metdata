@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #839",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6R47uXYHG1vHWKAKPLdFrCnZTuhk2ie2zaEJe6iJvM3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #768",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSDgXtbyu5SmDBPKMYPZxy3fWk3drSQ1kxPuKKrhxcRqm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ]
+}

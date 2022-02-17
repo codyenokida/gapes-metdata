@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7377",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUqZec4JpaUAhbghdgr91eB8oXRpYSAeuRqaNaZzX9Qa4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

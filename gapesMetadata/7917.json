@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7917",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdGRGDfDonJn3fUKuggvhyTkjBYC2DzqD8z1R7D673F2H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Tech"
+    }
+  ]
+}

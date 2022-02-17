@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #378",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZhVDANEwmyjJHK8kgfCEoFRJDgYGma6sCKxJ5SPwaumM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

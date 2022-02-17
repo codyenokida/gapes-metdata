@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2791",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfR1tBiM29edivEuz6ca5FRJbdKJwEfZowDtihc2tYHuw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

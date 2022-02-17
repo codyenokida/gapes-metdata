@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3359",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYDpv4fDuXdXtYFTMHyERpjSX4m5iTXgnrGAnHyz5FBkS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

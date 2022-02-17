@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1327",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc3jZPuJrwTzhd4kAow8UL3f2zHshxrVaRnPoVSJ2B22v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

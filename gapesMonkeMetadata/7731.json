@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7731",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVGfEAiRi5wpadaqnrbKbX3nDVmCSe787bkH2ezCdFUco",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

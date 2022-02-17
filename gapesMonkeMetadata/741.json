@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #741",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWYHMdCWT9JKg9NnXyqSM9E5YmdpkURvEf1hVSEd5BZH4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

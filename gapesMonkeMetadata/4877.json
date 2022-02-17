@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4877",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYQMF8b4pScNfZYm7VnBzLuLr6HLcQDc9s3fsv6V634st",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

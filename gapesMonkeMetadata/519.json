@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #519",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWMJJKvf2wBh8V6eQNiiu7RkJHkQq2MfZLyVFdu5Um7Js",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

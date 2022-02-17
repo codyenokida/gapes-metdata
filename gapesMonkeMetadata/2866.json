@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2866",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPsAKLxZDEVwyPXJUQqBrfif1nWwD4ycWbVq3RCKp7mMA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

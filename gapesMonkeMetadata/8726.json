@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTZDy4Mt5GW8VeQkLibffNagFXMw6h9S5mdxpYRwV1Y7h",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

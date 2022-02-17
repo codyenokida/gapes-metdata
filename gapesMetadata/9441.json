@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9441",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb1J75Qeh9wzN9jo8QyPHtu1yBTUMtm8XPfZDkz1cq8X2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

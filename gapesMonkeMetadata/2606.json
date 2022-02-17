@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2606",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaZYKnpzAnXMm7R5BmZ2oZPT55D1sQvJaVrnaQ7PFT43n",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

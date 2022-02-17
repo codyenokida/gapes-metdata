@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6714",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQYxuCzDinE1MN32u9zmt97EGq2y922YW2MFYsdrDGq8T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

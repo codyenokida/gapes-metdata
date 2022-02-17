@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5887",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUZpGHFuzRXzLKgror1UNV9uRUXjz46X4ZVf93hstxCSR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9771",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV4zCF6fneie9xsHeSM7kZmzQ8C63Aup6tq3h9dbiSDZD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    }
+  ]
+}

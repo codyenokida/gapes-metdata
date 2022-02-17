@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3518",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY9dhEFAru5csPbyBzHNNfxrkRyzdxBBDHmhWJxfWts7o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

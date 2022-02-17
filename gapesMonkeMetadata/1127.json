@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWkiE1pZ6ayx6FXJSiPt4cP7oVJAFgvm73jJ3qTAZ8ZkC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

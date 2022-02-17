@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4591",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb2yJ6HANG5F1rwPMaQ1tbQiAoUvTEBJXqfz6iek7txCj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

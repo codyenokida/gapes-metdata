@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7153",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ4fmUmzbSVtZ98ExBt75MtEQaQ9cW1JhcCjSLoMTzR7D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

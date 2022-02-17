@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2984",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVghoJrZqvAjbJDpWrXL8Eo7zekbm1gfXuPCqVBm9nEPc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

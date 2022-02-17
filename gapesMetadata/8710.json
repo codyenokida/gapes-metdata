@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8710",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaNhrr1JnbNR3H7gzTSbpePLZ54McPUFNaMXc5MK7WDPu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

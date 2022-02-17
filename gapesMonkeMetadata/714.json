@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #714",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcfegk32XKgP2vhB4Fr4SWhoLLfkDMzsbfqrruKTZn3jM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

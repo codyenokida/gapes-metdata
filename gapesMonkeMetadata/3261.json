@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3261",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPtemYrg9Y3w6Bs5D5xsXVhLWiQaXF2g5yj9e9cGWTapo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRNCfLrBCe9mJFjBkGmLKoSmSxbPWXrdWtipgxsNNcSUa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

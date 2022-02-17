@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3097",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZymaEpeymD6DmABMJ9YHm6roUAMGtEKpuTEjCuXhE2na",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

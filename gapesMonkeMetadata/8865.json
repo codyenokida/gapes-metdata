@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8865",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSRQjjWsVfx2afGRK7FJrU86VadVXZj8FxFeY3cNcrprW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

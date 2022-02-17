@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #594",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcgeGafGRvRVhsccezfUDS3wbjWTVtHMu9js5zFC1n62y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

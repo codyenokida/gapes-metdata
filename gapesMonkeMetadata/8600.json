@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8600",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRnyMoJdc9n9uqXG9dZxHz9MajfZLP98ANjdH3QHorKxn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

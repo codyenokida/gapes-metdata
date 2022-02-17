@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6722",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZA2Pqm4qXgv8oNzJsVNbnxpfYwkqFEK9xNQ5df8waRnF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

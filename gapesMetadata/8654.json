@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8654",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdXU6o4aDmLGmF1CW2NbX14BrBVHmjWUY9H7b2o6fpw89",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

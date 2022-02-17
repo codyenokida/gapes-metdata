@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #24",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeGcLftzcSpoBZHoW1a46KYBPwP7jahJPHn3xLyKqfHKW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5676",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZDTez8VdMsjPj9RSaSRVgUazHvsVCoXYTQytFmSTkf6A",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

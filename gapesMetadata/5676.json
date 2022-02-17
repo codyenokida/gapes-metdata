@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5676",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPMpxyo7HAvHYVSTgAi15S2iXbniqwtBJnVyQyPdUFH5K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

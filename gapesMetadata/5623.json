@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5623",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPf67bTiKh2BWSvqBqbmAHuwkkYhhFKrmmBpSnQoTSWaz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

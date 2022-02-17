@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #653",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXJMVxoxNPQVi8TX7XhbbmKDfUEkWE2pFeRwFTJ12etuH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

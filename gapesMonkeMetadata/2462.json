@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2462",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbP5PnYQeVhkAujpCSRRafEGECSpE9aC5BM2iHjpYFT9x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

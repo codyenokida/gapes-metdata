@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4370",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbZdneAeMs8jGEbHQX2KHgRum6sedgshxtZxvSFCsURYQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

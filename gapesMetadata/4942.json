@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4942",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmau8czRHKB1mKjDtHnfu6tPw5ari4uMchwapfyNcEkgyb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

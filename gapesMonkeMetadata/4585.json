@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4585",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRgHaQosC2vTrJqh8yNpFfvcDbjjnDftogsUXEW5PR1g7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

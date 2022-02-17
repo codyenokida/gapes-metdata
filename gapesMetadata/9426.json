@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9426",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUAqtGC4kp3jeGRNKYBoSwBWGVhgQpZozhEmmejEk2cQX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

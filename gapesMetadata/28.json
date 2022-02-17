@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #28",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcpbnVKaUi89q5t7Mu8hZwJoMkbhDu8Hz6zs5rPuLAPGp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1422",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSqgyRka78KzeMvG35rHKJTnxByTiCxf69kGZL3Ru9Aqn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

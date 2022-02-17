@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2294",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXjt3RagtBvzNkcTQZRiwdAH4LkqCpjuzw3AJiZKaX14D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

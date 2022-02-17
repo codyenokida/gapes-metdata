@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1467",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcG8ssZ1Ab2WqfetyDZpgpj288VU2UBcyEkVZJ7X4HxRA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

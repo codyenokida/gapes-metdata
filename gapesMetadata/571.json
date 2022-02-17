@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #571",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcB4cusqSCBqhQY2yXjTEudzQUUZkfRuBZwwmBJdZuRx4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5823",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW6JwUMwqFtbfFnXySLejV6jhTweQPbcQK2LPrg9D1BCh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

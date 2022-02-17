@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7212",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXuGrxKNZtwrmnCQL5eUsZD6eEnH1uzfU2Xbss2B6JsvU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

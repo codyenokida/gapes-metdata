@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5521",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWSJJ6NgFPhd8442s3bTw8UVtzu58nCqwtC5DvXUjWXnZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

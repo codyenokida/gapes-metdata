@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8752",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZFXYi6yxCfvxGXkitKwFy1EpsRGAf4e7F8SbohdbCzEV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

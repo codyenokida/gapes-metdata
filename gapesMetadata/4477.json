@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4477",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeUXTCkJJWPZo4jbFYNX3MsWQGBocD24tUfksVkZq2nPF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

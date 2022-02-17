@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8528",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeqBQAqy8WCh1rnxG4L11by1BqDXdAeMPiF5oS4DaaQm9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

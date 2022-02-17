@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #165",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV98noonCEDZueD7vsFZEEEz28ExZb5PT17Cd9yRFqAj4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

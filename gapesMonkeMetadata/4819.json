@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4819",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcJYiNZi2ZAmh9TkuT8ttLWWUA6bzGohRaPH1h1vUen9p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

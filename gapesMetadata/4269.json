@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4269",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaZNCXGG1DF6rYUe24b1KHLxoDhdNA4QnPNRtoghsjA5g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    }
+  ]
+}

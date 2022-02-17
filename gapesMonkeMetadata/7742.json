@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7742",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTJCsQ7XZhFAUENzvTDmLRyJa8nEJ7ZR3fTWF5vZKSRVq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

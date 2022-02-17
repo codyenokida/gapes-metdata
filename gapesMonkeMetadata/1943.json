@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1943",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV1HiPpC3QMpAifQkKwnuc1e7VrTTeQh9hTLFvw2cVDGU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

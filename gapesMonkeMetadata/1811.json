@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1811",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcqJrZaZZ8oESq2spnn4YgEiX2DH42dWFk9macSkL8pLi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

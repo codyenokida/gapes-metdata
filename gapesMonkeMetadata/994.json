@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #994",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdzM7AzvUSAfyvzepVQFQua22mo3PHTdojKCJLAuXhztS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

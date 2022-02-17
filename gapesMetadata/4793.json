@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4793",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPdw4fVsjYpx7oTEcfWRd9vhy8QzuN4o3ht4RQVGWggh4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

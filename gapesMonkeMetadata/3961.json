@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3961",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSxsvkUhBTJnxtg9KZgQ1zgorPAVc9rCdWcCsKtweda9f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

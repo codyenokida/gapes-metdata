@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8745",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVtvVvZHv8v3Do7MgQMfFu7EmFDs91oYojZRaN5eRZ48x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

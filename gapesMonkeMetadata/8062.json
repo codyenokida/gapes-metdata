@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8062",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQBq5cx1cELE86vQRzZJntE4gayJ2PjDHABTWnr8mbTBv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4567",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6mAGEVM8aJaz4tYssph6WJf1B8J92w562QY9HVyQcx7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

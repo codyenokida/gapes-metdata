@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6440",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPJyFkBHZQtxSq5BziZYwGTgGcGLXqyNGoPUynk3VXLSe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

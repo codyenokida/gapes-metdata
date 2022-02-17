@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7318",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVqTRbySQCMRH5Pe3noESvR5zgELhajYgP1MrpNQRsUKJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

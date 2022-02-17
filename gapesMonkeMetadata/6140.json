@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6140",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeAhUA3XWhSEktwA5r44xuCyXKJX9Jy9RZjTfPnKL1Fy3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

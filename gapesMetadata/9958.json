@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9958",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY7DtV1769NYryrbxvLkjHAT1LuRztJf3joWz5AWu6yRH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

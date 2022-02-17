@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSyDwygqsqvCC4UniqT5i3NGV8qRD9Sh24umcEkSByjFd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

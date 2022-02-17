@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9155",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXX9yaFA3w2wnSYoiXhMojv71t7pv6ZhYyev4CBU8Fjet",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4568",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeSL6j1JXnSPq91B7nG2vf7rS4Mu49omgimcsVsb8bmLn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

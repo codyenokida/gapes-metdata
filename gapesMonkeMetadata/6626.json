@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6626",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP8Gm1zzcqT23eTAyuTQ6HjNacxhc1vq7FihPJAohKZA7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

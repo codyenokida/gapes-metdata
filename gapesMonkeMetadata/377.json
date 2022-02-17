@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #377",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUbhcyu7E54FQnRsCaiUTKaU6v1NZfPpXT6N5ZbpQc8GK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

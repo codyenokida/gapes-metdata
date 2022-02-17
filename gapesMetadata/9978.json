@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9978",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcgLLkFU1APHoYP7ote1Krd5BXh51kqF98a7r5xVB2MBX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

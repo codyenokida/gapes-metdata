@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1525",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYYR7GPx2Foesct4N7joG1e9KNGQSqKKavpfLgCxVS2mG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Tech"
+    }
+  ]
+}

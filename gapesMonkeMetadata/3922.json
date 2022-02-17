@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3922",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXuCzrFtyTH2Jh2mUQfKw4bGY5DJsjCFw3okBkj6cQB9s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

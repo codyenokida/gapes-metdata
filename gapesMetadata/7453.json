@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7453",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWLqLqUn2zvrfghAABXKMJyAe1SWbXhEr3D2uXUbzgTrV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

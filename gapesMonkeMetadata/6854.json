@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6854",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV1MujFRk2BRsMS1rX25xgAXAoEXZE9k1dUdy3t7ZDrwc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

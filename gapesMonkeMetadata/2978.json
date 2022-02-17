@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2978",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPxkAowJuiCWzJwhP4XbackehwNRXfWoe8xeC8T2g5igv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

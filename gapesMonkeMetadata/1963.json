@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1963",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcAQD5ZfUd5VSZcp4SNDEhHcThL7tvghYUjuovcXoVgaE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

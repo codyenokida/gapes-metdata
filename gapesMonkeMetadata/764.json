@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #764",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTH51FJq9JgXiFborrLHbMjnmfM1WyNQgTsLQWuMYBSq5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

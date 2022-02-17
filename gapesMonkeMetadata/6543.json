@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZpDy7jZgXHdTNfrAVcYT4BiNwHXSAxNXiN6TL8zz5P12",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

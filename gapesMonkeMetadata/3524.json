@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3524",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQd7cgTSkVceH8j2pN4wXZtT4C6Fi8PYJTVLmSv9vfAUw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

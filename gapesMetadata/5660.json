@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5660",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRmsCYXCAXrzhs8KXBA5HKhEQ95zbPLai5EoWAtZ2DxU9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

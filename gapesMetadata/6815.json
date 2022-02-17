@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6815",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTpqofEBRN5NjbvaYTEXBbypX7E4WWZAnQiMYvZtiZt1U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6020",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVP5zUWnhSyTLuWbTmx8Fz8L86zgfqiB8n136uAkksQhQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

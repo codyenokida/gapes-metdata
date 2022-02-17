@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7952",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYi4WnedTJAQ1ptAmSJmRgZjtpnaBRDrM4cE4pY6UpZ2x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4008",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbtX541ChkJos5rtiwRUr1cZzuk34WE9ht8G8Q4xh35kD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

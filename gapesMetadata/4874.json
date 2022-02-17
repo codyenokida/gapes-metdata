@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4874",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNZZkiAz2Z7ktGFZ4PUfnsLbA9q9pG37s2iaFq94AzQ9C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

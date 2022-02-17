@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVLP5cHpCymJV45gXHtnSd8jGid3Rqh3QmQcqcDDWxEKM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

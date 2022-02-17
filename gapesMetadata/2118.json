@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2118",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeKPyGmoPYcd1WmmdESHKcECZqoXhkQw8GTSn9vEm99ns",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4910",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY3MGh24NC2bSYTaGtrtkmAhmtGJg8gNAewcFUjBh29cp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

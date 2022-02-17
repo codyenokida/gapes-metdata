@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSCH4779BDghqhSuhqV8KQJfQZdzc8PA1zVLSLEo2QY4e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

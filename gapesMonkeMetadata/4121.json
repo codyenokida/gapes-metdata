@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4121",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPSyyyDbk7KBjbRGJi4jwmapD7QcyGpMiYq9eqeWtJzLr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

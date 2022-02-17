@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6227",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUZh9Tbatb7KRA1K8X8rtDMaXLZmECcvCXBr1TPVUukWg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3694",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcxBFjCMZHzgWBAkyjVjTuwDyeg5eM2wyCtFwpjZwgBs9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

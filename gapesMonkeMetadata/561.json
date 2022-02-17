@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQnEtxD4X2f2m3dzS2aRPdjMdc7B4SbZTXkKmd3trrYbn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

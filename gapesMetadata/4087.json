@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4087",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRHxsaw94L6gk5RYJbvtiyRsR7vXy2CstrS5ctZURG5D7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

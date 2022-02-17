@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2924",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQLMHVFQioY9nFzZbT2uMAeVw3jKU84K5NSByQ6pdrg6b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

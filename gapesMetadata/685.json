@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #685",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYwdHXSzoTkBE15rc9VzeuczUCANaisrEaa6SR84dfDus",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

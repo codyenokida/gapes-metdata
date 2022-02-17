@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6314",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaHVP8aqKfVcts74thCYJtRULb5nLGLxEy4Y2CA2Fvc1E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

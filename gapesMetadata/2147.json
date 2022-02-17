@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2147",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma52A38x7U3S9rNY83Vitb6VtoNp1SaVACjQJRqNdXwn2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

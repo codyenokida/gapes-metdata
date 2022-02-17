@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6293",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR2K9kjU4nNzZaw3Q71b2XuK8PgpbnXBGNq8RYsVfMDxr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

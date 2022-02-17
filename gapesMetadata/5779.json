@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5779",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWZovTmHUEWXK4YHJyGr4KzWqXpu6YwQ4GCQ7jLK7AVBT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5467",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXebxCnpERHggvx7yMFXZZiPhaZWD3a4CqWGz9imT5XCk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

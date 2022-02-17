@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3706",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKh6eCEHMjtSNXB1scWjKrphEVtGKQ8RqpMiFDKnBkNf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

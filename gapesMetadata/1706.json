@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1706",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdDGRJQSFTcsUpURcR5ionrLHkfeVXcTinhjBPRetqq1U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

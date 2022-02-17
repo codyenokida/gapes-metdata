@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2344",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY2FVQXER9rnZ1kyNfubP6iRkk8dqhAF1HudzBNkHKdb8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

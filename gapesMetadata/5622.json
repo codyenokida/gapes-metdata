@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5622",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZze6H7ErkB6jTgs1Ui5EYGU7MEX2bLkThNuZ6cU3MdHG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

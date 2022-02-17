@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4968",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTPsh49DVNTEiAwnamagagACbU3jY33H7GwBEopNfQRnD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

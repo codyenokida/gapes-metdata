@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPUPv9YfEiysvdq47tf7ew6u9jZJnL4b1ydc2voJT5HBX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2191",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme8cyWTMjn255KFmkah6aPN3J8Rv9uQovYPf5ydZRpS46",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

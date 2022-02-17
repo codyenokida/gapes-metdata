@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1981",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYcLijVyjcYs1FaqCBMhHxiTwJQdK6RwpxT67FGvG2Y6L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

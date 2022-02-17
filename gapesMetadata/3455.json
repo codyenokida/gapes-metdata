@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3455",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUZpG1Lo2Dh5DDJEDfEzTUwTne5HSdSWZkRjW1cpU5fbu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

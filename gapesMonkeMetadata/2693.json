@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2693",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeaAacqJZBgzbUM9tFQh2aQNeNFqKHND1tqu1UQxpkfGV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

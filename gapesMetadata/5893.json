@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5893",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcjnEHN6fmq4HqPUH3YrsPA1SLuFRnynYfVP6FLd1ASZE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Four"
+    }
+  ]
+}

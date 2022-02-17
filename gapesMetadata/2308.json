@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2308",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZf2DVLuiKEuGrBHqpfZhaQK62chovzQaVDsdZKwJnm3o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

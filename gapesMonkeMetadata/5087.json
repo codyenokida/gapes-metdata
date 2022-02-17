@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5087",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeMBpLfbxWhCR8byudaWBtfbbJW67jh54kdMjMrDE1is4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

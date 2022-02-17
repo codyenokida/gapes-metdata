@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7822",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSHjHKKV1AuFmd8tmgBvebmyVxSJdP6nv1mK6p2YEjLSf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

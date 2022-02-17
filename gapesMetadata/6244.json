@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6244",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVdTFcWUM6QxzoG8V1jAYYhQBMMjg29DevqKd4azRYH7W",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

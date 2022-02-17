@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5854",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXa3694N41BoMTo7FfC8p9djbVLZTGkRYeCMsP9Vf8Lbq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

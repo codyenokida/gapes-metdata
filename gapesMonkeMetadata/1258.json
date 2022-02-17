@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1258",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfBwBhkgXv7XckfMfe2VU551qx5g8pr7RcnCEe6LPENd8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

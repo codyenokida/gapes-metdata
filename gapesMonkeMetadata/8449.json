@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8449",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcvfsTRRt748CNSZP7vNMYdaMrEwZe655aq1AvWh8pNVd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

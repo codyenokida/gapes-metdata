@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #985",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdY5cTec1kmVVbr3rG4wDUbbbSVM5YNvsaZP84SzxmF3F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

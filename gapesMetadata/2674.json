@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2674",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbf6kKVu7CLXveFw6HpMsoWV2MrPjNQpPus6AWYZnenwq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

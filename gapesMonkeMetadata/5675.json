@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5675",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQkrwQSeAekH9u4SPKg649M29SKWhLa8aVzrQsqpxmDwD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

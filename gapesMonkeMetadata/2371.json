@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2371",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYbjLHLvunikUCzQNUkJAQHn4boY4YQ6EbfTMA4VAs4sp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

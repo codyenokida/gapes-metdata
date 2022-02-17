@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6914",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRnkPchbbknBNA3CjmQt4Y71bhHm1Qu5qX8wPovVcACyx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #281",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbomLPAXwjpisJ1pMMPoodqg9JLHT3S9qr5v8EKVreMMp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8128",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNkjM3ha42sjuJNRmHSjYFcwJeb7q46MNCCazzkT1Ej9a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

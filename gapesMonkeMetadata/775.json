@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #775",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZoGVzQv4Q56Dfjmoo4Hs6iZRxk1c6uy1K1mpkmqCyLjF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3385",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSwMdLVA9Sz8GwoEAdXee1i6SYaVApp5QrY4yhHdyGKzy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

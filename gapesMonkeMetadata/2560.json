@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2560",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZWF34TYbRc6j8KSeq9t8e2ScECn3kC3wuFZ2TbGEFs1p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

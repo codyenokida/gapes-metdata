@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9267",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPZDcefJiChWrw3Dg6n2MLMUne6MSs9Xt5AUVjSa4ywQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

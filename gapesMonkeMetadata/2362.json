@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2362",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQeLRZYDoz9QHamTGRsPYMY8YatuCTeNobnMv4eMPW7QT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

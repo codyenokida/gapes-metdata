@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #800",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU9ushMza124C6XGgz5TofaeKr29z554MZTKv8hFwvNjw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

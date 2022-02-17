@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8032",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXsT5MRPQNtXyxj9nN5Xebuf6hUMaW1UYGF8gzhZYmfCB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

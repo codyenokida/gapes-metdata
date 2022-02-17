@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8590",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXNgJdhBBu3AawmHSPZtHxdbbmSLhU7dTd5PTY1pYELGE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

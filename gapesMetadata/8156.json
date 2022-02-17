@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8156",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZk3ehdEZcBPVfCTL6L5xtApV9jXCt3romD5Dr3mionqC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

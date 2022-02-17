@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5400",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWW9p5gpFjeDR5smxqNigYPFZFch87zbtrrZ9UZycXXNt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3686",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcE3dZWyg5aaHUiyCph2C168FBxTf9BgssaPABtaosttc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

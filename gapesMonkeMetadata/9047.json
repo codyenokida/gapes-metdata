@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9047",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWaNuXRLpy54ajpVxE73ZNSgUxtD1ZbW5W9C9KMqDjfAb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

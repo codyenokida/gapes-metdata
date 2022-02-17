@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWUVfGYiXoExyouFGKfydaBLVLKVYVRM7HDWGF1E2XjJJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

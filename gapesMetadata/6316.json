@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6316",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeuwyLzDZjBV32B5q91dtj4ZRYjF8EfewzmTZSLkjSQai",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

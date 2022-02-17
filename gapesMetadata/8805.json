@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8805",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdSj7foeeGMxSnXZ1esU3J9Cbm7SADhEf2Wt2eG4kmwu7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

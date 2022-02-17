@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3113",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUy24YG9rwGz7f4vB74ccexQM4fgWUK71PuJo6LRpuiZn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

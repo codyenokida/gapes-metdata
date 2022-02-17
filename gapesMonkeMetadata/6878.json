@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6878",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdoy45ph1Pwux99c4atNBE361DgTdWCBQdATjmu6YPuZ6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

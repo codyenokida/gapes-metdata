@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3906",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUkspVUAUQVywwHGcAa3TpN5CP6qT9ydEMjfWL9jwQ2as",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

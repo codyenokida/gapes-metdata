@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3263",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcdR9A1Fwkz2hVCycmWa2vjXeVyRawUyUJV8DYLPdJfDm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

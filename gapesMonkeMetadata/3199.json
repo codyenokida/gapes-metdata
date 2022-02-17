@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3199",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRWxdd28quvLYGHsKz7brKT3bWiagYau5EpcT96v2p9gQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

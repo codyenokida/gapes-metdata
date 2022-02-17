@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9477",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf48AvqeM8ZAe453jfTFGJLvX5dD9AubL3iizy1XgvEFh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

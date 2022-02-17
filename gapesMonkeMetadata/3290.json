@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3290",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc5Vb659yDHm5ByR8Kk9UnB9MimD4MwzwLd2MQ45TFeAU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2862",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmejpKDGXunJJ2Jiwf94ya9uS2ZGbVokhzuYZimKiuLQbE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

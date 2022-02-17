@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5783",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRwTE78xfpxUo5Gg3vaUtaX177ppknYmPquHR6SZgwiNr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

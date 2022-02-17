@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6448",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfT8zgg7TQWntRTLNgjSNhuRafVaq2Yh4X6E1RAq4Qm67",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

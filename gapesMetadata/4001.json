@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4001",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKsp8s3pNtXtiDYD5A1L3xPfX9JN4L1bT676aNNU9h57",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

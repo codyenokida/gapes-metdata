@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2914",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTQ5bYZtrHik8iqtNS3H3QKP23q3kRrTQu3HsvFdnDacC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

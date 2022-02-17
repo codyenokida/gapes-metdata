@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1429",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYMCzTgepyyFhgWQ5RoXfuGD1JPGQHwvfmHasyt6QkQMP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

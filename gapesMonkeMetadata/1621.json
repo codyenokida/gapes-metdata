@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1621",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYzXgH6V2VbsvoUdCu8nrViB5xU3RcTmjyCnqy8gD3YaD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

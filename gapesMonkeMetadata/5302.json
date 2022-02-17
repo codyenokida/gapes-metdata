@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5302",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSfYw3mtNaDxqJZXrNAG2Vpeyp3gRFSjARQvjQNLr3b8S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #732",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcAxM5GENNHsKCn4kMpbNhbucVi5qaiSAXd6GEr3zXTiU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

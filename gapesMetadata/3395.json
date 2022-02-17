@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3395",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVCTySRdiYAsdpXxHmBQE6DjiDfsz2kvoCjSQXEJfeZcC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

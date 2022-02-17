@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #200",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSARgfPcVUY27asGfXnS8U6CSmwxWHP24UWeQShcHq55q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

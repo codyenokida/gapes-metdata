@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3066",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZS2DqZPxDu66zGczuDbFreaGzpEoGJuLxQh1y2LvNdVM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

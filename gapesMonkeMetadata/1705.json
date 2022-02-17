@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1705",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWyhiyhQLVpZ9rRLhJHKWLySAamSQ48mmgdXMZ6CHX74j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

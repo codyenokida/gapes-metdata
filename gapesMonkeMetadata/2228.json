@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2228",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc3FrD1ivHZjTTWFqhQec56Pp4BS8NcdLaZJ9w98JXNhp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

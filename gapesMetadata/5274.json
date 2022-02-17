@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5274",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVjSRzmmQPzV9wbHuK3N3sKWWxr9BonqsczGjgegpRWmp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6177",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTdoc8nw5j5f3JjeH7okYZgGgXvco95a9a2qnn7z64fp8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6245",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcdCXeASTLrj8SZzVnGPwm54cruFzc2ECud6zsyVQQPz8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

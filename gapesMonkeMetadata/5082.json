@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5082",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdtjpaKbzRZWz5NMrP6X9yjyA3ZVHBUbSLeSLN5MGJ62T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

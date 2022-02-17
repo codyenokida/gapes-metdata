@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4933",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfVw2CuguUx9aqjzGLPadanBRuHpyJce7BLHEK4tX6tkf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

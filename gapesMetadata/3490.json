@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdfdw6UaUpAYXuGcFtStwPHkBobxx91VjcTiw9gFK1Vpd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

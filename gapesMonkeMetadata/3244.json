@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3244",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma7zQRxzezPL5qZSxDcCzoFTipyPUoWqcysJdaAq1G2GQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7452",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTTqx9W7VwcWzkjJgJeqfXBpq5UDTVesr8ASBwXPzQ9yj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

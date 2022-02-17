@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1309",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU5sanfatecHZcRqQT8BEzFX3dRjgu1zdXWAtmWz8w6in",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

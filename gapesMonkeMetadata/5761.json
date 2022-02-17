@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5761",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQVmUEzQDzV3KGuY4dZC6Dx7xzRPHENVP5MJQ5212r5Xj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5876",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeQZkFo5Ja37bf71J65bQiHB8vr7gRgV1pwm4jW3nM2xR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

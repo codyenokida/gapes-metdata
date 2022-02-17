@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3996",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYY1ETFmDRB67hdV6JGiQyHUxR5dAgU7R2UYUcLAjDySy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8206",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUXGvb1ahpNcyHguEvtQZHrru4JjB1rLcMoUBos5zyn1W",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #320",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNhcBG5MTk2sLMTe4MYyRqL1zLKQhWsyGoSzDLarvwX7D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

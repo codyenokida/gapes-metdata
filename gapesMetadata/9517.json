@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9517",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVgkAVmPipixnA6bRWzMTnteCcxa1ykjzc5QkZU538ZHy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

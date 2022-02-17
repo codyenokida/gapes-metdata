@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5040",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcc2zbV1GBWxfix7Nfo67w2ZbtBvR6nWbFZoo2EtvnAeC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

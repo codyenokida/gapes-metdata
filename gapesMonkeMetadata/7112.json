@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7112",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS5enSMC7MQ3mxgvDpZYHcBWTcWqpDQVV9cueLH9hcAxi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

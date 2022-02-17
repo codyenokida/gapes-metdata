@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3225",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPWiZU4cYD9yyz2drRbeueXr54VjnUQeqt31b6guAdpQ5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

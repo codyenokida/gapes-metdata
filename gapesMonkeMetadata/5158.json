@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5158",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUYF6P9ePqjLAwH6FuSnZ6khkiCdCf2Z74ZxpTyrkVbgj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

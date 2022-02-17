@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3496",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmanFu9K388TXcDoQSorrCUC4jmmnzAvcjB5g5BDgXWDuP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

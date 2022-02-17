@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1997",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZBQQh16ziJPxWdWfp1jRz43EEcqBo1FC2nKj33iVu9xL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #256",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYR8zmdsH9H52F967EqS7aZPZLycjyg2gsdeie7RrFTcc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

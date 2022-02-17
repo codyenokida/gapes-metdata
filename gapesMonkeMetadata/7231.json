@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmchPro5ipXSVKvvAxsTQ75x3A12LbtUmQys3YDVCfx2Ag",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

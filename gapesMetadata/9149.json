@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9149",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNra8mnJq4mB3HHTBJ65YQsb3KrLRffQU3cD3LpWNi9Rm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

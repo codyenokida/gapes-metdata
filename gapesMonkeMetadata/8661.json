@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8661",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPyJk1vZKuYLvhN41iWHKcgDwo7tDYeJfffZpXMfmgYHC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

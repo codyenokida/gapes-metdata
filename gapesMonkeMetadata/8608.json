@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8608",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaknoT3vwdxCuqD5aCDS4rvsHYbGwUMW59Q6pot8RYpqm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

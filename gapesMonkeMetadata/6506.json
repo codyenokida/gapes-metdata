@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6506",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmepAc2crBEQAUy34XLeM88xVZtZrNwo5LHdHmhBuQRtrt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

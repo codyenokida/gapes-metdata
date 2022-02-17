@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4441",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXZQiR1cMrHBH25zToHDFdw4TRUFK1RFresoE699hjEzn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

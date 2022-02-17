@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6670",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcW6BD8VLsPF8xVKh8qTN5qfJVwyokZCyUXLqSg3neShH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

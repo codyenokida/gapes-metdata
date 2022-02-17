@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6864",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdT11NPt2pKiyYZ8ykYZAdsS6ae1ezHJ4fGpS5QM6kYbN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

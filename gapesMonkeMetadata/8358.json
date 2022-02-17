@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8358",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmePCvKcebMo84Tiq9K5grtDz65LhQHGKpY2tFwgHYXKuK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

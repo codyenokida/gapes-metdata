@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3227",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNMRFv6fJ7byo7GHNiiECtG989Kbs9L3X7dJn6tD2hVsy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

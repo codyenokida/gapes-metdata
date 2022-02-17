@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfDvjdsETujgLkzcsgGbfPnB9gD9rq7fLmUeArfmV9zWu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

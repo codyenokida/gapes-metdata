@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8884",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbxYFSBZF3KQ6aYPsdbRzC71RygPEHaHbPEdewccBHHaf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

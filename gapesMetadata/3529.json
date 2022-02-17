@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3529",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfFMe1SG3QrBEXhTjfgcxxkWD3SDzXYb8fhzBMxQhR7H6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    }
+  ]
+}

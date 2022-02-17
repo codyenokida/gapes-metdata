@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1642",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPe11cgkTMt9uhWZ3JmQWG9BPGSi2RFQDMC7xRoKS5qLZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

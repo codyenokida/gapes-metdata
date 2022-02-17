@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4693",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXL4ficcpXA3yxQz8KM2ihREXm81zjk2N9GGBfdNtm2F7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

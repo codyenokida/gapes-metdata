@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7291",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYBLGWAniPbgAf4MqkbZThK8sCcWR4A3j3udZm2urW3wG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

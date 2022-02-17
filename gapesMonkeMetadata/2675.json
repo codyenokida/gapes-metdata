@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2675",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaJD2wUH6j6gJ4yCdFjJni1wnnMuJcjeQMdKbZpUAW1bc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

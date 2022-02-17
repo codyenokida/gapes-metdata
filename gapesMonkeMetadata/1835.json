@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1835",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNQPZkeUiiNtszuY4o6jCjsf6hGwmMY4wbKVEthvStmY3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

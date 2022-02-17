@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #966",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSDRb1j2t3pCSkLwdfbS2JUodwuLDUVECoVHU88KoSDsR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

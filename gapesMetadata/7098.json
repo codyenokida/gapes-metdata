@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7098",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdtGjmpXYvoL3yktyVf7dCqdtN3zPkjjzngwbNPkdA3HJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4303",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQEWD6HNNbMDJuZAnyxowJwwiiahHid3bjV2qGkurex2p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

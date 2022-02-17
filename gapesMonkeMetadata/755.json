@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #755",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUcJLntnoQdvTGK7BcfbmCYSnP7kqod8NS4bCbUGNXvva",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

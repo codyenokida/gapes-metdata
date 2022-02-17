@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9026",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTJ6QQMStwxo8n31Ve8brJ4MKqyDzK8WoRed7c8msRQqT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

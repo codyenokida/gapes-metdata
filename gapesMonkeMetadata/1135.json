@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1135",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdPbzxjZYbNsW46a5o32c2jyR3QDuRAn9obFAN8Z27o61",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

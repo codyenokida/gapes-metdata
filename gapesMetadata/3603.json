@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3603",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPupwBnGFA1cokHC7Xd3cUF6W9kYDEr6hcYNiy97a8zYt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

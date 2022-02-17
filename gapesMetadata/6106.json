@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6106",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRebh1QyMLGhDvDHvd8pQe3ZXweAaDeAr1V66ZAt5sqNV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

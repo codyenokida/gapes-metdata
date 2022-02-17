@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #619",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf65M8ThBxVkEBH3oCh8iwk5yTnppy1pcegfsdxQgqdqp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

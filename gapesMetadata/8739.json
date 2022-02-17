@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8739",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWqxDw8CKMacLXdtPH96YANfaWVMrozip82LwhBgT7wdB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2870",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRQJG6bx1ogCKQjhw3s816Fo7QSWniRiHdVS9RosJpqBD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

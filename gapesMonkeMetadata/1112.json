@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1112",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVnQpjpeEUB8aGZS2ZoKAaH8hdvfYR7baxDM1k3v6nrMy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

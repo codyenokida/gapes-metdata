@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3710",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmacdoyN4J12zV2HsZDBkVCtDafvyNZhfDoTnGiJHsZESi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

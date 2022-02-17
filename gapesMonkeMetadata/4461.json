@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4461",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeVP1qSTtTGUEbSHjCsLp8CifraeXqRx3oFu8W2Qh2ub1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

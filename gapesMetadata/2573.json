@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2573",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaqVWvjJGEx9L6jp6yThJ3JzM5LVaRFpxBpeyPo9RM1RK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

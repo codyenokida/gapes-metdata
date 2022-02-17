@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7297",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTBSKt36KsCpgB7ivYwq1Pkr6eJP7vR8LvMs3EHwAquZ9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

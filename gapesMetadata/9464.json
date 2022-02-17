@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9464",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPijNjCspQz6Ci3orgtTxeSCsnHweWJVE5Hkfxq2XB7uh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

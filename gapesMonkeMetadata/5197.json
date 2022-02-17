@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5197",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPf4qoFEQt2yn2n7dKdw3cNyxJxcP64Nn4PbHwCj3QZcK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

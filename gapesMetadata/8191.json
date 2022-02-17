@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8191",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTt57kLhJWPYKH6TsC2uEu2vq7mtZyJ86XmhL62g7D9d3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

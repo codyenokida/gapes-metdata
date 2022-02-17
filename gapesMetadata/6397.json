@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6397",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWbST57o2avMQpqTfgkpUv3pzi3oEoyo8DzZbUfKxozWF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    }
+  ]
+}

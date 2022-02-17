@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7883",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZBLbD7g9gsvajFeQBRTkt1b6RB6gKDQGsvGY9QdYEeGH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

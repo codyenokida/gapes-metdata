@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7078",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYcpuzg95udd3oZHYDUvmh7gXspxKMvZRx47fkNiAkpc8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1403",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRPMAKjZd8X8itnWbAzzLyfNygC1DbiCSGeF1r1DHd76p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

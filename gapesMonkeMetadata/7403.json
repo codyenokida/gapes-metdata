@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7403",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWNcF9XeWxieX2LmybvzSWRwUfFoJuYde1a7v9FfjbKVu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

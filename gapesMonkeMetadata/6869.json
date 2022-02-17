@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6869",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUuh4gzx2hhzCVR9A3wBEj7f1HEQ5iT5LUGmMNmmDXGFc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

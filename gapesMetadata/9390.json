@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9390",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRNSZgewe5Fwc5wR4VGHwGpZJmSwja8a7k7PmxEUsGfBr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

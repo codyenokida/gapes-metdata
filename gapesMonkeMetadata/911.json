@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #911",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZZYJAowPap7XZsYiVYtYj9Wpj52W8jK853C8tniYYeQP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

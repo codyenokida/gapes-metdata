@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7258",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUFWqnSZSNHpURVgypdfNzJYsxENde9H1QRbjHN4BQmu4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

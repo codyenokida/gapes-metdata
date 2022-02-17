@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3289",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbbKzmw4F4Csn9vP7qmkWjpLccYoQNU2hYj1Kitz5YkE3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6314",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUnWCpK71WRcHUYWR8zeM71WxRJ6yShuG9FvJQpighuDd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

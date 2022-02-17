@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8904",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVhUi7GnTKYcYJJrP6vExNK9LL6CDKpbCGEMWYtebAqio",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

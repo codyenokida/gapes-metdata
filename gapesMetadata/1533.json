@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1533",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUng9rs6A7HxFjgsinQ2eP7amvsTQgqZddxGfoqXMAHdr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

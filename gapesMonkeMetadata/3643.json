@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3643",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUNAJgdRGq9EW5v8VrKuFBWB8B2hqDvXAuUKGaoKTFQN5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

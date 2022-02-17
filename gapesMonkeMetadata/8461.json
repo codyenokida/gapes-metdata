@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8461",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma2Svgq93JtXEoaiSWTRXN9nHAfJok7BGKoyUj3VMPhU9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

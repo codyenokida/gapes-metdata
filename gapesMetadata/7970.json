@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7970",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPRYFy5qnRaWywi8FLWDKiAkN2PPe5c6f6TV6aZvT26yJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8043",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTrQX5D55iSRkvtryLhBfeCHdccfG3ZKmVWbyXe8Pn3jd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

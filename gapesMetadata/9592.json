@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9592",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXFepDsiEp4MPAUpfoNvGrugU7t1wY4pfXfYp1be2HBsV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

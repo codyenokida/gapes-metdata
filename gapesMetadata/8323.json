@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8323",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUJXmtm5PbMq8H9k8fuoczPRimtf4KibbQ9ZkFPrzRVK6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

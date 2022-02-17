@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1727",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRWfHZ3wPe7t4hCtQRzHhcNdKZBsrvcpGsCbrXdm2XtAY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

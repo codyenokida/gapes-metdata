@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1699",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdg3xX4VLiv7cyod9STYfpsfC1u4RzgL3ZCRBEYvhLp53",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

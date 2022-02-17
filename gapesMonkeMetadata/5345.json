@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5345",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWzRGew1veMRwa348osPaSBn5sdyi3br6J2c653UtA8Wz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5795",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTVUE1o67rCViRydeLRLLZ81RifGY9XxBNQ4dQj4GLJbs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

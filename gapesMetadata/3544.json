@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3544",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUGbP8V5wY4T9dCW2M6KNif7fzj76t2dgdewFrCXBwn2T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

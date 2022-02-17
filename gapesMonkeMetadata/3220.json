@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3220",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXPno2C7v9muj9SPhi33EU1hkh8FZrdon2xXjNZHYTs36",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

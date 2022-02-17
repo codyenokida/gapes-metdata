@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5236",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaTTB9GvqUPWhdbWeGtQ9hkp7i8jVtynvC2S3RTJEUved",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

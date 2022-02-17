@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #14",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU58EMHb5f2zHG4r6ZuK5YJWbdu8ZMHHi7MbW5axsQbXN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

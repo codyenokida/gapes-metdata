@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3022",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXk5MxqcDK6tqwTAXnCt8wKVLqs85irpB6PLjUEYqzRiA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

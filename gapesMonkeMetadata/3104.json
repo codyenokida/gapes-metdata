@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3104",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeBmKGxhSf8r46Ahs798yjhEz2iCYL3JNjg5EkQkucbGC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

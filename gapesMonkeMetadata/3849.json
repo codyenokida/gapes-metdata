@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3849",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZGkjgEDnsAj913o1TCoiroG4i9BcKnay818rRAZMqiPR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

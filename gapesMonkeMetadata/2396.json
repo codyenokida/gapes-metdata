@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2396",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSiFULBS6SQzu1q4SfPwiZngnR4rqYuN8pdmwAQ7XpiuJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

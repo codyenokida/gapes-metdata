@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2241",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKZX5Tvv1jdYDXp1vX6NbnKDgNerFuAWHhPc3CEbP4qB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

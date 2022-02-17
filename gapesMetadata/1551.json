@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1551",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbWZ48z1YY9YcNfzy5RsibizW6wWbdSWdYrCK84Vh6kBk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

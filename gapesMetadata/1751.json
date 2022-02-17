@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1751",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeJsURLAzg8ovHVBdzSmCiLE35N3A6SYNe9Dd3URpyq8g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5856",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQiqgTybMibohosLuop6P9zujHqd4xXyAzUntcF3JTA4X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

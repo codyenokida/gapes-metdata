@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXQEZ2DVut6n7SjJr43PvZ3pu7RegaQYTxHrvprmUKFsG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

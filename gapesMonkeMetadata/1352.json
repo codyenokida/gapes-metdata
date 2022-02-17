@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1352",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRymxwbTzvhw95WyHo29vRhN37vsKpvXjBoGhK2hik3aD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8359",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdttAUTrnaLH2JSZ5t6bVjuBapAvqR5YpeLUH96ofw2Yb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

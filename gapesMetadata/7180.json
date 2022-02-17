@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7180",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ2iRowZov5N38wRWsvXQFAx3ewWpwDhvSVaeUtJ4nnFX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

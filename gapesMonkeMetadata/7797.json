@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7797",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeeGPjDkLJGAQ7cEKgDT3Y76oEsvh45zJqguJ8naVEGJf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4418",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQMiCFY7AnMDij58QtPmB24GV2JDcuwHvHifCKBxh2ayd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6656",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPTeWj1BF9o3c42DTzsReoxs9RzVvYe3vXqCJAzMcq3jU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1894",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZLUQf1E1VRFMVbNd4CVBzjdAH19hZ2D9kekufQKY5wfo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4333",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQRuwLxZGS5BHU9YyzAiAXHp6r5hjdRUh3o8CCf3sWyTZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

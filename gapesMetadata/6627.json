@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6627",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd67Q7ViGXVSRhvkeyvaVrmY3gUCoaQRJiXA6ggfGJsSY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

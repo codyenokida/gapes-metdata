@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5033",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQDex3w3smqS5PXipqgJGeUQXTGYwLwg6aHQgei4VUgVg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6190",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVsUNcvGA9X8dkt1rJrFXPNdV5bBauPCCJhYb33PEjJNP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

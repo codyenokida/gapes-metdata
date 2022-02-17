@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7689",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWkvwT3VJH9MGZb3ojfKKrtupTwkvAGYCW6v1SZTaevn3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

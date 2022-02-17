@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2154",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRHMJhpSS6jHtNC3MEYBZRVLCzYLrUS6m78cAB2eqFkBj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

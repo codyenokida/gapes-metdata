@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8129",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbxXBJbFKhGcfthdPG5bNMsSCii9g6zvipw9jX2BkWN1t",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

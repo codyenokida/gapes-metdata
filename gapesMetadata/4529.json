@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4529",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXo2dhGJ83ooqqXdw9du9xb6BC96eVee9wCpZaMHt2mwN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

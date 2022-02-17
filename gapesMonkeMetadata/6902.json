@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6902",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSeFuRet4ErjhcuYULen9vLBkyBcXaBFS86F7j3L1szS7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7443",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb97457BXtymuzAbpGPw6M9RTdXcnmqidJR3X3ah43Ame",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

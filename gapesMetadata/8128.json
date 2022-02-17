@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8128",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXdNPxKNWtshWmT6kkJu46Ddf9ZgSyg3QeQXXwQRU6cDp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #288",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWumod12MXBpc5Mt3zEPbY3X7h3radMBeRuvRQEUy7eE7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

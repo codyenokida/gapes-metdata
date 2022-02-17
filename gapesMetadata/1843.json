@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1843",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUtv9kJ5WPtATv9aKFyCQgM3bGeXU3h8fgtsqJueFqR4i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4618",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVN6M6VWjGdWJD6FPndxYi3QUtWwgxd4cXXP7Tu1P1qGM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

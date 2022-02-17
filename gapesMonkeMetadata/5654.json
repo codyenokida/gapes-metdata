@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5654",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNgwqDAp82uSPXg2otcQyNMwiVjfCNJKqtSMFbmUfn2vx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

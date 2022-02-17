@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5315",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRMfZjbJuA72FqYvKyhoE5qwToea4UhVsWMtRKTeB9ZwR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

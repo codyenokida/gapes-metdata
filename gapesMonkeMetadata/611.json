@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #611",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYxKReKd9TipNP4N1avjdJPCP17fNcasRF1t59V2311Km",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

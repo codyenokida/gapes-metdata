@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #838",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVnXjDsqbT3zF2EZDzxnJVCK8Bbcf141vf42m61U33mKb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7000",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZF3vcYaksLBQgycKGm1S4nPHtB1S5jwqNCMpvU1J73BE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6396",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc9NvQxGDkPY3vKYjpeXEW75qVo2d6jX6jo91UfPth9Wv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

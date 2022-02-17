@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7142",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNvRSV15AvuQy3KCuep3cn2nuySLxEpKc9BcTrUY47L3B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

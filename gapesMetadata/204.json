@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #204",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQnVouapngCDFfjA56Wrpn561vtrr6gvsubihGhK9fk7j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

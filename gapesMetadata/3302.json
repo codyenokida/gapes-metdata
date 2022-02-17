@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3302",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbAkgEJf4B2V7oPXCDw9Q1W5jgKBoxuoeAEwetaJfbg9U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

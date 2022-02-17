@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6494",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbUW1PsyXwY7zjJkzNiWVDkLXEpWAgARPw6AdvQVTd4PA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

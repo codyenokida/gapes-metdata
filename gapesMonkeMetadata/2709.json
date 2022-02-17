@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2709",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXELxSS6Nb1BbUoAB56rB7KMTrRGsngB8yDFdzoDcScNt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3815",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT7WkxYiCKYwadzpToEZNzUUWvZShxL3NTshkAsahtipd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

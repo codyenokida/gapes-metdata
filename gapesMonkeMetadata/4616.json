@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4616",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfQPCFDydkBxUnEqbwvwfsRGeoiGh8N9CWRbMYHPYasQA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

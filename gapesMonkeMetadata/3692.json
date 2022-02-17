@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3692",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSvRZfUUtVKxtvskwuuQeuZ7XifhUMMhxyGLC63K5NNfS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

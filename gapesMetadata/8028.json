@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8028",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUCYmFgL1nnatRRc5BzsP1y9gjgKA7ZmWBNdt8y7ZoBLp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

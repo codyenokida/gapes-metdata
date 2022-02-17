@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2479",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcBo93tY1FvFRqmWfWBYW4zwvFNz9LUD7Wf3ua9EiFgEE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5580",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbc92MtnxKWZxsH5ZHLsUuHK4WFCL1TSb3KyRndq6gFqg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

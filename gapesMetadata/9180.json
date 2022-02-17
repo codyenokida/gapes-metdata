@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9180",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWgrV86qHKNEMTeVgXm5KbJR8RDvxzXR4LgByUH7dppt6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

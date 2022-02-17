@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPHoyggHjoUaZ4rqgTAbPNkPU6gGYyNcEV79AfUGtzxCY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

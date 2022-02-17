@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1672",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNhyaYfa7CHhvnRjM7ZD3Geunm9M6hGrPWijtrqVduNK5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

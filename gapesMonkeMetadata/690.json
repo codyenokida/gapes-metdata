@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #690",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbyjNyKmxPA8vM9riHmBmMmjvHCx6tYbUZu9xMXMEQtKa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #874",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaGQXMEQpboumVyXSJrPn13VEeVtrKAAvyeKE5ydpakGv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6241",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaE615wV6ySnN1xsbqkaF9A1NZMH7mHRxLMJcQX1Zx4cS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

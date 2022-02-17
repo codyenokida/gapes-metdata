@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9296",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZDCvvLK5JezbaSg2VNtGv7gwE3Drcwxxeikc3tYa6iye",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

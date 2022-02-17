@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4596",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme2EZ2jz2kcy1oenm9uFCmEh3sfPN7vkXSBo4pC4S6MbR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

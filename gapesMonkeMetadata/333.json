@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #333",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXggsmzQtsVQRBj2d36HuwHGqoPuM7ACdJzTHxRbyEFqk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

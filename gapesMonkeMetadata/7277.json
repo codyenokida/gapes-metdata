@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7277",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZhioymGBm254NYNB6prJm21nvuX9igELNLRn4zxcRziP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

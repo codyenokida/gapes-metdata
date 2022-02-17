@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8727",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXHLZQYR2nAGh3AZc5MJXF4XqEjNRSRAQFCTNaknfRcao",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

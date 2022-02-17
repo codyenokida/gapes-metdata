@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5532",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRRqitiGaHTzhGorRqLzjkc4QJ62U6D3sq1L3yDZPDtkd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

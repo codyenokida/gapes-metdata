@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3098",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbE1wPft72PXvGPN6C37smxULb1PydWrMpFJcqmShs2di",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

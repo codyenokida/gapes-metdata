@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #659",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRtvPVMvXzQWYN9aMUNPxvgbHtceke2JDQfyKjTKMi14g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

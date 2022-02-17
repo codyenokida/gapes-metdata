@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUyeDbQXpA8FVFh7PoGFCH1KxRAAUow1yZb3aTrvLGnDz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

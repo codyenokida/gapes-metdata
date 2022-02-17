@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8553",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd5hQPGYtjJcVbaCBAdG1amhwQ7U42RSNFU7sEBXPt9VJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

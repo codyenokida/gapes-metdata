@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2181",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR6WZro1kPFoBC2CfN3X9TyQi7c7C2eifeKytqZd2Abwg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

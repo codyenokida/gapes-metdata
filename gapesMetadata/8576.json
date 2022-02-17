@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8576",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYYdhhfjKNJEmwZYBFf2DMmopNdBZ6it6tFvi44czMmtv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

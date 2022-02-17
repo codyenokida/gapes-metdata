@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #968",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS4qMv2NBcqSx7RgfgtC22viAq7BSeU3W87mfTEAkpzDH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #240",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX9FgMHhk7e5fu7WbRdwMFFxa719cwkdj7zsw8PLL1ayc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

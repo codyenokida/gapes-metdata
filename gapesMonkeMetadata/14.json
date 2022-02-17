@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #14",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQDrmr2d4He18dpsPz2fiV9YrVhfMqvakh2m5BJx1dkGN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

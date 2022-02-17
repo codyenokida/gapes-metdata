@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmctzr1YXxXZcwNG6HyU3hQhMjYideaRDGVQXKsj4cQtRP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

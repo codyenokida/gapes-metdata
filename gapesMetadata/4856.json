@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4856",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPdUGYKoZUk7PgmsNHEcyLtDzdwCFCUEQynrs6duLgSgY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

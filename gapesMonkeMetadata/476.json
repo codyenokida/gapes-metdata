@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #476",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWL1MrCTnAu5vpGP6o7mpr4htDYrcXGbB4iBUdXhm3mmh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

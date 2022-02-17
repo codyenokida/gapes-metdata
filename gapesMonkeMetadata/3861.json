@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3861",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdHwnFbachUGZbwcsJ8YVTQuvx1WJweYnKywyaGcY1B98",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

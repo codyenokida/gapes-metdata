@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3362",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTk1Ws6ZEDfZ6T9escsfhXC3jD4QNqZ2c6NpRNVtXnfgU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

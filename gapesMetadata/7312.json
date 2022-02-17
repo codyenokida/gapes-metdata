@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7312",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXMGsy5c4ZvzyWZgMLRfpraFMG3WNLWT2FsHot9E6dUWJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

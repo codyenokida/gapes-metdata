@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7688",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ8ZTGkij4gucUV3rddk6F6ajMBL2VtFUuWsDKmBq2agT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2705",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaFGid9KnRjy9fFFeKtT69k85WXeCQHCdwXEzmtVeE5RL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

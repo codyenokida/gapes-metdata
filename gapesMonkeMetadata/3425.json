@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3425",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZTc7zbJ3zR6HpAvxb1giV3GuM2eF2DVDsLu7pYQV72cd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

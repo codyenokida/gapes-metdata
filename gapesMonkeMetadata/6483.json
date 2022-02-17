@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6483",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZz5m7FykokGn6ANYfyn3C898bqhD61sSDuBxErZga93Q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

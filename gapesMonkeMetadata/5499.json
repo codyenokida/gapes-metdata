@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5499",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXtYpMfpLZdCcMx8y5mfqorgSkhCmAwxDW3rHMzL9Acyw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

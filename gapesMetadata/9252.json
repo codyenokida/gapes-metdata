@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9252",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYngf21SJ5QNYrgiCPtougLVac2Bmxdth6U8L2hR21BUv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

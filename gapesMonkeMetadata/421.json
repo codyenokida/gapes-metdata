@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWF33ofiUomRM4JDGZEtnYbnaTjLQKiDAF2sCngVXrPHw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

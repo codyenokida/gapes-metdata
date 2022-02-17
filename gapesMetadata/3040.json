@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3040",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWeS1JRBiEWyAWU8J4dYvMEi3Jb2fnF6pKwfQwuPUqfPC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    }
+  ]
+}

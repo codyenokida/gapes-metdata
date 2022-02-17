@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6622",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRPqKWEsh4y83Cfwey2q3YxkEGy7kDGa8jF5APo5sc5DA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

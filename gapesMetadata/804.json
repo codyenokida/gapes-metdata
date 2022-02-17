@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #804",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPkVDeDHypd4fxYj6QEkcHMszuhK3haV7EJ7JKxk2tQwA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4069",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmecU4QBuB5y4RAudwH23iuq7dFQdG7gdvWz3ba6QYBX9p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

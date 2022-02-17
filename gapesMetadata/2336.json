@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2336",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSBHNFe1CSonvJYFpVRNXk6Tj2Jjh4vimvo41Hps4Q9i7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

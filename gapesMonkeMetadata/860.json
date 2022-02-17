@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #860",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTVtmp8253u8CSXZWBr9inELvQzuyPBQWydDPsCGjo2nb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

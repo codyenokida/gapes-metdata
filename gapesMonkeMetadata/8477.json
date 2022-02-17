@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8477",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUnRtr9ZVMK7cnQwJQynp48efBU7iSD4QevK8yVYfhk4k",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

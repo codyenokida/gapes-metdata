@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5891",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmauPVnirkNo71JzYAqoQGq3d9AkzHma9pw7yCRprx9SS9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

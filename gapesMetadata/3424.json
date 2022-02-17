@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcR8wQR9w2c2VtqxaLcmr3qVLYi6DWmkmzs2fAjCidNyr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

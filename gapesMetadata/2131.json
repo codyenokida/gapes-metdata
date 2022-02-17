@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2131",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbxX6pq6brSsSgh2YNDY58msPF74vNpWKmf2bHxqfnFSs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

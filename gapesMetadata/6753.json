@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6753",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeQ5Xk2A7SgbJSfJgvvXpj8n5xTypQa9rrymmWi9VD9Yr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

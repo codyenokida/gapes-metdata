@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6804",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbNR3DJWbdsUViag3biaHgR7fueA2RBR527Nq38UrJEDn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

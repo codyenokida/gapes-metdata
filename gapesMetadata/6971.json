@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6971",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWQMdhNF2YgQtZE7NGggKofd43ms1mFJ7vQ93M7NYBn9D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

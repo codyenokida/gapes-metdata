@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2971",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXWWfAecYssFNaPhA2dS6XqXgAVrA37jpWDPXbUydCT7K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mecha"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #279",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf8aT4Qoew71Bb8Rf4Q2toCZf5WB8S3XgdyPdouz4UMeN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

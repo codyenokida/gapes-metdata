@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1458",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPvLdr63f7vNMA8tuKX7ZuepDSYARrK7ctEDz7R1CsDZM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

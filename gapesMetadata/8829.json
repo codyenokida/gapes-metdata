@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8829",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdB9a6yQAyfsJ3RNZ6Hg3kAF7HqX4QQ2H6toZJakTGoZX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4576",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT6eKE5xrDQUqTxpR5w3UqWfjkSbWafHqXekTZ58sWApA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

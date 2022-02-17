@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8124",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSrbXWyUWrv6sGs4f2k8mRTWbmK6tq8j8iPkjcqAmQttv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

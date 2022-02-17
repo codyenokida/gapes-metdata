@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9678",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbAvPdjys7JhGWmGqS6v9tEeaVPf56euGfaaN6LpikFP4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

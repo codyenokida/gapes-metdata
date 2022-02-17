@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4094",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPaw1K9wtAkjbMGDrh8kDkz2h5jFz4AWnaZJXBFjzXBiv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #464",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSY9eDENhYFNUyRzvg7PMpJLzr3npurz26TyeewoTggLt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

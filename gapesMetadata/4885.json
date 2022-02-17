@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4885",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVUAGMmBStQyKsszA1FmGSFuMZrYMgs3srQvNTsq9V65",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2854",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYmsGatC6q86ksjWRDaKugPa1qmZXZBHSmEeUZvcrH9UR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

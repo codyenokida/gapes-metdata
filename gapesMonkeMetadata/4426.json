@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4426",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWshgmJgiSDaJmC95VtdFB9rmdXN5PC8a3DZSdEZAeFM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

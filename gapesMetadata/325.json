@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #325",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYykx8d7VEUB9eNVixbdRdiKv5EZNc9KFjPeYMx8evW3v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

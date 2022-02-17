@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3467",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUWSX9pBi3vpX9UkE9Pz3iNzWqDpam6Y8CcN1CW2WNQNp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

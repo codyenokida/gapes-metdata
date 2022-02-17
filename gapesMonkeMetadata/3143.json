@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcZsbfxUDyCiYjsukoTLdyJsAxHhuk8R3wnhn8nc4x7gN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7133",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmegaw5GvXH17RpGWxmCHEzoey734UajfMJpXbAGAUs4Ww",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

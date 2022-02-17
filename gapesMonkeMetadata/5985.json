@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5985",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZA5QgrQQiyz3TkwSjVAXbeZzyfW6TvdF8PtTjnK8HUPC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

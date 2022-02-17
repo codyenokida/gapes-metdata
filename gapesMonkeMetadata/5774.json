@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5774",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRgm9QptoRg3qevLe2EbsMgyN5EytGBgtsUgNTdUohojG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

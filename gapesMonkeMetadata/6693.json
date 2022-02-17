@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6693",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP35HekaXMZDNycD6aFdoHpLSXQ7QCJUPkWRNviCH7VsG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

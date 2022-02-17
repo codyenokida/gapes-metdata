@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3027",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZW7vdeVDGsJSTyMqL4GYRx8vzUe2RkBGqvJaRuM6PSbz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #729",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYxBStwRFYEJwyH9rkDdRLvXp4NfzMsdyG99qhSDgDPHq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cybernetics"
+    }
+  ]
+}

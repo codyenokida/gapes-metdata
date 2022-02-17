@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4885",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYs2kHdtmAE6VuKFjAXCsGaK3Ve4jtyWy5Bno1mnRbsCA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

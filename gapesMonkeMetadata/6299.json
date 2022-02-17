@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6299",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU8Ay4DP8d1DhPLpDnZodxCLPQnEz1RahqJbph6vKCiVr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

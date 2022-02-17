@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ7zKKcWrYnCDRWSp7HwqJqUnREfnQQ3kn48pxijnhHcS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

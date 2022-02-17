@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5102",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWHSrQSQpGfp9kkKW8Xo5CCg4bz3tTpsh1XoUchLnzMoi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

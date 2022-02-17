@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8501",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVD737yCF591FS8g6r1R9iCngGM1FsKVzFULxVAsrFf7z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

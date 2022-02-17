@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6691",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdng3745NaHkprMVemf3LYtRKy4eS4KRzhDoH8X71Zbcw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

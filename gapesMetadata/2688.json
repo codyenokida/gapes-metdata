@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2688",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRKsMeiZa1ggSm16q6MBFvmD77ZSApQgz4CXWrtz8T1ht",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

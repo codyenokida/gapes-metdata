@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7339",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUpYh2AWG7TbLpA2gQAxhQ8C4mdNhbVcy3tp2CXrtpxMQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

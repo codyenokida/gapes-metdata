@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4029",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSgTo2miuE2s5Ea4LceppmSberYRqjy77Cq9A46ZbTfM4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

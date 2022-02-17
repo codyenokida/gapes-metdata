@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8811",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdEECRgL9PAtcvy6y8sYswpzxYHVeUzPCxiQeKqKaG2z6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

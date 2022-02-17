@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6835",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXFoEEysHZUYEzKfeoGXQ5dNvqiM3Lo3QS4rLCDLLjc8R",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4811",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVaduiXY2wFDSSjzadqJK7U93FsiBwEMPeU3SMeRGamPj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

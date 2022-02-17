@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8683",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYtspfgYmsSskBC61khVNFHSahWmyrcDjtEF3hzkoRQs4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

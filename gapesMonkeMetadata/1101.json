@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1101",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXzuEE1FbBFPckYUJbhK2aXWNqV7VsADhAxUURrFCjCgq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

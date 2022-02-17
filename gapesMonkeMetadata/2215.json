@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2215",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXKoC7dnb8Juk1jtFaTSGyyYZF8iBwvRvF2wNHEsorqfe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

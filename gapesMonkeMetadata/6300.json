@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6300",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS5BzUZCp85CtLQ34oCDbf7TyYjmJCTCn84jUrBUs1zaZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

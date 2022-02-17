@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1613",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeuZ8KY1WXpB5qg1Bk3F8n252yKyDXBwWFLUJKc8RFBvf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

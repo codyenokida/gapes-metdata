@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5525",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPqNPxBid8gxYqkLSU469NadgUbJhmYJ41hmdhnA3Ybwa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

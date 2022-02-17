@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5610",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcSURodJP619LKbE4PFM24xdnk1bgmC6watLCLohvNBrt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

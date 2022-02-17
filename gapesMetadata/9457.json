@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9457",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP5W8cgKyM7Mz75BuyZXZ4vjPmc9TaA6KANZepAKEcswu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

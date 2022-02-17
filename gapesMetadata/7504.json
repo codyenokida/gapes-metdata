@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7504",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaX6oe9VcDi9uD3iJwbCr9cW3pRruFDh6KG2iycdLKbHG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    }
+  ]
+}

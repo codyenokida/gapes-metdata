@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3648",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZr2uNjssVVLqSL92M99BaaaphriHfis5bMsBhpszVMGD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #350",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW981uoZgJ9YoG85JJYBqVrFRj5xcChoN2PQ8PMteM8bb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

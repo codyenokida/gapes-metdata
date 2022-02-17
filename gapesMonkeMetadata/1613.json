@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1613",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTGi6oKBYuh2X19H2SBwdGgnaPdQfiJPU8TtW3h37ouZP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

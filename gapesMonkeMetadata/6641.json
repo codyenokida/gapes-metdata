@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6641",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR15uwWPCBeg4QKE2hpWxjc4dPXtrV77k8ur9WbJFmNG6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

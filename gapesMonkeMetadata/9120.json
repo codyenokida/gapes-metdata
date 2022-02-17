@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #9120",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUvNDSFazJhjQ96gKYZzVGAy5Z1CNpyBrEvB8XE19Ra3r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

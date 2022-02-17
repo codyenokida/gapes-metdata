@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7078",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRRxn6U2Y2GezQSqurVusT87sVD2CS4ivsxw1pkGZaHyv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

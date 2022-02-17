@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbAcSit3fDxfH654jsygsUPG1k6Ym6HgxKLtMoY4TnErU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    }
+  ]
+}

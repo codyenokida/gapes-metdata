@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9328",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5Af99beojEZziV5j51vsqKWXQBNVTT5csZZMF8Bhprc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5576",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY7JPQasQagZBYa9Y5gKmRJ32jNo7T7BCAsvY8nEgTAAf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

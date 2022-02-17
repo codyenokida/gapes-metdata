@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9108",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVgWSk4aALCxkZDNWbPTyMWYyXhy7X4C9sv3gQsDLDKX1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

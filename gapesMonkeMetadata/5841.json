@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5841",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNSKyGkgK8VXnU5JMNiB1t2zQPMLEsgJkwg4ziGzPG6eW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

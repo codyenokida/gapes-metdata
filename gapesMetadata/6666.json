@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6666",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXYer6vu5qARHC7UNwZe6Gq4gQLUmiqeKsRQXFWg8RmjR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

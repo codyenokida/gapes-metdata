@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9526",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY5QBtpg9pCCS8NEMEFP2Tm2E8M4gN9TdRNgadV9ypMgf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

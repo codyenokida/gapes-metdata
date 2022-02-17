@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2639",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXPAmpkmZQBSS3n5dCeDcEhR1bCUwjNTmPCuT6KdjsrAr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

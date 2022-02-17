@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4187",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTNsf8sz3Yh9UbRsQ4YcUKjrKmZYKkCGy5FNiu7aS616U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

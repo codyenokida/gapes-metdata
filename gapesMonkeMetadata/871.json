@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #871",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfMraVGnkqrK52PASjcPPwaeoxQ51qq3KfAEDKasZV9fT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #154",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNhAXAV8gfWuMaY3kttMuKEXjMmxfo6YqSVHydERt3RwW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

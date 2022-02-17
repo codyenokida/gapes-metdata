@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7149",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbb7aojdJZo7PDC3oAYAkBfq5JsVYgQxSTNG4vLiLVyKN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

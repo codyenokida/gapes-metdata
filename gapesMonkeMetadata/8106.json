@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8106",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRX6sRCLVmRea3UPzQJ1vKyLog8yiRgHndhKKfYtMNJCe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

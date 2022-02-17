@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3773",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZUZPj6bftFiJ7QSr355fSmpeX4jq7d8BA6NdoB4r5ahc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

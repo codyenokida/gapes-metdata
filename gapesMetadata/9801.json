@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9801",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQdX7A1KEfQoNVu3WTdDT4fLqUzRYPjrZHnAicrtfKs7a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

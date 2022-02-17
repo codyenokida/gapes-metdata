@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8775",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ4PNjabDwKeWN1d2QTr62esoqiD83BJ4c1ac2br8fzhN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

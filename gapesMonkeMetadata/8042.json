@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8042",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmasNUvUPiEEZF3AwVYFJJCpXg7mTG6LefCd5ewq5c37ia",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

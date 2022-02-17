@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #418",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX4nMNZbVUEp5UeWaFb9TybzdyNE58mYrCoFTf6b8xuC6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

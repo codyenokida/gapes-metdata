@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #258",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT8b2mhTi8EmwD2oFPssiX3MEY2wzid97r2Wm8rt2EgTx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

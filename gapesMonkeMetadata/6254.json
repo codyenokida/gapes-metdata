@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6254",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeHSkc3gDcBATsz6NkKwwyKwoHLDf6ZEujpXBrSxNfqVT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

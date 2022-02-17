@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5633",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb55gNXCi4S3sgDqQ6rvoi9tgXgFSFg14Rt4dLQy8sewa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

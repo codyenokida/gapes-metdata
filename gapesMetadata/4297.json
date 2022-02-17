@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4297",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQG2Z3zuQW9HNvDvy7wAKca54utkcv9QwNptpABy8o1EN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    }
+  ]
+}

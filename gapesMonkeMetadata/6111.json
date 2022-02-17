@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6111",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQNG1WefN5RaU1FKQphCS1cRPLzjYBEVxgTZqYuvBt9Ao",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #144",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeqWMgRCdRueMunZGhRYww7dMnL8X9uy7Zvy7qJtqsX8S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9647",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJ8DUNKq8sUzKr7Q8JCA9LJEWX3T5GTPLth72QRgfSz5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    }
+  ]
+}

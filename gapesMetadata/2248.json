@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2248",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbuxh4ADCpJhv5RLADdTUVJX9zpPvT6hbZVkVuiVWGMve",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5427",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVBKFkScwtzujKJvSWVcE9MCGFvgnvzzjZDus2hfMs1L4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

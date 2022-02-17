@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7548",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNg7nPWoMUXg5H1DavXYVu8Q64gApyTFkFyf4og5LsWoC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

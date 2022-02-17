@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5100",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPag4tPLH9pPE3qRpUbux5VG6RThBWBtLq1GGVaC3qBda",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

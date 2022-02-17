@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7159",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWHV8GrRUWUWCQznHW8ho8ji38cN2s4sAMDPS9YmZAXCt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

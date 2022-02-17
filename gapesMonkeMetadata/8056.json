@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8056",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRQd1X27HaX5pSzg7SJmSUpaAtaYBfttKLHrnwQvXL2eM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7936",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc4RPFPMvtbio3Ao55cRsCUp2QAaeLFyMGj61D76vtBxc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

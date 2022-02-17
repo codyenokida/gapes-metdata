@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4326",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcezXWtTaeb6wP5whM9eP3T2HWP4Hkqjsr69VNXPzBfEm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

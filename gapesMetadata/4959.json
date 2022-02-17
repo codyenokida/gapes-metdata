@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4959",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmar6UGzrU1BbFWR3B8X7BqXMPFu5wy8y87hCJm4YycYxA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

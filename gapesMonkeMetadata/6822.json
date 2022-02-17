@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6822",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcxiK31yAaWJxPgkVJuDYNvUk7QhKcyFohopoHdafw3jc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

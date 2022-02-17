@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5317",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVbzRskW4BcqnSKS4RNyPkxC6jMFfuVtXe1R3QibG2KQR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

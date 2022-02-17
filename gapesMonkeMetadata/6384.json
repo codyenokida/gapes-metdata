@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6384",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTR7cbukcE6FgxnuWjHa9qvWV5G42mMNkPuvgt5VjoVTV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

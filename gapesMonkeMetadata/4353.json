@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4353",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYNmvYGiBQKJCozK6TFBFKnjGeV8LV682f17ZJxLh9WuK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

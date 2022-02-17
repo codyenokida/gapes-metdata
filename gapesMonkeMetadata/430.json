@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #430",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSHFzxBc9n3ZED9J2gmAMX9LEkTSh5xGFsPAYXk9BEU5r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

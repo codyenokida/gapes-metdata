@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7085",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWiF29mEcGdXCZsJZMPeGaUF1AuTfWEvnAxVcSNDVw7V2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

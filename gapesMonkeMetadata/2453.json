@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2453",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfBCcncPeXwVAKrGZwSpXBmvXy1RJy84WTzEgX8QZKqNU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

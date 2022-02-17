@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9361",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZuGxASpjWbFdiZ7VxGpLwsSbnCXRZwT5e4tZ25C236xp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

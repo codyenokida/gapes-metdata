@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8334",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdmnH7qavVYkGPctSzcSM2TjFXzSYSxR1Lh1GizuyGnw3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

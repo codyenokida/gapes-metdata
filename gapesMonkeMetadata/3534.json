@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3534",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUJb22j2WPPZc9X42qikoHZ4v7pyfh9KPBhJdBJPma2Xm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

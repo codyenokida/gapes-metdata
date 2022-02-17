@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmccdmq6MKtYARB2WiEnny9HT9VAQYvRLS5Su3qQRxTcQG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

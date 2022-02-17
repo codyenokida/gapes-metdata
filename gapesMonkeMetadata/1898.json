@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1898",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV6xrbSyysCZ44xAne4Wua2haLjJMgXEefbj7VT5BHnX2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

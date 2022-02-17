@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1674",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ46pmEhUWXQmKVsubvJvKD2Kz96sGDPSCh1aZxYv38h2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

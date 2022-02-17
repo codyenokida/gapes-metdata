@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4997",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaynTNMsa8GTRH5yhAuw9Cz4yKxRuw7rFUtsS8oppMPjG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

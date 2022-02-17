@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2983",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXJnqE1j9dsyqbHghxp4KWekHg2X3WDVQCNEsRfVc6KSe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

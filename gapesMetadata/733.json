@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #733",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPvicch2xjyLvwutXQ2uybEGCQmaRR3f7961b3vgX8taj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6580",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTLgeDQxndT2tkYBtU9f2Lc1qyUpo6VEYka4eAcuhb7Hn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

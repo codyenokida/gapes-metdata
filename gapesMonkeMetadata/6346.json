@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6346",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPzhEWgrizZ4ViXnEmc9mGCw7Xqvov6ARv374LZWy1etW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

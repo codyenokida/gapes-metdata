@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaNgydrD95asCSQr4QiDruPZt22BJxXNPtpDRgczxBCe8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

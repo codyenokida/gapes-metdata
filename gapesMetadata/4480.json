@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4480",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ6amY1TUyDjAVXwAYc9wXqYEHNX1m6KF59VXenZtZLeX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

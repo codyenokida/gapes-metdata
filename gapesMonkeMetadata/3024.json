@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3024",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUkAjLi9QXeyHDJAd56oCZV2pfui5RHu3gvS8AR7X5rcN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

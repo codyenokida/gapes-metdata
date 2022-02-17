@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4776",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeXNA8uh45WuYsDabZn53MNDFC2FeQfUiuiWDCCphmWpx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

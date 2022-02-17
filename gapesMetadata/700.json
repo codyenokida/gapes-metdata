@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUV1zTS6FcziDQ61aTof85wRHRzXK5dUk9qfChDafa6Qg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Four"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

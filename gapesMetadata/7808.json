@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7808",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQAMZc1amPucLogC1nsG67LQHBsfnv7FfG5nLPsEyJYJg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

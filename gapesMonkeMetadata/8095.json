@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8095",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSnCbMYjDvkeREKt4rtkyX1WuciCX9KytAaeGZrwKFL44",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6286",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYjxAfFWuHmTk9UK5Wh6q4TUyjjX8GzDCa2AxhJbhCyif",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

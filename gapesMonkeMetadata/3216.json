@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3216",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXv3X6N97tLZze6usuX8ubNs6uCa8UwpKUacoMUxfZVZQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

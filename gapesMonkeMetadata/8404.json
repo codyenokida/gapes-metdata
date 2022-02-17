@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8404",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXQi4vizDx2TQexb5oMgPVDSk6xpwBS3HLxkbLXwuQLKi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

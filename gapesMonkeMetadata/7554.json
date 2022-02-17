@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7554",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfU4v9xqwkjMqMNvN2ocHtMxp8Wi1aeZ4TwsvkaDM9BMt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

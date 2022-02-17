@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8667",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZHCZc6xthq7fAbgxyCyk4PMp6kawXyJjXVeg5n5Cc1jq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

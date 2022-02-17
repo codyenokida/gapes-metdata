@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #89",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR9EFG1Dous3fDd9LCLFdwD3S51YNQuynS6Ds19ECk4xu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcQ7x4K9WVdmZw7LPwM1aoQgoq6DGpD7on4r89mDhZwHf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

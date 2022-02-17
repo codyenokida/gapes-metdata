@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9615",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSg8TQfHvC1Y9WtmppLMZJehe21jcPRjrwLMsaax8hEUG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

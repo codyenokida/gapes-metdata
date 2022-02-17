@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8592",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYvqVxg2aHFY1ME4Nd8L7FsHEorJxPSKY89wnqhbNUdMw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

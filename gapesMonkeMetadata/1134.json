@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1134",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd9toB42p3tjQdk8S6GcoE2LPrf1GLzjDT38BUJzjzWKp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

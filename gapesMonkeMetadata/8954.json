@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8954",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUjLHHxov7Ur37hLWpa6svpD8No7y3u6iV71iUCRnMsZ5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9401",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmczRVDj6KaWkFPPeZc8fVKi73ob4wwoNWyb1VnE3LruzP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

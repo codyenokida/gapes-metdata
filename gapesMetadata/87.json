@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #87",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPBhGG85Ykd9nepmqybvJx2uygiHhtkuYznZjZYXtZEJr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

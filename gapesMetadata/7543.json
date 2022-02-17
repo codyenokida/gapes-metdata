@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXe3fGQYEty7TnGwd35ujzH3bJ7WXp8DMkcXYeLaPqtAz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

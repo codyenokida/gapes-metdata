@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8454",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWeyNJ89c8eeDwJ4JhhqpJo3xtk97LKrHRrt6U23E8uBS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

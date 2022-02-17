@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7022",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcaHS8xurtya25UCwNWgT1YAzKZPxNGbz3Nunkd6QqGni",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

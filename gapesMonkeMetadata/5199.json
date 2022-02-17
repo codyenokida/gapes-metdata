@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5199",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWmL21Jd4dT4uQ8jrHAKXg1RLnAt7SaCnw6UWfUJz8jau",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3246",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZtEHip6oX3qJpySRsKqNXDGkuHR3zfaQPecKYtH4VdXX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9065",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZvZEv1WC4Z9Amw2DPeM62Yz7UPhvZ1kmAixx83voyzoJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

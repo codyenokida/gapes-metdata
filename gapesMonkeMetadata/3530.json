@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3530",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdaV1bRnzGWNWSxrsDXTnLdtZrTCfRgJsGZo9z8jUWAT8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

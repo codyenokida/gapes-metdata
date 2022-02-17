@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4164",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZjJ74QWd8J9hzeWqLQMcrekrftvR6XkKUhT8vh9PkgBW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

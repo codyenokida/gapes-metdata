@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5616",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUSceJQKdgTJAUisg2WdZ3TjNq9uA1ygqUeoDsBPAXkMf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

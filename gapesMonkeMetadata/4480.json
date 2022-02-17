@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4480",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdyXXq3FUMeuq7zU2cQWoQ7hAyYNMtB8iNXRKLMRawyeY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

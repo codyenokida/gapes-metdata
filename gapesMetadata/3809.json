@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3809",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRmkNynuwrNLS8ZBeYJbyb7JpsbDSFGe54ALhKJNbTXyd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7852",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdRK3StYwXzpexPsScuxiXai9N3aArCUdz2bD1bF6S7MD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

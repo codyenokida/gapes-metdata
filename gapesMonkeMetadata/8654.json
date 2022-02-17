@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8654",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSHNaUrALvWmnES1S243Lv1Tsvh9PHqgq9Di7T2orij2c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

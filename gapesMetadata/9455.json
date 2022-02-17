@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9455",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb4m8vPofAVHWyK6N2rV3TXykGgJKDNwH7T8hoX4kVsp4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

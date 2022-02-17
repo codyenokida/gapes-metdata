@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7577",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbagsWiwKKD3E5zH5rNSYVWut8CWMCQ2KePrS7K5ypKLg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

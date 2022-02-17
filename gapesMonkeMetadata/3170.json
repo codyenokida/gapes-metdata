@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3170",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdQk2gPMGYobar9KeAhZ7aBpfhijVQsWonCZ88bXnvS9z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

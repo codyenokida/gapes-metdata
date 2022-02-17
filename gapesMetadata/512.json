@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #512",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWF4miw9K17QcU9U8TUztCwF9aRC8XpivjfLn3uzMSsER",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1400",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX7py3e2ggQX4uoV3AzNng4icyGaP24PrrVkAdqTaZAm4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6058",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPiMsEMUSgiWTQmQJDfC51YWgeff6SqyzxzUS3ZfWBwtz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

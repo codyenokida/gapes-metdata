@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5132",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbcBskn2LvRCSt7iM39UC8RKQjQqL8SDquxoN6bgqD7Ma",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

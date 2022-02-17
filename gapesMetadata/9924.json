@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9924",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmThxFQKADGGnPAmAUhvyGBEZQ9W8F1T8oKyxok8TKSyzf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

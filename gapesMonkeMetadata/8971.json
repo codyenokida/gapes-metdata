@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8971",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbhuFfeCVDc6emcNhs8tTGEcoGxNDCGva3ZwquNbn988h",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

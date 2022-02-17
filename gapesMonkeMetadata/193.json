@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #193",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRU1esgYS76vjoujivVKTnKB597QwtqWoh5uHzynDLcCN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2152",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb6GJd6oYdk38wnYcxTcxt4qzN8VAKxgBXL8UyTwASBai",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

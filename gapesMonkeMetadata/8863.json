@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8863",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXMLV3T9KNy3HdE3unop9qQyNrg8nu1ZbVzw5qZrw1WBz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

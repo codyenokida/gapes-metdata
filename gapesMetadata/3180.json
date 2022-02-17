@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3180",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSYc1NjcFsbCcoA7TJJxio7nBjfPZaz5YVaPG7JmV4mdS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

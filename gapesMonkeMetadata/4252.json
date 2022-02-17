@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4252",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKePwtP2ZC7Zyw7xWAeJYYFQ79pEBU7WnfJSLx6HMVq5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

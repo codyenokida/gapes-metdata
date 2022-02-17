@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4348",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdMGRMsVF7mieN2Vt4amakuHs4tvWhJufBtwTWUa9xNKE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

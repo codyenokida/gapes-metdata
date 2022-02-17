@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7958",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZSBdubGhB96RNnxRNX4g6nARjNnCy9M2LaucjJHkDvYh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

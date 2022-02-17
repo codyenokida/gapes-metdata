@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4403",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaoaCTPgFiU1FoDW56RszsYiJtXntZaf56qrbe9hoTWSC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

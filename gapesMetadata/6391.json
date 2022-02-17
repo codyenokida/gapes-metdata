@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6391",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmajX6wZY5wcWNCKeh9C8Xc5aN43bC5Hg7ZrXcAyqXfudZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

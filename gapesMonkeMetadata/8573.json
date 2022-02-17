@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8573",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVRWu7ys2HU2W7Vxz1kwcaowPYyNWNmedRASrmz6J98fw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

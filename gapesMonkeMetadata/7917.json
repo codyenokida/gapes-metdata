@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7917",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeTuiYDqhcmUu5v4gRU1NKc2bWVQ1FQqYcUsBWTJ75HRN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

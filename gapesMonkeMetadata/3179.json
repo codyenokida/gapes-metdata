@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3179",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbPHi3HEiJwPHtVkFcCiNLVVPw7XJ2PV9V6fPTDZX9bzF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

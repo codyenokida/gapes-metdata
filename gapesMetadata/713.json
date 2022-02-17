@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #713",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX3gyqmHRvR35kSd3BNo4Ve6eLMtLam1aDAqmPkLjqoJs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

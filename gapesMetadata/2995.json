@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2995",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdvkwFK2hBqsyPm5HzQ68DdJUJekYU94w7xAYFdGzTEaa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

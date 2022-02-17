@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1025",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZqRGXgKBqd3Qa4maZPsdHpdLR5XTaKiMyVYQjdBXeYGA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

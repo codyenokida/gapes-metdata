@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6867",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXBLRJ7muar4EdjAiwTLD8r1t8pZ5jo3xxe1Q762vn93n",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

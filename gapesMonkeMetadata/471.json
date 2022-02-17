@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfVseNUXPpHJnkJ3pipUPvwpfFYyMgKimumrJRys1vHNC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

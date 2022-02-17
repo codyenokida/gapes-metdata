@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #117",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSwtEeq62fKMnhESvS3TFR7EggUBXWoqaNgfGiaVBssbY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

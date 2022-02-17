@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6865",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTKb2Qg6F8BDw1M5UPDK8GbKWjBHTcsYfwQkZcr6MVt8V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

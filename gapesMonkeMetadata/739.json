@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #739",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSWZBxQwd23ikMyNDnpQeNEju36oGUoX7To56UQxbRsho",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

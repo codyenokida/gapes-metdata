@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #94",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVzGWPwddrggvyox7ZhvcZvtZ5mdjNDLfzXZuDktUSkLU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

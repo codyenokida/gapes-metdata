@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6292",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVYgg33fmxhAcLFXYrNVNcssUkimLMuF2od78V29o83th",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

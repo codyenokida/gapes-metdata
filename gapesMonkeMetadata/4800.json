@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4800",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUq2FQ7nM7HVb3aPHZXcc9sm8ut5jLhgZK5tCWmWXiucc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

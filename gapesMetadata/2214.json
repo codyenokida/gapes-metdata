@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2214",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVT87za2aGTS9ufp85ceaBF5bmxT7JhRMsMftbJqmtM7m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

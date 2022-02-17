@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2524",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXSwZmEGVTuM8afgtBtf9Gtb6oke9YHASkGU5EL9K6hdh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

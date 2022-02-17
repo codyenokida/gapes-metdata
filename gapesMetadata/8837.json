@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8837",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRSx17LtoXShnyd7xiSRbxaL1dP1wdgGM1L9P3JhR73aA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

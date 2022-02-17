@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1755",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYoYAmcZH5rfBV45jCC6ZTSca2wp3ZJkeBKKFrnbpEu11",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

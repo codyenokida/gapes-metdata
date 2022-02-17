@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #785",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeNgoUAkLjgggnrQfJF2XY7aeGNAyBeGnmA9ZF5oYuJGQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

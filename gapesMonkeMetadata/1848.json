@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1848",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYy3ETt2wBHynMf7CsfmWKe2TK7QDEpu1iv61eA5bUANb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

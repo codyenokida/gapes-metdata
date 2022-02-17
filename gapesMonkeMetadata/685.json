@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #685",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWsSuLh1jNDhKraCTP8SsLoWgEjQ8AM57DwMKf3qUTnPp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

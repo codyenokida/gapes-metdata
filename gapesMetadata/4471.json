@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPiiZL3BCVmfZsWbbMJibkm5UFxcdiYU3KjFW9uSUaGH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

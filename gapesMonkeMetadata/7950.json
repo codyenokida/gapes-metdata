@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7950",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQSC34eiUQ5pTuCHq18b38m8sTv5eziuGJazZhPNTcSZL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

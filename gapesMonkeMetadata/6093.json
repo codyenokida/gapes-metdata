@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6093",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNQ6X5Eg1e7mFCVnTRRPAshogqTAdn5C9n1rQpousNnQQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

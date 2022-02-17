@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmewog6eENpQMhZG11YZTxyAYai3WSYPLX2bPbXz7QbU9C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

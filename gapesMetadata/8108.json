@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8108",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQgaj1LAx5LHnpD4HyBz7o1ww3xzCopeMSUnoBLDwvsTT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7322",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQuGfvhTawqrHCz5bnBJsuatC2ACY8an2tMykcKZVgiBH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

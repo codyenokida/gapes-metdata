@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #489",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmenPD9sUmrqWJEDtg9THtyGBBp8j5P2daRcZVLwaEUoyh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

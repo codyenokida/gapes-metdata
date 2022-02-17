@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #720",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbrgH7P9LfLK15vmfVF7WdK6YL5vy4whTpWML8NE2xxWb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    }
+  ]
+}

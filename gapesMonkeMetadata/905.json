@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #905",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRyZdb5F6f3zsjTDJvGVLUFaYhDYDLa5hhwi9qcChFBZ2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

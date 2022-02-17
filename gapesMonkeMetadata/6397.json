@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6397",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdwMkHwgfe3XRJ7yyb9KyHmh6CjXTMm6R9Tz4m8USJGKt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

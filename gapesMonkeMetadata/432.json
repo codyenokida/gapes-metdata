@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #432",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeAsFu1oHaDPATjjBSd85WSLKK4FoPQw7Yq49KGpN45BH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4518",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmchKfBGyXhYuJLuEAbPjNJ7iyREbuLgEdgo5cWpNQNPQ3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

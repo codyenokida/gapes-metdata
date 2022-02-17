@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcGQoxQisWmxEjfZNgh1ZM7BNQrv3ovq74hgoZ5U5YRzw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3896",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVvm4juPc8vzJj9GoMq3o5513c278ZXVcBa4k4bbZyL4m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

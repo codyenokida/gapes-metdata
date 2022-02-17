@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8901",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeaDw8jaL8xmeZRH56dBspfNWDRo1qXEjhkmBP2TGoaCJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

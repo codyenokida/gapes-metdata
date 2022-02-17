@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #918",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcs19pWUSMmqManmV4G1jhgXtDvbbCWbjsKzqoqNkLSiE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

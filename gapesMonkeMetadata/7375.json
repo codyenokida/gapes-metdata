@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7375",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfERtSrbU81yqSYpCuvf8uYRPQJo49c2hgrUCTHG7Mwku",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9523",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXWA81V2e6So8rjW4p1KwotFv2rALvSG1vvVydHCh7Kbh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

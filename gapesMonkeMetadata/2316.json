@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2316",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWVmEMvAy775e6zEKip9ksssjLxvdTQbszm2zE88CeAu8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

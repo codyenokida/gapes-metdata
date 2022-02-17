@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #506",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY4jT3rW1fAN5hbx34pBb3DsaKf5NLNXNeoe9MZtfwo4o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

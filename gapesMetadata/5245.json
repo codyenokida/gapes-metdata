@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5245",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNwAiNXbZfhm1soRVSzBuPxh2E9r2KnFqtbLgcGejr4Fb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

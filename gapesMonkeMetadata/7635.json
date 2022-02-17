@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7635",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfKUD1d62AJRsDPfK28UxnKYuU7M7gXEWvXXn6MyNeZZL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

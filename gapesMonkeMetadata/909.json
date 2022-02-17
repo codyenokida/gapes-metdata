@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #909",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXE2NRhccFdt8GPZh6xvo7Lx1UoNJsqyDvqbkGRWqyb2b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

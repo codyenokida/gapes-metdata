@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3296",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVBzeSk3vCFXzaExyFeu8D2zANJ9AwGZWQ21J32UHhs6X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

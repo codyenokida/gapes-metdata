@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #612",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNw4FwNirbDhQJkoYLTwfDmNsf8kRgAhJ6kz94NvcYXRB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #297",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTC5pNTvwQNKdKZF6KtMUCUn433sJQcYq5KtKeNL3yTJS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

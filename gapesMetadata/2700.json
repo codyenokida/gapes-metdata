@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYZdjWpqBvZEUXXeXdofR8rZpfPuxByXNBcq97TZFTNH1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

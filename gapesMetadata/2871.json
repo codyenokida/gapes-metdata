@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2871",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcWZ8DPj32MrH7kh6GRwWN1dmGaumqsRnXUukWHv3kyz7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

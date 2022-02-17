@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4542",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ5mad6xaLE6gFbw8Au7DZaFvE3DpK9X4bYLbPPPNVZXo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

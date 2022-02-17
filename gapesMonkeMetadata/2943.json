@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2943",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVgiSUTkkczhijFdxgNvs7xhdA2aqKLiwVnK294ubHrNK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

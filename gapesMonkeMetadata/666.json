@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #666",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXYRdsVNSUrstjfKkSXStbnoNTse8kA7E4e3cXii8cut8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

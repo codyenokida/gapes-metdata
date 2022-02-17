@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6988",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZijMja8BhmRrAR58MUg8hUgBfttraVKtw6MSG7gdomzw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

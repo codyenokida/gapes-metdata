@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3617",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT68JGUY6w8YwvD1gn9sfEjkRWZxbsWyTQgiXnsCsXQ68",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

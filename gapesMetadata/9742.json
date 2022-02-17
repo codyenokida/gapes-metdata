@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9742",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRz1dNG9Q4S4Pw4TdRuURRYN3mQSJ53RUXeDafGbYvJvv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4667",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYPPYG9tqZxmfDr3mycjqUYf21KrwiReAig2qBy3Bjjet",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

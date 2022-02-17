@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmStMLPKpD77Bq1axkhpsbXh4fabiSewEc3oUzHDPSNneG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

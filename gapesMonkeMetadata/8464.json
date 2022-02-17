@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8464",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUYKc1XxNn8nd1D2fxevEk7BAHswzUNrDuFu5eV1bv2bi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

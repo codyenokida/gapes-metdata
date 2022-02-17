@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6621",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWAJEBKqH1skr8oaD2qiMB5fJkxpFeLiFKQk7h6mT7F1H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

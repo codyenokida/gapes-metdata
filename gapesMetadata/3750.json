@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3750",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZfnyvxuxEtn3Vn1w62F5hGei6HioMkpQrkZPLaMZckUW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

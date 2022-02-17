@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1273",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZC1KFmgowf3bRVgFEatWnUytoSo2uyjpntDA5zbBHLW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

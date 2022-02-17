@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4921",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWwDo5REjAUwq6afrmtcYKHeqXTT3ncmnKPXHxucMmVmc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1146",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaQytssjeti2Tu31XnXwPEuSbWpRTShj28kTWLEbDtuch",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8944",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPE8PPeUhN9bKxdDvw4P9vz7tn1AJ4WfnwqQZnkV8z73G",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

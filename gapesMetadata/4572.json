@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4572",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma4ESzVhAddqWQkw9atWCeWwAkyBuwdwpebkAgFjZCXjf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

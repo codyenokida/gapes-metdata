@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3349",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcx2hSm2VysTceppquU2rmQGkt5oUMUXdqpsFY2F3EN8g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

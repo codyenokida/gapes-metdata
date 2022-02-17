@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3767",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ4opcox96qxv9FnmG8veD614RSB9EfFGWZm7W9WPxRrK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

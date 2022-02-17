@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8283",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSjBQRjMg7T19TL4wXvBkvSfmz5C771mSCk77SJNznbBq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

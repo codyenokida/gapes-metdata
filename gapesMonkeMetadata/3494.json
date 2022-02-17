@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3494",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2uoZYD1KN6hbCBN4qUH8MGJpmdHxNWuZ5Sj1VnirWgr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

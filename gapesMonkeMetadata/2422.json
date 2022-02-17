@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2422",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZaAgZQoGBpr9rnYCjyRRf4WegBFJg6dLyUsZFXFenpAL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

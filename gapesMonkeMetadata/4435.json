@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaatY7gwsgjBvgHYes3UF2ELpuBK1ZXjo9yNJ8fEGWdu3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

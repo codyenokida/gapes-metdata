@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5829",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRBnr17GCtuPXGKAH5R6eFBRA95SqRKfLC7Xa92zoChHW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

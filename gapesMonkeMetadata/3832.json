@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3832",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmehKtNWa5kcUMbspbQh9twNzeBodzPN6X38HDi56dsnUH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

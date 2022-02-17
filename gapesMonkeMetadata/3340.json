@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3340",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTAWwiZDvRYEErmd86e43RB1AV6ejKUeyCtDWWkbSNnYq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

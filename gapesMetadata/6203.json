@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6203",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfVyVdYJy8kahDwVuX3hjaJJg7VXWBJbiXSqVwfeU2ztJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

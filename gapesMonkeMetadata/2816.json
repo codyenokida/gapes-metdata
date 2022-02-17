@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2816",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUULEcXVjSbcoJ8dqC7C5FiqEuVrzmuRgxZ1wgj9FHJGS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

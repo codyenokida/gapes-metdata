@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5518",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdSz1umiQC8xg5oMD7Pb8aFpvbyNSomLAZjF4sHZrQ6Rk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

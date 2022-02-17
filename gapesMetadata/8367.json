@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8367",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbV8LXXkt4dno1D5qbcCwPYRLfK2vVDqepPkRDxwkrAe7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

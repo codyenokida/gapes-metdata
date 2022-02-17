@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1725",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVdJUVWjGWhFL53GdcyRpbvDBqXtqBc6afYUEta49ZzCN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8283",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeEch688vkziHAV5c6iYAx9d44hQAgHdAg5tv3ptn1Bh5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

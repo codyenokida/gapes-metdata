@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8284",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQme7yUGM1ozdBeNkwCuieJrkYMRsG2VxL2RN9sZaBSUS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

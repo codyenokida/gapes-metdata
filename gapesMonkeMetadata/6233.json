@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmULk71GsAmgvrAL9FA87B25SxFb674woJAm5BW1tGSh7M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

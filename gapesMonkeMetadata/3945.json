@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3945",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdTNiqfSf4nwkBcggGFAaseMckDWMX8aYu9Q2DtwvLxC2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

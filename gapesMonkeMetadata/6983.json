@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6983",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYjA7pJ75Y969ZawPwySVWUKDgXcDmhL21bgZmoYQdRiY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

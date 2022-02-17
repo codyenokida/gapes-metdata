@@ -1,0 +1,34 @@
+{
+  "name": "GalacticApe #2507",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY6tWJSKyvJGKHGt1wU62PsR7Hjt4j7GBm58bSUgn6wBe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Little King Ape"
+    }
+  ]
+}

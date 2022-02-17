@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9836",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaBtJS8QENb6FLuVDsSoARv1a3K5mKjvQ9o4R6Apa3P2m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

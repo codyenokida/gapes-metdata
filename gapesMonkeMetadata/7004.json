@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUCTYfkhgNKTYjVLuUiedbdo5dhu2hdFbeVudDbY9pxZL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

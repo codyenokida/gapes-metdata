@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #108",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbWK8WEEN98uZFEKFy8KRbFdgM5ok7tP1NgANuxJXgvf9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

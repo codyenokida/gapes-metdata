@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2715",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVRAqiC6qhSfGUkVdXo5HqTVXqch31HPHLd9rw5FuxWbg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #305",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV1KSwnzoJzEBqvyS1yHKDqgm8EiRwo5LwtF6g9qScCN4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

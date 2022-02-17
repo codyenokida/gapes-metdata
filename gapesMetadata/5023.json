@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5023",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeNpkrbDeFNTRRV8nt39q1PZhNBVFg9GhktexL9fkkHwK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

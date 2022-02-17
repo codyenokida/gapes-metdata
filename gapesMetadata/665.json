@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #665",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ4gWHp5zgY1RNDdxLoiXUYWanbraFQZsaYRsSrX88f4b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

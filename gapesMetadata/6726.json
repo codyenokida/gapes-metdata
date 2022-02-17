@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNgwJhd4gUKpEtca22BdFUpeXgCVhYr2fXqShVBZwCxDW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

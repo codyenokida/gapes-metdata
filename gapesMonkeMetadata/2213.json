@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2213",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWcDofM2JoHd1jCrh9MdcS1Qfoc5nT1x1rsbTNf92f69y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

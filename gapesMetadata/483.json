@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #483",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSkJnYaZuAScf7ud5gtkUJDG54Exohi2xXm3FFMjg2HLc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4927",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZJ3wDe9uKi8tFhz3zPao5buodp1q7RzPboWeMiwNTjZf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

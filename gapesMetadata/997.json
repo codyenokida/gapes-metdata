@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #997",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVTwdvu5Jk4LY5JKXgTo5LJb6qgxjqLvZKURzt1Y7hXL1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

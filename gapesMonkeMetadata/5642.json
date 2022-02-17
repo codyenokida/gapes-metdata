@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5642",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRsc8BBG4aRhYweiAUXSRd23GWeJAFHG4K8pbeg9m22Hm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

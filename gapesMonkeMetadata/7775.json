@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7775",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZiNzDAwCUnScpfdTzSJha4oZbNmsnkYRfe7Wp9i4ZuDp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

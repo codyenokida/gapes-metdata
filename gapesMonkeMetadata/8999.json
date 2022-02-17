@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8999",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWNMfdKBKkc5m93KBGFnpcaYuiymewiK7NWumfWBzBFND",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

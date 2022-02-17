@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4843",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbw8ZRyNQJqNyAi1aApri68J7AdADiZ1PxRDMPwHLavnP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

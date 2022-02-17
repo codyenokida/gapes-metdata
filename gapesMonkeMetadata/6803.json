@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6803",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTzkiBJQydpsanajvC6JUyj3fy5q94f1KD3Y5xXRGjLxc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

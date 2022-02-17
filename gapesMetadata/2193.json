@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2193",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbGtv7DQuXsRjFGFWUhP5JrJE4wcQpAuB7tmNJ4KSheys",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

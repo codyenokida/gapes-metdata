@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2786",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWzyG1VtzNemJE3dpZk9uSPXWYGkZ3BnEqBKxmrvhA1ok",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

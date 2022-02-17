@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1520",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWr42NavtT2ZxHnoMkz9GLJEJgr7WuMN6TMzWPSAqJnB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8870",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSNi8oBtDy36ZFpg9Wo2JadwDjW52Lj3Wg6GUDhHRQn4B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

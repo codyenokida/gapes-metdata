@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9873",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZr7BMv1zyqUZ3mgkAMvShmqqKj3quoSaEoN7PqP83skG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

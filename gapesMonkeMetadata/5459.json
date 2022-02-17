@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5459",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT8ouNtSAjFFFukciTm4q7bNhc8DnNn94pR775UrBGiZG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

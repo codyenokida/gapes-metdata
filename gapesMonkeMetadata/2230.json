@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2230",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRByW3UQChLAVrbUAnJvjA931kAsBhe4WKyB2Mtsi56wQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

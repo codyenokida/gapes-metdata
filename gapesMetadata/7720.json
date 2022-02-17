@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7720",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNc77SUyQz95bCT2nQvn6bXdxB9fFEZwC3sxTxgQMhJ1H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

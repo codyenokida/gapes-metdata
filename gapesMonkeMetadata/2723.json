@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2723",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbjyaAzwWF8iw3QskibpoF1DMdbkKMztB5wfE8yFbmUMN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

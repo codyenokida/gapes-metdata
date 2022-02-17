@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7260",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSDYmqRp5AC47mfx9utzfQKMdsT5xC1KocgKTo3uCbY2G",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

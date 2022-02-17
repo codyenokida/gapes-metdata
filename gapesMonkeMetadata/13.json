@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #13",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQmCexg22MWtsbphxescHmK3rovYNVV2YyobNtGJaLFnj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

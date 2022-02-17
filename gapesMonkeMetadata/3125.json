@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3125",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSZ3cSX8PHLaUzB7oN1vZ286TcQVCjqqnav3gJr5YBMq3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

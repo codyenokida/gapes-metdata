@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1789",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfD5UpdY9Y2UYF1M9DV8NyMcbYNdhquxmoUgjkSHgDv58",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

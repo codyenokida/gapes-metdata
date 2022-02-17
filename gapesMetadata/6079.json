@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6079",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmao1fDQXkjj5WxtATkBFCtheR69HRyanCAT5KWJSgyCkH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

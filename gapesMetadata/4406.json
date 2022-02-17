@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4406",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQdcC1QRmf76Ba7SB6Emjqou1YArcchkto3sh5vnFRumR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

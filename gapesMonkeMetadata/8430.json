@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8430",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPhKbFJRKzPo5VBBdgdoxtSJ3X1cE4zt5hkwxLpJREybM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

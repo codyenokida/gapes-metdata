@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWJu2MYJQdXcdoAPvaiZceHoaXa19ap8aSEQB72dpTp7C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

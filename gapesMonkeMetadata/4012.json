@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4012",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTSqf1QZ6cssm1ZGeq2rSzdCuTckAfh7GhGfRd3dVohw3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

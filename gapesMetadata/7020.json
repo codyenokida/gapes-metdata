@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7020",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSrvtRWKGx4zhfS54zFTVcgsMUdBLwv8Ve5Xk1iM7D8HB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7786",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaDV9KNGYM6BJVwf6W9DbXaraT9pyUTURUjRErXw32tP1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

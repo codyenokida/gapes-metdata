@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6605",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmckQUEm7JD1DKMHzn8BG2wtq4fx2dayckfFrNXCR3bWit",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

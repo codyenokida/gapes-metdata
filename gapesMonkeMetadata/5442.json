@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5442",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPA91S6iuC5YBECw2ExyueffeAaKQtXiyz1JdS7ho8U1u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

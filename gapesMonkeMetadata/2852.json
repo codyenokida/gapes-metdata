@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2852",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdFEPX5RyUJACwg9hnJKRT8Uq2DSfVFP5E4ZiXC48ir8P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

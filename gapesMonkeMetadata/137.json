@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #137",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSFZ1sF3mTrJhfuA7iARipcBGC6H42T3ZtgSNApWKkJaU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5415",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcRtN8xyN2YcghY6q8rZNsimmXiZwFiPjkKTTu9ZtKi2z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

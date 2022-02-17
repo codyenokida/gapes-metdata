@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4728",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXMo3DDeeRMcpj98acuNSeozWwiG1mxk5H7UkJAj9xR3g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

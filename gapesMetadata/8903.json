@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8903",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc1QakAAzXxNUvkqVYT7yRroV9zfCEN6g6zPBkchGg5M3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7236",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYmCm6QV8XzWnNnapvAdETnQc85kR29CtmSo7zXwr1LF5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

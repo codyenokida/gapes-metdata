@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #789",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRLm7ezXYLnMPo6mJmSuB2K7YVWMsrU6vBNxpvW2MmyNi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8753",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ1Uua5Rt57Ljj8pFHCeLxS8dc2pjrHpTzxvoeDT3byAs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

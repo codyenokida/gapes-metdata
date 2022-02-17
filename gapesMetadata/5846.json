@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5846",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmazPDVxjktrcuitkd7iJodMrsj4UeJ5Co6SsH7GgxRtLi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

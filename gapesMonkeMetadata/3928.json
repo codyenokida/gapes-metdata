@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3928",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmage5FdcqkusVCbspegdmadMY8GPEuR1ErXAm8KQBLCky",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

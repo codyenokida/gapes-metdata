@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5602",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6B6CEVAxutihnh6kQqigK6xE9zLRHQq9bquqjEZp8dQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

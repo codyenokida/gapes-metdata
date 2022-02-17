@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5168",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW6o6mGaxvsEiVPDeDWFqjYmxPvHP5FSnPbUhDDMu5x9T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

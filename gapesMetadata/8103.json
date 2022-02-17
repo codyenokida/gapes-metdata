@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8103",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVsCMQzwLQeZxgzJikG53KCyrEpRGPcb1qTKxbcBRsqfx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ]
+}

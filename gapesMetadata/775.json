@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #775",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPXoc3dHgTxoChF7pVJUVWP8SUK6rMkUunrEaCJxAefJa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

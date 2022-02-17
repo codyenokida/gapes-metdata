@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1859",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZUgoR2omM6XgpvHMScKYtxzN16JPs7mUJ5JdcvnY3TjE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

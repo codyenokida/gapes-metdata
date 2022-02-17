@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #517",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc2GVmfUpvhuejS2FW3HCqHVMYzhgrMyR5rKhDXsYFoi8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

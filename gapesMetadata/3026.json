@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3026",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmavwAKus72PeCjxbmk85Yx6TgLp9jQuBLFevWbap2j9c9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4358",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRsHd5XankhPGN6cmQWDM1BCunx81dh9dWPZuqjCfbNXa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

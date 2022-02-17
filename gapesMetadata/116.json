@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #116",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcudmibmix2kg5syqvMNQBGwC7Y5q3H6Au5XPZRwo7S1G",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

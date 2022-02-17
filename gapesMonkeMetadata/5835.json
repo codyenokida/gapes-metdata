@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5835",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTy6KvuGkT9pJKN935xQJPiQ8qeVEpnVpkW1NKWAgQv9D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

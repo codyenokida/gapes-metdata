@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8036",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZrhEf9vprP7igWRye7AVrMyXicPBpBViNotjwj3FrKxF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

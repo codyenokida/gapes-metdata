@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3409",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZhJtubu7qfmGo5zHL1BR89oPmLsGkijmWox3W9PpfJ9Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

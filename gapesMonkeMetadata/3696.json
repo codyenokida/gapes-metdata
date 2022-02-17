@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3696",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmapNuKTMK3LcksrkHuQLYVbYxVYW4C31LcYd6XRknzyiV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

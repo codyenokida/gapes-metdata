@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #958",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbapH7pTLwivsuqZ7yT4MP6YdGoBFirMomxPwi1xo1Cpf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

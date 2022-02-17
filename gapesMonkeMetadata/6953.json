@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6953",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPErQh5e6paRNTqE16A5UmFZ1tCdWwa6rWNnhR5KDvXiV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

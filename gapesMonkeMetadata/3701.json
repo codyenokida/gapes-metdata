@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3701",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVXJFAQLx8Qaew3vicJQiQKiCvAhkYPBBT2h5n7Po6sKo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

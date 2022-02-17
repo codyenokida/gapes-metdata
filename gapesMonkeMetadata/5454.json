@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5454",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXZvuutaaMLuPYPvSsy9wLjMtiW4ZeDyGS9pzwF86ApXb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

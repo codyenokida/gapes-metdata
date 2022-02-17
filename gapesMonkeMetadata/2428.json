@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2428",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPJrxsgcMAXpEg7QapAiDhL9qN8XNLKLZxJ1BiK7TKUvP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

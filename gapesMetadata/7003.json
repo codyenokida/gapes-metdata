@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7003",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW5Pe7RL3V8FpBGarPPskz5HV7HyggJoQXE8PCjGQxXDM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

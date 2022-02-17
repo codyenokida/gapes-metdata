@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5581",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme8mHdUb7Vf4FaRFy9Fp9z1gjzPMwrDdFhCzHPw95etoK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

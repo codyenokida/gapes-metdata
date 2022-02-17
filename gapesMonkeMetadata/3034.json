@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3034",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZo1ceXcbDVZ4rdWKWzqp2zPr6Y1r5SGSaNMXELaPrTJR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

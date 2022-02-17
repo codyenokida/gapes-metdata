@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2059",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdPdR2r75gfPEBwc5SGGFK5JSt3aVFAufUc5R1NFkqrcH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

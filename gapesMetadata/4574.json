@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4574",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmevNLoSRGecz25KHJSDtHfWT8THtv19nDqQ92SqzeNBwy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

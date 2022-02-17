@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2515",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYcJG48v8eQ7kMUS1JNabfn2a21Q4X8uPRaoWrXjdQWb7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

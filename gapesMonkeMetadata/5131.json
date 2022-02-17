@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5131",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbtwQRRbAPxoHKXjsAT2wVD6bwJAM4H2PFCPJaTmDY6xV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

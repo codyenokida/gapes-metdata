@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4338",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcsArWRpAsKKw14CztzyVi3Ftzmr9Px94M62SwKBisrun",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

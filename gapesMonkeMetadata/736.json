@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #736",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS9TJ4xsueooPdwEnbb5F61hF2QkX79WattadTZmAe8of",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

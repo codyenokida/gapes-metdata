@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7266",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR7M3UmtwzKKaXzHiwTco3Z7ryEPXYTQzG7GgxRoAHWkR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

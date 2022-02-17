@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6457",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdFiCNyFF2f3Jmb1ehfMFBUMeqiEanjnjUCzDWgZA6AKd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

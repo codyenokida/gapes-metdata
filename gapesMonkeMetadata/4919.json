@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4919",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ6ebUQJajxX6mbt4qLe2P6CJ7qTPBa1SPmKGyFkRxzV9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

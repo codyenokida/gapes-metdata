@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3764",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXj6EVwq6VpP6C3c1y1W7Mb3j4ETKSkucJkMswtqrSyc8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

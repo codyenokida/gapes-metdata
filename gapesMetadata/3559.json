@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3559",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb3QWTNXFtb7eCMLQazfuQ9fD76CNbnG7nVMF5dxTVmWA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

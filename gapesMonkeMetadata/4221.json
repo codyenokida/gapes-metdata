@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc653NjQyyAyYwrAA3Cz9QJgtdfpKLAtpjPcF8ngUGLqu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

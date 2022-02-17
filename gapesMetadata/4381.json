@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4381",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQb42PARa58usGfv3rojj1W7UYwEZoRnod6iVLNtooVVG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

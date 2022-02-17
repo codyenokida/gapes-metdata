@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8025",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZyKn25JAbg1CkxEbCAMpSuCUjGAn4YQJWLnW5e3prjua",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

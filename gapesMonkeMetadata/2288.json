@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2288",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP7YbqAdUfaZcaiNpZL94QoPapMeyJj6yrrFWAQYeqcF5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9938",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTNDfkhLyX3UFd6ZbPTx9UFc8mjxFD8xy7eCpMrAXHSa6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5593",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcYQZrNiZV85QiBA2WC2aj8gZNUTJgw4JHPmdJMx9dUAT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4314",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS2tMH6WcowzfyhPwUm77GHY714asRXYKPv7eNyDtiaGA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

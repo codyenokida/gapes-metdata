@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #152",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY3p3egX3pMxEzHSPMwTNcvGnUXWZiRcTGco3yd3Acnq6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7941",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQEf9fBh999WidFX9SCDwTsMm7G4BUvhWJw1XeGGLPCzp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

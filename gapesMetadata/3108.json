@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3108",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdJ57oXA32qhDqAh8p2YPz3i2pTKkZ9wcuuBRmokqpe1F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

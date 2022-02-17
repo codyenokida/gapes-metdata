@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2035",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSbVH9pR3tXaKonK9mbkVsoSFMYdU9EQ1jqjMvoegYwZo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5346",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb3BVR5AVtbgk5iCPDKpbyL7ezjp6Kv7Q4nwvbkZYEYVA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

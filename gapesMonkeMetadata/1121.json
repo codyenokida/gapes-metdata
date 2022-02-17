@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1121",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPGBLU9Sevb48X8k1D1o3ArnEfBC5m6SKapuMunxqJL3x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

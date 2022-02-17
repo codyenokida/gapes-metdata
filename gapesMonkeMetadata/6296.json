@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6296",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVfgmUHpvF8Ph5yEjgDyp2uVYpGz29NQkg4pAK7nLp4xX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

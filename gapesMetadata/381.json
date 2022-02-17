@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #381",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbDxisUcVk8vcRYcyDS5GgU64wBWctFwtMbwKm39yxHpJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

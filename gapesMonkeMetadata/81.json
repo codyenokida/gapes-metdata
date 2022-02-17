@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #81",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS5qWfRh5d7j12m6cKE34yQ3ZZudL6cMNB48e572Lnkmm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

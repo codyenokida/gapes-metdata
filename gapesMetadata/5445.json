@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5445",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdk3TLS73Y73JsFWYYWzHMWMCmmb4s7DbaEhVyNhicsp5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

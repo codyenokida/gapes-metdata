@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7950",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTkRVEGNNjjno8iYpVwXG54PdfeMyHN6bggSHPejaMvLh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #174",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRLUTkncXQepWkxKN1AwgnbiAMCB1i5hj8AdPW9UKq5WQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

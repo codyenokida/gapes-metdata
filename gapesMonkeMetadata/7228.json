@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7228",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ6Mt7FWYLrCupo8a3Aj1tcsawiJW1EubT4znT6CowV5G",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

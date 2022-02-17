@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQXtUi9rrLLtSuoRgXmBVd7ahnhxG1hJif9AxNk423E5e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyberpunk"
+    }
+  ]
+}

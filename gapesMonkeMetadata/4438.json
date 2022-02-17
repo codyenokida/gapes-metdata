@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4438",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRki1dSB3dkVwJV1A5my14T12CmRa1G4RLfDL7UohHLQu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

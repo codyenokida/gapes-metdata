@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3287",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWVhB2QnAZrDz2Qz7Jig7b3HeNZ2PQq7GZZJYEneqiebT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

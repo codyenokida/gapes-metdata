@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #549",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5JGWVY3oPvdtxwYoggijWScZXF4T2u41Ma7wmzeBApL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

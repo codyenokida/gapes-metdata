@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3699",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTTkxyMvVKKqkBvs3hbgb4p4Nqbrk2tStPSmjjjC9hXS6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

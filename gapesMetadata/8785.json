@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8785",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZzdRr61wEptr9UVtGausRq1KZiTZjvjmDn4DiEajoKXF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

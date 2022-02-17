@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8362",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfY8Pqqybk2JxT5VAk4CPAJnDbJyDmNgm4vYutV7Cy7m3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

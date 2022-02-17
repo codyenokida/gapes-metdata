@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1846",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNbCfShPQ7CiLCR3KwiFKU9E9XDSZ5CGKXDHP7gB12hqr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2635",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTWbR23yTaakoVR5TW7uPqvdgiSZgyBDriwjbkCUoQJ8D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

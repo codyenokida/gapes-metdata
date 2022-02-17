@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7093",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ3GYgsnszH3Dp7EaF9paTqSSTzpSBAn5ECFeVmwvCgKE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

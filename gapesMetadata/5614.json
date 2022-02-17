@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5614",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaJumv4KXkQocggR3ZLyaRanJpcU9BXvscLvVm7sb8vAU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

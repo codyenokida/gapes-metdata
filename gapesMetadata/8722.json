@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8722",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW6r3fbcXfaj931WuzCKAd7ekNfVa6b6ApQgESqq7Kh85",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

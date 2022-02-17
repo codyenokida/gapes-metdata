@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6269",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbMVZ37vHgeR4kg5dhNn2mMoKw1gzofx8eTCmsi5AuPWr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1046",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSPpS8HVVieYBABLEc1T2yXuS5Zuaz71BkHtUbnfJdZRo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

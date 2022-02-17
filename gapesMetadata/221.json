@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme1D4wWcQRjUG8qaGkJFVVUMT5TEBNF3wF9YrXo6Fta64",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

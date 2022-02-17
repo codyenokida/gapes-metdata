@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8542",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcytNW112phLWY6b2i6R7BwLy4tTSLpKd3WNJaK9s34Q1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

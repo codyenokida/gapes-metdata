@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4296",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaMLcizfLmdEemkgGELk9hWKZaVQ2jZsSGfTUZscuTtCL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

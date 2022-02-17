@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3378",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc6wG49YreKErzVJB6T7K1FDAHPkyEaGqRgwYn2Gc9LLS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

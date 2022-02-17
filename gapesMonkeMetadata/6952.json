@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6952",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbkKbo7ZTY7sPCvfipYAXiYzXfT3zGsVy4cGSQcYGbvdB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

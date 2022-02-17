@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4754",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSoPhJNodQpuiJcNUX4NbKXPyD1uuzgi9LF8ojF3i9MpG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7616",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPQY1HMzAuxPLiQbyq4zFbAN9P8QTf5iZZanrmwAFsJok",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

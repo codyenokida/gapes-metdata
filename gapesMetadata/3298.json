@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3298",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVoF1L7aevi7jBphiPgEeFhEEfQFfYPmsmyHYLs4PX9hV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

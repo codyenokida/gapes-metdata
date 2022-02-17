@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7647",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmckVsw9YHAwLXGSBm55MpxFs2Ap5zdy7nq2652ePt8yKH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

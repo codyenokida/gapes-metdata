@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4290",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXYCVQsEpbYv4fJ8fsd9QcBzSj5sEWc3n41JNmV7v1qpN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

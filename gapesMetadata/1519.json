@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1519",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVqGXB5GzPA48yFTGtgBJ87ceEaUJtaFVLNfKc7fLgxWU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

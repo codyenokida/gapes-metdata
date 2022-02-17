@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8947",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZvcJhEBVbCe4bMt18QuHpVEQFkAMyVFcn8BwLDm8YpYp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

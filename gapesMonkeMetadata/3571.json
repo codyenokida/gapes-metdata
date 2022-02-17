@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3571",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaibbfLc3tGejRGZmMDQt1sn5iPQPcWV32UAXdr7krfLJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

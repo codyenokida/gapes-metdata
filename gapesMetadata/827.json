@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #827",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPK8GtPz2uz7PX5nBsPWYnNatS67XVQcJz2c4pLRdMsMj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

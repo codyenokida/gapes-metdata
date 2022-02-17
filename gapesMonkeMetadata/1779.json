@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1779",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbc8fi76Tadgc28ns9F2TdNa48LQa5Rb1d2LVYhzSQCSK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

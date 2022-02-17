@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7465",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeaphM8RgLGCpetnh3aisdkx5FeKpharPyUGHgBTsACYP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

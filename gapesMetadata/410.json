@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #410",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeTBVVKPHt8kvKrXbXdFqyxyLTMcpYa2f42bwvvdTv1zQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

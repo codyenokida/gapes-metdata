@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5462",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWsb9zxQnZVe7U1s8kaqHKBUhohLuc7WgHunjZZb3b9Yo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

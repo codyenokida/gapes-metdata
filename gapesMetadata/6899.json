@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6899",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPn7y7niGqP3t68CpxhnR2piUtnFvKYyKsnwrW6tptbt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

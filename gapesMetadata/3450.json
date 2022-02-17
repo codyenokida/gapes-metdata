@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3450",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS93szZKwjvygHj36RJ9Xb2swXd6dJk3uiM4QKd2RmrVq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

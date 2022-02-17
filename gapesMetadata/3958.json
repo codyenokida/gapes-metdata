@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3958",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeLVzSnE2uwV2NNmWBNioWZtr5t4er4McpCxTYwAMRz33",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

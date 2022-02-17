@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #749",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ3toa8msg15BDbhHcBRXiELNvEvAog8JsX9MGCuYpgaP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

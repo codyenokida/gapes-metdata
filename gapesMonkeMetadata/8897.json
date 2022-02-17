@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8897",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRoDKtg4qi55w1DWEDoDjtSPAkcgqtcNSyzhykQX3ufoH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

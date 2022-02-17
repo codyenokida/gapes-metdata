@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaeF1Th8Xw1pC6P4L5ygin4Jx1zviozockVmFxR7ysEFA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2331",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZgH8iJpFp2Zfq5xrrcH9hHfuL7vRhMSZr8GFqDtDnSUX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

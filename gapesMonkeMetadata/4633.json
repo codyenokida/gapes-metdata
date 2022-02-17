@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4633",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXNEGCFxzgpscjVKBAfhdpgSQn5Mr7CHFXSAR3GkCeyrf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

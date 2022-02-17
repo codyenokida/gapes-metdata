@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9327",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmapEZHyjR6rY5ZJwkVcx7dnDspggz4LhHRB8ZDfEDS2YJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

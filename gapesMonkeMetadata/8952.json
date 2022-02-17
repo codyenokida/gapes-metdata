@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8952",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ45NDMsCYXG1bqmzvztKW4JDwqXd3nv1j84ThgW6wZmu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

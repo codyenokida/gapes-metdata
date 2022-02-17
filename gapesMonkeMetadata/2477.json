@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2477",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSWMU3BofqGvRZy3TCLH6QqC7srm5erkCBneMU2Fx1DRA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

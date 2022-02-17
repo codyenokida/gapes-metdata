@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3119",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVGXwhu5rgh1iTDS4wtgmDnfQnh8QbxA6Kgat23JEdZsp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

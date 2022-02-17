@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7159",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfCdkRX89EL1417DS7x7yEZnjxkmi6uLWy3gokGYYMqAL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

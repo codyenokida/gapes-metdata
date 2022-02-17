@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1764",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmemtitAQAixGw7RhRB4E81XQoauu9p1rPZowToTDzAKKC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

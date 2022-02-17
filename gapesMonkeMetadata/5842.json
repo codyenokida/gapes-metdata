@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5842",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTMbTZwCwow7vpDZM5ppeCTcrdXraBSfEw5W2i8NsjUC4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

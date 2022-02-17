@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5042",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPCQTCAapMj7yGiwBHzBE39FkoWVUQaEsJLjqzJ6ZFzbH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

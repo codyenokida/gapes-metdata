@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #192",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ1oeUi44ugjTa7R7k3WBkQZMTZ6rNkpmjz6RSK6FMXx2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7426",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTvuE5AVynYE3X5uKVhdSdS3FYQDkMXRQ16bTesiF3sL2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

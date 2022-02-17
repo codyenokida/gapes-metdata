@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4008",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQHJwbXGvDqD8cQS2w7vV5htVYEJKMAZFTu81NDv3jDqr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

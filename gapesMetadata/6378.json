@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6378",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfVWPbi1Tk2cgkxwCT8GnDq6teU3k11KCR9PCToA5znTK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

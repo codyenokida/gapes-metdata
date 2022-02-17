@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #979",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfBfZncVC1DD3AVD8HazgkQ1XWDs4UecPfR9oERHL4SYh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

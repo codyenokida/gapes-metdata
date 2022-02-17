@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7780",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmab9WiuwKcWLr9Ef6yoKVZZjXJxip7HmFUQ2yCDgeLyiX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

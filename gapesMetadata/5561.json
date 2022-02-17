@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcQkXY7S6FvZTdDCt213da9wjT7BY7GRR3UcgSi52CRTK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

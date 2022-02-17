@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7836",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVa3fKFUSpNA55VPooDpaJurPWqvhD3jF6ygWjf2kJawx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7070",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTFE18WCTdKev7JKWt2xnGtEL6T4k4Hscz3yjKeY77MwP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

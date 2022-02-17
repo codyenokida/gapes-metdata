@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #774",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVXGyq8oNGmd3hvYHc679u5eVawunVx5Fe9at1qyZk6LV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

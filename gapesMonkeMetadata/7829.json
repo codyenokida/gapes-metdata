@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7829",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQYNGuQdnNe5GfbXp9bgUo27xhiDTXuDAS2fEmxmfKyFP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

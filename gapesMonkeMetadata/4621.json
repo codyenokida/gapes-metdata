@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4621",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRHSPP3VydHf18smgn1dbyism47vdn9zFb8i85foBZnbD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

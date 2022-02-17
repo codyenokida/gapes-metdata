@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6524",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcCv78pUJHdWagB4bRnNmTuSq7pgpeDvDSRWVepLZGGtv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

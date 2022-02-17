@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7531",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJJky5kor4EwXmdZMFbr7r34WtCGuQN5ZyehT6EayBH8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

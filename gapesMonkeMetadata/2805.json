@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2805",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcM5aqMxzAVfhzEPEbN1jpUKH2qxVp7VGapL9dD43FCjG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

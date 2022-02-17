@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7881",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUTA1dQX3xpwS76kGDijXFs7ej22en4HWNfUjCYDXy3yG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

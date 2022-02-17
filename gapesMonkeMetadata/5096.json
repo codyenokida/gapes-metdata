@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5096",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS9qkjd4YTNSBbXTkQfTcH9Bk2StxF4cVEyUE1v1JT8B9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

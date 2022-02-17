@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9161",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQu1nbeQvKmR38GsJCpzpi8wuXn2YX2B9Hj9SUQ6ZsAos",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9020",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTp66NWd2UqqpnFK9Bidv9YzWreMQX1tSNeDLz6YgXZCY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    }
+  ]
+}

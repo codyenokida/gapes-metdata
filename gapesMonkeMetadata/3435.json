@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPEy5CuV22CEz4jB1u2oBUBFbT2ywgRMgPTN1Ri1QQkCE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

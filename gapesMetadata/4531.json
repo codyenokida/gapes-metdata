@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4531",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb959xoU1BeY2ZCjbaPHKYAajStpc1nbJhudpwKoSMaqQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

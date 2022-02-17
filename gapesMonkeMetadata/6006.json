@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6006",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcdAFg6vjLbkNnhcGSAFmW6fdCAqximRtk1Z5xqVZtgnj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

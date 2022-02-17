@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1998",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS8W4ZyfxkHM9kUU1p4DQCYgTpenvvekbo1x7VVaRpA9c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

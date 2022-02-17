@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #474",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaB61Wg77ZLwqKMBa1jdPC2yaBpMRype6zbehieQRc8s6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

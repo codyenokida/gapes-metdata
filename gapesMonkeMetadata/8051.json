@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8051",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXWNUgS8b5DBzPxK9mADHiigHr2P4N7Xk12Kz2W1wjq96",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

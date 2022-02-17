@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7225",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSM9g6eer6eazxQUvEdt9qG11zeXuiLagC7AUALComfib",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

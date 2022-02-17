@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8715",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYFZY7y3zo39romiVSzpCqxWcaytAoYVfX328nyuAnYwH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

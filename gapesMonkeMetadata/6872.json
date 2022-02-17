@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6872",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNgZRpSNH8rSL4nuRi1LFBpZcm228ZCEiyqw3N3pQD84N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

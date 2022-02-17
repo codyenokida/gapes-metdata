@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4248",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfQzWcyHZY3PpESjiDZdasKxBgTzUuNz46qLjX1N1JoZ5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

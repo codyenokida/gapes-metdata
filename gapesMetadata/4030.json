@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4030",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRkvaKiTPmAw8x4zBEATdFtmEjJcLH7RPXBQbrXVgJyfY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

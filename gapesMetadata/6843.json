@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6843",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmaf6Qw78bQZLefazrm4o9ZSYuDZnyRY9SbB8gN5sUSzCC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

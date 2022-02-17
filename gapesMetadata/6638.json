@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6638",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTHCB68x9E2WduNnSv7jRtDSp2tLhw5fju1eRb6K1yXMK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

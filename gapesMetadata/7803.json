@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7803",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQatB4X1pdDfD4y5aKgxB2XsCDBZTuyJSkzKMs4VJnD6E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

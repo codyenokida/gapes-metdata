@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4074",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma6T5UvgCPsdYzXasuSPbzvEkzrMbYz63Cjat5snxEh6T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

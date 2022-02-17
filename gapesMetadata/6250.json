@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6250",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZWrNyMEG3ydsUcv4mvgEmgvTAomUjnWq8a5JQRLk8yra",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

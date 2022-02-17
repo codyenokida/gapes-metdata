@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #382",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTdWs3uRVFnwtPijNRfFAfRbVKRpbnWfPJbrdz4JdNrqH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

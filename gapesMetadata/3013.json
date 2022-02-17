@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3013",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVjDaF7sv9kB1TPwj24RaXMNuKMcTkRoPq8bAFiuuBzQB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

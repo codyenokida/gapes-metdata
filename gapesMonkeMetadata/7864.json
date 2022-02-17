@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7864",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmegv6Kz6EynhPYgCtVhd13PVh5Tajy5rFCdAMboHck1Cu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

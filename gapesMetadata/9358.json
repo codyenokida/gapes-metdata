@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9358",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYUsfAkE2db661AtogvAwGVq48tafC46PKWXeEJ3q8iRF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

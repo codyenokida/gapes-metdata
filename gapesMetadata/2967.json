@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2967",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVHZGz5MVNtfngS9qCaHsCXzV6YfP6E1KpdhCmusEebMF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyberpunk"
+    }
+  ]
+}

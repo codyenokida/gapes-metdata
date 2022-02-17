@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2020",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUgR1985tLhkTy3BNJ86xfUDkorwCZTRrE7AwrR5h831P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

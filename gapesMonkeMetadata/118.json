@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #118",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfLGqiKWKshpn9ro5KVy7M3zBZtNuocTP7ruRgzEXnMQ6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

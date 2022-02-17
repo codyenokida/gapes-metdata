@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2521",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQchVN6iprMKuRQyiZyWybo7hP9XirfMCa1VVDK5rMM8Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

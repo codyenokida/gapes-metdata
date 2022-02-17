@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6717",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbb3eTNWJsXVUQyXYd1wrKRnPqjtCfu3jZusa34AZP6LT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7040",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUKwfCUQfr7FoDxANyScV83nkqhojE1jgJhaf4VHL9tiF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

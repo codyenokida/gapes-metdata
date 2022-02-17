@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2302",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUgyRaWwJHSPsA4oUxXwWa3qyrJXV5mSJi2wSXckjVpB8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

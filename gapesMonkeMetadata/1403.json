@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1403",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWyZxTZoGyLXzJMpqDRG7svTdeCHumxLtFciRbbc8CGzM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

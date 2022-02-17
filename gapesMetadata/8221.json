@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPmPvjCVQA1yrSrcf6NSmBG4r4S3ZtgLCAV6sFnVZc2pC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

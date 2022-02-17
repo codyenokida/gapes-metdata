@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #212",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW2myz7qGiJTwVfjKf8KZDhfKPDEKA1YMVJHWWHRJWYB9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

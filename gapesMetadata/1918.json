@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1918",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUvEZmdGYt2wPCE9UZGP1j14ASesttTUZKyAP28X8TPEu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

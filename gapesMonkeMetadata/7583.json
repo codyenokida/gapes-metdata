@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7583",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQsW3PYrwi7x7EqQSAxcSgMTwbe9NXkdwqxJAKDbxnFp9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #573",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUvdd1yp719AShDyZVAt6nRXCbznMfXJmDQdrCZS1tB1k",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

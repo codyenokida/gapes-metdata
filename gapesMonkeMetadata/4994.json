@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4994",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVeLkbVZ2Gtpa8TotPzNYhVs9VKymk4ruypMhVasJYGiF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

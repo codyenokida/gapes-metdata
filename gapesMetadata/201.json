@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #201",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYRSvQdoKMhGKJD3eX5HiVZXywuh7jubqMWdTcx1kR8NB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9909",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYfiXPiNhQj8vbpPyyR8btWjNHFwambmg9pdvCzjCaVZx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

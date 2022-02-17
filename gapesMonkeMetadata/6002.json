@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6002",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd6gXQLiSBVMMQa8FPYgzz3qbxvLVtLXsrfNx1TzvUMJu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

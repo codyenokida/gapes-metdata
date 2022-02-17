@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6043",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWrFv5QnNi2z8ffbRshr5jRBsNsctyo69NDH1Cst1R7rq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

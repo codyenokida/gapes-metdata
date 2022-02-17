@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #394",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6JPkJypLn5DjLSEd4tSxCgAoHtBaVdVPJpQcDDPnaer",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2649",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZhx8zPH2Jt4faJuRhJozEZ3mJns8PdRnR5E3hN4uZZCt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8882",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeEUTwJSyty5vjVaFDvXhA5mSddpUiifYataPLGDexJCz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

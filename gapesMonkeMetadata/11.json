@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #11",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaudaT2PZv9QmjFQc89wPQR8iX5w5QP1jvP66Yix2M5wQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

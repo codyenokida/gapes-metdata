@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5541",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZrMmnTqvY37xWKTQn5dUy5qUmuefJT36SZhc8et8M2tY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

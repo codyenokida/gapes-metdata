@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7063",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXMaPuiisarrgxvF5cQehM2WgPK4Bdo9G8GvS79Vzdkbt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

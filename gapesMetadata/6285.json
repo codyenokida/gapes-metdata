@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6285",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcvYxJfxj1THv1jLJ61DDLSjwqE6xP5GXq4Mc9XarMP86",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

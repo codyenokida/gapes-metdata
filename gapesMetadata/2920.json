@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2920",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbgdiRY7TYWwLPnAribe1vZbZfZueorgwwV41CgmDQhfZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

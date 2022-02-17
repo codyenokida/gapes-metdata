@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3295",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR3JQxwkEHLYCGFmXaWAfwYQeEtXxj8TRYCGvPwXu6Wqo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

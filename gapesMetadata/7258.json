@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7258",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdftUKSivJLNZ8LKBNFEKcgaSAhYByCHXxjg447L4YRaF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

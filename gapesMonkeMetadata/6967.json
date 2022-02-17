@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6967",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeujJXy9xjUv3MPojfrAbMaKLwiyuix9GvqRBJSFE3v3b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

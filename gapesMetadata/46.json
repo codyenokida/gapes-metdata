@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #46",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNonc5RHnP4AtQAsEe6DBkzYnELiUUH5ykUz7x6c8ToSy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

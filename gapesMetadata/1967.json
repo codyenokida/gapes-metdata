@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1967",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTKX5durAN9T8uYw5aXeUp3jgeST8ybkzs8oa2otQczpf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

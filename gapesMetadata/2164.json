@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2164",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYeEWS41qU37fSoWWbckrxg2CCU7fDnL7rfu6rsf7cx4a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    }
+  ]
+}

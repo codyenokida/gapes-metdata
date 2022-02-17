@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4815",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTbF157GXBbQXC4r4dWX53N8GU5LG5kZqnXB3tN8y3BfA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

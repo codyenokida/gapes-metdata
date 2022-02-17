@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #323",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd6x93tJEZutCgRfQCLF5ya1YmpEvRWDNWPSqBPXr7iia",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

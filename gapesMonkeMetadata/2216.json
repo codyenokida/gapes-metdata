@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2216",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWQNXPsEX81mAbPqHCJYQ6wjaCweKimkn3t7gHFAqFHhR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

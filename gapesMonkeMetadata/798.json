@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #798",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTsjABypBYa9T1pAUbbHTRMokmE6xfudLzMocGRLaRDno",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

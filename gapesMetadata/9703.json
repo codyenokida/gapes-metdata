@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9703",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeb1agbBcD5j3M6vx3JHFXVAYe4se82XBbB9XfnobXiaS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

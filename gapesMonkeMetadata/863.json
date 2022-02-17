@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #863",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQjG3TeFrbH5hJkaEYFg1qFA14n1qLfnnjTZpnBJUKjRY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

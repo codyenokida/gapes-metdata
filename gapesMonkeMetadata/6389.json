@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6389",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd2mQHqrYzJNU9LPurA68ASLGW91CSeizYVqXnNfDiEe4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

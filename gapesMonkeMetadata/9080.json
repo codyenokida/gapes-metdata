@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9080",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2Bf7AQXcJATJDUGiEphQxutzJHCYCBG3w6PXC23zHBU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

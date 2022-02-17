@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3516",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY4oBjGWtqjHdj6zACfZJXY21RQaKgC8R6rUfVanwN57P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

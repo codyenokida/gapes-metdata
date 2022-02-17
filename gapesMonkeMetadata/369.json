@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #369",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSaSKVfFg6KoUNTrTnBsyBVFT2QpgARRoq6Q5LmwjCdyn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

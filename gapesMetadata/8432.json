@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8432",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZu5YRBWveQv3obytnfoa8gKyzkMQYBJErLqBqZ3fojAc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

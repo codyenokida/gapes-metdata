@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4340",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJykYvaBwUqZAaUDKfeSCa5BdErbNpUhNEwpkuorkM6i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

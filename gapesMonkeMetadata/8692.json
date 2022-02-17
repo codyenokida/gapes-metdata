@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8692",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUgCc5g1ZHKfnunc8Dg7JKgeXzoMp6baBBJXooZdBECKs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

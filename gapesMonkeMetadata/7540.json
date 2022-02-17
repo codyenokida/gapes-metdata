@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVbw4RRX6ssRd3gbXvPUEwVneqHoGd2BK31mrXAWRGErv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

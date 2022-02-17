@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1915",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTpF5hLFo4fgjJ2GdXWha9Eo1cU4i7H77VSxGBxSEvsR6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

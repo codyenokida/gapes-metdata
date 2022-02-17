@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #780",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUNM2apE1wfr3Yx5NmMRBFjHiJSmK3dCVczCzGaz5YXD5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

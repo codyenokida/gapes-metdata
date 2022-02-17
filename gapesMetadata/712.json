@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #712",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXKzxgq1gHGFxYnmA2Z8dfkeyDRFwoy14yfU5Z6NMd8Di",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

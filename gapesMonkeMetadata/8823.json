@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8823",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfProphekc8PUyGynCH29Q9DJ6cEN4gG2yJrBrU4NZYyR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

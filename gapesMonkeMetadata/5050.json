@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5050",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeA853phG3PqksaD6dzoxvBePFeayhZw4XGApLdcAWXyF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

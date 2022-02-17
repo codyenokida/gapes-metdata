@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #768",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWFUhYW7Exs3CGvUB4T16YX9q8wPGbLsWt7RgMT4tgmJS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

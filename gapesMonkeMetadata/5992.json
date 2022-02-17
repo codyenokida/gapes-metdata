@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5992",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVZvihNcGC5KUSqkJN317osL5kWhcWxDiH1fVzzqQS8aT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

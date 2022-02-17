@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5054",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeseytCjZS54g6mja8z4g9ZdGGugmC9e7QjgnmheNP7AV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

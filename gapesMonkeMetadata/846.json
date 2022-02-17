@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #846",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV9wYkBgPHWDd5RhXpA3cMXvQQ5cv2xmNzVgQxNmM5bQo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

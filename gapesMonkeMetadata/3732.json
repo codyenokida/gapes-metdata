@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3732",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcTzLkZxANCZP2PFipLbHvLZTNhi9THPHwP39bybhBQdg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

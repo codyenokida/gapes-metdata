@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2056",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSQqknzQDY6cHitBRYbgxpovHRd2uW8mpmYx4QvdR84Ee",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

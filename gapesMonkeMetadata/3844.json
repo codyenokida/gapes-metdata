@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3844",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR4aai19o2Pc5P86tornnQtSQVjMsgX7zS4u4E7W88THn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

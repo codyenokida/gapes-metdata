@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #974",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNPxhG4gmgyFr4Ac1o5kmKVLKo9rNVGd7XscPTNkdXk7V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8531",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZRcdJFdraQ22yHuZNiZrzsRGsM8iJzzAWYHPLokvoL2y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

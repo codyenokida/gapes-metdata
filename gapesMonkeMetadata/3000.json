@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3000",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRd4tHffmicVEfP2orbtK4USUbT7mG3mAUt6mrFpLk41M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

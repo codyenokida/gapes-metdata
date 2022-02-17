@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT3W5eqLvx57aoKukuiGXsjRD4V62U2JNFZQJi61W7ohh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

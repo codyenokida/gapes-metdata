@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9086",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQZqkkNvAzqLXEtpCcGqfpFGmiHcUaNQCrQGFjAqTZSE5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

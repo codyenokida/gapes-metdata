@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8293",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfWJ8roPDiRQ4LTAkYNrqRH5cYo3ZQ4iqPn8hzdQUtHYq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

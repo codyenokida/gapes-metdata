@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #9066",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ8FZVwC8Sctpc5KVvwsWXvVCBXR356LBgeQPv8ic3K3W",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

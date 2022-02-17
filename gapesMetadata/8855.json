@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8855",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU7No7DB3gVWTcNFMrjkTwCqU3NqzTMjo8rzX89sCWAGy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

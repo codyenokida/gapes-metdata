@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4052",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSfLhpoaAR1d7ULQvgLrBKLp2eZGDgoyGq3ezM68KXoqd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

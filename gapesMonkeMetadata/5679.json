@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5679",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc7CHfbhV4F6jNgiMMvgLcSczJwR2UJvJ9LL2kteYAazV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

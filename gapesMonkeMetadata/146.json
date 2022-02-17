@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #146",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNU4Hi3SbQ2Y3TfqZoUrEcK4C9iHZKAC6XDRzG65eoQn5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

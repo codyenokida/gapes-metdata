@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4201",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWWappz3zHywYe2kkaoJb8Hw8Ajk3MRT3JscSE7YkzzG7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #330",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc8xRDgYRgBpQo7XapDZ5DcHLr2Djz6Phr74dDb94v3gd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

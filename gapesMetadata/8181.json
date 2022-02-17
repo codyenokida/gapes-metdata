@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8181",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVyzb9GvhptHVZi1XNCZHnicpZQ11tRQCbdJtgQGcxjoq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

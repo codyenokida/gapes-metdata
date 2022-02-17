@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5883",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZpQggFwHLKPSFbicLGnbxgdMotodUnS5vxjbjN2pTbqM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

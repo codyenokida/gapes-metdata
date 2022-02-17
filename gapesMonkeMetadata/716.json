@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #716",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeFh3gpCWZwQKtYBFb6incXsA7D9NAi14PESBPtye1B4v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

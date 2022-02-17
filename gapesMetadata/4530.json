@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4530",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbbCaHwUDKm5ogZcLdvs7cyJr7DYVwRaNdXVLJ7gFJ3v7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

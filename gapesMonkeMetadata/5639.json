@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5639",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWFaywqWjn4h4MUV3YG66hjpyPavQYoz6f81uTGE8Ze95",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

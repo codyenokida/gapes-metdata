@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9032",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdkM7KohRMjicqWZN6uaxdyGv9iJCG5KnJ59RmCKk7o2N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

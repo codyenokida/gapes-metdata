@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1996",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXrtkh3xRqzDfCrWFemJnrLmn5hnS8t4okP4tbDUcdNxW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

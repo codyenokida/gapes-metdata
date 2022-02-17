@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #793",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeMcCzU6EVAVZE7qzvKXW6mfz6XvmSUrRY9V2nXpbQ4S3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

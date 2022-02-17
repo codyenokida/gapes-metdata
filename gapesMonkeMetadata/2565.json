@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2565",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYrUT5tDZymcUoC3wQ5taNn7iKd8rqrAn9Q8CdKM5gBMY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6549",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPUNY9pLNoHzgJFUPFLWuzc5XprvmcEJJJ8KCDriNSa8Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

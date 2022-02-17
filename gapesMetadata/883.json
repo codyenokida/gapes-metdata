@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #883",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTn6tCghmL93tT8qkt1pkPETtj33cxXnXJ71rdUyZM816",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

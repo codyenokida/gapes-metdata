@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8359",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWcPBkS3bNsGcQTpovrjM3DqAHVKSb1oPKTuGS5fPVnKf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

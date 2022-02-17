@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6214",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcQaveEQCcyvSxN8i5i9PFaWjQ1i3FHdGG8FFYCebuS7D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

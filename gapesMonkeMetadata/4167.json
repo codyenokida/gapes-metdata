@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4167",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPFTNp77KeR7A6AbRi71WdihmGm2ATcjNeJ7vuX6c3t8X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

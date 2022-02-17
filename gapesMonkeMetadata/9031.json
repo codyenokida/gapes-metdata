@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9031",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma1DB1WoKbR88WYQUWq6JtDmZeiQ5G7g8ArvX5ybUMB7f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

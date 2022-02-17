@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5585",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbpNkKgBvfbrdJXHECm2Ra9F7K3cg1bH4bzCZfyEnZsuN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

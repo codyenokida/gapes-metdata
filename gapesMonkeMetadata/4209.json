@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4209",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf86CWwwWEdivmPMLjH68BPeFqye4zgqv9PQXcfWPmGSC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

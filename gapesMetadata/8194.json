@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8194",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYfHRNe1nAxCcwhAeVD6yqdw1CvB4Ha3u5cDaMixtqze",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2131",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYsquhbtnMCdyZujr4yFuuVMWatUp3fP83yMUorjFHKHe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

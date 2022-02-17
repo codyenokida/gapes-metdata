@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1313",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme9EXA8Qwa8HqNaeFvwJTE7maXw8p8BoMA9AtKtMiuLu6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

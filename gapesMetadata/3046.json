@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3046",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT9nUeVdagZz9ZR579iNCkDZsz4w7KtTAymHXaMTd8GQN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4725",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmefqDiUZTB5QHTepGDA5d7ZBA7YTj3XEwxPLE7JMyqueW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

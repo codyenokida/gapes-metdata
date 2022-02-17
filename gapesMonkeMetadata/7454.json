@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7454",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme8wvxBQhz37Q5BeAtJz9khp5Ww8a7YpdhvgZuneCcnpF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

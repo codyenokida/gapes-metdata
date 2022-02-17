@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3389",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmahFALMiPiLXdFA7qfXkqKZ8aamRWY1WXjBwwjmy9UzvM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

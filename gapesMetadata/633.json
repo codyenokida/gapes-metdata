@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #633",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVdawicKuSNxnFtjRJbPipzi4QC29MzWD6NhrDfSAUGff",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mecha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8701",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPrCycnEPyb68z4QSTHfiTA6FFH5d3F4dwbQh3hWYpQkG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

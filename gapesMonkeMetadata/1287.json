@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1287",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWjun79vGEeLwLWNZxt6xrJVdQnmQGfNDf3zaZ9J4NQ17",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

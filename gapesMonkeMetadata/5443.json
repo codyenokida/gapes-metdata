@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5443",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmawk9gVMrMDbLuKQAshEotgoW8vX6cn4h4Upsh9SbyJSb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

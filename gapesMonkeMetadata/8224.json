@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8224",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUwUFq7z2ZURsqZj9f9j8oU8FLvJXU7ntSUs17iaK9Bjj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

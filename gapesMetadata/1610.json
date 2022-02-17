@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1610",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU8acoAL3StazJyHzE4ePbfAejGcTu2YiAcJkPJGkXkFS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

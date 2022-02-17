@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7336",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTEupUifG6uq2AJBTY2JgH2LufPXg67kaD1z5DMBkA5vN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

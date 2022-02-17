@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7750",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWCsytBzvsSHYPDWwBJpzWAdLhyZ9ccLrZ2U8idtX4mEL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

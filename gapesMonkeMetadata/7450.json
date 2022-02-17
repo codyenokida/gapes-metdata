@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7450",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVhNAs4dH7WUJ8wZXZ7b9Hz9z1XefuVSGhqmEYoMqBL6m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

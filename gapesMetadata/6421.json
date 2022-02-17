@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYkxMrcXVcUzBbCc2tS59jWESWagzyYysrh92Q9X9T2jb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

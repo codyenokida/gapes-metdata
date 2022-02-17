@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9930",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdB7bwpeB4M3hoB8Z2yNE8DPT9m2DGMxXLPHu3qg7DMHY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

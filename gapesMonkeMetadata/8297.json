@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8297",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU7Pt42BE3WRNXmeRPk1vj7bC662uTknSfrJn1NVmdphB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

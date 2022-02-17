@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8876",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbrbDxQSYYXzyxMhowcNgxKSMBpVSAnLmo6hvNwbC1N8s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8793",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZjnnfFF1dQjsbxcTy4jWFnNn4vujfQjYxmKC1KvHCxcs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

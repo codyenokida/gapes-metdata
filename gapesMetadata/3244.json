@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3244",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYE6xMEJQt1s6ojAxfwcZwdKsQjjPtUyT2oBVDfvK6eVK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

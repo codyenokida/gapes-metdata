@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2359",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTAoyC7TJVnX1PQDpnM9o9FB9aPNbK9Dv65ZkapXTWbY5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

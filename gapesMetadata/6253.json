@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6253",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUd5Z5cPEqiypYCUE4qUyTwH9pqa7hTcCVZaBhz5UW315",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

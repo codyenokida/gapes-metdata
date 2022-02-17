@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7444",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR3jUgpUPoVcdCCzr9gBM9R8TaMY8RRUwZqD7UvexYLjy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

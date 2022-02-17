@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1874",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcPjZPJQ4L56UW7Frtdm7WaHX7Eri1iZnhrprrTBbWMzY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

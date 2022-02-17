@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3369",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSQk8p4FKDtTTrRf3ceUkLHPtyVUhVeZrT2VvWnL3NATs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

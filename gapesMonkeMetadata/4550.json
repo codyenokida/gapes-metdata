@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4550",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf7VysX35ycRfXtwfiNrf6PhufbZ6UPWUXV24GYwa3nET",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

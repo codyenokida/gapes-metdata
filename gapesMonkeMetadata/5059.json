@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5059",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR7YMNuN1QyMLkssxS8yXe3bkJhZ4Vkghyh5mSyQZjDjb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

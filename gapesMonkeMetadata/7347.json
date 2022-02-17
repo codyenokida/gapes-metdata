@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7347",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNwjVYpNny6WtGUvTucSmjjC2zdh2qKBu1PLm6YeeccYw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

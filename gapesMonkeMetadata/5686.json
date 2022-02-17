@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5686",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZk38HEBmNH9rUi7MprbkcVKZWtaEYTuNhkKe772CUPzK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

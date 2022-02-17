@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6615",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX3YMKok27hJNEbmXNmmJo8KSdbW9JhvpYdjXAhJMjqpw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

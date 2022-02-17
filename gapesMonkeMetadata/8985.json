@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8985",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVGdP62XTpZxDDfTaab2nqcRg2zhDFZy5DAFz5D6im5bU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

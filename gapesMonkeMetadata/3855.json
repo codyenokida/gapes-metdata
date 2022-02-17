@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3855",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVqyeSLTz8tUTwewwyKmQyRc8XsE9yBQzeULmX3f1Yhvy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8754",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd2kSdmBUgwEmm3XLYP2CwwoWiwoYow2LKPZTaSxFWra2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

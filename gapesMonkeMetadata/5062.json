@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5062",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQuZgCaWjYtBMk4gXnsGSyUFfntd77aVHS4TxRGW7htGh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

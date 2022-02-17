@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2628",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmefys7tKAECezeJqdtyEsX2Tyq19ihfRDLv8tX1fAE2qw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

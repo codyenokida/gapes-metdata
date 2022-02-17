@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #990",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVdm1UWeU2HeBhRACdyYwyAZ5WnuGNhsJHpm9eo1p7W7b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

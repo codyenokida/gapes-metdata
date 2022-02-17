@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4829",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNjVHbR3fpT5sHwoRjWNoNnzCHQSoLo4ZRbPhy1BW5i5y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    }
+  ]
+}

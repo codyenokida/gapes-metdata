@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5758",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbAdCN9HykfyMEJ1PjX7UwxPwaWaLmUuCNiK45BJ8fFnt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

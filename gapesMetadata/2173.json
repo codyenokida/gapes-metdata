@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2173",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPNuku4Z5kQ2k3CPSMX7YTkStBj6yCKg5HzuuYHESCk1C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    }
+  ]
+}

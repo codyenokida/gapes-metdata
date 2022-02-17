@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6378",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNbyCwnsnW6YHtGuMuFn12XMVfCgRotqbh9VFD5pcJKSs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

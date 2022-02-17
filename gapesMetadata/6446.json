@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6446",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmerZ4pmjUf6PjesQXGB1e7H23o2ZhfDKVEMhKVWmd9W7S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

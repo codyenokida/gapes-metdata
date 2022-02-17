@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5807",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdPWNbfvSKx4nQ5tetLqcCL5ep73nTGEyPvCt9YgAJnVE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3802",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeXLkf4j5BpNdPEoMEghPpoBdkTTGzCAnForqPZHa5ceh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

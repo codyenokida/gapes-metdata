@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9058",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbZ8uVoeXRHo1NL4Shva2xFfqY7BvNMycE7xFMQ2UnkrX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

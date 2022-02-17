@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6027",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNcukar4icUvDeJHunPfk6ybVLqF6FJvJLqpuFWJeqARk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

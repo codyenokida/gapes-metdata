@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3565",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWKoAtxDa965kzgGMaHhUjbKfujokZMTEP4T7VJicA2eA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8483",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVpMjP8pGfHi5rq2MoDjRHkJgAU19f1NkZjHnvbzfBVQP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

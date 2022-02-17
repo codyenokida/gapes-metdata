@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4113",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbvfCGNcsBkYNxXfqsFMLLgGbivSikB7iofo8R5WzF2nz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

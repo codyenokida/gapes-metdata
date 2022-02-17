@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8503",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXDoCvS55GdeBaQdyyFmjj19aoQR9nLVzczCYkTJbRdNe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

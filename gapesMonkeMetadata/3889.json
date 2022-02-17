@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3889",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ7T8928RPVuQY3AAzTyrcm2cRgvtPyXzG8j7erK7BWE9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

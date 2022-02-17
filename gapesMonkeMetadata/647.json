@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #647",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUBGdDN3Eepfuz8bNMKb29aofe7VBdnmbKPeynhYVqucH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

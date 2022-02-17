@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5808",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPferu7nJSnsXacPdjWjoGsQDNzqWWcA4M7y2XCEHkVZd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

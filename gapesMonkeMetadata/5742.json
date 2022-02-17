@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5742",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTENKaaGrxw99c9iTUjdTZqjzEvk9p5d8fgzdTF9x9N78",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

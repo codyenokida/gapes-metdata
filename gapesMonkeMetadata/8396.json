@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8396",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTUy8XfKGbRFj266ypW7DkvMbRYTSCq7ZXDE2VC8yHCRR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #535",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeihSkDZTs23nUbwxjaFWiVeD6v75Yz4Myfon85tag5oj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

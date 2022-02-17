@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8212",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdNpAWb1gLvK7AvvyeXmdevsz7ASWx2MnXwdjkjjuEaf2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5648",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYScuXMSch8DxJUzv16Favww1211wA2qcuU8KuhjQjEt7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

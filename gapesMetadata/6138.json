@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6138",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXqapWgx7S1oHeNbYpDog32cC8puqWVcGEwD5RLjdWroX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1198",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeSsPPbidi6SBPwW8PcUHDNWNcCD1jeMMrQ7gsMuMua6V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

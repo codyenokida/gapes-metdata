@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4618",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRt5bMbKBsBx45iHwCf2zeM8fbZbE3UMN8oVgeRh69JLN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

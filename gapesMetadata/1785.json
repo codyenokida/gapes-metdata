@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1785",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUKx2Sub6uZWCcEuaATjNhLUCQrmWv4ShwMC1vgw59VTA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

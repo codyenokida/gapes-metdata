@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3466",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVJcwqU9NXf83KJSqb6CJpUPGn8gfjYQDAVS8DgdGi572",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

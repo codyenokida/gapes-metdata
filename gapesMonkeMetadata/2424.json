@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZrtfFRoBhcYvz7Tksn8TGFuRp6fVfyasF8eNFtfsYxxh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

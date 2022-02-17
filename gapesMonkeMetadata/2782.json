@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2782",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPaatoRUVAeYzW3DQk2eYUgeKqRMm4J3PrLq62TBfXtK4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

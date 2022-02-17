@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4461",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd6EDgMhtJ9ox63dSGeivX78bkFg7j2Vv4XtQanXZGVYz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

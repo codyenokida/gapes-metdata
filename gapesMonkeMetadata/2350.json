@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2350",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmexLyf42xFBw3ESAU1yvBWMiERMUCFTkbAP6brDrVqzrM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

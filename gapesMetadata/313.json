@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #313",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPy5UEGKSVkcJG9dvLi2vCCuNPijZBMHxZN7aQn4LrcsC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

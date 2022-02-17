@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2998",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTKYaKaEkuqD1oeFKm3amAByHVMd2cauokxU94hoQhoD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

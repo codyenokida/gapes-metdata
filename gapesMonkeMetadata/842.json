@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #842",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRRm911RECRGx2L2h4e53ykonCLHNEGUnVkBGs4VD475U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

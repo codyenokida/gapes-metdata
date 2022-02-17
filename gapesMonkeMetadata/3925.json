@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3925",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZdD8WxkBvhGT1mdJy3YabBvsy8aB3BuHpHzdn4Lh4DZB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

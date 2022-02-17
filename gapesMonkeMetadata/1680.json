@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1680",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZKEniDwhhUeZnQyZw8MSCXvytDDYuWYqgJSXYEuYM5QS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

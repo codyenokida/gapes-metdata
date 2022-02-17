@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #999",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma749VCSdcuStUnTRe43NNzDFtDXTXBpDQZhHnzrHjkgF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

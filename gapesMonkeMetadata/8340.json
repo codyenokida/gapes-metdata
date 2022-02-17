@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8340",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRfeu9hMgA4LMcquBSi2J3Bcv73emtEZFErYB6rGSPu7A",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

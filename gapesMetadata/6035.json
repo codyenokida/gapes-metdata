@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6035",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYYGETfy1U1FxPmd2J5kJ9TdZ6qLF6UdAxS7TTVtQDfYu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #476",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWFAfuJCk24L8rP1Aq76faBWjqjTy5xEL2T4WUV3Z5iqZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

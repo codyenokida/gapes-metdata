@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6882",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbz4BQmuJ7HKLdyTsCiZgZKTmGyHVHPGxjdji2YU6nZVi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

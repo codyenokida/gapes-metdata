@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8962",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmULsQ6usKV6dzc3m6Q3qxW8E8hhquuxuYLq3KvmpC7afA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

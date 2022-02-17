@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8693",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSxLCa9hh5FWcoyAB3aAWXZRe4xwqfH4P1akZ4LeCwYe6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

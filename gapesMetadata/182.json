@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #182",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU7hUJ5yundFsHcH8UFTRPdUYJLogfPAZj6FJX4YLGQTk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

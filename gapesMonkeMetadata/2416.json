@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2416",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf8JwratEekM7mav8SGrJnZqhSLCy7Xo1wXorG5TGWoPM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

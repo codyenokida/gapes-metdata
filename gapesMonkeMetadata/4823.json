@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4823",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcq6zZqP9UkxdvpNvbiEnxsQrVqRHbKo6oznyxkocCfAf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

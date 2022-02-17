@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc5YY56SXstK3SZ5U3NUkmaJu6NF2Pn1VfbwHfQSP39MM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

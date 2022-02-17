@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTCFjFYrEKfPvCVzm86wG4J9TYeDySEeVnyEZdg7vzWVe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

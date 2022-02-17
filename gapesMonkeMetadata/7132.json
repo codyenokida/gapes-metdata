@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7132",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYknRqrbht9q1GYhx8ndHPmdAaKJ6494c7AWj7t8HdPu8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

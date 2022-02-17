@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7601",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTaXuUvp5cnejJnAH7TKbSWTV92G4byCyvtBjJDNVFhPz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

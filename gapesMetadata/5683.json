@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5683",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRtVzeheA7izzx6LP25qAsiMG4uU2NM6n3GJ5V55FPvp4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

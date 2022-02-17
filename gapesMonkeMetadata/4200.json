@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4200",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXjiNW13nJN6ULjiBPHfZ4wxNVezBa8afDncYiKZ5wt24",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

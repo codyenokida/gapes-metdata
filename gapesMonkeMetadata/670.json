@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #670",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZAZTJKGPATS8X2qutxhY4e3an2Z7Y6g5VytSkNWSgQER",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

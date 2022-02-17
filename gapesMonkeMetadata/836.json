@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #836",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVKqtMSSQHZUDjKDQt766AnLokCjxo9KC9Apf6LYQ4NoB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

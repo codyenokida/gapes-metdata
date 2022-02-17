@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8142",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWnL1txZtzudXT2fLzXF1dbC19Q9Z14VnmNPj18gVCEaN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

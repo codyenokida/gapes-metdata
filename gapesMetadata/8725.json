@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8725",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNj2NUkpP844BejtZsHSvUkaEwGHuWoA3iq1G7gN2G3mP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

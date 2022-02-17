@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6327",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTM28WB7KzfSsHMRQWtPsB32QN8SYQV8v5vnNnAX7quBc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

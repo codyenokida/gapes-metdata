@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6522",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYh4tPho1MJxgySxw1AVjcAP91dTQW3gnyizfWe1JHUVk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

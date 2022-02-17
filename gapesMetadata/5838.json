@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5838",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf9nSUPqLnFx94HMyz2VWeFSt6735MdpXjHwEQNnz4avs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

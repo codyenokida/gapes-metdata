@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7320",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP6iqLaV9Ti56hDpCFAt9kCCDEpbxDtFuKAwE6bTTEnyU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

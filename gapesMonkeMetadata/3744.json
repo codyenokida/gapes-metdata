@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3744",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaFVkNyuYCUejZ5dpCLT7TtJbzXAYvwpZtNY2ubQ2PXkJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

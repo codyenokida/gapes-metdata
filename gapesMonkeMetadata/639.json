@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #639",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcFH4goM11VtrD8vRZhvkZuUq3yYFML2bWM6pDGZKf3mN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

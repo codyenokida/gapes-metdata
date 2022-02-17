@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3899",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYdZSXMjutR9ouHRiLrh9dPK5yQH2BqwHEdDFEwEPWe74",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

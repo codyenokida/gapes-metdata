@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7922",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmahYf646uhXEibuUPXn9k7S4gY7mvtFb5kPF1fPj6dFDf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

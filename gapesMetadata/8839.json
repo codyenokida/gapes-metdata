@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8839",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd9nCxCTpi62F6TfSExwUF4DGss5BUoWS3rUfeRptS9FU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

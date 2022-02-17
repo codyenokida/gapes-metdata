@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWGFrus9zsMGw1i4Q7sz12dPyARLzHipVzURnBfhzg35B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

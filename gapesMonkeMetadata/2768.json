@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2768",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSLBeX1B9Q9psTetH3gHAFa4rZCYFGwJaT6wXU3ZvPRZ7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

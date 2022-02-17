@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7213",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd1Z2ZTue33F1Fe1aLGK2gqEazH3pFpYviRaxWcAnyrmJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

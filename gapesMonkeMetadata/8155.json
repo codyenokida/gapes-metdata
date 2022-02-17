@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8155",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPxjfGYnidiovf8REF3H8jyyX7uK8pKb5sKUkSpX3G6y8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

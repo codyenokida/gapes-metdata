@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3711",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQFgwgubErMEG4UKBtjZz96Rh7ejRUDcyckTUuW6bP4Vk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

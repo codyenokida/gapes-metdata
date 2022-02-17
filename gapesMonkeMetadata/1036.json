@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1036",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQP3QCnv1kUJ85xLjWW2HrYmS6Jubu3tQk2cYAoMkwFda",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

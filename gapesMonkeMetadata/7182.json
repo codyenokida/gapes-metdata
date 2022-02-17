@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7182",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVBv2hjkYhpzfCMfNp8rV8BJ6XmkfKVNAqtxvmuC2EKhS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

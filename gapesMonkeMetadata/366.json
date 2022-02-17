@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #366",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb9NpyB1yF5qFkjEt5nLLTeMK2bTxBPynMixNF9HnL3FA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6182",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVAQXWWeRW3jL6dZg4cvHLKmgrz8cURtLtSshkYJLFUpa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

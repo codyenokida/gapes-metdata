@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5261",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVWS175oumdgxaY6ZgFqazb1Q5NYgCiUvNFnrNAeWUMxo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

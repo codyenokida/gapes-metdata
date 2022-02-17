@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2460",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc31hQKoBKDZn39HPdNTrcmSW9DmdyTvY7DSqPpAjjfS4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

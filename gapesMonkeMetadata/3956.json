@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3956",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma3Ag2GtLXvu3UUPoE1gN5X7YQ4pWcDWoPofp9rxEnekS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

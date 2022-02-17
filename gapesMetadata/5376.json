@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5376",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmaadcc246VczUcysfxBwXHtwtm4H3k46nFN2ocC6jabmX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

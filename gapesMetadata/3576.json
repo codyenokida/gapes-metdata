@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3576",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYcZeduvkKaoHDuPjPoaJkd3tERKQTjSrhGJ8EnDvVhA5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

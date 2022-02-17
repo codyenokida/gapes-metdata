@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3785",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ4UAcmG9VvyTpu67wx4hHehrvSTXE9Rkap1pmURULQW2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

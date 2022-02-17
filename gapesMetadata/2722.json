@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2722",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfXa8ynRWLBiKrAKfWHnFgt8RUi59E2ro6kmkierorspK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

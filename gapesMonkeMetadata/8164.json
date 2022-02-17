@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8164",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYpzhq1AEvkzeT2tugzQeoHncqtdSDqDzhpBU5tw3fcQY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

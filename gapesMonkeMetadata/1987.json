@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1987",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeX2S36KFQ3Pv71cYPDuFY2Vmbt8VTDWh5tmG5AHHQcZD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

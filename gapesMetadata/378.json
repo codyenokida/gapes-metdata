@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #378",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX9KRcBhRD98BZUFscgmY3zhkktUr3iGkFgk5YdNGdCdA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

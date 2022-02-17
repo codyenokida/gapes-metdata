@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5463",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRPKrUxA6fAAs1NK2U6qkoYNuJCch254JPJ3FG1gTRpZt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

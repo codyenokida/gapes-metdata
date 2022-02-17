@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #500",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTvbSLyF4LF3haJwkm4VkxKb8wXfjd3qk9z2rG4P3sEdQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2860",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcKdBbnNqrtRehPyRDXVhtit9VA49GK1CWfdeCRo6YpQb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

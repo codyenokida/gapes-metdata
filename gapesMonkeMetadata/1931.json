@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1931",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ1K3LsAPtEJgtPzj1VEcRaBwnNB7ZjdSxF3zgBkndi3Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

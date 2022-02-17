@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1939",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf9iFU5izFVc9D9Koq46oKTxGeHhg5DXejUsW5sWMZDUr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

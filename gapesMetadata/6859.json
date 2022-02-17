@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6859",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYNpCD8KS81LBFH9PBA7VeCF2iTv6SBQEtBekytLJnRgG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

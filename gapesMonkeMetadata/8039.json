@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTE2Xc6ML6RsmzxbJcC9NpqcC4MT5X8Q2Xpwd8ipew2kw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

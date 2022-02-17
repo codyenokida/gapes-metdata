@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4436",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTu6TmHLPPDHMky8CiL7Xb6pc1xRPNiXjQGyAakosNgki",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

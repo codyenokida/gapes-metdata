@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1616",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeGyoYnigNDW4KLjiv1Ec3n51EDCTRyahZqbMMvU53DMD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

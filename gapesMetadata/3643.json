@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3643",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZGQupAB1C6c8En92MEq27pndZzoHjEucXzxsfoFpXcHa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

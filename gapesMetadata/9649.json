@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9649",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdY6bDVSfNUEoxVgSTtdH8qffEd5rqeuW2V7Czbki8ZMV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

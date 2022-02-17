@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1203",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYjf73ugkdoKeTZsrnppBqhFW8EQGdYmfuK8TcbtJKmzF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3759",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP39sZQht2XCMGePi4Ts4zQyGSv8RsYB1ZMCjtF7CuC8c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

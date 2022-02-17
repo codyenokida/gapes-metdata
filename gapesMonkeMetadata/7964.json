@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7964",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTTtZJHXPgknsucFxFetmNzJ4jnR5k3T7y8uJNge1uLnP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

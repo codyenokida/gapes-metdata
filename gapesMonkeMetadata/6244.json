@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6244",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSRH2CxYsZYE5DHunCDER1vGRRxHX9qBQEq7kHxnyDGBV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

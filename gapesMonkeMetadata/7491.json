@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7491",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWduhAaB5NueEdG2rDcVvhsEggpKFcUxD7G6tfujrkjpk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

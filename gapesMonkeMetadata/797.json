@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #797",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKdHo1zdgzXRTUL9y42AUQ1bDm5TKKqwEstAw6feGZBB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

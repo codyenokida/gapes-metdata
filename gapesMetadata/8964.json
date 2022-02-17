@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8964",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXaBAEsTMCMAdB29xWGm2Wy3jJEydXHVSUYFcBG71pR5f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

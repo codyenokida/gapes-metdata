@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #83",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXVinL3XPYWkJVvW5B3cZXDH7e8y8NfkYvsmWsgdDEphB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5407",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZXUBLyTrtcemdMqE5mBxvacdHu5jufHWiMh2CLRHA1mD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

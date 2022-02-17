@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7963",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSV7qX4DUKyBQMD2p2L5QUPAtYPpQpP71Vd5u933fh2Bz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

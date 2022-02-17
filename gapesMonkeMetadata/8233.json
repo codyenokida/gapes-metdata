@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZkdvXS1L9nrEZ7Xqtto53Nohs2SBknQcUUedwgDJzk9P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

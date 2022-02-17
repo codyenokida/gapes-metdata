@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9055",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUh85oHJkwxktgehj9f5yWvYuNe4xWWNWCgqbCvkoqQmJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

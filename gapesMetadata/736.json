@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #736",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYmpaiRL6HX8v6nvkGCdvDkxZwoWkYLAVKp8ttbRXQZgQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

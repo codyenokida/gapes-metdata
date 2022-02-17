@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7269",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdL1Tudqz4byDdsEp8X1PKQHxk6uC9o4Hr8zh3Ly5y7MF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

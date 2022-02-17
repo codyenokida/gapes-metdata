@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #989",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJwtQqJbWpAarEMdcqQdgDJMChbsbGQKr7nYL5mFrWNB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

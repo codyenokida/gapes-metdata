@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9681",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbjeXUQStAZ1uMnMdgtkrVgcpUfsv8Bjafq4MoQjivL5n",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

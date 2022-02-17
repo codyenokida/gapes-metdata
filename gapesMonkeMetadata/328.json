@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #328",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPeRYUi236sVevB4wW4hL9cnA6b1NssNNhZWDjt532xHb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7880",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcyyyHero4XZbrvh13fjabRLUfJGGT4xwA3SgLenMS9jF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

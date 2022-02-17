@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5809",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYgJWZQ5ukozHSoaiZ5hoYp1PufMrLGxFNV7eAGYVNBv5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

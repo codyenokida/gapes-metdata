@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2488",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQoJuQekVyzhuqEjxh9jsXUh2ou7AFXUEav4cyfvSfAtK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3266",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcbyUe7s3erdLbzEjPKzrFaabWWtDXLikJZjzn8LW2BeH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

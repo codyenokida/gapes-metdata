@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4067",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZjyNgTewY2iuA23CiHrwcN5LN6CrEo5NC5HTtRVrgzWt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

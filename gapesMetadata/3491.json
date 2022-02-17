@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3491",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme9aVWXWpzz4GpALfTyQk5Tvhb46EKZ4Fai6LXaeuJNKV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

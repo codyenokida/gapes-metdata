@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6538",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdZ6XYdHD6yaRZuNGkCiJvEFBpj9c7en3FPPhkH8qhVoq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

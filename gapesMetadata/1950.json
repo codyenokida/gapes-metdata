@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1950",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmefonHKnsTZd16E5eZqSjkaLk4rSZD7T4bXk9hzWVMfVM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

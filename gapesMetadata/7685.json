@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7685",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNxQ9ga3aUU7b92dFoJpbzE3Ra4phgrna36xDDcGAxFrS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

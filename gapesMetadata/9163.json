@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9163",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQgu5AcxVk3sYfGiEgT6zpoPdYUYF9Bwg1vxCc8EBo81z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

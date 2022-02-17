@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2125",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU8CMarhZgcCwgiiM9GiYctAtWPse7pPMYZTK5f1UZ3hZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

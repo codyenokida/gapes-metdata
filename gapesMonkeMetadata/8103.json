@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8103",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTimKXAVDMcm3NmLDn3WZ6JMSewqh4GiwCPdpHj6yt5QU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

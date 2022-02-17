@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1989",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRW5v7KyYztH8vDG6KGVff4tMJWPs1w89WspqbLy7u88S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

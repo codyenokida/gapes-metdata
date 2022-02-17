@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5976",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRc48fATJFEkAggS9tpZ86aC5ukj9rVseiF8oy3fdGW7u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

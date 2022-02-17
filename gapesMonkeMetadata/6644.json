@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6644",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmajJ7CDKzCcJ2tve9Ggb7DpdG93F5K39kM9m5uNcDc3J2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

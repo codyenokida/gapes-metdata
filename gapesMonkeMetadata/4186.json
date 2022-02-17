@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4186",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd7jNoTbXrURCjgZ8cdqz1sardPhUpWZqfJQTgD7RbyoG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

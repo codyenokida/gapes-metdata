@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8334",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRqRN1dCKYJ3fbaHam6ybM9AbPHBcCoVZQxFn34M9pWFd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Four"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5590",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPY7rhJqJavRF4PcGY2hQBU8Pd3iYwXUVV6HSv7UerzXS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

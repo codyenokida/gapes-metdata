@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5249",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU3FkpcggnSF6y1ttWbS7owYY4JKxWoCujAyHHeG5AEbm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3716",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmawW1WkmUELyXxq7UPbzyYstA26hQ76o9Gn32Fxpocomr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

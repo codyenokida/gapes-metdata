@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3217",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXgV3PFQaCwNHRQAa9cioGw2QCDq2B8HecnJvvouYTRY6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

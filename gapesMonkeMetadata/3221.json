@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRWFwejzUkbhn39pLuro8krCzsJUvVnSJjmDHvBoS9A13",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

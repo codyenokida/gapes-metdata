@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8422",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdkpLxVZRrWN44vZ7SSsLXtPJw53ASqdJezdUQfZb6cpf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

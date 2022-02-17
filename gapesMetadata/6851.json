@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6851",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcFrfRs5DB5LRSQvhUPPoSUJquPTAe13eNFWNhd32DRkX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyberpunk"
+    }
+  ]
+}

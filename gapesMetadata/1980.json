@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1980",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTiaoSUA5eKCY4Pb23dX1zBrEGnwE6jrVd9ANuhGqcV9t",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

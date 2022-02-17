@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8736",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdqgHxKmeqrdk7z3fwCudt6w3YgniJaJrVHT21eciu4yY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

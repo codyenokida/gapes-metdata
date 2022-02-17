@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7382",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdt1KJUwe45eCvMXe2g8UHp7hpnqf7Tt5gVQPdSvvxhhF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

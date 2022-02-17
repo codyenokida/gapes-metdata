@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4534",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTtPoeDU5x6DvT9e245Jr46Z8yc7ouUJRNcPJGUWAzjBT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

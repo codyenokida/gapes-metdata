@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS1Y8kJhjXR5FomjyEsJmVQnWaB25rfc6XDhfRs8EvCwp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

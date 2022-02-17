@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8866",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQsAWWGAvaAAYaAYF6ZtDybDVcGaUZah8PDYHpco8hFdP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

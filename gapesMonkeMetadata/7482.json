@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7482",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR3CvQu6CzC6Fjb7o2mYhmT8r3nvjT5sR2pyv6w8oZFT1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

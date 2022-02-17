@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNoMT32SbEpUL7bjXkPaKtJ9LrPYScpVdYskYCxNvjSAZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1643",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWK7BRViPsYMygfZ4zNR95m7bHRkpJkEUj6cEyXrbo9Ve",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

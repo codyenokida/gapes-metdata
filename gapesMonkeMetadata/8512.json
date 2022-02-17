@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8512",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZLj1REkCTU4JgygKMofhU9qrPR2TG49kaL7hh4UHuJYJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8251",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZgCVfR6XjZYCY4qhoLVy6Gtwpwcr42CH7oWyau1ffAiA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

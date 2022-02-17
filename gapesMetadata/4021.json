@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4021",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbKDMMBAEmuZ9eqcEo2xoJWVHZTfPpcs1HtUNucbZafBv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

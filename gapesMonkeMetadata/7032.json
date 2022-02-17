@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7032",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdDt7pqjsrDt42ykxgxeBFiXqf1ohke2vij2dNbSTAunq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

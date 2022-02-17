@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3413",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSHddbHYA9bMN2dVMcMy5ewPeANwHmngsiHqGhKvwA1ZA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8575",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXNfwF7oHDuTqRRMDnGzcUwWvZ9BAyT1gEXESW9UhFR7Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

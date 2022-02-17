@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4820",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXqvuBZ1ux78A347eeS8RFkFtsy6LWA7qoAZVAi13gEPd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

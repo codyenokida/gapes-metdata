@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1213",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaXSqMGsjnJRvn2rnd5ejmXnQh6N6QE6gcPbetkguQTGM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

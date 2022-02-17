@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #248",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXeEcRdM5o8Kyc6fWGNuXQbv6mfZbyBkdvYYXXWaxBniE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

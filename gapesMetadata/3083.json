@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3083",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRSBFpvHKGQhmvJ1yuVoDThMLFpKRfj2Ymc2dTGVma79J",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

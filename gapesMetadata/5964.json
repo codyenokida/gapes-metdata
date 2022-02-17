@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5964",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbjbNYCxbkspdimZEiu6fUacPyi9zxCvEnT2ae7c1T3eG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

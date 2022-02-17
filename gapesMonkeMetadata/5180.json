@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5180",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaCkNQJ7QoskP34NdbaQEiWMpuovk54PsQunHFyr5h6dS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

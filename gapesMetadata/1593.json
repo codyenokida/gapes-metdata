@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1593",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcTJcB6a5jaenuwuCbW1sMC2yMaDk8vLxd75BKcTdresn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

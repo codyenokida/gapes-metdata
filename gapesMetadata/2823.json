@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2823",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV4xaK7HCeEC8JmvdCn2N7GEpqQD85qGK4hmKZfAg9c4J",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

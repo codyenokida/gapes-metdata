@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaTzt6szu8hzMuKhjL9QhpKeK6Ra9EVsYS66WAGTg5oqq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

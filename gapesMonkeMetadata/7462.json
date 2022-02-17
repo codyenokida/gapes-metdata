@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7462",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbDibm6VzzkWHTwhszA9z8As2MvPVP1xtuE7uajFJXrNF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

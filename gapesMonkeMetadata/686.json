@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #686",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWrC3BDfsayMtxt2U47rYYS2bzcyUDzyEmDP1TLBHvje",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

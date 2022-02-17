@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #746",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQrXx3VBUZasZVxfrU3zjoTUGoXXpyxPu19vhAdNcGX3a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUgQyG13MhGoBsbCVKvpijwscqWu6jSQYSDuc5DETD9zc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

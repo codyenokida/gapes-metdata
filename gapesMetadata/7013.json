@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7013",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6i5cqsGjwE5nThxnMULiRGqg2uW75LVYKxKG1LRZ4Lj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

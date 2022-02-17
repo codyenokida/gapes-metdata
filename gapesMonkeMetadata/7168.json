@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7168",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd9BYM9uh9sow6MSAmrBun9GE8WW6KBsTT4bV2yebSmVq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

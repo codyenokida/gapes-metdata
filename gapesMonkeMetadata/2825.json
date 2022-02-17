@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2825",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVrSys9tarouhuFUXsinRXXPwpbDhWbAEHg2nv8nwyG69",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

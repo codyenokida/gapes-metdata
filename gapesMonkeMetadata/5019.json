@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5019",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZZmoW7J6pGYPyDJiBp4WfJarTbWSEXk55P2msG8fcMwy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

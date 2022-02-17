@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3136",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcTTHShKNWG2P71nZJCNZyTdncqw7CBza1A1gxsgjFZJb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2860",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPV8SkYQWCoVkSciW5zRVRViaui7qXPMoGXnXKUYBcTTr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #213",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPGNwTEcTYRtt5qASYrvJpMWvLyGLEg7Qdi7pMgpdgeuw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

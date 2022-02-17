@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2800",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbeR3BR9TDzAoXPB298eZrDcW9TUcQh1T7BCT9Gubd3tx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

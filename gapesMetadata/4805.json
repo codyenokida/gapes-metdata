@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4805",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcQ9SuE6vLVgw2BpFTepK8kA44kWQFkPDHNhVbGaJr34X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

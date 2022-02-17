@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3935",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeigjZ6PYNSKmjPkbhohiRqcxSCro4ZFs4DFVpXVrCDs7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

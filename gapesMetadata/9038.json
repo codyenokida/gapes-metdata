@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9038",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY5jxNeCQzoGMbh3PDfdko7LB8vJA8Vu8ZGRJWBAfGHgt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

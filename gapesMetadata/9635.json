@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9635",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSvXHKoFBQzndVBfv65MPL6KrDFfFM1rjCQkDvwpc9Cnn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

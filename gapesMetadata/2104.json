@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2104",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbL4iaGjKt5CciFo116qZYHNf4dMG9SC6LowcDVKePVRu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

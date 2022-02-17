@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4201",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXHBWWyz1nduVc3KRkeKrDSKJ42JzB3x6eeKtc93qrCdk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

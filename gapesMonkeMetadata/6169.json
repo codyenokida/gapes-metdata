@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6169",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQKPDjCVjKgQtMxX6ptGJgUz6V6MU6P2cNc9eekbgwr6g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

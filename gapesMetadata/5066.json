@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5066",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcea999BvXNmQPSudNxiGcsgoiwaZzUUfLJni72NRQkPm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #843",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSQ5fzk3djYPgx1xj66w5FPuK9E8AL3LVeagy8p3sQJqV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

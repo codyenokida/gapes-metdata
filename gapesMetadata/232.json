@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #232",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNgWdBKDCZ9cZDHYTK9KaBx4BJz9PsXUnEP2z7V7NHwBZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

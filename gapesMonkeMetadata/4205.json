@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWTd9EJMotVFGCNP9AgtF46NdkFxEQnwe7MuPk3q5JYCM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

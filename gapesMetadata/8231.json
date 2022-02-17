@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYwLH6ci4KdBpFoFZQbCP4v12BP18VL9n9K4bAjx2mL2N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

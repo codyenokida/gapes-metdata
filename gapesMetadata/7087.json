@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7087",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVax9qLgoivnm1PGMgWcR62nuDSfpsou3ZGYizXnFxvJp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

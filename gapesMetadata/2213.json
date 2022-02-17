@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2213",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeTP8NxEf5UR3zAJdAZ4bxfgJWgueZXnPWS1hCpDauMGQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

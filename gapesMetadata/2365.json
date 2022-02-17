@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2365",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSvd9gLBuSodzAas2m16P8ioK3H6J7oZ8fiEvBXYYhX9Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1682",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQFtL517WE9bGykRAmq3MZUcM6Tq3BVEMUv8GNWhL5b5X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

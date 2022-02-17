@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #766",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXz8Rb6hUjc8rK5mEnXsjFyMjo3t2fpQgHmWpjD4jxd8R",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

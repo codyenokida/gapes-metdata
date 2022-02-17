@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4580",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaQFcRwyndjr2mimzRukffJt8UV3iQJuRnLVgSQWj7Fky",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

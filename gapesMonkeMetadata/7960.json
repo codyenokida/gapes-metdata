@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7960",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPgU1PrsQexdfkqJKFJFQ6FyzRFmaBzhWYL2upfF3eJxt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

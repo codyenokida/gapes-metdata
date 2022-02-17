@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRSLARpdbjKobM9JVT8gbmcWXAwMxEFotmnAe4w4w7rBz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mecha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

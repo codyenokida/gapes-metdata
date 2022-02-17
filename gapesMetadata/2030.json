@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2030",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTAFekwGenz8fPgVJr3iHDw3SJRTbYAV7nW3Cq1N8WQtV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

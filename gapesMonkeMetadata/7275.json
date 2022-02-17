@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7275",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWbQSwJFtjgYVF1iWKysT6DerUobioeyP7c7wRboXAtZo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

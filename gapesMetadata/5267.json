@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5267",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbKyNwxBgiNQhshAVTWqTGss7UeGe8M7wwkYBb865frat",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

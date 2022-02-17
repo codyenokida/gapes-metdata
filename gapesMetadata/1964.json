@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1964",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTX8cTtzVXy8MxLr99Ymmv1oJVVncS2wJMn9ZUkbL8jbf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

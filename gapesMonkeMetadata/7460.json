@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7460",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRb7LejP5sM8nQr7c2gwU3mCJG77xdKRgNaKdEcbMe8QF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

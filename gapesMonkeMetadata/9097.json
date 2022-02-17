@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9097",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRSQaLHaLnxzxYQvvb1XKQd4b74dobE14aTwELZ5FVxn2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

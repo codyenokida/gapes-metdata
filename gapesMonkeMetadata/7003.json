@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7003",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR51DnVKRE5z87pAuszb6qmZWja8cHDf3RBm5uUFzSs5P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

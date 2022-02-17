@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8244",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQNPDVKB3U5Szy7oAdCyLzDD7Z2PdjTJ4RepT2j1MYPbn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

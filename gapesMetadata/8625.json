@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8625",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmebhzPU6aTYoteF8jpt6VPrLMf8k3VY3BfZZ1Kg84rp6m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

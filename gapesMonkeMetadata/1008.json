@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1008",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWFaXYaFm4Phcbvmb9EYp7TeqCQTMLzBzoEu4DR2H4Cg6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

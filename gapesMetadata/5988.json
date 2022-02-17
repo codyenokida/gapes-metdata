@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5988",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeBAGF41m1NQpfHGaQbn6U7wq1BFDD6ocHBxvTz2Gf1iy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6658",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTdD1yjaWRjGYxkJxYcU7sYepHEeLPo9tx8GupA5oad7t",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

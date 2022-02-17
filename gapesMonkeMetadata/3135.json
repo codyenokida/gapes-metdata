@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3135",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXSrTJxZoPpdudSbi3RAeABoS4oQuhkxxqwohiALaeqkN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

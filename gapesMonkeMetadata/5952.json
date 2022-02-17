@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5952",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPYi1yuHf6kzhBErLZ47q9Q2iKZXXBGMUn64Jxksj56mx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

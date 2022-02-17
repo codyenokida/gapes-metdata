@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7468",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdDvZhU6hEyvcTsARMbP2CgKuWyU7a4g85QArpBqRs1o5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5784",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbps8HF5FLc76GbGny9Gay9QqrzoXr11NpvPvYmQ25pMH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

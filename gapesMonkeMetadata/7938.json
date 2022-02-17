@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7938",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS8YQQzN8e831WffdLq8RjYe567gUvUWeYJtJfGHh8T9D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

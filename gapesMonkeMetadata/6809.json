@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6809",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ21Wh29SS8CLmM8ARDqZSeqcBcZBSHcPoDmTAgSPDbmu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

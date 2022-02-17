@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #873",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWH1ZvYeUpJh3jicgGQADSnJvVrkkwzMkLmDvoX52AzWh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3904",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdAn1w8wgxXdZHhLyQRQZPqhQyHS1ZGMk1hnpvx3QWhpF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

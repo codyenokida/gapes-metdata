@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5023",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZXTWWAiWhyVH4ckJ9oTToeYAxZHrrjRaBDZ5zoUZWQpo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

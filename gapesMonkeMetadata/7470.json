@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUypp5czxf2kVaaeDNGuuP52zJ1TJjKjZKQtJTndnP9Rv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1903",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNY5eGbWVvsdy61Xoog8BFLxsKXqfb9Gj78pwHNB8vCV3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8875",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVv2mGBT8p7QTDqK1BrNbKLTeE9L45TfirbHQjS5dRNZS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

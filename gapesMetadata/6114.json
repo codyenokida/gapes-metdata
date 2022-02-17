@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6114",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeFpN97uh8SxFFX5u4UFagww95MTXk7zEXKpBcSo7vP99",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

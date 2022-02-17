@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4379",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUvh43NXS3KQPsjtdwXptA2F8GDFmLNw8nxgXYbYwejKa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

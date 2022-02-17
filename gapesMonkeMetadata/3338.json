@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3338",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWD9gPnf3pLCDc41is6EdWSzDAS6cT6C7nmWA21QG6Ai4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

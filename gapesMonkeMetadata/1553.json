@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1553",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdCg5aDaJYC7R7rB8UDEVY9Yn6m2theeTCCKHKKAVhUqm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

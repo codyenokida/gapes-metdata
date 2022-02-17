@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6197",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNy7q5kMKkcw2AcsQnoN8SC3np5c4AkcCissPtTmywJzv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

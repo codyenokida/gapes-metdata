@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7475",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfUyXuVoKUaw2pyNFTJ8fwKj7rNwYBKzkEAwhXMvcrPg6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

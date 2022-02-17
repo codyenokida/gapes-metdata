@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3801",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRRfM5F5XSv4PujoaWRwmxhdSGFmkd5xSqQyaoDZpi7Mc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

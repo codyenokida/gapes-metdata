@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7158",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTMYddz6hQTnzuAWnT4ha9YKwmcZNjxNjZvxTwzF1S2Zw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

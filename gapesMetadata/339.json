@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #339",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPd824SX7hgvt2hs5fuaU1fcZBbtGM6F2HHrR9hK1i2Pc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

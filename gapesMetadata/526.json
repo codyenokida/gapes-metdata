@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #526",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVXBWSNKGkpeAnzx5xZtE9ZfQKxsvCdYSDaYJAcRn2LYV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

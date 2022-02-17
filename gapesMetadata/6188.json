@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6188",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVMLThkTUi9DSD3sYvTJ6GK2aS9GMeSnr1cg26Bs8gE67",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

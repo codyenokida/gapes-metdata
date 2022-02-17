@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #305",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRuffY29f8gKoUvWMZprvqY5taKoJRt3YC2jb6sLLfLj5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

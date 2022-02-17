@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6033",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmenikqYjjrtkFr6yAu5XW17sSp5rTzEd8EqboSngUPHNW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

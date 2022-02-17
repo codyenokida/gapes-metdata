@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4002",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf21Dw8joXiTBYoqSGpdPwbVaPkWWZmpofk6bJrPxNfVB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

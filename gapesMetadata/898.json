@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #898",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZrtzfWWN5QR5bgCtRd31jKZEzHyJGNxrKqUyY4vf9LHZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

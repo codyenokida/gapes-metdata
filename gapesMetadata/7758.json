@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7758",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRU2j2gKnhMhyEiPPcihDMdzSCQB4DkTXaAx3Tr4F5AVQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    }
+  ]
+}

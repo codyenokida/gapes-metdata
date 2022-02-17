@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3110",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP561j1175JhdgcJWeNiFcvSWUg5r99DJSFA9X8SMByw1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

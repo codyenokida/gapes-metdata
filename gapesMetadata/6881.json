@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6881",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXgBVDyj8gKtf8WocTnce7fNGjpYbM5zf8C7muT3smjPN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

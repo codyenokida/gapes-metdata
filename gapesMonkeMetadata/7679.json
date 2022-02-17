@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7679",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPmU1M3cz1GLrkrNaH9eR3jPNrHxxfzGXzBja3opm2SX4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7439",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZeTjuQp9Rhwa27F9m2X6akbyBTyAaDG3RYvE35rbRd1L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

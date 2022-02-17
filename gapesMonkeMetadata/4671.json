@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4671",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8ki3Qok3yoEnHX6FEoRED7E1XcbeQoAKgaXArkS5Ghe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

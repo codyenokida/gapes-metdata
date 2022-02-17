@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc9sTagMRCXsT44uEmw5XwZiqtLTdgeQj62MJHhUadR6i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

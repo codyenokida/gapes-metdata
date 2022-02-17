@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7061",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNjeVhLr4YZS4WYxzm1HWKPs5kHSzU1mh7qfyRZCKwHKx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

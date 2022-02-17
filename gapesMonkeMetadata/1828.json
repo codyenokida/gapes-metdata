@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1828",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYRttPP9ggum1TMumnyz9fJzkEnn58m9A992r1HXY8o9g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

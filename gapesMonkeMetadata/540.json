@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTc2kqQ9WRAXe8pE3cnMNVxesqBSjwnsG25wdxXAp6tmb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

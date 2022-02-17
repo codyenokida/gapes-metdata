@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5712",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmezLgmFiuW7JtT1LRhKjVwC5oaUg883o2tdELDWcsjuHu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

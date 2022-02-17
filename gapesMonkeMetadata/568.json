@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #568",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPkjzJuMrYBw7fLJw8X2syoqCBuHy2LngRtPUk84M3CUy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

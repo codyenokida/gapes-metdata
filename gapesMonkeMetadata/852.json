@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #852",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTAznMGRNvPAN4Q2mmi2KzA6xyM3ZHupPuDfFVvXhj6Nu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

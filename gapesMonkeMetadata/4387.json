@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4387",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTM6MXF3LeuTyXMSdUbzqoFqgoanfCQ7op7mkwyFZ2gHT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

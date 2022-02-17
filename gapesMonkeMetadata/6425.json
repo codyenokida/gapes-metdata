@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6425",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV1Bf3mta7qDjnEAQ7iuv8L5n7HMdbvdTwnedNxJi5Akf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

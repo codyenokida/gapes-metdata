@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6395",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNc6AahGWawdfRAzLS1pEjNPgsJfZ83aRBEG3wDhdjKF8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3862",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdmYtbEpSDTfpXY5DMjrMsoY5T1ysUkhCkjdYSazbeu6a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

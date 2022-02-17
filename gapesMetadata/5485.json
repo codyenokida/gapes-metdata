@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5485",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbF4hHJaVu1QvAadx3XC88KuJbGC4VofLG8mcq8ZeUmTG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5248",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd9NPYbfXDhnFgAxQA5Eo5pwDP9N4Xydh8S2ATUVWva58",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

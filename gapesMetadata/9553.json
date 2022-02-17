@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9553",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUK38AM2koeByaw34LnS3xPE2t5Er9RmsMPNYV6ih6Hnh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

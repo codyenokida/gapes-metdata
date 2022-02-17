@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2062",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdQ7TY6edudYvK1Dq9CFXFRDZ3EPddbRtsTYJit7x7BUS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

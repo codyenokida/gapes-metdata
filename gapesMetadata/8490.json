@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaYLdGoRZBaRoJcy3N7XY3tneTRi54UxP8w2fADNGCBPM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

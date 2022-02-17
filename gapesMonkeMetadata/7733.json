@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7733",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQfVBhfiLMPZ3TPRit8NHMfkocqTNZDLWTAtTjJAfu4Cz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

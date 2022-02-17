@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1019",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPwgXc7vyTN5aiJmi1fgXa3qm2zPy48gfMPqUsEgpnkF4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

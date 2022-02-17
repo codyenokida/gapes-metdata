@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4557",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYfRrhTS9o1GTGMzZFNq8UxwURmuPJ6GEMiy3b8Lp48cz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

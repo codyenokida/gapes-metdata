@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2659",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTDmjRbqGxY7yP5poDwR1FBXrsGTLc5T1d42pK8xwJ33Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

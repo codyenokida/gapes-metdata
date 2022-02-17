@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1662",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYBc8N4YpnmpE5FA28vDpgdnQPeApGUVf7g3HZmn1tHHf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    }
+  ]
+}

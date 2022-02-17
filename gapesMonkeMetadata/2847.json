@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2847",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT7mtjpCFj1e68vfCpA7CcX69g7foWS32R8eeq2CbgMUR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

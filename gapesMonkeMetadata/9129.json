@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9129",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbTqkv778YyE6uNqZPR5Hke55U6YnFzN9iwDSRmVUrzcV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3865",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXXduxS8f75aaXUZ8j1cfQWgQHSsVYKpcnyBwE1dPqqyi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

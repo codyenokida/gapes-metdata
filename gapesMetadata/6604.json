@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6604",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPKcACVEPn9jnST9Ty24khMRVuu2L8MgX1wvcCBLU8aG9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2357",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUPMjw5JVSFiRqjG9GWfm4eJT9pMGnUFFyRJuQG12R8bU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

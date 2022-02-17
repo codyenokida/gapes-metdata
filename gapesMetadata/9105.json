@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9105",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQFVnHHX2KBmgaxhU1aN8ftuFFxsyFgMLMUVs5n7AzBHR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

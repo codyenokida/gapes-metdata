@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7023",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTQtfHK3uMY75UHmXPUdsAjfM84YV8ViuhfFAMoZJBU3H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

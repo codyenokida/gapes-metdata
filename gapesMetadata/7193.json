@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7193",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbsBcHs51xLw6d4Xy5znwrnKFBhpdVuJUu2UNeHCoMLBB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

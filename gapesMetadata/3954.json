@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3954",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeSm9DMQJTuYTYNCNZhf7V6zGgnyoDPWwhCGMzr7VgS3e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

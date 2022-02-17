@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3487",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdUp5MN5jdXKpqSJRu79j2hborHLYePqYD8SENTo5xJdG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

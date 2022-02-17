@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6323",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY87d1JLPrpXpBB6YKCv99VQV3WBiF6fLJZhZaDqsgtd8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5387",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWvDDMYi9rDbegW3kyfnPz5pdPNkwrkV3PscWA1kn9QSG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

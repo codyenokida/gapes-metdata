@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5411",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVz7FTF3gjX1CLvNRMxtNUztk18PxsNgK7C1oK27vEmZU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

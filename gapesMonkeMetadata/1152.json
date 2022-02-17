@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1152",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcDSTJQBVbRTYN7Xnv4jtdEDu458Q9rdVdpwL6jPqHrfo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

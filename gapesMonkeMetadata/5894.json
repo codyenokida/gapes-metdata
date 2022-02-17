@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5894",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSYfGRaGi55Co3Kvpv1Aqz9vEgNqvXdhcTZb2gUar3xjH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #179",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ3tF5eGjkCPEm4mwKUCJC7pHjAzKK55hVjSJnTng64oS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

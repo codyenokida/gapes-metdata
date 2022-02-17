@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4848",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmST2D5kW2m3HGbkPU1mCPCqXK43mReiy71soJtXm5yW4m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

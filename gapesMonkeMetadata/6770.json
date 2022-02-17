@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6770",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZWX1WEHkNgoQwRu8aLf9VVJUyDd9jVcqdahEQUy39H5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

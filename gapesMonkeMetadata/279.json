@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #279",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSJBJtEEyfDAU8o5Mdbd9oRZHZ1zKEKA6n1PV5wUpnUoq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

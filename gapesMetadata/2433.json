@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2433",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcUMQxwTWFqeYo4wyvhca8Ni9FxRjpTaDLSbTfKPWEZJ2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

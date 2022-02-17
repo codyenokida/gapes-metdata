@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #91",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmey4YXGjdMmkLEakMzmFCnmTMJsu1EJEF9K9VM5vqXdXR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

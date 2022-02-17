@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1414",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQMeneEYEQupsvNKfJbuhoefK2Wy5qc1Woc4D1NMMajaV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

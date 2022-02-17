@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5566",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXgQuS13dHX4WikXza5ug1HzKqNXkCFH8wv4HUrpPutaT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

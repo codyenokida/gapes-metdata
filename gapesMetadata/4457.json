@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4457",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTefsXuAYQpmaG2hknS3KhizqEKoGJ26RpL1TU9HYL5DG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

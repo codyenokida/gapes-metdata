@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2962",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYuCQR9PenzDnN53WseWvrxB5a16f61XtjePm1819RMsn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

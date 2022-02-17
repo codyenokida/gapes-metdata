@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1562",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdn2Q3h3b8TnprAUx3w37AGfvJrB2ZcYerMiFUzgP8ncQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

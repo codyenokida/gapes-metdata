@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6632",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbjjh7nt5KhGrNhd6Qj5ENDju137pgoTM9N1PZvVDNkgB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

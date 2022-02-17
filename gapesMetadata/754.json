@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #754",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSBr7KV7BNxtPMsGRXtTDMCapeYqWEMnK7etPVMnorFvz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

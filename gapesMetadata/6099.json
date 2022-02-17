@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6099",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWkY4z85pNmDzaAkoqELWw65YuA4o8yU4sfC4EvWfeKEy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

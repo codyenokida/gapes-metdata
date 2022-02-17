@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1110",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQiGP4LWhAPD5p5EENdu1LJfTXK4Yzz5c44AsQYtTL5Yw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

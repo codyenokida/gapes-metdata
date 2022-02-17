@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4203",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPSMTrGnBMB8sFv1kvVbNDyCnh1wmZYQJFUwET8byLBU7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd6wDNjdSCv4fwvcedJoMvMxENhFrC2BGzSjSb6RgttYJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

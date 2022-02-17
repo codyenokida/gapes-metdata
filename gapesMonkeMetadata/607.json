@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #607",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQbha9Ym1XcfCyer474yAJ8Ca7745Mfh3icWqWw4qFwfx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

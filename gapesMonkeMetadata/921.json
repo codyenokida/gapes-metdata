@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #921",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSSVXei3ioU3XEjaSXamF9J4r5cAbvWhEF5WK5mpKGPLM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

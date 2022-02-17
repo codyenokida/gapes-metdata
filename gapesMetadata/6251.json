@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6251",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTXbreVMxzHudR9rrThJfHZHportFuqyBhMRzY8UFoxwb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

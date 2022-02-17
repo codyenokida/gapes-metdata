@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9321",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma3doHfwwWRZVpTYMe9Yns1bp97GofNAZ68As8K93daHq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

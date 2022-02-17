@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6758",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKrth1hifSMQsMci3CLbbF5Wxou6pjYzzHyje3oWMWY3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

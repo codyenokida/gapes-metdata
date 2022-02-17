@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZgbBPLGJFd1EWovgTmmKxktjz3fup8TPmBrx2rcVNoDf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

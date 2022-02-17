@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5253",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYiF1D8Bfo5ijHUjYturVXsJ4mSJjWM2bN1nod3obbUx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

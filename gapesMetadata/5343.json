@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5343",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUFcnsaDW9KehUJD7v1eU3ska484DhcCJGgTyy8o6t41j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4491",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZhYA7mpyeU1hQqN8JTckTkKhLWoi1zbJDn5i8S3gAwnH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

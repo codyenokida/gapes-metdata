@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3055",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUHdFiVg74LTi5kdWciErLkf8sBPiG6e69itrrs1NSQXe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

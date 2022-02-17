@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8953",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme4u2aZL3yAvbi8MfsYEaQa9Ai5NdLXeQ4xTbj5d7TamZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

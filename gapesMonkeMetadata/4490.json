@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPuuhFz1ukb23GuNVvPQqRxoMskMV845Q9Ni6Qx8Frp37",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

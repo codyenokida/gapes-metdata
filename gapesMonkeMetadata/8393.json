@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8393",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYxL5YXfYq1jju84snNNTNvBWbvt66UnTWFjfsYrBzWY2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

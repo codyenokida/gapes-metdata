@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5329",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT44pkeFw1W9yKcc8UCvjWLmYUWJCKtYm7JaqSJWppjVv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

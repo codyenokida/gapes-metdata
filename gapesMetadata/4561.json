@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdp4kNesayfMuuQAEoQS7uupiAs6KbgUXJYy26iMZDqzn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

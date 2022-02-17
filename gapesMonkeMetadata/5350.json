@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5350",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPhRUSQL5QCjG6ze4mXhFFbfbpEy5peYHxDTwy3DPcLrT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

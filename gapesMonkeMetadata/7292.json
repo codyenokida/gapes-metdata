@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7292",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXkZRSbd1VbtcLqNPzsYusxPQtc2YTFexzDmt2rVAHr6T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

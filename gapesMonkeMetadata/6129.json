@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6129",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUnnzSRQTUx4YtTEHezAmpYxJX19nsPf91B6F9AZLyH2i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

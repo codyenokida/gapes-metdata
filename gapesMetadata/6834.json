@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6834",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZkbCUz8c8XduPQRqCuAfKhjAa3SyKJHQPuXi9VePjWbR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    }
+  ]
+}

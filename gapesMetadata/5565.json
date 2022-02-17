@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5565",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVHbfzAA2xo849yiENFhbYBy3GRQNMMbdsv1vTueKEB7P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

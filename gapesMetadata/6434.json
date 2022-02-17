@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6434",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcFAuFCuPCA6hMErwJUrUmzLgBTmEuYeA4dXbyriKxeYQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

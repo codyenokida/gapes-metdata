@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7932",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPaDHyyGgKhzH3UNvkUW7nck83WgyBoyxoRBS2pAVVBQT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

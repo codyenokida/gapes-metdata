@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1406",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcpNj124nPCRT6eAwbYDUetyYbRitScAJbk7boXQD1bx8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

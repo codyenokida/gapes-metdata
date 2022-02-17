@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5183",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTV99RH6P5irMX1XWgsYFKpLr5eVgtW6BGQqM9U9VZZG2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

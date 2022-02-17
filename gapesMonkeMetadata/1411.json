@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1411",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT39zoxNi9duU5sGGUCH4zmY9K26nDej34Xr6tmPysGkC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

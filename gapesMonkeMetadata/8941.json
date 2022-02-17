@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8941",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP8x2KjvqEJXL7fzNiwkgttbrT1dAUDUjgQmH9Y9uEf9Q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

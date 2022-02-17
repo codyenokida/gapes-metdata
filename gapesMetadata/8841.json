@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8841",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRKcbm1AUhs7hfqHtxW7ETSnocLnvqkAiH2Lc4Y4EXh6i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

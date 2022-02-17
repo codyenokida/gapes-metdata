@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3396",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfFvcTakXqm8bwXLDeuKPmrFRjAkoPHoEAJCBK3EAP4Bg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

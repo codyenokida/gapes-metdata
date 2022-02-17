@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXTNZKLoicYMCiNt8EtYfzLta2xZmXVArWnhjcvqHAVyE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1458",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTYbtttUYoAcozL2LbibtyypTPBriCg1P1mEyt4V8qj8D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

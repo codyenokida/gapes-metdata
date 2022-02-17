@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #211",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb9D37b2hHn3rFv6Hm6BufKYqAec2CzbW218tTsMUyYPv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

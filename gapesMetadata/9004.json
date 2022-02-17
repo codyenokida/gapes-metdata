@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ6RNkcuVXeJH6P9F1S3yC7Vv9ic8dWtm4i6aFw7NYKZS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

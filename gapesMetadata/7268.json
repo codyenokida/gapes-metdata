@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7268",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX8wPva3DNV96SHBUHCgyhamFCHJGPAAqnqn3bgxzZfu6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Four"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

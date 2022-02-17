@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6732",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmccfuxvikQphnihB46nZREqgK13S4gygGpVMRxr96Ejcf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

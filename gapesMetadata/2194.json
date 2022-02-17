@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2194",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXjJz4aeUX2gaRkTRSDuojNi7Smc6xiAApVich7JZgrCq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

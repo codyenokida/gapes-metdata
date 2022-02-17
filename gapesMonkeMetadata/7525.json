@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7525",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbDx2LrmHnRTEVyLKcuyupgS1S7Wqs22JvHLQrXoSYFeT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

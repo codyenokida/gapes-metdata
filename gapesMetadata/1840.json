@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1840",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRDVBUAg4r9jWzhGFafStmmyArVAHm7iYVerEPms6TztS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

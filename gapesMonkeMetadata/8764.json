@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8764",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRFCZpVaTcMzY3gihpU5Tm2wgAfXj4ET2s2B9ASr5Fypf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

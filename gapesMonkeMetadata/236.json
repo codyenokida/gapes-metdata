@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #236",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma7u2WBp8W2LFk2mfLzgmbKL9dnftQe2NwaPYu2y2YhnG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

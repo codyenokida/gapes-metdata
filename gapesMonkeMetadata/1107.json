@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1107",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYhC9RvhehaK7zizwMXbzx69wKd1rpR311cSgXhuQHMyX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

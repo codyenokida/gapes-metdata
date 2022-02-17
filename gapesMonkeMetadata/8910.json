@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8910",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmedXGkSzhvmWWo5FbQv4MLbW3E47v7w8pckQ6bvtgYYmW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

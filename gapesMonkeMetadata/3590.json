@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3590",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNw6N3Pq1opCc7TEatb7MBStPgYbnZfeJD1Mpgg8PdjQb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

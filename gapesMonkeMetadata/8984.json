@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8984",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWMwr17d4CkdzBpE8piV3qSoikJ1DVDYr9faZzPCqGKea",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

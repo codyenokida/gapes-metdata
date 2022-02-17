@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #787",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPCxS26tYqPyB4S7WrsbKdKXZHuPuX4Y1GZKDeLEgm6E5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

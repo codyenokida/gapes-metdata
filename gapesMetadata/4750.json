@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4750",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXyhsynw2ZKRyr1rTvU1ujRLSq6CbPikdoUPC76khpCom",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

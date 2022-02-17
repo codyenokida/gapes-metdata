@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4265",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTyJmENSyX766YT2zLdxNzn9UAA3tmTP1U4uXeaLPdaFA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

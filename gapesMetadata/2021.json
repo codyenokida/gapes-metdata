@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2021",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY7PrP7ySnCCAT3R7EYqhY6Mp5N14BvwepKUWxRgSVUmm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9038",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYM7quu1fPk5iSsGChxCxaCoQ8UNAJQxANnbzagGE5em2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7422",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV8ChqQEyAW3VBixVyfVmfBih1p9atyiS47jhGkhTUQPb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5335",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcPmVa1jva5KE54t7riSJTtdPcAZmBkRqpAK8HuAASbmi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

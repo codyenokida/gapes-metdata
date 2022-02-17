@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1384",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmefuFNz2BH5dNh6ajywV6WUs8nDF5zBwZrqYmAGGdWT4e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

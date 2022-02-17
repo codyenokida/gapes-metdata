@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXJEi76TX1fxM2dheYR4SFnvbKUkdLwMCnkHCyeL8Kr45",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

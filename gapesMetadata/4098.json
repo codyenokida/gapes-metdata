@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4098",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUxaBCZXhsdTn1Ucn7uYRqsbe2gp9W5UrjVsSR9JJPM9B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

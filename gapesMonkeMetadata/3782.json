@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3782",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQgnLWCAgZ6NNKLPPMbnboxfBDVR2qytYVpkc6R8wrkXA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

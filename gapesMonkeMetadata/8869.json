@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8869",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRwwpkZDMJQfZ7REoueb3L9gXqNesvuQ5cBxVXH3foZ1p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

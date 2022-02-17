@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6661",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRVVoQfZvmxc4DEbNzwh3BkxFwznP5zYPuRwGywLSqhyp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7309",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQreFg7QKXH3rJZ7Emu8gna8KeYcpXBetahjnh8HRaogi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

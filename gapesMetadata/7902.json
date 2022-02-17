@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7902",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYU3eMTrWzo5nZw7KQEDGuRsDzSyyLm7XywkkhEaTNUeU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

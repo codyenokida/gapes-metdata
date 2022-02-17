@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2758",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUWKZ9Tg6goQPyjQPGuDxuSWrGLN6MWK4mnRncXt1abYA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

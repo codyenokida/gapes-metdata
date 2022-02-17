@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3351",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXk1wWLikN9nTCLTc1iknRgpLv52sWFZNpcj4XzpbjAbC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

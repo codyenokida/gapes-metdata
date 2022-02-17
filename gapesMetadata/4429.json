@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4429",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfDJZ71sdUF4KcNYYz18jUEw1droMnFDD4w29RhE73ZSS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

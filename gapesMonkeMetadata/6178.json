@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6178",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf47ChUyYofX1ikpMnEmETRT4rTbDH9N6q9adcrZCpUJp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

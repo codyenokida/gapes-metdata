@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7805",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd7QYSggMtbZbt7zZQ5RqGEEvYQDYrkCtnVMNCxPJRNy6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

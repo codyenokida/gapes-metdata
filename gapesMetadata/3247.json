@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3247",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdjtPzRTL3cuJPh4ExA7g2Bnrte89zvrBSD5DCiv6Jkar",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

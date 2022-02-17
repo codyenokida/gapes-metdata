@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8639",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUzGE8a452dEYXZ2Mynj4Ff4WsvMMAsQUc8LpgXBQyfvn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

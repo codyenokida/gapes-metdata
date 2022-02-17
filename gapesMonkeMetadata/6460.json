@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6460",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXqmwgyTwSVMNacD7EdfbScdgFiaLHLXaWbmziFkUSdTR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

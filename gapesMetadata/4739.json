@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4739",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTTEvQz2WheJEmuxUXNWYEM7U7KUeYxkpq4Yii4ZrFkh1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    }
+  ]
+}

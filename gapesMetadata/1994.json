@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1994",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUcYX4H6154G2gGkMve94QssS7YDiavZssVopRbin1U2o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

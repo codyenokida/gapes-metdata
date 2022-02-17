@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1043",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNzmvAeTCfeMcafNMYiPJktYCm4rhqs7r2onZu4CmJoTh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

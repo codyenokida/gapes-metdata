@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8330",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZbDPBVRDmyB2jBEcJZnb6cqcLEYH8VdN6pGuAyQ9dgcH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

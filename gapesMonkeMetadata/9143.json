@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUBSchymkz4eReStYVaw21dVXV659Db5nTiABWdwTZaKz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7509",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV1aHmotVqDDMkyy3XdHi6pqsc9PR3HA6m5d3KgQSrvxK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

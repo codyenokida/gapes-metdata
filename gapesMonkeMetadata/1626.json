@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1626",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQdeKo89YdejLNpbLV6p8Wuh37vm15hEfCYNoQGgP7TbJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

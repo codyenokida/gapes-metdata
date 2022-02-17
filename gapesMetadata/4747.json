@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4747",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ2s6ju8vmRswPozvNiEfDAu3vSi22Ym9H54r8HxN4uEk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

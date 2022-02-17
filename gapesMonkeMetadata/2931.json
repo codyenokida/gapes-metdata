@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2931",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY9tpiPqCgFjKvqM3XBofL7DNrswZwoKjy4gkyshYzvYy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

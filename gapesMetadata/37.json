@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #37",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUMWsUJ1kuH2x2nh4DfKssh4t7oM9cns8QMFDEUsekNoK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    }
+  ]
+}

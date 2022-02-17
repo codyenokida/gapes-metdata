@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6847",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbx6WwiCWrU6xngiVfNRzXU8PJ6TWuJrmK3k1yTevJyMs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

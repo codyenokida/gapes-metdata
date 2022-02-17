@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7124",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYcaGPM3vtuhvuHzRqT8tH3AL8zfs2vmUX8AS2UfGAZ8K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

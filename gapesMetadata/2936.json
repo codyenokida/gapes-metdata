@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2936",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVZLsXwatdRaHahJEjzsXCa3KVjX5yskdUzq8iYacyvV9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

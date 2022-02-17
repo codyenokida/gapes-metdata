@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7451",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSd4eyuDiwY7mPNr2mr2vWF17eQL28sNqTBhoWgnp8t3r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

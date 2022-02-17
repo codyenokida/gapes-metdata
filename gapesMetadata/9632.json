@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9632",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdXHEVvzGviRyfyB5dNMfYeEPq92Uwqm7cJ2pxLnrKAPs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

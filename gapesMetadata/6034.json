@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6034",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTRxNhwoj5zBMK35UWufbsRQ2zT97JKX77Wbo8cZaUZAy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

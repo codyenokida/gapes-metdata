@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3227",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRYzXjBFn41a4adjppGR6Z4MXLGvc5gtqUBAR3ptw8AVA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

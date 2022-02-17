@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7190",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSrNHEjtpF24Sh8r5VBChx9K82as1Zwy3MGyF1bh9PkUf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2149",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZko1R9tqArEvExQoooP9iBteBYnxgrnzVJ3fHcJ3WiBJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

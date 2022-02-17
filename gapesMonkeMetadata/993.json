@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #993",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVzEQvznEE37iTmzA9AZcAb2JLRm6tqtrYNWwxpaksG5v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

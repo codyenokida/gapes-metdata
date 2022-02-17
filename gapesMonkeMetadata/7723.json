@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7723",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmURcrdKifTcFeL9LBSuhmhz7DFerRrEVD2Hg38Mad5aK9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

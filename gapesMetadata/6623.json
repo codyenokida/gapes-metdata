@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6623",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZynTbSqW7R9UWLpw7WLHiz2o3rxwGXpcM7cSzQWs4F9r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

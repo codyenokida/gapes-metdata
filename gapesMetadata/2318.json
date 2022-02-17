@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2318",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZAKTRfb1SVyKBnwA4n7Bk23vXNF9L6c7NgBoyrtYSpxp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Tech"
+    }
+  ]
+}

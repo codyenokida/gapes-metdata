@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #897",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXWw1z1KDQa517GEvVgiYVzmZZa2SU8XotknrRLgch51o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

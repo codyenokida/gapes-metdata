@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4575",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaP7G56nTSuam6EHt4jjQMTLLRqCScAQqGb2R7nZxafxu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

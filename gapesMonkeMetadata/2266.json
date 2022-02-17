@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2266",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT6c4rMRRDS4DPezd974XKf6vYAFMrKczShn6R6PgGCYM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

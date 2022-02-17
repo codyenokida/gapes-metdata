@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3805",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP766EH34iGQRUVG2LCpx6XazVaQTGwTcP5AMd5Qecqf8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

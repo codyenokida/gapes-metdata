@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7551",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVg17STVedVGZj4FQtEdpP76feFV9S7Gh2nDe2hFSNmT8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

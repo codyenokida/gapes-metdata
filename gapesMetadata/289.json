@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #289",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmapxSx8ecUritjt3789MoUzSd2bfyJ1wqjqfuyam7yBts",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mecha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Tech"
+    }
+  ]
+}

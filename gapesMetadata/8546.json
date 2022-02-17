@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8546",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPFXrTQDv193HZBvxn2Can8g49zRzjiZbAmCuhwokcCfr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    }
+  ]
+}

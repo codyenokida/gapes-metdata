@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6858",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNegtgmdaCQ4GKPEShJuNGE81jTqSiqj6EuETFG2TsjFW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

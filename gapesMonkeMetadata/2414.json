@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2414",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme6E5o3hHKVdcuBJsCjn2xXY4NndqC8utv89caUjSCZKe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

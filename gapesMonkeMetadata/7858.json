@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7858",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTQSaYe5FLXjKSxZ3DZ8rCZyoUfZNryxNZL9e43x5T5NH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

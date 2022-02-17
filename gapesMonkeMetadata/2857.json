@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2857",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcEJRVFEocWcp269cE2LWWAiRp9Avv57ssgKiG1uDREjz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1681",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaHLEjPb8PxPgyyLHYsePhwXaSmtMZvjQccSTLTrrjAtQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

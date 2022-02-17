@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5937",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNSB6CthmqCvB26bMqy17XJJuCEZ77VY4UaFjrqng3YrD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

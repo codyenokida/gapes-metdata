@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5229",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTB23UmddtNt7YdGJWqt54n1bLHgscJa1V7wPgvckeCmz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

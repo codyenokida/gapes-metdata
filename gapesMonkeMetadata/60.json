@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #60",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmexgvqzBrPo6aEr6qbxdVn2WoTXdtXpsVKfTc1aHv3JKK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5342",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYBGjL4xqXR1KPWZ28jhRXgsHzEaEgEKjHSXPswANkmQs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Tech"
+    }
+  ]
+}

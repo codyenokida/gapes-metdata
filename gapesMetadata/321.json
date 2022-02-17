@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #321",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZfUFUv2L2m2w9K9KXoLcbCzt3xE7f1bdAENFzjNv8CC4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    }
+  ]
+}

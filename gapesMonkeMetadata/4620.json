@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4620",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSZCRkm3TL8EN8BbecC8SauheH8YthU3MH8thm3132Wg1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

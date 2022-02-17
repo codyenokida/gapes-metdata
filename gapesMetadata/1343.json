@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1343",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaQyEuENJgVoo7hGPmmyaxB9DvMcXHW1cYEfirGHkVav3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    }
+  ]
+}

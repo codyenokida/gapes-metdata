@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3123",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZPAU1pCJja3jJVDMhXnrxJ8PzjXRDhsGFQZAbdqHZs7d",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

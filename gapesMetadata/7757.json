@@ -1,0 +1,34 @@
+{
+  "name": "GalacticApe #7757",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNWJJ3YQ9hSND9yjVN5jePe6nKM73qGKMsZqyrvpYkRsT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Little King Ape"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1909",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeckffk6gxtgCKqRDHbsHfggXmpoby1U9nEP9Ad2rz9Ut",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

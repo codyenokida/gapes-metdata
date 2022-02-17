@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #671",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTM5offFhh2tcgcQuJeFp7mkYa3ivsWmj5X6EHaxkZX9z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

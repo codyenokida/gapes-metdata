@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9853",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXwzYxQPAExDyRpM84cD69oeErKxkq9N9gjghPd3isc5K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

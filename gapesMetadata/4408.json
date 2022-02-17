@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4408",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVMuaHqBYYbFUDKjESuwNV3cLJWXRMTw68MpLDTg17unx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

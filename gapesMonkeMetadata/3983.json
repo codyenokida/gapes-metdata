@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3983",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma59gsu3eMU5h2xW5jd9j387DE72cUwUqBD3qZiqyuqKG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

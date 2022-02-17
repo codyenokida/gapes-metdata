@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1240",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRJ1xubAXwZr4aURBgv27sucpzhgmgbcB5NFPPo5HBbLo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

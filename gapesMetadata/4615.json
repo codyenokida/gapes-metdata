@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4615",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeU3EGbxnL7EFDRwnXpNCT2X8mtmMByTc5JyPRgjFPZZk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

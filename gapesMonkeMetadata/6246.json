@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6246",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUoDPzVZ5PxApgkRuu1Zvw9gBSgYM4NJW4t1bVNrrLDY5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

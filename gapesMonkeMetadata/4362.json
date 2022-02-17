@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4362",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYA2RBCp2gBiaP2fcfLfWzfNJBnWQDDoSe27BNJLFdgDS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

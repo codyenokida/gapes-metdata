@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1898",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmegSqVk7gct7T86dYFuh7exMzSqGGqzw17JW3ttvprvmQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

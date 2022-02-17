@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXpCaPYmS4gWsrXHAvLuiHyQjXndx76YzxB8gaiDmwFwy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

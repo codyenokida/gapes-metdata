@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7195",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRC74s4ZaTZ3B6C5N199JMw9ozjFESNBGqYHqSiuqE1W9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

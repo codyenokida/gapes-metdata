@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1909",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaQjodkbnFb877bAMY6AmVnrVzBcbXjpXReNgLitXok9a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

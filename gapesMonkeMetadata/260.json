@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #260",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUywKuXAsfZSFvywebTmwJkrtSiXzSPCYrZnS5y5nV4vq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

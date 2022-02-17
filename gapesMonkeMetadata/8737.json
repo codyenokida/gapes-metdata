@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8737",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU1MNZ92cXAyNCkCr17czQSDWSpyuFYozCQKv1BRMvFEe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

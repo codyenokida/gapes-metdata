@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1090",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZa45GVr6avAifVELWEufzR8ST5mnXb8aMxMxUH8DnAbk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

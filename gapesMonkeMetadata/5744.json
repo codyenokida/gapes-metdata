@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5744",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQR7PYmaD6DCp1aRGT7Du7Z3bXgi89BKKRRiYDM5YVVwF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

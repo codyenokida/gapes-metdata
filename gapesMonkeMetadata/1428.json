@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1428",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVXie9gHgsrnK6UccR6kiJTHfR7o3JDTkQgjRGVvyRkDg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

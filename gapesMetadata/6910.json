@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6910",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW6k3B37e83NuEWgx8iTPvz6cwjxsRFWv9gam4VxazTpp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

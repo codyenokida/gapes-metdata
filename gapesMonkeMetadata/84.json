@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #84",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUHk3SNjE4ygdnzhKnq6W5wMnpnxhNeTudwbCkLefRDqB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

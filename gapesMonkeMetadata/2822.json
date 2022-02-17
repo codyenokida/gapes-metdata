@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2822",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeioUYi4ySJReuo4tTHrS2rGdg5xA8pLddVvTCWTfTwVw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

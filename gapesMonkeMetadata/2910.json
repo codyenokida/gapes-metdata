@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2910",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeMALX6koXivnbBoGwaUC1686uiY8mg4Nf87RhWMwQzN1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

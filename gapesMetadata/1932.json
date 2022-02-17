@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1932",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVUXPd53bMDfz2WiaQT1UVmALDtzxW6DEYWhiQDPQm2Cj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

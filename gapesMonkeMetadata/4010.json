@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4010",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaqvrtpFYvX8BeBuEpp3wGburw5wSvaos1gJAMW51eCkD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

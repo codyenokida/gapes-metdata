@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8286",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcSWwt7F3Y7aPE6hha7A6NJ7YZ3v2HbeB8Kcb8a3goTRN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

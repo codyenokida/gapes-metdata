@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8451",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTKtp7XQYtGj3rmoxHnBSAmobs2pJ3Qh7GeyiBSPcKAoC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

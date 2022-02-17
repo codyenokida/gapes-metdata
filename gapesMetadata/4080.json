@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4080",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVSY5CSus5pQnkGd1YbTEPmwTNarxRT1RDzFtv3MfBStK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

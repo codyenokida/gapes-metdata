@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4647",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZYZFTWtKo2o8tuntZSad35U3tJ48Gxcbuq6m46aFBhBJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

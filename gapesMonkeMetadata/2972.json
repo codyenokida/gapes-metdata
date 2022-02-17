@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2972",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcEHj2pwrTojGJDVPUNyAbyAkp8dXKBu6YwEMkh6sveNr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

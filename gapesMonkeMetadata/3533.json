@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3533",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfYAw9aozgFty7qBvpLspdrZuZQsE5qNBLZPwEuzdubzo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

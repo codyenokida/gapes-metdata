@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #833",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWkCu2YRHjntiUf1EexoKhA4AtMPrGJyFBdBMRd8kcw7U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

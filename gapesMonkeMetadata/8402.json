@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8402",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV62c8igvXCkbwj7rEy7QKak9HX75kXSQJgcaw88MjgQS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

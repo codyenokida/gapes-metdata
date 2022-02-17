@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9382",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQLzxbBGqQEjZu9doHLa9XRKbjD6witSaZbSsSR6ZBzaj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

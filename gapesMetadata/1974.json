@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1974",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYprJ9Nm5AmS17fu4UE7sy4qSyXF493wcyozazeaE8EAx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

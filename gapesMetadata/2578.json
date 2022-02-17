@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2578",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXYoC284mpuN9dCX1c9LEQDq4LnXvPZ12ieCP9tJGV6i5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5275",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWYrQzpoPDLoeFRFfqijizWXGFRL4q78CqJ1fRwpCccjY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

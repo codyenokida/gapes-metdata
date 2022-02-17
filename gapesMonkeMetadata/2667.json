@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2667",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVvEbs8jDqgVtdpjKriX7QwRFyvBTr3cyvnPy2ViJUYwY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #949",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfSJkFE4rJLJ2Btyuk4Wu8h76Sy7ScS55VY6Xd6Q8NnoA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #67",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZDnUCLSutgfpQFUtZksdDNmgqv8cgZ2R5KYGZV3ACcNr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

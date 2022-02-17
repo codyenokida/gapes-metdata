@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4677",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmefFfv2EGS6Hnnq547rbo3eGy9YHqKfc1ny7nbaXoVzkS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

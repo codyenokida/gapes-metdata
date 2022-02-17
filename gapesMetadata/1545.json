@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1545",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSAvQgFibUAjTh35SSHEY3sm3oD2mNaA2QMtshURSF2uG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6857",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcB7M6yQjXL5Vs6ZxQXcsxNr8i26dZLuTTvzF76Tu5Z8S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2901",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXSqFmnQjvEiC3pANqTNecApsyZhY9cpuvTUnjJysuUfo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

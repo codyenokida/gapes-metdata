@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8660",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXMZCnxs4amCxQSppVPYYBscfLPpAh54SWHYjoq3Kvswp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

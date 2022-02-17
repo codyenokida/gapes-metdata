@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5045",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRo4gtveaKG3FyaL6B2YjNKY9xXqFoS5JRGVVG7jvXHAC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

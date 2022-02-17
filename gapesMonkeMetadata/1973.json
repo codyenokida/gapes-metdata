@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1973",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma3E1KwkLTqnH9Zfhj1JkAjW6VKZAKGHpKu5EvTHWGS5f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

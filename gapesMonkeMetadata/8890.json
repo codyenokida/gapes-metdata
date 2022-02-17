@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8890",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcDWEGqYfF7AL7J9FP71gLvjMiZBU6ANjw7o8QadHMFLH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

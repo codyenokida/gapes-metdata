@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5413",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQh4kxcNtA8ibeiUS5zYzMuvCutqzNTvB2bxPgWZHtitJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #705",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQxTcCqDZJJxjaoiLH6srfVfPKvSncpeJifnAJtyk2iqm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

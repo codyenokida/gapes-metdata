@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4734",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaqDd3hm95UnpLtVLZzuSDL4Zvj1oSgiTjCtMtYLzpZRj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

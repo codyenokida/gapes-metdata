@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7776",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcmbuo8BrPwe84bCzB2Nb3qCQg6pUa3uKYbuirb6p7V1Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

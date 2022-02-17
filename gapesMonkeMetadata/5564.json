@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5564",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQW2oWaEewjAsLbiTEzHXhZFv9mi7keJezA7aAry1qEy2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

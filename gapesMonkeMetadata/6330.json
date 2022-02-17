@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6330",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYmkWr2WpU5uHc3bDorMiWQgj5dNuC2DXtsCMdq7LZiGj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

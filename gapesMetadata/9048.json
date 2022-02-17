@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9048",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd2SDwnRuqhnZDrwhgmmE6cWMVNGV14qDWgNE8QRm8nJx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6408",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU6xuxVbK9yqssqScMDHnvaAPZGfiU8ibDEtkaQ4GiUSH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

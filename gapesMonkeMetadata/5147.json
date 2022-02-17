@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5147",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTZmPWMKaeKMPC5QRiaSBcwLHJ7bEaotCoW43Xz4YFJMJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

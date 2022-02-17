@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4097",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaR58JLCCEf9CzRxDop6AhqHutX6YU5Lc2vJNgBacKBz2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9122",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmREvuXrLLEN8NtQ6cTdx6qkuXjvZ1tnxWyaLM9S7WPu5o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

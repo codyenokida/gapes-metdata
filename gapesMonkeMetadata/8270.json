@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8270",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNk4WAwBgBjiMbJU4Q6uTBrD2V9QyXxgSsJ6fmLsfz2pE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

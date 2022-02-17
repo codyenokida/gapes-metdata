@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3874",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmao88GyjQzopqoa8fkdcEUBJvXbBzaqqAriw8tbQLv7Gm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4964",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTVsCCEpjQut52W9qrui9RXUVPcfvceEXiNq63pskT8RB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

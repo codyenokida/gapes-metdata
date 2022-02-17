@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9114",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdUSp3cA2niTKJot9XEn5Nsm8euAnAYCZH1Cwgq4zRqt1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

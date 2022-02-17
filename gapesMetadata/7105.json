@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7105",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVGSAfpG5JtpFwpPugPvKy5W2cGK5dNDHHcQ9EFGNz7Mm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    }
+  ]
+}

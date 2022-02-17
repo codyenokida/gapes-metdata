@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7040",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRTqaDbnaYX15jyws1v3JUXwEDVYXYMvgGsfZYYVQqq4m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

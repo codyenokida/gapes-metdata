@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5437",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdsyYbA92iHDr12VkPZospDPb3gXSpd5wjZSQD5T9EyS9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7741",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcXmMLgriui6uZRZui3TEXmbzNC3zyo28aebdisL8LF48",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

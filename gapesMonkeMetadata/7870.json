@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7870",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ8zNp1y3JFTrGCgj8dqiCqQSg5TrzRdcTvZFqmTaaLQo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

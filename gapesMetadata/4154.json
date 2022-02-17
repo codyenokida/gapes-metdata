@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4154",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXFpSaDJiuo8o7y2unUPQydW9eS4Do8oruue6tp1gG4HL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

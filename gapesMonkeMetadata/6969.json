@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6969",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma4xDe3oy9AcsPD6zo6T5sa1GpJYtPJurvRxModafU4fg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

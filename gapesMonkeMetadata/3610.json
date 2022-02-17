@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3610",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRat12bGWZzB5udpP1Xrjofd2yNYe4t2UAr3J4W31MPsi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

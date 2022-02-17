@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7569",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSBxdeqJmD6xz61Sq3zzqNT3g9K9kednsLGVGfq7VipjQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

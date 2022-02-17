@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6926",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme9yN4tXiBF4guM8Cu5XgerVZSDkQq8vgHGHEKEMtnaac",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

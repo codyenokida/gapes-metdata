@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6300",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWwyYLfeTkw2KYXgpziVeG1DSQdmuPct6SZxZG9w7Au6y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

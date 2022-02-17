@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5962",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWuK2S2HrYLvpaZukqNgb7dmN4LhobXsn4Tjebm7hzXV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

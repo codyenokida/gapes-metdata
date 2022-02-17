@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5609",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdLqqmmyG79jV7oEabTaTvo4Fzjy8sbPod8QvBtu5JBjU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

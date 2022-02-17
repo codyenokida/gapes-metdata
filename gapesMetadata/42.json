@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #42",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQqaiitSCSGSJJsMcg9zf7EMCufzBoWLKxvxXwFNgdh9X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

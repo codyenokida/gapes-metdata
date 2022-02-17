@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9334",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZc22QyfWv4Mb59QRPnvusXCnJRRte3XcUyCUZWP8gWPi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

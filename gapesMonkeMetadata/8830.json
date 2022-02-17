@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8830",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSC3kJqqqfE9iAdcWiikeMDDpYD56gEcsQKRtoV9pDnV6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

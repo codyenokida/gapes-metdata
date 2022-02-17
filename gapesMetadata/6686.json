@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6686",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUHjtp4wMvBph6MPJGup3Sx2YxPBnDnHLxaV6MQpUWseC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

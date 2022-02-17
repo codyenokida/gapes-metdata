@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2012",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPhiaeMSsAdFxtAHw5FsB3z4MxhwMH7jXNR1xsmEC6BNi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

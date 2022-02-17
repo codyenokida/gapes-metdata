@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6090",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbssnxokqBZfpK2ecoqfxxNqKMcw1ZQRJHt9tz1m4SQ4o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

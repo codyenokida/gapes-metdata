@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdQxm8eMaHBGKFCQnqGGqGhYuKvLkZGjs9dsd3eQEkULv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

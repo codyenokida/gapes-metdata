@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5514",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcaKTGKEiaS4Yk1HQnsC5sPSUbjaVC1DupVyBBGZEXcX8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

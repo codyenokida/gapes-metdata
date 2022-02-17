@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3779",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSaH4cPxoi2Dm3dgHA9UrNdKQgATDWDYBbtxpUpw2gacQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

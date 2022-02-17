@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8665",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNW5XAA3oRkp8L93VUsWsfpqmwopDKRW5ZveRpdYB4xfQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

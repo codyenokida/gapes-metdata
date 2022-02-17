@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2311",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSyBxyEpubpMHotGRVMmjvvxNsm2C1kd1ek8da16HJVJY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6618",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS3cM7YsaaTUTUuW36ZjrCMZswMiGdMmUKRBRcWE2T444",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

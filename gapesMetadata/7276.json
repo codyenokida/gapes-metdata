@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7276",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQxMtQLgmLP5y3ZSPE1s4sFMuXMZheJhd4uEf1WpygZNt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

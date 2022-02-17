@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7275",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbtWayUHJT5aiLDfoo3EeZkSXyPL4MhLkiK7ZpeW35SQB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

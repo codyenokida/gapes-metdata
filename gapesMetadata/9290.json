@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9290",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmerxxfWWE6y5uuTeKMXvyDoV6BFecsvWnPmqG4kBTqCcC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

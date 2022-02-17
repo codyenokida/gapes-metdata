@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4538",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdgLuq2SSLA8b91JRAp1RTrvXoGR8vczHPogG9RmSDfyq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

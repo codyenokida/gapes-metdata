@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3441",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZTeHEqBu1dWv9XBef6ts6NwKdtyVyA2uLUa4cQsT5Mfm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

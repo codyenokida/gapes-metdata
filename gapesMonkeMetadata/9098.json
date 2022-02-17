@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9098",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTKGhGh7cQXxCtf2HboT4mAszoCsjjNFzrQCA17dYCETq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

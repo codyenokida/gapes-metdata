@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #9130",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPgNS8Q9N7cUoefYCYLbJNsv52WRFSWQutbxARR5f9cg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

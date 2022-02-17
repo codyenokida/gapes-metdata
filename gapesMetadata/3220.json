@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3220",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSpntkJvr9mY4WqEe8xCfjM18KTd7xftHLo63un4ETYnr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

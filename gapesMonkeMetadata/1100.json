@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1100",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJTsvo4MHm9v3WkiBZ5FitFxNYBoq5u2XtmPHsLSgrmY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

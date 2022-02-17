@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5827",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYfJNxfBVbwfueAEDErZNwBHryzqagQEmKi5Z3RJrVxJj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

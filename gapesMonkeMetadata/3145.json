@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3145",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRC22v2vY4KDtnaCwBJeGV5GuPv6F9a1dNbF3T4sGVt8e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

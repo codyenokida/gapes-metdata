@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3857",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfWAYpssuwc1YppwiRXTTD8Zp1gGYweBAecb8kVXLUcnp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

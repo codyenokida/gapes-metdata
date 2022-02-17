@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2623",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU7ioLyYxSD77T7C6Ankm9ELz4DgWcJE8UFcXJY3Lwbb2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

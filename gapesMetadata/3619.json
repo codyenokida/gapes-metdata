@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3619",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQL2Nsii6AtWDL5Yf7w3kNHW2gUfpZ76qe6vcrYSqer2R",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

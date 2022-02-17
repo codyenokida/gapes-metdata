@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2356",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcn38j47dfwmvQFXp8UUttkzgJZzTdSGhkSDs7HRyj7hd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

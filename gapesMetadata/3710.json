@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3710",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdL56aftT2uDwGGtrEGMyVM4YUiBoF71jYJnDPwLE2DoR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

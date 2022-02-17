@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6773",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSnYxhrChi3JyDoz64YQZP8T2rj9cqtJWAo6rVW4xU3oN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

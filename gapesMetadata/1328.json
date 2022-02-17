@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1328",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmURKpc6K5xDvLzvDJEXSofK4d5fD1dUCy8VPEXveBS4L7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

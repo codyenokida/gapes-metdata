@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8498",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTwcK1Lmiwo65aTeN95QzwqiFBPe7cCdnLrqdycgUNM9u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mecha"
+    }
+  ]
+}

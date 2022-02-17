@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1542",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ2jWnbFWTrb65eB166Mx8AGuyL3eN52WVTpjKaWVZZy4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

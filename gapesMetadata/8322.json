@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8322",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNsoqPdM8SN6ttWe4m2bzzRrpq662VwN8sVamkw7mn3gM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

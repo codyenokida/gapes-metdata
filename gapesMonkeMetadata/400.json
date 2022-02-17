@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #400",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdvKnwwDtn5C9rSwjvbSE7y4kT4KjbWiacHB72PTUjiqP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

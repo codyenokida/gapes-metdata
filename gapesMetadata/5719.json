@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5719",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUsJNw4rAcKNuXthF51kNsQkzaJyK6AzSLbU8tYzy46ou",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

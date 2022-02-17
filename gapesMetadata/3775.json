@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3775",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYZ2xQuiKUCuNMUJ6Kw81mc8MhSb3fz8EEkW9z9XhQxfy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

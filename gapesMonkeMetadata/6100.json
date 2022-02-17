@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6100",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmapSc7ry9PYhFKLX5SQjtcqHaQSYVe9tf1cTBUXH61NEA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

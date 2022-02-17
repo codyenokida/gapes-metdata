@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4162",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNZkyqPqFHTPH3cWStrDdU4bLmjDufs4aQVV4DjPEEPRz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

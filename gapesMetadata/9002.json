@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9002",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdUE2wjQcoo4AcGdW2VjLhRzaGbxtsebwnxj5XSo9Z8Cf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    }
+  ]
+}

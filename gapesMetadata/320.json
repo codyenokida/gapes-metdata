@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #320",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmabB56mBM38JSW9Sps5kTuAUESqjqiaSsQbuAadWPpnqv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

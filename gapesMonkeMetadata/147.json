@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #147",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNxAx2NS8Z92ApBzCDodSnPtGBTKgUZKSdj3rMRZGoX4R",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

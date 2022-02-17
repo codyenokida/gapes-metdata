@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7351",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQmra6AwLHzNsrkUpQuADPDLrA7MSpHETqA94a3557t3d",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

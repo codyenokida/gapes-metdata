@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5328",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWd8tcBEictgqm4k3eycQ2pgbf7eZtZhXjBYFgofZMyNy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

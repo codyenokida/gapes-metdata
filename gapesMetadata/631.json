@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #631",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWXpsYJhcR3Q9uEWJZ5Nm8bkHtBCqEho54Hjwz2eiAdSP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7648",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZhHta6x6jhHHMAiVJMJhYvdmcdAXkJ1nF6GGQQU2f2Ep",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

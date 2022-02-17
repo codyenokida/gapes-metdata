@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4211",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSAPtSTs9xR4pgZaxpk3FjxaBYeQRNXRPSPjJtA2L6Ny5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

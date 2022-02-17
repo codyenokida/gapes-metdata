@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3121",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYc6J8YniJoEoLKbFVDcrMi8B7tfpGQjhT7LP5RCUGCZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

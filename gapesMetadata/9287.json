@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9287",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQUcxS8Si1NENaJJgUnBFL3i8yyCqyXMUg14FzjYe1KP8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

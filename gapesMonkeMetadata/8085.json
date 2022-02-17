@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8085",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU6zMavYvkw4cc3BVQBmRK1d1jCKWMYgYCNgKVgoTsrN9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

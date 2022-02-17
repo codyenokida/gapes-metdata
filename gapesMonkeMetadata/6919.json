@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6919",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVGHiqLtRSxovYQYMz3uP1G6ptVoSttucQtZZ9vz4L8Zq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

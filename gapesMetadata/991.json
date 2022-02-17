@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #991",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbHkxXbtw1w3k1FAASUUtQBtpnoXiUmtyJiuYCrQJc8L8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

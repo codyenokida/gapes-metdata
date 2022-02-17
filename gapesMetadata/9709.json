@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9709",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVJJJ8JYVS5F4VWPJKyFdK1tQQ8RwF5HWWbh8FWbHBaze",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6954",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXRgoysUd5i6DtBmuJyGxw8QRHkiiyBTF5T3scLiTTVdV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

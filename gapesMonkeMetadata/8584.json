@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8584",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYM5F5urDswYdS8HiXPhTBCE1eNhC7EeDKXcSYKyFBk9g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

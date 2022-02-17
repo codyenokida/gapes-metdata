@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1211",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcmcwwUsRzk328n43uEsKXuDx7nYxuSugtKtvXLtdzgFs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

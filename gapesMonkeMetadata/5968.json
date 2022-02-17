@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5968",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWoL1m5211zS4JW7qNNETqnLmyx2ZdoXfnjJpkgnAc2qF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

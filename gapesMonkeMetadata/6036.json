@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6036",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZzw56UVNrjNYH11U5AcxRcoc3cpS9zUfMCByjjdo7W8Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

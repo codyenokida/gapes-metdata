@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8708",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTTqUBPxskpNmNaQArSW31ANXCwr24NJnMFLby76U6vw1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

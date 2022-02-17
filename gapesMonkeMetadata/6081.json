@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6081",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme72vi3MySTpmoAo6q42stSahwhtoJ3yv16XyVZ7k4xMA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

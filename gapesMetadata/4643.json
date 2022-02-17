@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4643",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYkAby3ccX2SjS4TAqJWJdnzPT1X5uhUvTs2rH69DcbUH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

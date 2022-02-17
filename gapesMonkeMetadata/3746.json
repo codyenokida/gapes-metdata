@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3746",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYMBsWmztD3zXm6BTZFb68FbK7WUmWDRdDV3deNPq4eft",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

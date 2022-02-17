@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8309",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSSGUNNMEeFRjj83rzC4RxmWJAhm92jcsvaDc75k58aca",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

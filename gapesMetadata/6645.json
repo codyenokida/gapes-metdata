@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6645",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXSQe3afnBPdQcytuH8FsoMHrQ7f5JEQQyNkHicH3LDLC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

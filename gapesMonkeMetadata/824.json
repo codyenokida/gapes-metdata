@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #824",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQsE4F2QTE8XhFtq87ndn8ZpNjhi7gqLKEECtv3dxnRaa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

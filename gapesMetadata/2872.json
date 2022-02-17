@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2872",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZyqevkkzfE5TDd8NbENyfXbynrcQzpKYY8RPaAmyFSBS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4802",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme1rtL4Wj1U4cQv7xQq23CtJhhGvWxpf6sXtExU5d7fsw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

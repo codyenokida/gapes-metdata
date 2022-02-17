@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7211",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXv1tiVsNrpgA8H4DXzyowryhXV5GpoBosFiDyvR6YDdQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

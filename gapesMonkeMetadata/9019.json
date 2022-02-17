@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9019",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYZmENSwxbfNjpGdkXBxxBqnSH2tka1frTZNoCkRQCsmg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

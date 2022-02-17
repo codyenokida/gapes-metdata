@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3364",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPHyJKp6hn5LxsSHjKQrRT4pdL2nyXJ8h89XwiPjpVfDy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

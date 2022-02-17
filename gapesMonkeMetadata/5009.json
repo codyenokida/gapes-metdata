@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5009",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaZyzeDGTGmCu1E7WR41mtWocvnWu1Upu33aymDCFr5KP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

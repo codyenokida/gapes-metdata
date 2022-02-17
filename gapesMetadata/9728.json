@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9728",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdQT88PYD6rTssxPJA12NEw1Q45PDG1EGtprpDKs3RVJk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

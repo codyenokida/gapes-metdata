@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4305",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQRuujQh1kauu3M7c6c7fcd95RggrPNuEKPH3kZAqLu3M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

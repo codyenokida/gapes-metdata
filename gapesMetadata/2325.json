@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2325",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWm82hi62p7EyPUFGmBuBs7ZTUoPEY49oYYBmPxQofg9P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

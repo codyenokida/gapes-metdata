@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6660",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPcftATqWZHtSJBjT7kkWAuGJioFGQDSpyxe9QRteS9or",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

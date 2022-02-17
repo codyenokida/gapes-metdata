@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2398",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWRfQHukzzbZJwwcynMCH6QCbuzmiv92g3s3zXkNG4YVA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

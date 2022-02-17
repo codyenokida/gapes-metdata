@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6550",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQAwsNXANfp4UZ9p2mHL1xAfzjBD4aoB8Br1uBWEx5nug",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

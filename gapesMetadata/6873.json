@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6873",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc2Qf4bYwLnQRKp2KLU6kRus6ZoXCNfuwBBEDqkkgnQwi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

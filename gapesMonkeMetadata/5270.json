@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5270",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVUUNj19HzyeWw1MT4GX7K2HkzX9Ux4VfJymD6KLGE3PT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

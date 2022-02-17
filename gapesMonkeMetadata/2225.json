@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2225",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ1NeLQqHeEL2KP7L673Pci4p3Pa9gbPY69ReRJvdvdxT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

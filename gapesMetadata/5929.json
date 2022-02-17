@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5929",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJ22aJ1to5mRVvvCsx94wboQopCPk8NqPHmCEJk5MxcS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

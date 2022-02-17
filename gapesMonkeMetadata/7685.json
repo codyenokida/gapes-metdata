@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7685",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTNueHGDdfQ9TsrCofFexUQPYNnWcDDkGxwjKMP2mycb6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

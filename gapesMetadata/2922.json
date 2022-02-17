@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2922",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfMr4aHBjKsHJrMJJm7mNf6NmJCgKXk1yWdp7TqPky73M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

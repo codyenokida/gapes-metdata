@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4512",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdzEc3zLAfz49Do7xeaX6Dc2AxYLMGcM3n6wBVSo92JeV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

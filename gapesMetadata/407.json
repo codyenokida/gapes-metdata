@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #407",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSWuVf61uvrPfY5P5N4XZEnU3ZZn3YD8H7CCQcP2381Su",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

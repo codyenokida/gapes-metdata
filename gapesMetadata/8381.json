@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8381",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd2DdDZtcnbrCrBabSpQV7oyCgwDrwe8299fmaVTHKzKd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

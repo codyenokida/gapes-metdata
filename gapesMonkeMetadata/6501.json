@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6501",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRGR8xAzHCsnAYhfM9f5k5QZZ7gVXmLsSbxsPQHf99GKc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5456",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXLzAL926aTTdhNUoDh4AQUzZBdgZNHMk6o5BRLSHQChe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

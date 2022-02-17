@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8690",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQxn4EzexsbzrKbrXpdXALeRUTj2SpjVH7kw7vMNAAj5B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2111",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPPvvzs3i8V29SCi62ZEJGsfs66QwxFRnaqCTgL2eP2Dm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

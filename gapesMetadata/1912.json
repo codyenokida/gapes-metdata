@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1912",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRzLkndvshsUWFs8nNvEs1D1KiAhFiaXU1ieoUEUBzMff",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

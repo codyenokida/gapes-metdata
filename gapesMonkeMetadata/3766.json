@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3766",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNgPatk3groMCtDPbE5YJsgJpwgffpRKf9wg23wg9PLgo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

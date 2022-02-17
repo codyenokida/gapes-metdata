@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1899",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbSnC87AF3N4jBfFiz6JUFWgprqGsoeYuXH3GU6XDicDU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

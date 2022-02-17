@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5257",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaBrMTTeY2QP8Z35tb44agwcpbMMyABgMZkcWK4cum6jJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

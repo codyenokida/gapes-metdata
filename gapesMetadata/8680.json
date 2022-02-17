@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8680",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUtJ39WhHppSVPcnpSJKMV7ShCbfPGk1zfJaevd6hSrBb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRe3APF3pwQYKspoiK95LgBaTYhsUtnm4yFs5TVoye9HE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7977",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZs4mk7Q65i3B5amCGzmKop1tR579wte82bAq9e4yk2zK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

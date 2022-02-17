@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #984",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQX79ywTHRfkbZBCswQasD12AhhBBgPkjTKxrgAz8JB2J",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6307",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdDSCnTRbAiwauT5grfcL4GoZ77sLfJSQfjcUDQ1ZFzmL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #973",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNQJYntzMcv4Du2qyC32eTr8W36XUkstxtBbJGeZqmt8j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7101",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZHriRYsKE3yQAiNVo8jtm4e7egz3tZVah6Gx1ffrnxBG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

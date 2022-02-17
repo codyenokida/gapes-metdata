@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2796",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY1Q1xB7gVH2p8X1gkP6JcusaegbcpBxdbkGwhecJpjPw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7694",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeYGHoct4qkf4WtuaZfjTuyMHKhP69dqSBDCjHxDiaJw8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

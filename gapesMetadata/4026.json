@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4026",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSzYiGgmz7QsCaErL5gdpHyBzKFRUqPBc2qjENBv9Po6b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

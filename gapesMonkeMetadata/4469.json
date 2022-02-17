@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4469",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZmoWByE5sP9XJ8fpbD84k2YuAxp2eFg8kRteCMDj7tLd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

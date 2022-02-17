@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2401",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPJfDmZuJPMuE8YAU2MaJKFieWKVoq9X69NVgPPTu7Ci1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

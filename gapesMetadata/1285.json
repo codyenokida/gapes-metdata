@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1285",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYDiNWukhccTxMKVrHeYu3dp9tyERz4WkCP8k5bsLQqxG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5832",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcmB6u79HzjsUfwpopVjyb6McjiT72reqxDB97PEi34z9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

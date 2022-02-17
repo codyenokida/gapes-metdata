@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8514",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZEegsWXoCNa1c8vLi4w2cC7rQxtZXfn89Lt6aWQocCrk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

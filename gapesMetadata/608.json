@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #608",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYDvHrvsow5HEozYPEj5WwSZ6LjYvCQs25uAVbkgygCeW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

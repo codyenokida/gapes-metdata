@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3498",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVrZ3j2hRTzhM6PrdAdvkKMjAgFJmsnKdi8tjmEH93szv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mecha"
+    }
+  ]
+}

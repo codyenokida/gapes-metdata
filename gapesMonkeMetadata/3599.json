@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3599",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRkujVtoPAoxvUegjxVd5W7eExRtx2zAqVDqXQi7quHBh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

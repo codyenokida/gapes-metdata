@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3867",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdU7GoxsoAGzFm85sKDbmNP9nhWMD4pB7DcRDjQGon7Dr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

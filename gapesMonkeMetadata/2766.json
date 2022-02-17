@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2766",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPghWteYXceMtYhMFn351F7kVopZQTDgbLZQgezdeugX4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

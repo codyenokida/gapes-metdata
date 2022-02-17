@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4419",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV173wXzdhnyncti5Nuq8GQSLmvyHMxJbVEcw9GwiXnML",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

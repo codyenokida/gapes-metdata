@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2511",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU1ArHkUWvndXRRaj4rJie2WA1wcd45TwBQWxsv9C52kt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

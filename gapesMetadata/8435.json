@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYAeUrnrozpKGV5ZkcUAi2gW6dhZpZCwpd2H5X92fG9S3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

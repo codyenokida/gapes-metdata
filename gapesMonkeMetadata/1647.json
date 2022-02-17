@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1647",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX44nEtFQkdwa2KBLWkh1TTacvXAvj3DyeiHSHMuzeAcJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW72MtoyrtJxcwYC5nU7466LQNuCLSRMsUoGTdwoK68jd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

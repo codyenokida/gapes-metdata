@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #530",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRhK9rHFUo6qZQtn4faADAs6QGeT6FYopLnW72pUr2D25",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

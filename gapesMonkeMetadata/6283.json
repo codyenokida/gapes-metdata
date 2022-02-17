@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6283",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRHK34iExsMfXRj94QRexFRS9BGEYmHv9k4dqwrp8nvha",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

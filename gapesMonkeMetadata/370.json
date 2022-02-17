@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #370",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcvuGZndYtcJQyKp5wa83ea5E1KTaamPwhEiQKxyBtiWJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

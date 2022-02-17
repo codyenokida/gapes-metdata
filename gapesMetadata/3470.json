@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXE1NSxxGzTUT25Y6fvpiBFurYyp3s3t4mkPXV4Ziyd8Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1294",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNadZE8xzzyUPKR9DeLPRUfrk5g4SprTUxKKxzTahDumq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

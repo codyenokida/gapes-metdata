@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2717",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY3PRzobVQHpjKRF9ftQPQPRMK7csTB3us8GGv2UzCR7q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

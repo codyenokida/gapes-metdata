@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5826",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmePs5Bu8bpJ2bEJW2KtNxzJ9pnzbLYa5nhDmf4vhMrrsP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

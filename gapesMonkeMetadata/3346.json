@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3346",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNevJezPdutgKpeHLRvzpc4HVuu1woE8JB6o1J1CLpQRs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

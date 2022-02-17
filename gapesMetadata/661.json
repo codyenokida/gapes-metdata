@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #661",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbUFvZi6tfywXHaPKxkp5zABERvxechR1iW64hRF2jbgS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1112",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUb5YCrJg6MhjmgYQgBr3viiWzgiZAAT5o8woFJ54ZktN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

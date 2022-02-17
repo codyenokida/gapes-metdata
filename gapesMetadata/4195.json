@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4195",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXLscnG5wpHeXybAZMDGPACZLFkFzis1AnRWiJ6GBZ4EY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

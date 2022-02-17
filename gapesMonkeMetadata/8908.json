@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8908",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeg23o7djXg5CNTjP3NHyjrYLqNzBqv9pDrHxaY2Pe8m9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

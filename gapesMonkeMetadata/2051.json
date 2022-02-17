@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2051",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ7Nw4Ni4sSnHJuJ1HJo4bhDspfY6HNaFKStDCg92nLJJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

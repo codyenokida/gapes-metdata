@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #328",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUzoztsi8xniSFuDwmhX93KgaWY9ns4UawCjcaQ38BHru",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

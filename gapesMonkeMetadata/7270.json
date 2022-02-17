@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7270",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWbvZKRGqTp66H4QzT3UeBXvQrFE15jnebswiTSeoptxy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

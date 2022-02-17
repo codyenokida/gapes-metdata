@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8923",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQs7QeqR6mZQZ3FGugctXT3VT7bdFJVcxM1v9w5UJZ5Uo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

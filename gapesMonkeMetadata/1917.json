@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1917",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXxYgtvWLcDDpRz4LUE5Rfx4UF8swU2d7o7UodDMmbSmq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

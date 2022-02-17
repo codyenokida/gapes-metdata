@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5345",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNbtRhUmumiqhGRktFiXF5t4YzwqwwXRwTrDWbo1PzBTp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

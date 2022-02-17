@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2058",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTUmiiH1dLrVdFjkf2w4iok2ANDLf1vXk7tqgMpvPajcH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

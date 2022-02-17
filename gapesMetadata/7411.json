@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7411",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWytnRm6oitgFDRb9zewpKgFe4gP35NhQM6ubShuyB9Hx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Little King Ape"
+    }
+  ]
+}

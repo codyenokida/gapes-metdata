@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6352",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ755GZSrSGn2m6DD7sbgEWiH9ifg7js4XohEtGJqcwcd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

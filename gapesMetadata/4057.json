@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4057",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPKuLJ9ft9aRnebzwkf417Pj2Ty32nLBDFqX8U1aSYJM5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

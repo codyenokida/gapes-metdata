@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5347",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQTMzJbFZ2yWnm1juX6frKvaTRzEMYSbEutb7xEqXTiLh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

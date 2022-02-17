@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2897",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbpkFv7VmzbKQaqwWbS9HoVa9LTNYKS7H9gEyxNfC5Zk7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

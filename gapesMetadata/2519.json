@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2519",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZcvWpqAx8wbAKsA2eGqT2Lb7yDA2gt8BDZEYTMCZwDiM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

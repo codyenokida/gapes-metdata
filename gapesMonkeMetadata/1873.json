@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1873",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcgqowi31PmUh62SaHuwXd8cG8gee3fn2Td7AE4Lw4Faq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

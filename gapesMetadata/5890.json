@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5890",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ5AWoHz9RVrosATmQZvTC1DDD9EjhtUCXP44aj7zs4DZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4158",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdEZA5EfnVgjCuEGvBNc9HNYjYHs7zzeqapMh3uxU2bzL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

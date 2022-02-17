@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3811",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS3uoXfDRJRN6TdaYk6SYeVT4vBbFFz28ugmGH5FmdD5P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

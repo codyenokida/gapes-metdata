@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4891",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6LvncGuc6FmVTexuTGBECEmGHcaokoyHGhzRnowcjGF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

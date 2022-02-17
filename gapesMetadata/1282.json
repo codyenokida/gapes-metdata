@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1282",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmafkzioqAdHk21GGa9QdkwyCvpbrZxsSaeXV3XN2BQFAZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3504",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmapTMkCSYgYE8qgEo3Wv9uGW2M1f4eEc9BvFCCMkL7EBv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8933",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVp7YZ1Y6bREUZwTovbqqWgWxYfFMo6pL7cMzSfo58T9W",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

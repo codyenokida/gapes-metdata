@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4892",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmemBrt2iEmdDpqLQ5KzaqK5UmJcL99RiAqqDvYn6t31Ro",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

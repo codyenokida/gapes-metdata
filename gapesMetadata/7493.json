@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7493",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVp9dGu1a8yzKgcV4aoNwMyvRWH8aszG2C8ZZhqyhQE1S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

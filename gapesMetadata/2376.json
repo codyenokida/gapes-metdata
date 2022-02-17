@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2376",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeYt4ix7viDGgRBoXwXaZ9dEG4LbxRK2Nvk1JUqWPAHTz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

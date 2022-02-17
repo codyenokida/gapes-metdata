@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7065",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSQtFjeFqQoXVG5K7L4gSbgoXPcuKsMX2X9AKAKgL6Eou",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

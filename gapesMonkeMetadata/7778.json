@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7778",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYZromyHosAiXD31Xj9w286uR8e5qgY41ftAfMrAcHGyj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

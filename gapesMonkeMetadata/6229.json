@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6229",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZh54ot7yaRb7TovYSNJurE8NacCEDg9GtuY5By6STswU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1022",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdwqEeZjVhvuAvu81kcHWBsyZ7UGCedXVTPGm1zvqtaJz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

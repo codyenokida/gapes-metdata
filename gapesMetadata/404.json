@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #404",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaMdLnf9M9KG18t5R9ohw4dC2EW42weXqWrBdiqF6aWtw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

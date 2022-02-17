@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8331",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNwqkUQLSbGkcpz3EoTAVANj7wCvNcd8hxmPjSdYAiDPj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

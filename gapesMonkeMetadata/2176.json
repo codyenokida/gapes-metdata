@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2176",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQSbHwYhLdCPeLBZdBTumfZxxKKMJL3MRDDbtgfXdNinT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

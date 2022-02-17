@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7194",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcqGEh2svterU8kZt7NVp3nTUdgjBVF4KqWheLgbRWrcv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

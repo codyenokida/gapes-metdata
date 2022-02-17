@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1991",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmddLh2wVkNWqZBzcsNYouwLq2HWCz8W3HZ6Rw1JrxePhF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

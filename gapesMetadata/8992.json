@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8992",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSmM7zkZ14Vk5FbvAAAok1AXd4Z5buiynUJ8pXn4ppukd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

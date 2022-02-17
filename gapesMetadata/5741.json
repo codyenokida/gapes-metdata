@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5741",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdgEakaoemYDV9uJSYzUKLnUjqowPWsD2dDMfPAM7pVVj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5464",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUpsS8pQs27MgT5uw2R1uqjxUY3Toqx25uo9c8VHkJGf4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8538",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYNnu16ySmcx8msCmB5vRUthxSU2iywgCHRdYpVP5uCfA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

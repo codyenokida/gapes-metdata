@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6785",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPQBz7fr5zUBfMdHEKkLCBACvf1D6yXs6QQxNt2tZz3NL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

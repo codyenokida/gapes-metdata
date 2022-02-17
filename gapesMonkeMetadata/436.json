@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #436",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWVeNQ2emuu832tSTSDeVqYQsqnE7GcDUiK4BsV67eSJu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

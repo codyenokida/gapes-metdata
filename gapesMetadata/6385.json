@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6385",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbVmfUYbiqm4UjqJPQfB81LozvthGZyPLNh8mjX2Sm4ZB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

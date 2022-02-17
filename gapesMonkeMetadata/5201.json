@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5201",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZhL6udZGpE7F5e1zFdTkS9YCAzXD5RsebRkwkruUhCm9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4118",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR7Z6DaWVasQUR1S5Dt9edg7AkmyaKBYGmsPYRRXcJeRM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

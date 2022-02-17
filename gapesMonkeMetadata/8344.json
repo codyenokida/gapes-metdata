@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8344",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR2NQ1XjGTsuJLGWmFEerfTMeynsM9anHpGShSx8VWV7y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

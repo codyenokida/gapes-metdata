@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1376",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSEiLrUAMKUKE5hFdJ9nnMqAwirJgKM1Q47HUpGhEnnos",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

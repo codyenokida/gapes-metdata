@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5114",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdi71Bsw1LAb2iXghcre3A4vT5vJXJbsVcR87Yf1XrUF7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

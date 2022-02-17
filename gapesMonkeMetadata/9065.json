@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9065",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfAwiAbAqpUjXNug1GGXvm1VbSSvJttUkh8h4JzyLeV2K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

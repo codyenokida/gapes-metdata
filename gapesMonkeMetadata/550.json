@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #550",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTDvQ2PLChyE7xis1j4SLi6Tso9dcn6J8mFBcRH2NN7YK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

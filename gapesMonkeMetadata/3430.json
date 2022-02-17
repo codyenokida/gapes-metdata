@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3430",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb1EVoSjG1UcthnhAnCCrEPqN5NLCD4U22zzWpvnUKVzK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

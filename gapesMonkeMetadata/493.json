@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #493",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRiwzeBZHVLkG1kAoigR5cXX6oqjWnKT69xSS26zEtJdh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7370",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSSts44G2CddL2QULM1Myh7qGKPdeNi8gdnyhH35MVXNJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

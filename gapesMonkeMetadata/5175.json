@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5175",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPBWUBGqoG6TC9mMwJTBEaY9v6bWuBzr2YoWfnJcK4912",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

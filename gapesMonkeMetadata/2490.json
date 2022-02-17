@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRu1UErPMjo3ZvgvVN2HTv3kgvmgzvYgZT59a8iEAPnya",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

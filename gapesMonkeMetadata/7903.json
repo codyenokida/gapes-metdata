@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7903",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfJsZRSBGGVY6n8tcU5hrKq6Y2UUDzf3TYd5wo9J2wWck",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

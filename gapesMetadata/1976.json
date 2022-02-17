@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1976",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaXtoZjP4xjg1SQ5YbCbmoHp353rHGRpFtjLiLzb8aJ2c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

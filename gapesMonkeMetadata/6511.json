@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6511",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNSpqui2ADNAHtYVYdKDbZWqY5kw2sVoHY8M9QRh1p2FF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

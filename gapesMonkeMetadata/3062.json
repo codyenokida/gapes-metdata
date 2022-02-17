@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3062",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmammAK5VTveHPZRPQtMXEz578rgmWxSMksoG9HREWttrZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

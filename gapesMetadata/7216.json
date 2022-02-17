@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7216",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVhuMdZFvVMzSF6Xqja3AdxzqpJtTFinnosY2a5QL8MFF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

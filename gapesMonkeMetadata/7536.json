@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7536",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb78Br5BR4hpbfLUFUW3ppjRDbqravmKNp65G4UjhRkSE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

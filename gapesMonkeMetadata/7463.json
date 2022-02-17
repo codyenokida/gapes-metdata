@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7463",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX22kzD56a35zhFPfmM3gd8RauGFNkQ8NT98yPbFAxUfd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

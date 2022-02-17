@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7582",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeiqX9KGWmjFYYCddbDAYsY2FPpn6kBDo2yojFnjkUf3M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

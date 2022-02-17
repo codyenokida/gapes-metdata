@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2080",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUSpyndQhbDCdUdqH9qRBbXtaqiUBiPCCo6V4RSaQVHhk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

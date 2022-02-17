@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5965",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUZqcyTF2qZVfzjqjyhywdAVA3EjcgRkBHqmMusRYibo5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

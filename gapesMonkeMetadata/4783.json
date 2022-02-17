@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4783",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUCSCaxyz6aFqcrm6QhZ3Z2emE1LSX2jAnGsZ2ZXxp7Eq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

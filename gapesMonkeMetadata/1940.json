@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1940",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmazUukNepABv1Q8ftGbY9E4hW3GiedVAo1hmKS1b2SQnC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

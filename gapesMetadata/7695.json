@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7695",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVk6R9gFGpcuRibVXVyZScdKYDvKZMZBrvjGLm4E25jrz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

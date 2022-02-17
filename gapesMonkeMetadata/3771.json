@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3771",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX7CMRkDpZ9gc8baNJ4BzGQaGN2DS6D2qkuNwYStvgSMz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1326",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaAgACe3xHBFzehaDchmGBa576bTBavHn2Z9PQ8iJEMst",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

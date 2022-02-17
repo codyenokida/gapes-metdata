@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1968",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfAjvd8CuM63fqPjiJWn5cqSuz3s1P5NUjfTKrjRrsQq7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

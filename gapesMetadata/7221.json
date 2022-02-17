@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSEFyH7wRxzmMe18cGnfDB3Kyy3dtwBdfN3TwpYUfsdn4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

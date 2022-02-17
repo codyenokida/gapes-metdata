@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7676",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY6VA3hNLvGAcvLswME7bQBCMg4tfMFH4TYcTz7bPxL34",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

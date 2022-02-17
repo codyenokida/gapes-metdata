@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5815",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaHgFJjQ2oD92cusAwWtAD9yKuuyvZRrUkSLFn9h3siyb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

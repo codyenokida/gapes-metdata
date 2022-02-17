@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1316",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQX5A12a16jLZR9RK82hEBnJdpXHPuwmAcwaTZN4BTJdP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

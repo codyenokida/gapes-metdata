@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7242",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXtVpdSzg9CSLBVjiXRBopvYsb1VSVZiMwa3aS2tXqj3L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

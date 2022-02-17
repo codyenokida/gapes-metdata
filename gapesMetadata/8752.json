@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8752",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcAn3PkNSUUzi2jt8xyjsXRvzk34KWywycW8mMqsD7sqD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7442",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVX8BMbZrTfKsDMicCrCYyBa12BiawvSvjg5DK42LSJRi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

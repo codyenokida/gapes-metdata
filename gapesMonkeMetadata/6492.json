@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6492",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeBADP1sPXi3ymYzJ6ExZ6XvEKDCzQCCL4csFFrbSJWXM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

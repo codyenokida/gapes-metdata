@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6073",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRjPgHvfwVEfNwcVpXphz1gMBcE2bEKc6Ggy9mdnh7YjL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4109",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdcB47MoK9Lw4gdJA18ewu9r9si7K6NQsrLed7RFCtAKf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9656",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSuQ1q7iTPjJv99WBrngCgNio9fykkbk3p2CZcgSAWGq4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

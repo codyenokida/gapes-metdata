@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3848",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSM7Qd2zf4RXb4sBf2Zt3wyZSre5VRkNSc8UNeE1jhj5Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

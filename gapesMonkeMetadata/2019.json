@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2019",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb2E1NYk94HJWiR5Sm488DcEXjw4EcPUxy67CgMK3s7Bv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

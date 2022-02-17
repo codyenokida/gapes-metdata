@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #125",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY9TLpsZY9FKB7b3HDvFQkgycZvFZyyviJVfAErMsd5GK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

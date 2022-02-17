@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #799",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZQSv97VKBuCJLLBwL8hVLt7oKjtKkj5L9C5Csqbo7sbK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

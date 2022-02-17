@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7337",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXqFkUm6GYqfySPbLUXTkm7XuFvFZZtJRiPwG8jkRyXdy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

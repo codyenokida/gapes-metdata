@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8799",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNdwbwQD2sg52psq6CgTjPKsdPLoDmJ7Hn3fGgK59NRH8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

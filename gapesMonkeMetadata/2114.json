@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2114",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQUnX9216m1SGLem9VrsHBhisjMdxxjLff4k6Mkw5ax9M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

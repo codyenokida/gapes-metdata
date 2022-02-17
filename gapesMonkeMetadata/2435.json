@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTguEP5YCWVC1YZ1u5WwXG46VTvw6KEnUYsfS6yTKEwzF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

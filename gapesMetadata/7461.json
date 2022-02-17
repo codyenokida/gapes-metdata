@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7461",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXEiq6TZ9wmM9hS9G5m9KxgAZyifbbLxuvvtXTo8jA9JJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

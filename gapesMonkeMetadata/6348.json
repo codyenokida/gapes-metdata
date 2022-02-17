@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6348",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdy73nLWDSg5QXVfKb79WZPwdx4sKuZ5ekW1Qv82eQ4Jr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

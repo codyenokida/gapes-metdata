@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #308",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfVANgVKh7H6uxvf9chsRajKCCi5yh14vGA9K5NKkxqGF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

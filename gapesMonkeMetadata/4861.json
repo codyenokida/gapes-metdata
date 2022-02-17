@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4861",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTtcg9KgehtvuFez2aLzPEmWPKYRUt2YGSnBCQizhBTx6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

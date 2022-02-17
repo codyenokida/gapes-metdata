@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4487",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYUCEKMGLSMCM5uPSYJi8Q4RLqy24Ltsvkd6Kxjq8XUFA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

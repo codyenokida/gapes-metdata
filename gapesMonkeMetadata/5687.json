@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5687",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbac3dvV7HiPPD1kRUSJCigiL2DD6YXLMYmbjUcLgYp3W",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

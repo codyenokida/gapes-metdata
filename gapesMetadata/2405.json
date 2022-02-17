@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2405",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmajPxFee93Joso3EboJA5hkuY4BovdWK5u36auAxv82PM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1676",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNNy7LvsTFzTiW8H4bNDxMtdic7CCQHm4pjNjbp9UWo2f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

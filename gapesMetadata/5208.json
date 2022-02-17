@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5208",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRjh23ZyacBZA62DX8YofnLBH1hTeNJ278LDaWri8z4x4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

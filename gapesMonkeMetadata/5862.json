@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5862",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVSe4bEVGAJcdgsGFqfvdSqrGGKaxkP1GC5qSFYjvbWDz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3527",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXFSv3nkcQp1Q8R98sgu44h1UCud4RzLbATdPftzAXe6T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

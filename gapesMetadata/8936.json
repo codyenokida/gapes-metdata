@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8936",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWGopUrR45KtHujGYF6praoNXg6n6VTQctdrH9GBTdh9A",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

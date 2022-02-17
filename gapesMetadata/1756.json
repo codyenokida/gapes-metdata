@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1756",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPNhbdEPiMFXVQuNvCBdggauTw52SLEE5Lxscc4j1jFvg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

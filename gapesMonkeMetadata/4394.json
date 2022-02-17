@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4394",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYpqLXX5t8TfRbHvA2Br59YgeCmSUrB9jdGM2r8JEAbvq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9654",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmejXyo1biddeNpvKY6bYMQy5RzUPQa1DzyoVqBN1hwPnP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

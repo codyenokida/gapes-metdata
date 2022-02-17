@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5099",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeQGypqBi5LZJi25xJqmA91DD3m4Bu2xdZedfvXcZTCNu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    }
+  ]
+}

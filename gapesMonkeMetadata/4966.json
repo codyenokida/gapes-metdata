@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4966",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRmnxwEMN7vz7WYs5U3dndTxvt3NgZuDqXiCtrzuUmsQX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

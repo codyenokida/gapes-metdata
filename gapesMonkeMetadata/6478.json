@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6478",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYGSkRCkpuoWXLhNJuPNCE8tLFR5PMrDxGWkqGwi5uiWf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

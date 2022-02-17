@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5405",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYt46u5kDUVv4HfaG4hVAeXsEMCaXr8y2tWhbQx9Ah16f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2783",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYDi1nav2SXrWVizNpxsAjGX73nNutxonYfMdTKQ2fcFo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8140",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVnLYJNcGd6BGhoKAduMgQcMLhNjYpFrhowBJYv9wKioK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    }
+  ]
+}

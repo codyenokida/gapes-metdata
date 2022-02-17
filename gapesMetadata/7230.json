@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7230",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTf9zU67NDHuz1ntxz6oPekUNG9Sgwy3Y2ntGbPfPkNp5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

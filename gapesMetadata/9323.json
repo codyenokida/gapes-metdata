@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9323",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5MHGginAQdq4buiJifhaHto5QheNah3uFC3gqPA5dk1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

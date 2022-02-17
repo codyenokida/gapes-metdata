@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #609",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfBnLnnqpB1gyB96pwjxYtPhG54etnxWrxSMWeEgXJuXW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

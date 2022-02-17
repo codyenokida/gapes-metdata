@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8673",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUFFAy78xD7vRhSsYrjNyc88pKLbFGoL1Tvq3H2PonvUR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

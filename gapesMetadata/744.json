@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #744",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZpEYc2Mz1qdQtgZuno7rCkDduWuaJneK6cA3AyaFoUoQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

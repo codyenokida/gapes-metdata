@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQvZ1LgHPvftMR9qX5P91wUvp26btMQ5Qk7zBjuNCPT5R",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1925",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfE4z912aXd6FJmKMAJSLsfamiHcQHKU4jhkbQtw93ZR7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

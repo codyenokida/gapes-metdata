@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9905",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPnXNK9RuzE9rjkX82NrsfhZJQmDKwxV6Prn9MBbbLP4Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9049",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNetfZ1z5KGWm9W8FWrZq5cSSsRJtVUpkWpiYqf9N8Ugj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

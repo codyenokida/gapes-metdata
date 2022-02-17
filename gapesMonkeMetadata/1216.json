@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1216",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaDbN8dhXpSuPw2PJN2eUY6NMN9ZrkEvHUHtzHtLN3mQC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

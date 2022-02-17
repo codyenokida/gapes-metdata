@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7060",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQxcH2kTUxuSgk33ZRc2QUfjMVvN5zcHMLcPW94g5AmWf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

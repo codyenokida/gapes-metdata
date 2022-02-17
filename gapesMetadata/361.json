@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #361",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQtHiC6bdX4WVvV7GeELY1vCrtSsqnRom2b6pZtPbfN3n",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

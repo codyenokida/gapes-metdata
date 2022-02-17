@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6951",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTdTJP49PV5ysXPQ5W1y8dHMENYdMXW8RMFA28wfF1sbD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

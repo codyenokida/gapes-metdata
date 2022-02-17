@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6807",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXELeRQzFvAg7AuiK59uvCSWL9XadJN6panwrAVUWDN7x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

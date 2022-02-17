@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2527",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcAjyovqtLJQLpJ9QaqDLrPi3NnH2M2hAbjfLtMtUQGCL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

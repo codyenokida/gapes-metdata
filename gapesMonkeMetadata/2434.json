@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2434",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSPDv36AqadhFsFU3XYJNEdx2Tigk3JLZiJNR2ofvQn6w",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

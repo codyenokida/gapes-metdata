@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1991",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXvbdD68pjmnoKhkjstxqatwFqigzvhLQsVUeTvKzXvNX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

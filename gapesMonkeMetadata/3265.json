@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3265",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbGBpVgx3R86QFm4MnYSGgfVWNyG6RxvT3Ze6D23gBskM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

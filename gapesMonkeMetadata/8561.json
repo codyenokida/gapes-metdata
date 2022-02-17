@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRP1gNXRoHKXj4WHmAAzsc5CYwsDTVrBmy3Awq5hZnukb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

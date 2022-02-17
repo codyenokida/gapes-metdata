@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5857",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSGk7s8238dSb16iH56LFXtZo6kPN7FC67e6NoTiD1irX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

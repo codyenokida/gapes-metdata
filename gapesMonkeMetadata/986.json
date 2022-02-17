@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX1dEzwo4swn7HwH8wGqp5HLb5hXMcUMSKaJzr2iPDrPZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

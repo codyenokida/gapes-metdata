@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3106",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmejxXU6Fb4s1p9YXqWg4sdsckPg4LLucTiWiNjha7HySF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cybernetics"
+    }
+  ]
+}

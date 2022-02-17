@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #874",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcLk4ctBQ4NXpi4K11Te9is4SqsxdCkYCZaiDoV57zn1f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

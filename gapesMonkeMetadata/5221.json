@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdhiHMw2R2d2JHVpxo7rXcxDRD4PpkyBkvjT7pa5NQW79",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

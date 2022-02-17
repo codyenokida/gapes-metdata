@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8336",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdh1ZQwzwQqnjKAVScDw6eAWyWpiq2VFfyaCHSavneQZc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

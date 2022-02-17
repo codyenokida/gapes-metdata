@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRGqSKkknQ5e74XuBYqiou613gToe8US5WBmMdbjmvo8r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

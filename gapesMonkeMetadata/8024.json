@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8024",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdVAKfqgAT5auQF5YF1uccv3icJ5cu1izNMTMKeKDERPv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

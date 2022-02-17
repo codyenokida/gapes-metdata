@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3598",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbCBFJDrtMB3NdeCHTxzk1cndM87QmWUV2QNLMNHzV24Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

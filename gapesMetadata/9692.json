@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9692",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc5prxJaLigu4TPd8npyVzNGyXdaD2DDR84NspSzUDQmA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

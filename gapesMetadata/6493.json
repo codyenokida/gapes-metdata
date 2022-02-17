@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6493",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV53hSt1cFN4BEi3zPBQ7zuAjMKki1TfbYqikZgKqM2QV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

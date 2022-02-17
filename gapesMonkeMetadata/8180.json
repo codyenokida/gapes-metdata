@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8180",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX3x9KZN2F5RQL7YA1EkYp9Z7LbqP9MUjniT5qni9tqYc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

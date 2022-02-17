@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2560",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcwUEmt5HRC67utrnbDgQf6MZkBKS6XVsNGK1yHDNV1i7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

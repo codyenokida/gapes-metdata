@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #369",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV93GZLU5FkgeCwjVZYoE1gQmwrKjjb7VrVmVSuEvTzCx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

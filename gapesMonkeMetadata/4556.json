@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4556",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaV9LwqBqMkTUANHXp7TCmQiG6XLqyy6HDwcazRBhSV5Q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

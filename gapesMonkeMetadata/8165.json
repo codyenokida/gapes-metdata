@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8165",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc6gafeA7iWkoiDibXxkeb2RGjgtYsoUyqCiyu7gxVGsF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

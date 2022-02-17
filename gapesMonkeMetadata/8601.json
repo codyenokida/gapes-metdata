@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8601",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR8nEfggLMu114vNTT35XvbzPkf28WCnPJexa2nWFq1KM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

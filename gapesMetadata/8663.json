@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8663",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZaroMrnhH1k9MDXCc6VWRCTBk4cxFbvMA69j8gd62KUx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

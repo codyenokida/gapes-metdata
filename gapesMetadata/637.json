@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #637",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRcUUfprENYkXMiPD1GZxXkb7Wb3fi6ee47BKd5Wq4vKg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

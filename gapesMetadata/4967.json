@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4967",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQp1vNcaKusGvDv9GA8hq1FHvZoSdeo6XyedCJRBeFSuF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

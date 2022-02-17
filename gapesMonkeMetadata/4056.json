@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4056",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPJTjSXnS2ZpXExmbinXM5PcM6eNTikx6Adds7VNSF33P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

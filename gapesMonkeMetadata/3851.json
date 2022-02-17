@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3851",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNuD1aY5jE73MdALQZ9dkv3oUibp6FfPTm9MzBxg5w51X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

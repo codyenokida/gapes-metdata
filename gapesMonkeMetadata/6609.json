@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6609",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSk1VXMUBFm9JH3MV3mP3pauUHTcwdyysREYSAcG5bcKA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5717",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZc91Q2nEsTZkrudKwMvBuG4Eo6dbMsJ6tPf4jvkocnyz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

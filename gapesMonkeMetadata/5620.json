@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5620",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbJJHXZsBB5URd4nqLQCtLm3hrF5RxnY9FQ9t2qgqZTf9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

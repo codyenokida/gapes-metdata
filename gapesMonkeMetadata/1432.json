@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1432",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUcD5r64FfuCsrBRtcKR8BAP7CyZsNNjrbD1yJf6REGFL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1595",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfBQqDgjZw6SKo1xx89bZ6Z7GhVhFwgengnLsZMGceryr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

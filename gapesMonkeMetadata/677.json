@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #677",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmaou7yPiedMJxCgRzFE8pXiLREVTgnhZFj5nc85rw3Yar",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

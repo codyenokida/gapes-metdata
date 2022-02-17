@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYFzVhrJ5ibh4pkNE1ucb1YXhYUQCagdqwkVhJzUUXhLy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

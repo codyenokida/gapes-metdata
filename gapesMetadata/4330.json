@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4330",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmanydhPHeQcRo86fR5oDMx7uDwwzUk3edhc7ySju58qZp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

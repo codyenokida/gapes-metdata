@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9171",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZCsTvJWwaSCf6ej41jM3dg6sMrLDnD5WZhJdQEzZG48q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

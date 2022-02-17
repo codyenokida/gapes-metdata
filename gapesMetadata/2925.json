@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2925",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb9FfMK41ercHyzHotz68LwS6eLFe1fVnEvoe7VWVdvQN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

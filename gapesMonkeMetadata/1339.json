@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1339",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWojKq85jA3yTHoKNGDkbsHy6PmdmeXc1XKiFgrKcmj6V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #581",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVgGnGFr2x95v49nzXFEGZ4Q5DxfuLN1JBo9UNLsJmdnL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

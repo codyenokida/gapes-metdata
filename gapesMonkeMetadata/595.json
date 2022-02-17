@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #595",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR7qzR2dNunbueE2oZnPrdi7W7G76cfnWyogfWwYzy68s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

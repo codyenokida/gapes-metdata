@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9870",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRRVvSzX7dQcLqwogn6ao9VNuLNZ11iaogFZ88KrarTZB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

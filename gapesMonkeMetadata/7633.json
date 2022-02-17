@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7633",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUUuRZAiXkuNsjrdVVGh1N9nK6tnXt2i2SyoSKnpDh5Xh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

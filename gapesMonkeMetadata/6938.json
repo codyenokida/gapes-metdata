@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6938",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSbrofgdd5mrgpmj6p2W4XjMtcL2zPAasnURNzdfdxrDW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4510",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQXFvv1pgLUrygy5DYgyjeCxM5FkNjq2zfKzrgEfrSMKw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

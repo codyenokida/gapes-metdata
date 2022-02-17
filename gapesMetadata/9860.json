@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9860",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZD5WkZyyv87v2oot7qTusxn3X2AcqryzjtnShqg3rTJN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

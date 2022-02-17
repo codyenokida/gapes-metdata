@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1701",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYbaJr789VpziZDoHcXcXqx2aTi9czRwpX23zxztNkDCe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

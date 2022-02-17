@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3108",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWrhPTpTMEwt8TCdfae5quemj7T4a9B4YmU2LTEdr6ULp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

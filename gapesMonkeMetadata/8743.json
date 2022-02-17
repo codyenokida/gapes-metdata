@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8743",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRAy9xzH8K7RUBrAVeeWo3CnhiiTcPuDTP8cHXjUBXF5U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

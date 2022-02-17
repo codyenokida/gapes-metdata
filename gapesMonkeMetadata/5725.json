@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5725",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUxqebouJYL9HiCfXTh9KqukQ4o8SJpYWaFPz2KWKYEXS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

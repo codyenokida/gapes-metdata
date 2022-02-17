@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #82",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYNa5qUR7ihp4nNU1FvMtCYHbhjNdseFkQM7rJ6u3zrgq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

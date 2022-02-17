@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2507",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeqTpGNMJJ8XHpeV34qhiLuE2hKDtBFGiJ34vJTtgD5sk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

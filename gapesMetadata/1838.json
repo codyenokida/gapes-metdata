@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1838",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQhuvePgs7B1Yj69JHifhNJPPijRgx5UmZhLB5Db8zqji",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

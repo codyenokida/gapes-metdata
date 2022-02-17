@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5296",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdNpKqW6t6aUXXqWXJ1c6vrbxrMBh8zkZ1CdVHkCtjAad",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

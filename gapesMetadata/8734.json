@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8734",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdC8BTacXbbXbaFBM2k7SU43kcTEC28UoFX7wnUqmMvLm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

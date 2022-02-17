@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9345",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmczdYnGzq3duGRzU5TiWp22iPFuLxXxYXFTB7D1FQx1Ge",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

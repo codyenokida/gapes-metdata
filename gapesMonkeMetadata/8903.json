@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8903",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR7fzvWD6qdkFsHGZiwPJnJnruQ5L35kEwHMgPAXgAoBj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

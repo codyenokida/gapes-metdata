@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2883",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc7UaRMLhcdFRm3fbUrDVyeizz65JJm3ZUtJoRWSms6uE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

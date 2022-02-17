@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1388",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd7Pzs7UNfaKV4jdYSW4QiBQJbPjecDfeqUtpXwFZBfmW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

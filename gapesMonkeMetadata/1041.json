@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1041",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTyG4JJUb6pFRwDWokrMTMqWqUVHCUv88cPSN9E6dUyWz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

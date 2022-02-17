@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7058",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcXcEZNwNWBEoQ3VgVJEETwv56zXA6XPyAomHApZRfUDY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

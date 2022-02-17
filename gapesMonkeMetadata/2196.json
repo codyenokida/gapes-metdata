@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2196",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmenMjTY44kaCTGGAU3YwErYrJMBqj6dkm1mpF3s93nmB9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

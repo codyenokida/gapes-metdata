@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1305",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd3nSfkLnXmBhJ88ed6V466xh8eK5cJXSY7p6UUJ5vmE8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

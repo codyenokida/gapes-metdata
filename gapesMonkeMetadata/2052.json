@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2052",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNVRjFcNEajcYUqPQBTajLWKVA5hreK9HJGYFuE5Sd5yZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

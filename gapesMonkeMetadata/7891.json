@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7891",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVfuAASycrCcy55RLNoGnyjpSwyprticdre5d239He7Ci",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

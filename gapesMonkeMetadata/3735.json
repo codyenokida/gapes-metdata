@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3735",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVGit18WA6fKyu2zv8KjkjpFzHqVTrrGnwCAun4jLPryf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

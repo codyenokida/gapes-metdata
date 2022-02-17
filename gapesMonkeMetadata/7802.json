@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7802",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmefSEz3K2Y8Hff7FGmTK4ZpXeviM1NCkZeFgqpm1krE91",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

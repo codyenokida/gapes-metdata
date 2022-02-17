@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #160",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZbV4EhmuhQU6YZ32vNyBgT1rLXcE3L8111kgf8oENBTY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

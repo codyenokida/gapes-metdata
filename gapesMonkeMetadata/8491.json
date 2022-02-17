@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8491",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVHLkYYuiVAdazQzCppjxaQgv5abUnubhvujPnHfqA4A7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

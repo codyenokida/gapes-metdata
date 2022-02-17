@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1012",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma97CfDfWEmi7pawuhHDmoqFFwfuBaYbG7DCBwbVfQ2Rz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

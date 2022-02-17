@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7705",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZoZAhxa7dXsUCPeQps3xTLAG7Z51TCGsy2fUVZhmHHSB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

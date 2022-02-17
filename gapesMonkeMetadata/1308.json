@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1308",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTTTUyVTd4hVfCNZwjSNLbNVZ9By6FapnUQE4FkhaxVy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

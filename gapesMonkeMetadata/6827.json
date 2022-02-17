@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6827",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaocjFVxqsKXLEse5UnZJtMBSLmy34RfgLHKUFgxh7Xw1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

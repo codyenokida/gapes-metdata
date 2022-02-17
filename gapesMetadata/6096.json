@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6096",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaRiXhx2KPffhcf85NZMjxh7d5RL3sD4WBep8CCb4Bun7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

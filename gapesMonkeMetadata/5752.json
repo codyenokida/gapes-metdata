@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5752",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZm8oWU2XnTHpiYZyWFuKPzmAhw1Czz4HR7TzYybKhFqQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

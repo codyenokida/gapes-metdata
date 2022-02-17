@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3685",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdXs8LiE1jYu21CXjZN1tuPhhLHnZuzs8kU7EW3TYnG1d",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

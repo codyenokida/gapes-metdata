@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8834",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYAGUEdAv6mG5sFf7VaxWMenDZkhnxMYvXFbkrMSZBnc4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

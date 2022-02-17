@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1716",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP2WAerNaXT6v8cLBZUNY9b7Akm1azzAnnU11Ldu6Dw4h",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7107",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUPPWkipDWGLrBu8j7n4vR9mzJjc9JhzehhQ7GUs1b7FA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

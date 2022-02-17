@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7220",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXpdaPYppU4dGz8VASy5jnBqqy1P4U4VSk8CuKWh12MdE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

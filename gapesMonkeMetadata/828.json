@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #828",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdaLgutFqq6HN4keFwKNE6R4Ywb5WCa4DXdSfu6D3DQ6q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5767",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUhFVmjLjUWbVY6rmc6AeQvht1GhXf3NLf3JBuuZDmj19",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

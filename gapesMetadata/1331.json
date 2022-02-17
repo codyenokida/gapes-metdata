@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1331",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbEtUhtcoJZST9C2n3sfF2eK6X1Jqcja9qdBsPXq4Kk4F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

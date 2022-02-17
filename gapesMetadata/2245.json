@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2245",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcJKaKCFa9WSokYAxV1HAMJEM3vPvNU7c5g9xrBSyYCun",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

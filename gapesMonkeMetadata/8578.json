@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8578",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTw1pDu5MaiP6cFfASXahKrsm2z58mW1VpDhVFzywXz16",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

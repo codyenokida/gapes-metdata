@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4720",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZD3Yu67iZvKHhwLXTTM1LvwKfniQz1rzYqt7GFcnruww",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2102",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVyJRBjR7AJ4uqQZuFbKoFhTG998YoLqVNjSrfaUxCzSy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

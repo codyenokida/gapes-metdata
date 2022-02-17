@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1526",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmczDzQ9as1oQeFwwK7qnxEHF26oaqm32izHJH6a8qWBht",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

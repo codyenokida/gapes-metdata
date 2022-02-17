@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5927",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWjCYFJ1s9Yi9Wo7iEJDU1gPwV1JZFaAdtgKA7KMkAU8y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

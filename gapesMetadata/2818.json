@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2818",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT5nRNAwt3GvthUoVHDjoRN4HkuB5idY8FbxeE1KKqqUP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

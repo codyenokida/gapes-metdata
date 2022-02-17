@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7476",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZjqW3SjWWuVUQs3a7c6gHDfURS5uHpjXySTFXpcV7bL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #880",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ7uCYsiP1UNUezCgFRj7scWZWmD2JSxUW65WLJgi5b9a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

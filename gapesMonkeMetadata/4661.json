@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4661",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWbDuxt6bzLNnjeEozezDAp4DQCxfMApGq4EThDCB1eso",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

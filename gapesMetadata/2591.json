@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2591",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWxRhNguBLsHDAi5dXKdPrG6SLMBKDddpxd9CFCzshPWe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

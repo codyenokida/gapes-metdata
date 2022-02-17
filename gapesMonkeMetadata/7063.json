@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7063",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSF8qHmcZ9Vhjco1XhZFkXgfuxQM8oDgi5EgabqQFyrHr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

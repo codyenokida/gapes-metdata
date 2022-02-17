@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2934",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf3zk4R6TvFgZzepMQpjRzbsL2eKoR6j3zP8XAakuSKJo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

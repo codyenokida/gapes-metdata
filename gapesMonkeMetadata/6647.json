@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6647",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTLVZcX4ebcm5rwc7JZCfUZgkhxBwedHQjGdArGdsueLe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7900",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdsGacrAJawwtbpTDi2xqqPEzTdNFPzZSQrVWDmLpW3Hx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

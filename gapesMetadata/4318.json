@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4318",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdvHzcsSzgL7NhETWAMLxkaBP43iKA6twjsvDKrhUFvvB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

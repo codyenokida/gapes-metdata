@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #851",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdb1pHuBZG7gey32X42Jv4eWuh78v7fxRXXHBFxMTstQw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

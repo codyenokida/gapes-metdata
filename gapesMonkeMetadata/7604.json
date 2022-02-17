@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7604",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZaMLiWe1SbZ7m5eSgNeHWK82cpWja6jxYJWJz8cArBJN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

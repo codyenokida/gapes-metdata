@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7814",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdgVs9orpX7SaCSiH1J6JemaMqEi7kDXoigm5jebVybX7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

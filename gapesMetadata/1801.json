@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1801",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVGKC632p8sJiZ82umfC5KDEg4ELWm2rBwvFodLuWPug",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

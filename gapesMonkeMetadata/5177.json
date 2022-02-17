@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5177",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUoxtnguZUTNQJau8hDmPZvypa2WyWTqdfXSUCmFyGCfv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

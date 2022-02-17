@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #951",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmegmwrJhsTXiV2pSbjxtvQAuRLUhhQYYxeZxPhpSnqHac",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

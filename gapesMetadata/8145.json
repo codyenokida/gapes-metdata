@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8145",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYy3sJvtn5RhTrrn3qqjMrQY7wiUAALVn47RgfKVZYmVP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

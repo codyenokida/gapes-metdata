@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8094",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8j5TpSqjaNKNqjwQ8AAuwc86V6VtKKMXJ3pAYHZnzNM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2767",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSoGj7Cmb6cwrv9jPMzAvvq3oZybaZd8EAUT7rjcB9Ma9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

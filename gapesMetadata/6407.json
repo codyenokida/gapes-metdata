@@ -1,0 +1,34 @@
+{
+  "name": "GalacticApe #6407",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcTWbCNSAgoBYUKoqGjtfg8QYcjYkQYZUTvPLstNAd9wg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Little King Ape"
+    }
+  ]
+}

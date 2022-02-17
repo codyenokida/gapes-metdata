@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3329",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeNZukFhkoUP96cA6KDRdwupDaKGqBo6iXqHhCBRon8BX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

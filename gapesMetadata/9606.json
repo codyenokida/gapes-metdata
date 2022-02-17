@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9606",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRYpNTVjXAB3GTFh2hYk5JyF3WCYCB6Aa72u3Fg1wD4Qv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

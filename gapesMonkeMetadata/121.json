@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #121",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaVHw1D8BnyTxj95rWFSVcLLjzs85E2scENjJxqpRxBjY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

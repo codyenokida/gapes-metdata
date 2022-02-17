@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4005",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZFpEHKoz4YqmAgQYHuNLuuxAQ16ZVweAYZYKkvyrHYiM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

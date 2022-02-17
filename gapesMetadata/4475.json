@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4475",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZxhCzt9Zk5N35aLdWUzgcYin4f556efoeU3jk6jyZAbB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

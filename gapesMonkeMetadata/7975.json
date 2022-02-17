@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7975",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNckmzD75hx1UhuyCKYJGHWdxEFMRHRr6Td32Niv4ozGs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

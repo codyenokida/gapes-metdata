@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3330",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTw7o9pjNkBBVbU2Wae7KqQm887w7AoiNwf7FfPFKX3H2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

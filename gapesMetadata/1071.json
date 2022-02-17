@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1071",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbWRqUXPxpQYygNZdEqMrvZG1AFwzYaGczGyDehWUZrs5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

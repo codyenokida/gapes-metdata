@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6210",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQwDLLM179yMZ3eAUz8eeaW3ULPB1ay4LPCmHT2HBr5en",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

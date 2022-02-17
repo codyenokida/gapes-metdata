@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1947",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb78ZcRZRTwCf7aWbUUsi1wJGm47ZwG5x8PHtgJ7XLac8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

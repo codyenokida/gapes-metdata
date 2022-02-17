@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #163",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZxZQBbP4QQDsZ8CbFnq3onFMSo7Ae9mPxgC82CrVpnrM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

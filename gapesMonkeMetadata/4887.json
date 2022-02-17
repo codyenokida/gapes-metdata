@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4887",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQczcVvcHGr1zobEzaskj2FgkJzbWX7Jm82hHA5pu6LcG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8034",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPctYQBU7mpEw2xEq9dPPjhXxm2rvwGsFsUQKk7pczvMY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4277",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbXZESMehqPs7MNV49n688DL5b7Z5x4wzfz3hYHXjZoBq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

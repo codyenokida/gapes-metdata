@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5118",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb9z64bFHodKpYWvBjohN9YuYdFzQGxJ3bLqNSyVdnx4z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

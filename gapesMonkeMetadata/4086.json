@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4086",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZvo1vKmxiFskkBSApRfdeoYxb1dTB33TA1Pi5nXdFSsw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

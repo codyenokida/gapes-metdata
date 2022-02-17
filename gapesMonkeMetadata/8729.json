@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8729",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVXxY9kSaKTbABD9xFpBWryxDJEZytGcdHQwLbpZFK2w1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

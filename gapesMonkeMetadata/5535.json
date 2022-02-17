@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5535",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU8fptyJLfweLsj8HLsqADCfVchC5cvamezzdBK9d3de1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

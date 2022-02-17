@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2238",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeBD4jz5w5BrLAUWewF4T5UsnrqaPw3cNtggoSev9i3CZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

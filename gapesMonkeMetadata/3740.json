@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3740",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdAkRPKUrGAE3B61nPZ3Y7z1ricvkmMb6LXBsChzN3gtb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

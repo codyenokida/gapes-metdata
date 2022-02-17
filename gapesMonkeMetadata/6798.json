@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6798",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYK5itovkFTZevWPrucZ9U37uKzYpn7gd5H51oQ5HLmXP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

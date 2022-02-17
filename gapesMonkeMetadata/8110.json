@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8110",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma9Wg2tyPkM531rhzGPMhRwRCGSEesP1RxbwtoeFu85NF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

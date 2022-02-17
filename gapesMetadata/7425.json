@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7425",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd7Xq7zXqdVYtD51LPyLk3dfq62jMRjA1zU9TLQXsY5AW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

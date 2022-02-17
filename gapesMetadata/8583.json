@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8583",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYfaJCjzXEgg7Cmng92rCzUN6YeuxtJUoeJNCJubeowMN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

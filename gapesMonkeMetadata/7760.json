@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7760",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQWgxWj5kd24bM7yrPwX1TYkG1WsB3AWwBCGaRJtBkXVr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

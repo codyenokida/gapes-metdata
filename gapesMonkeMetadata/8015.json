@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8015",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb5W9f1Nf64NRtDazimVAVrGJ69J4rww4z6TQw9eK4pJJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

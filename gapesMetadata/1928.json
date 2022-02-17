@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1928",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma4imLX9SYZuUT6H1FspRYLzhzF4jDLr4jayubQv4Qhbj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

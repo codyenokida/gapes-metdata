@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6827",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPwWLKrVpnGWHeq3PNd7i9g8aB93KQUbJ2Z7WyGRZEfWA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4523",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQHpXbEMciiR555fNNmrDgfqxK7FUJNmDmd6kv8Lt41EP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

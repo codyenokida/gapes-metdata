@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #35",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZP6t8vK5eo9xqUt6Hu3LPdie8sTReqmgqMv54oAJx6aA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7739",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcxi77oDM4WJ4SZAxTi728SJy69n3L3eLSMaMiF1rPUUc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8037",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPRzEBhqsTEBZMrmXpifgG2myZjUwSeuKaV3b47yRZsnn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

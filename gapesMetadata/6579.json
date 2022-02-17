@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6579",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb7ibL9SXrDHJuDnTL77MnHVDgn8Lk9tx2L5eSjkh4Lue",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

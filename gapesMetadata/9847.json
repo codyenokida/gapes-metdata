@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9847",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUWvKLTzD7F2dv8WwocVtHw41c4bszu8i8oKAMiKmw8KP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

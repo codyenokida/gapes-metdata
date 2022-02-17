@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2404",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYuTLC288CDDQ4CkGvwoRt7CjDYiLbs1bUEDxdLf4yEep",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

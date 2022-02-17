@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2583",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaNW2vK9Th4YJCnwEtfXJtad7cYCPumnAKP5Jy6JFAh27",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

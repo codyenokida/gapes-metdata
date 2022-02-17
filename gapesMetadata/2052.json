@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2052",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUKiCVJF3V1PuFp9P3g6m8mh7V6n2qbyi1Sx1rQNn96qC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

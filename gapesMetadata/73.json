@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #73",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaF44rvJUNg8eD8knDLf3CcLdbmSmq3Q6ovWAHbJCgE4r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

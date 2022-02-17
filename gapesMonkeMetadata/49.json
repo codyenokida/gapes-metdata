@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #49",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUyefMP2kwFHEbDSdnZTdbQjhAtbYP5dPCaaRE3ANXXF5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

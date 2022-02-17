@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeLd3xf834yZMxem6vd5jEQpCMpos7g3n8J3AUBDNszhv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

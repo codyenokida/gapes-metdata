@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5656",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZerGNaCVBui5JidHDPfxUyaByeJRLsBdSRXk5DzujQv1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

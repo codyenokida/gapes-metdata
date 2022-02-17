@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #676",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWeJxsYPk1uSCmQZEGAsxcU4p5C6fGzXwnavWma19Zjs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8843",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXFxWyAURpu4isRjJ7KxvFC1NG52i1bZMMbPSW27ZMNm1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

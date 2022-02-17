@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4681",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVrkw8JuDqNPWrpbA3VnrUrNShxRDRvZtxtwReaaTBeky",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3881",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ6fZsLtmCCyWYbKsm7wW51vdm8sD9VMWV7jkMYoXBRHC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

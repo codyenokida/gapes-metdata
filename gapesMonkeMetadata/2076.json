@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2076",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbRmT3kzVNXW8TR3UVWceZESmGZPDPuA3nMYqivqf5W7Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

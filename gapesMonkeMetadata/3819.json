@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3819",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeaTeo9omLBNZ8gZ11a79UDhYZFwXCjD88sgqSt8wNNTT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

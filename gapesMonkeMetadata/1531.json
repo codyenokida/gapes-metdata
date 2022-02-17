@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1531",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXE8fGTi5bZpnYrdUYChocKRQU4WgPSXhiBW8Yifeeps7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

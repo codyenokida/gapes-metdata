@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4923",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTC2nbw1V1VX8T1gEATfYkYu1NTXTT3Fqf773upp7UUrc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3647",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfReqezGW4q3fx8zxacPbXQBr3aDzokP9G2g6JW8znqUn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

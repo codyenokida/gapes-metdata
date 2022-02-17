@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1636",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW5pTw2KPLjTnbrBeTGJMnnXQP9FDhyxqe76RcSPKmJB2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

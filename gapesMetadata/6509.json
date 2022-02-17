@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6509",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQqcXWbh1rhBbmqViR2LBiWJ8MJzzhbxvN21WymUg8BVK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

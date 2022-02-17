@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3215",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbdGLgcoU4URtJa8t8Wf8qJM7n6RvEYiq7EJb3K8MsXfz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

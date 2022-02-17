@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRdQCL3FfrsZhjt89Vccaq3GjjwESgwNitpsThHo1e5Hu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7893",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZE74z4GSTwAG6KzVNh2gUXH77TeyjDx9pinjDBBvJBX4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #270",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTU4zpWTGjiRqGTh9xwgQPPbYbfLz7Ln5dyK2vbPkbbaW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

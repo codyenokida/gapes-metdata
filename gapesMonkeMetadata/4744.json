@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4744",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX85L3ujAu8ATwyiFFsCjiJ5bLNFuiMgvLkiid19SRuvC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

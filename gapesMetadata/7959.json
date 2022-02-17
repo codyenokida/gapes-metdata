@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7959",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVsd7yw189Jdsi2FifM1YcZF8MYQuQS5LQdx6nb44nH1A",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

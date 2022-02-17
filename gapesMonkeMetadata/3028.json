@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3028",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcGuW7TZJJLCqBNmtnxhprPgTprWhU5A84hHHPe2PESJf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #538",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeFLJZ3qUce1Kf25DFrap1u7PAPxmBTAEcSxh6aDst3dw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

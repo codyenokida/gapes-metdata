@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2697",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNkvVRPRzJz5LUH6TLyomQzdmUZcPBq2BPdqK4QMgUJb2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

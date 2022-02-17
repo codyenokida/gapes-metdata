@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3175",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYgtrXp9g2a2hkJJsFPMAszJa9w67LhwdYLKY1H8xDNZv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

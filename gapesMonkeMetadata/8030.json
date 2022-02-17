@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8030",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT8kUzJTjgUKYheNM3Qtx8bKVg9WGvNKe8mfk58JZD947",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

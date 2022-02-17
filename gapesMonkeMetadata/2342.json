@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2342",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWfNygXirYHKtQyiFGUumjCZFtrRDjPcHCZ4iodkeo1eo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

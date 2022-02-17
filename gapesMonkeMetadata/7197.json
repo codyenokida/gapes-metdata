@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7197",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYcypq8rBddgQsecRV5mdVpfQrgQEGjV9u2XKsPzmkgJr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

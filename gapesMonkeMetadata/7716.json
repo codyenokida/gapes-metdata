@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7716",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZJE6pW7d7wNj1LVSNN2sBhKyj7FgBt45ZvCENm6UD7gw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

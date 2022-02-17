@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5333",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSmok6dab3SGFst8KnQEeYkYY3hXiFu3Hb26xXo4Gdfwa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

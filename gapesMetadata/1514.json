@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1514",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQeCWjBF6m51S89bpctwEFkQk1ntZghQ1PxBEnnSrc12L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

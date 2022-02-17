@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7565",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaWNeQSjWG2Nj5i1sqJzmAMLwfN7aottJxRSkYvEazoFC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

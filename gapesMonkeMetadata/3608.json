@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3608",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTNRDgdTyNn5J7G5Tra2pRfvDqAt6p21zDUfXVGiAugS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8254",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcKD63vFVzJF3c5u9KqoFaah9yVBSU5e11xYJMc4pYv2b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

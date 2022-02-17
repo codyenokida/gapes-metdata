@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #987",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVuTNgsCTsY1CgRShRptK2bBuWRvvNUzEofj7SYnmEGRU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

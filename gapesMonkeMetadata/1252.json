@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1252",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbmTnLQCC8TfsmUQDhr2i3bYeejkLVchwWdvZNWdmtcRg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

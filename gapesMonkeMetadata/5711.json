@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5711",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUvfj5ZUmhAoYJAasv5VNsBGQCMLDRkvHddao8gLHFXKc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX9rmE2KB2BdkY8zimJcwHZ63gpLC4a5AttD8FkwVYLaY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

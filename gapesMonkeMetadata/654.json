@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #654",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdgNSiUK7hnGo9KcLQjtoAE13LzoGkLRCUQ6hnAg4h33c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5810",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWvywU1u2q2RR5prqrKkMNZPW6kwYqw3JL1JDUTqzYbVm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

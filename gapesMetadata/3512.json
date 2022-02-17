@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3512",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP6s6X6BjE5YrxYp1DsBvQZ6BknJyn11oSp6iqgRNujCR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

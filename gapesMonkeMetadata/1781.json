@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1781",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYuTo6Pm1C5f6eer1v3Vun833gCGHPKk28jNtDNivR4zP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

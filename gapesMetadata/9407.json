@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9407",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTpnr25vsNaCLgWxyirtnEHdUZfTeMYqPS8H24fykBxT6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

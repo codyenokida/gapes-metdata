@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3960",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmecE5D5THyuZSKNqzPZbDx4Lwcpn2Kbq1eQGCq2uMrRq8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1248",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV4hKZzGPPVhKZ1LXXx9BLmEbne2qMpc3jVCio4GWhpn7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

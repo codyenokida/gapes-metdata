@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7640",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQpWxgBzs8faG7sLR7io1DchRLyC4fvRJdvwHUWk6Bb7K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

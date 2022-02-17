@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5575",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYHiUZQzdVSAmXC7Rhj6D28wxrSqnNpxU1DrEk1AVpNKG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

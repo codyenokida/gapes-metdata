@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2604",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdQ92xdAvNHBqsgcsXHtpVaWCThGhNeqywrNWKWmDqzsA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

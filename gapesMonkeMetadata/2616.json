@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2616",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWU9iH9x3ZUTmLuonLmn8eABTLhvM5WNLyVhk6G8TJB1h",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

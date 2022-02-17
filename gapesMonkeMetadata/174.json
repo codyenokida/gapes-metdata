@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #174",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc2cbD2h37v4GE4JoP6YdFWPrAJEuE9jEg2a33U3vXssg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

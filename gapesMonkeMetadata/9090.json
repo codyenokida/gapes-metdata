@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9090",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmchnRJ9ZzaeGLm3Ds1mdsBTsuJFZ3gUxjVqzhKZLEQhCD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

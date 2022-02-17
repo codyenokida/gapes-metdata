@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3545",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW67sw3zX6C5vNZPV8gM8yuQC6ebaXor1md4FSbQQkuB7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

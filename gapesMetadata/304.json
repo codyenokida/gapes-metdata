@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #304",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTbruRM1FJhDRW8YGZ83bA6GNYupw2pX1nNG91HHUjTiN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

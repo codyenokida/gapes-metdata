@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7401",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVUSW1xhMsD4Fr3AkYGVriKo485ESYMR7EhVf9SARHoxz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

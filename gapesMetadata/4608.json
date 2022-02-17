@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4608",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbWd7bwYBfyBk4EAo7PDwnqa65EkR8foSXmx9zZU65qHE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cybernetics"
+    }
+  ]
+}

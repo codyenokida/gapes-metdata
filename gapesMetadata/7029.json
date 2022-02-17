@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7029",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcFiEBYxJJd8mN73rJUoHAzGVfAfypaP3w9b19ZwuvueF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

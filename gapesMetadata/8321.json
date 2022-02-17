@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8321",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWDJDFdWbSYJUEppeH7FyxUkw82vKcSBscLAyynXLeAiG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

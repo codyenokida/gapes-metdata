@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2980",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS59fEfFQFSs8tWB5FFYpS8Vbr8crWAukMsbzbagGtd1o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

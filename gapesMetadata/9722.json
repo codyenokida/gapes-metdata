@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9722",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPv5fJ4FswBH6tYvHE9S8TyJzvcoFtmtCY5yyAmyNRkaV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

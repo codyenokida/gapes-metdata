@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4263",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfXsXYVY7MpB2XQB413i7uj1Tqic2UuuFfRRmt4vTCsyH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3768",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUFhQxpvPdsFVsrRn9H1LHhAao67pKWZvje36k98NCyPG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

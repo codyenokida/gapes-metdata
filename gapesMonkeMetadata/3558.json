@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3558",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV3uAfRPx9sL9K7JBBMWMFfM35oH3QNE4qKnkJhE15ymF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

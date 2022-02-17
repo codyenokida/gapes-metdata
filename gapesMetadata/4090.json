@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4090",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWEg4TNHkWvD2SW9Cjk8Pv85dvhoaADTNzzs3Ffaqd4VL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

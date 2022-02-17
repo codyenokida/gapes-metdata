@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7457",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf1tEBNQJ6i63fkGqJiRpTBEqUEGe65B3vKCVdeDitvSa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

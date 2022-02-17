@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4333",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXPi9hXP3Qw2XBoUgdzEdV1HYHHxiVX6kJHUsHBFMT9Ys",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9387",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXcnPYV1tzjbgi4ZUng85QADyjU6eUjtnB1bJR7B5zdQL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

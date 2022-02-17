@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4928",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS7tN58AE6Hoc7BZ3kKkYNrfdMyWiSFgqvTEme2JHywE2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

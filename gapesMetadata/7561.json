@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ7f6r7yLTrrQwWPo7RezLYUFHEZYX9JAuF3E84eWQQEA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

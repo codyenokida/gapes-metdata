@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXm7PeQHW1BKc6RAcfuTmKZFSwkPKk5NzpAQBZn56LRio",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

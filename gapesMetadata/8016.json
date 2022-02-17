@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8016",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZJy8nMxxr4cb5My7b1R1qe9h8dusdWZJyuHCLxvQeXiY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

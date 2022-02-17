@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4895",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNhp7FnrHGvLbQywdRwTHpBjutNKLqtKTA9oydm4HUtbZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1951",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZnmz2MDJowCb6zRfpy45TtQg7vukZb68pKxfa5WjS6Xc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

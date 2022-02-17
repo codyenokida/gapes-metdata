@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5836",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTgpZxygxNs5hAL4E6e7Ju2D5MiqJp6u54tH1AHw6Acnw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

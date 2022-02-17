@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2478",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVKazemd9WGWPMfg5avBxVqSDPm4chz84wV77HfAXCiKh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

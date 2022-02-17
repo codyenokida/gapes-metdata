@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4474",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma72qKdJe8uhJkunS8syeo6ackUpdo6xqgP9PE5QAqhwx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

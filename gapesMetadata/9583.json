@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9583",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb7GbHKzKXz3JGuJNyvYRMiv3VeWBswe3HQAh1XbitbkR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mecha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

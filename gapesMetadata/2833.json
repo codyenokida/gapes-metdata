@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2833",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQRPQSzboZcnVQycis5i2xZ11uCfjXq9e6TDcR3P79YoB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

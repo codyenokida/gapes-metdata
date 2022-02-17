@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5269",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd4aqUNCh6hFHE6GjrDJCTwPptVUsDnXHMxYQb3q7PQ2F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

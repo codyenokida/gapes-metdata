@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5801",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNnLvzhupLXtFcSTyzmWh99hMqYrmp2mSNxQX5pY599x6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

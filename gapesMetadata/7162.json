@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7162",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaCEQ63Aa5guTk4D3wa1nxzRKjzh9Az7YoFqAp5fKZLNe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

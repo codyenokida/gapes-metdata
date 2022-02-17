@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9885",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeq9XVwDV9MSLrJbLRyEpKEBEWtLxK9A8tK6bf15KTAgq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2704",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaeFCsYnQvmp6pLUwW94o4GCLV4DfD1tG78h2iUMLTgmK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8445",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfYqqvtL4c236t2zGYyv5Hk56WvGPbAcCeo7YovYQZLBn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

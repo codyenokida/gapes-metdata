@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8904",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVPizwota8WxCMAzzYxEXjRc761CoQZRqPAkU79ep5MJB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

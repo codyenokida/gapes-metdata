@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3257",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVu7VnH1qwqtJVkeAuJrTLo4Xp6hqjwuTdiD4XDP2WH17",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

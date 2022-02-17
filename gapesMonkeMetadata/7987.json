@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7987",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmehTG6ErfLUNzDrZva3qX1dcb7EM5FkdF4XV2BgXSmnRi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

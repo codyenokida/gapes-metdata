@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7759",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPF7T1HTWbjcXzPYLLZm1cwk97q3xAs6gtczHbbDm7wtB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

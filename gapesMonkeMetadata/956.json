@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #956",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV9Q4HtS8AtzZQdUEmDEsrzZqwjZZKPzbqF1qy3YLmD4h",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

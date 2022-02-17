@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2634",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQcUUXSkzFa81fyZoWyAf1QRcy8JqG83CE5M5cVrowBdT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

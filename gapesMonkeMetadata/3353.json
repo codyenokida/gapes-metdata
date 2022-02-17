@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3353",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVRSfK3UFkJh8w9Ai3DjubETcfz31rYKwjHTC1kYVgg3Q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

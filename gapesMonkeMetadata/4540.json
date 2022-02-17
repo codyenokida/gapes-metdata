@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTZ3jdQ43wEqr3T5FTNRmufLR3XdqgJ1QrQWhVhVdexJT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

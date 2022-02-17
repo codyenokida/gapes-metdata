@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4904",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf7ZbQkfKFcLDSRgEEyz9GKCH6vcSijQwjbYHsZXGJKVB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

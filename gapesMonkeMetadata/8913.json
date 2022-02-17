@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8913",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ7dCHi2QZp7vFBxnmpNxomt4HhL4uDPbvC9PrX9BqPkw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

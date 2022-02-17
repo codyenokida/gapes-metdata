@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2913",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX1C3kVUJy9N6NtLqr7cqvTiBKVDmv7Xb8AJvESbG4sFE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

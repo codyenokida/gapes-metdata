@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8116",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5KA9azbUo78X5skFX5xVHToQDCbzH349AF8K1ecB2rF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

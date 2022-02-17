@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9276",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUD16rs4m29FYEnFiMxsfw6h2pnTK8D7WL7KM5TMneMx4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

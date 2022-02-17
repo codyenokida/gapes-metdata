@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #491",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRmGh1hMXe9YJo7EyFxvVJ6kb83uWQz5NG7iR1miXhD6C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

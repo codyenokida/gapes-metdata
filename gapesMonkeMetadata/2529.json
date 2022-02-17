@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2529",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdJNK3G2Fzb6v86e6Cda1dMUEzsiArJfESa3zP6tKwZxz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

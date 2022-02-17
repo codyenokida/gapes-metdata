@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7797",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP4AeN8S7fUvJS6iMGc5G7n2FwPCQTJC2ixpfzZWUBEPq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6178",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmecpsoxEqhNT8ahMiiuzbaBZv1eu4fF8nAi1hGBxe31KU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

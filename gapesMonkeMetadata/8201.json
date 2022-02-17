@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8201",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ7qcrD7qbYm5HVycr8Fkc3DA7mPm5q6n2YBkuxBUqHkC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

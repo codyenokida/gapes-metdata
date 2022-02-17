@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6758",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmctrtnfJxoXrAPZPuQfeVtqvr5KNdGudRWRU2cN3ZRcUu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

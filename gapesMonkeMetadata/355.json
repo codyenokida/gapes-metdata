@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #355",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUgY5QyRsGcucb6tmaU2QhBT4BWba3geEtsVNbaB7TmdE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6085",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRgjk1VgQU5D11DdAVgW7pDHNcZqx94GitXCkuCF8BMHM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

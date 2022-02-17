@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4590",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmemj59zrXqfzgBQ9cNWoWgFCe41aQ6Nq1KFeHywiotn8Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

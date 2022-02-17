@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ29f5dQ5Nz3H1waoeonmLyp38iurkrqfLKse8PWwR1aM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

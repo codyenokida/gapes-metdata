@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6934",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWFhEtqitkNuhX9Mr8y5F6LnPX6c65PAPnQ49S7xhkdcH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyberpunk"
+    }
+  ]
+}

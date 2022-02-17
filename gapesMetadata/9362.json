@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9362",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmduoLDrNFi6FA4wrywvqWUVCsHdFDJFgPnVs4YbGZcecn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

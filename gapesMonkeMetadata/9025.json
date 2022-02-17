@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9025",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNRLvxHiwJWNeVZmB56SYAAUVrwwXyiDXhWcPDvF351ga",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

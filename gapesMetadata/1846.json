@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1846",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRrFbVG7w9qwu1VbXzTnekNMVJ6vDKpYyhQpP52tNhs9a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

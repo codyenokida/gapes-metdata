@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNqk5SrumF7ANgKVhDqA4kS9E1uZuuGw9k9cpzWgZ5zK6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

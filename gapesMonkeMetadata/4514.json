@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4514",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeJ29Z5v4t6KY2fyAVmwBWfokZhUBrd3E9cWB2L3txVjP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVe36STctgAf7JKYx6JjAUJtbwAZjHDhT2qPnSknHUqM8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

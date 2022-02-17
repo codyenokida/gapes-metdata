@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8885",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTY7BGWDKa81TwgPxbVVEhou81UV4iY3g8t6PtEbuCT8K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

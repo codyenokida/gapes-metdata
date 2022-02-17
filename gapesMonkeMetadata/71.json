@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #71",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRQAeEKhpqHXEhJDwtmUCYJ73wgdxJKzJmKVTQV1Ln9Lz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

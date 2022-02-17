@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2514",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXduceJ6kMmz7rWKafwUpjthDhMQMgb9hWX3VNhBfLyhs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

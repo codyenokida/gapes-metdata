@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8813",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPRvAyXHSsKCJkGCCBAf5g2MMZEjK2irhP3LUMAa6VKmu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

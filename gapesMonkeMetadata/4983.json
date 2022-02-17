@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4983",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfQ1w8Riqx38b4SbwWNBJKeN7upN1oA5R97WAaVjWjWFv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

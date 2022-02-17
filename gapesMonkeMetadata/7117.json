@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7117",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPa8yiDXwwXyX3FBS9GXmS2HSGJetupShsp7jCMMXhQuz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

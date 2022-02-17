@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2423",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaxNYMS32XGkB3MEeDDtaW5mZVvZP116aJCGjk8aSJdq2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5093",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQnVsBjL5rutRpXrYaHNSQ9BiBQjFTYRgT6m52QugyFMQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

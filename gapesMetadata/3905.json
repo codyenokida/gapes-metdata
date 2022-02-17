@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3905",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTRXJKqnjgj7PdSFQHN2S5N7VqoQnE4mmUAfenUQ3gCEP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

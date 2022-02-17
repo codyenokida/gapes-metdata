@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5978",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU6shX4yhnRhny2yygiskEBM9P2rm49SXnQpvk18fqaGg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

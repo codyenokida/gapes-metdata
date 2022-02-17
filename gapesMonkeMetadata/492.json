@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #492",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWtUsrjZBKMgPQLs6wn8nhmWLFVm4Sfbgm2Q24iq3GeTS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #112",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfKhwuybCHA4uFhHv1rGGnskeDQ41r5c7PsFSNL6FM6Nr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

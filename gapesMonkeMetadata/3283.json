@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3283",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSicDXuyoB5sEh5oM4m6yCvrBbVEUQFKyCVwJZpNFBE8y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6412",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTn4nU6mbzgxoSPz7S4bhiqMLnFhm6LBHDHujEZa9Y49J",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

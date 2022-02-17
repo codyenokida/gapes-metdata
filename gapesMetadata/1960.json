@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1960",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRB6MQcX42VJfxiYdYS8vU3Lw5WeFyTCtQH3qHc6L4NVt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

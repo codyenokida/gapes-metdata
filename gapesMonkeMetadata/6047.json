@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6047",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTbSjA1XkMr6hdzK7GaLEJrKH96NMLtZniC1er4WU34tR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

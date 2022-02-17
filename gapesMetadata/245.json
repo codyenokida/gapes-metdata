@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #245",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf4UAQRLbvNhX47UKmcrrb78dh5vfwDPQMHhMZdHEWtGR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

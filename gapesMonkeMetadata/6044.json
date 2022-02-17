@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6044",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSN8UPzo3FbdLJYMSNrdN5HmKayryqkmVLR8GM3MsKqie",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

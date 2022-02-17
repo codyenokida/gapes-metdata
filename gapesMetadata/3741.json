@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3741",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRcvA1ZwhQerS1nHDdjpdp5WFdmKai8Aoz8ATbN9iXoKM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

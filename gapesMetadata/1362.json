@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1362",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQBrJsoU79RnA9sejJMRVmabkq9j4xYc8Tp7Nvzf5U6xa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

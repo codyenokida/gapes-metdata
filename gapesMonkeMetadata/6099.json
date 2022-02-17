@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6099",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcC2QB58Jb2pgAedrWATykF6WyxeUPsWirfaLncMbMcWP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

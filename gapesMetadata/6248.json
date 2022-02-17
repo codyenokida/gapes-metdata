@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6248",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQgCpDXwro7L6T7jB8R1evVv1bgcFAZSaUZuYdb8DE3F5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mecha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

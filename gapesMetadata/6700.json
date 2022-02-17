@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWGEHzSgr2cAYYeEnUMgzmUtUzLddR4ecsBaYK82nQbSZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

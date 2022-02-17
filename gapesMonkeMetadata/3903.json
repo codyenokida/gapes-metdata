@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3903",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcpupuwMLVjcKgabETqQXAdUbtvWFLC9P8c9zgtvgGre2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

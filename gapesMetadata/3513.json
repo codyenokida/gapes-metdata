@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3513",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRrnbUg7YpyWUyeMSwu4rzsA1FqvGnNtGC68q6VgsbC8v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

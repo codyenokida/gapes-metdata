@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4173",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUCA7NFDvejLjy8jQn2c4yfP1Aesv3dAHiwBGiU3nKDdq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

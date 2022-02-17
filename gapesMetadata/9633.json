@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9633",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaNYr6PNRRvsn55GPGtpCcwj9YHr1i59xdivVTQAd5QqJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

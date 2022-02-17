@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3235",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWarMEGMNM3bg5CHAGZq3ig8So7FxfFpkVzg52qJaS4MN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

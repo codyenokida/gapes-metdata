@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3803",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTTLVkmDBhJuNtuL7U8rqi84B8TJC4RJDEoj4G8FXx4yP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

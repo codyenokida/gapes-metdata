@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2335",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWiZVBrgDQveZ7Pd9myVKDj4aS2ppGKPT9oS9yTQRLqJW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

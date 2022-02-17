@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9619",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRpRrkWep8mvd2szRwxdUi91W8fKnnxcuHhxfi3LMirFa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

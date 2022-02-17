@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7978",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaeNUPadE2D3K9rNS1wZBnWaDz55sbvLS2Bk4cuF2f1qw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

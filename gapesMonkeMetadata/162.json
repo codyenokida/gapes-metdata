@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #162",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPUkEkstjdJ8R9MueiqCKyGojfyG25GguVBDBPf7qr2JZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

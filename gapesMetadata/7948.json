@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7948",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW4ogXdnv2MiGxXDqBSLMYqXzRbdLytKyAx2b1xV3fRd2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

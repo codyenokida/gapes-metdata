@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9580",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTdwddYYD3pkzCoBA5pVsLURWwLiMquAdXKv5dicrRzaz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

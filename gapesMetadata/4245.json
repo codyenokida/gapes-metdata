@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4245",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP8L8fataNd4W7Vd2AWmmQS3CYvgDdxvW5GPDuo5tJTZ6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

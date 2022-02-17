@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1722",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUciVmSecM4uRDgRDdAHRG6r4Z7D7qcbn1FnWgT1eHMyU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

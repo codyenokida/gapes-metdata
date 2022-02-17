@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1235",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY56JYfT62fbRGwCYzNfHjricvK8tCfyYcHNXQq5AXHG3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

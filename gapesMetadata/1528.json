@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1528",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS68oMukGTsfNxWPsk7paLBfrvUjvyoCS72vSqEULg43B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

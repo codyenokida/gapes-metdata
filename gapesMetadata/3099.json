@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3099",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdFNwFg9Q9R3AtLcSZuHHnGhL2m4Tr3C9r4C8wic2zJfn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8995",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVTy9EYQ5Y5xJM2uie9DUC3P5i4mU5J9CDcUJqBmVfqAL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cybernetics"
+    }
+  ]
+}

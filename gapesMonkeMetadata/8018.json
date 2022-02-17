@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8018",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZJjVpirCxtpYbfevXQi5gozD3kwuY24n7KWRveeZvVSb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

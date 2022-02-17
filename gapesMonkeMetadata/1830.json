@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1830",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfSet1TyoxugqZB46qCM3j6PzhjQW9Zpgu6cZ2bUKHJKD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

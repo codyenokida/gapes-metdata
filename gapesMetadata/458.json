@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #458",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeaJXjhLvqrGDo6ub1HGmHQC3LPfvinDxpZiceZDFDQiX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

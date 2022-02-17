@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3591",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTax2MUztqMwMmU4rSHjPJD3coyS5jsFXhZGvzDkJp8hZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

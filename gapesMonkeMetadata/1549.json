@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1549",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPpHgKHZev13W7seC9CodDWpDFYJNevaaBgeaayU1orbR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

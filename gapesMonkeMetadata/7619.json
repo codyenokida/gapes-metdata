@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7619",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdXJ9NozUTihiUSqZuGYMDemLsx9s4MXi4RGHyfXxhRgw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

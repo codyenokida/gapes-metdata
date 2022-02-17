@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3300",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYGHA5HH3GyK6XzsmP8jbAdPPk7eaCdnEacJk5uoJozWa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2269",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbwB5mGD9zmF1QvKinbeqhWDitodh2CJjcPv1RsYKCt8L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

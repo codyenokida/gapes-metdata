@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #957",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfW1ecygExatFGfVcfchNyAUpYwTPtHZdRtee7ntfZYcT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

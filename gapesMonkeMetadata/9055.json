@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9055",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWMqKNy3uFFGzmS7jc65YBHKzJev4aRX7ZdKCFE7fPLGW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

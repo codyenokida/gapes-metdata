@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3367",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeNRYD1v35Z3wmSMNq5iCRsS88TnEZtDQ12A2MesRPTTd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

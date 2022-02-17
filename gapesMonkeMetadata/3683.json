@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3683",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXr3oy1QsYnDFSKWEnC4cV6fVZXx5qEPphN9HFp53S49T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

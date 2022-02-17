@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #937",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU7gvro6cVCBB1hZDqatrvp8fLYhkAFsa9hyQ1JugLZXT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

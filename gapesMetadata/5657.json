@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5657",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmavBvpq7ecKdumzQWQqxVjz2jLXYdwfUNhAdE4eUdQTaL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

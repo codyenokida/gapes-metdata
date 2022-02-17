@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8136",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTJ1hoPHXT4pWKUKvovAH4ikjKEnZ9HKUFNirBsWfs6FQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

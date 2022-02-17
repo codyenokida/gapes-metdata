@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #455",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNrfxTsrPiEQTD3xWHwr39bZaVGQsHpxYYGuo7zV9B2Fn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

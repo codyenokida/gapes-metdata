@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7196",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd87UkxnirYWj2mpLJv2HgqMuCNgPLB63uXKYEHia3Asy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

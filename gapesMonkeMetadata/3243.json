@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3243",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPmp1bvdj72Ny2s8t6oFc4Kc2vPvUbz12BEwVYffMDJLv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8887",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX3S8ABxveZS2oJ1jG7JY8GdgrACUpXVdaDfsuawYj9RK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

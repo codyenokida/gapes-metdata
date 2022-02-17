@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6593",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmaqs7caJcexCNFDY7TrCXJ5ZzgYaVjHXHauEvhLmpEfe5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

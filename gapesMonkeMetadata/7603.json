@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7603",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVdFFNbW7SDoiwd796drWKnnhVMS42oZaAEkMcvcAL2fY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

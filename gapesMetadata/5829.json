@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5829",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWs3YhQoa9epPqnk8NM8R4MSfAsq7mvEbgN8t5tG618S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

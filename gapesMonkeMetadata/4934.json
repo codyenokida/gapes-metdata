@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4934",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPSTSsAEcsMocrS1ywiVXiK33XbP1dcw34dSvczNi6EZU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

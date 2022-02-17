@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWxuwZCiAK5dAtQ7XbiK7BHif7AJddFJA96VxZfATQCDY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

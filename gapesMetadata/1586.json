@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1586",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmet4x8hoqHfUeektw4YUzZgUnfQnfn3AKnBiN3KedXCKG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

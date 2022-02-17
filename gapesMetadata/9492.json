@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9492",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV2swwjQbZCR9L8ur7emAiPRrGg3QwJm6odwxKZDrGqyS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

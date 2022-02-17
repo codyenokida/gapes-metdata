@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2024",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZG8CNTgnQEsebz6ddA3cunWzh45cAmC9mKsBrqa48Uhm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4131",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbJfDUaHEVsM9JptjvwgTqRwmJq3BxMqBWunqR7ZVYAkQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

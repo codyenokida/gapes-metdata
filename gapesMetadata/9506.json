@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9506",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2TogXrrw4NHMRML45vVgUaPjyZkapLQuRcP3BkwdGmo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

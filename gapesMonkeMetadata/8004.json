@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXTvJRxBDbVPDYP2yim1Gf3sru16qZfN7G6j3pCL4kpwD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

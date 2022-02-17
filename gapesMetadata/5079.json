@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5079",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQdEb9xzUa2YN2A6ZBKPkvnhEFEMQ6tXivS31C5F6CJAp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7911",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmefg5TEzDp1odc7EVHwZnbWgwnmNW6dm3hxxN1pHqRvBv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3104",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc4puBrYW8J7eUzcpDiT69bNULP7PcELpZY46asvEmBKY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

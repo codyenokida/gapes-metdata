@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8071",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdaqiFNAd4skzKnDgZWczAis1wiknFPnABokRt3DajvR3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

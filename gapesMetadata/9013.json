@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9013",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUZqLd2rg5Hggd3uAkm5GG8ypcvttqERZ6cBkN3Qw8QTv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

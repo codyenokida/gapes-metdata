@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #639",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVY8BfKf5C597frcesWUZoR2wtduN1mWvKtYwzWHxHhT8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9773",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZtAC1jCVPVb2NSQnWBR2VqSRny46ntijXy4sV5wbbbux",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3754",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPdyGFzpR8Ve9W3qsdCLdztKJc1e5stRXeJpopWFXeRfE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

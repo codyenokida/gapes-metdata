@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2506",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPAQebugFVx3qaxeJs7ruNywTjQGZtwVFFRa9ZjgwqgeJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

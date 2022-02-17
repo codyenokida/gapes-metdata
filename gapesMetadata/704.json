@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #704",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTXXyK2YPTyNt5C8MZyh5TKD71UDbLhQK9TgmTuaUay3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

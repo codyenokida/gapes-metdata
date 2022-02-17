@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4120",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP9F2BgpEZi2z1979eidEPgidnQLaQS4PFRiwSBUEXi8a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

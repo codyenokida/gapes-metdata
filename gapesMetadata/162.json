@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #162",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmREMS7yUXSoxcukn1jtckU75AwQmrYr5JUozfTcqgyhDb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

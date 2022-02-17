@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2547",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXWqBJZzbtfWzwHYXRBgYxRaL7Xt8Y7YxAvcGVrq8U7ex",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

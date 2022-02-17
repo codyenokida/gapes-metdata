@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #494",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRSr3mX5Heop8EU2PYDAspZK2ZQKcZ7bMzwo2MhnKFiQx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

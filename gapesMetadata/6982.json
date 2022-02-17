@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6982",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfGF2i4vkiZrjRqyD3RAifUedT75FqRTz8xGhu1u1BPvV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

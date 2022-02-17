@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5868",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQzaimAnrqJUpU1n5nMBXV3rEtMxYpeuaXthVU5JAe6vq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

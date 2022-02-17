@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2446",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbccnbXqnxvgZhaWGhqWZ1hFkETpDHPdxAoQrHB5ybVNj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2927",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPrPhYm6BqWJ5N2YjkvPiD1DJjL6miJyhhdEbdysqwofE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

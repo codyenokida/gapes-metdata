@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3333",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb8EQurgrUMiNXtJVNU6vYCmxFjPAT8bJdRXYG11evNud",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

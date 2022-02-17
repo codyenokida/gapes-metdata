@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8109",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNfuEwnw3jhULtHPwPEqvPUKg8zXodG7NN9X9TofoT3H3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

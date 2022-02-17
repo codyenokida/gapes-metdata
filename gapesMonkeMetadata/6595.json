@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6595",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUADcDU1g4276LtesdUNh4PLs7576QbK3RKoeV6HtBJtM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

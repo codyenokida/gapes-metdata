@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8105",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeLboWdZoTyAj5eZg1uEnQurXYpnJRJ9gu1hLgAAdgaQi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

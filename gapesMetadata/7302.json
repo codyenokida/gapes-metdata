@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7302",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXmLZhXkwe52WYWHCTa2WfN8Bcu49F82feaF6zZnVTyx1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

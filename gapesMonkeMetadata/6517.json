@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6517",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdwSDN1M8YKpyPeJipSERjLJ9JXW7RKpP4qyky5mw4SUU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

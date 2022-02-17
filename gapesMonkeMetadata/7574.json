@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7574",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUsM1GBysTesNgQe84U4xgDn91w4ESo7D6ynRfstk1Roz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

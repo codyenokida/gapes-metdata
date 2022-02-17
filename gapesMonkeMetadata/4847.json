@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4847",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQVjUqY3RWrvLb2DdD2n8Va1r1LbxfHLYfKZpJhmhdATE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

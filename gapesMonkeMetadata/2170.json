@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2170",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeEd4QXuMeLf1QcWqXok55ecsACvToz9fmBGC8ccugCQt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

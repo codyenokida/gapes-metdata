@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2030",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW7fF8vws9gNw93pY2UzbpG1g3bzBSGPMcArqaSQYSJwg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

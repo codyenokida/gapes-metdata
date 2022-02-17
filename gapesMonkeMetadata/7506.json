@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7506",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSW67mzvtr7XhASpE3rkRfRpQSR13uX8QnUCiPTgBrCbj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

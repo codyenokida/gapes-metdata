@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5169",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSybSsmQE9ZSu1t1nTX5zXVm3aY5nvBV174MpH6c3r6UE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

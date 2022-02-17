@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #900",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZUEeWQtPoR6z5QWDCh8jUbGLLsr63iTUcraHdoT9zVRj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

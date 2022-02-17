@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3404",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf1ThvrAnxWiThQiqd4KktBsNu3H4DN48xPizsvD6ywkd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

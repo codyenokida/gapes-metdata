@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5920",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYZru3kmuErJBVS1qHmM6PfvbMBc1fY35VqNdsVe8T5oA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

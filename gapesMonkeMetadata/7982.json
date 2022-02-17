@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7982",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmddvxj5xqZYdR1oXRGcxgayMcFPyWEtwcQxfXTBFp9B4X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

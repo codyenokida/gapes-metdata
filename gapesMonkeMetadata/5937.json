@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5937",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWsQbrXApGw6LCjBc5YDctu85QWCKroa3HzTovt2VMeo1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

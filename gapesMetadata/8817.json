@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8817",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc5G9AKKRPKeM65X44i2mJb52QGvaAFkKGcaW6joRAE6s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

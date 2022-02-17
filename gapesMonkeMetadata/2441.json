@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2441",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVi6Qp4dwQZKB2KxXiqipnXyGqJcBnsHDVcX27JakGgQV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7835",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXkmd5KUiAgxPGfRcg6s9DgFP5cH1enYATHTWzSq86RFS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7110",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSn2y9WRrKLKcccvnAAkcE9qyWu4fvD7npfzmHHaaYzQc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5211",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcMCzNNee1xfsV3DtLx5ZoHUwRMmJ8k4rJ2ZPtSdod3ec",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

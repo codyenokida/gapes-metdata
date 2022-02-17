@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #970",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmechCtpfF4RXTmZRwynAyf1hE4MB8pNDoPRwztixDdrdj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

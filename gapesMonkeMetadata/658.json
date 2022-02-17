@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #658",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVJUVSTy7QvhtW6trzLcLvyWnXac3TmVj1jQHNn9yJzZL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

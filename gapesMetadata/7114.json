@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7114",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX4EWBopZqSyrhaWpviiihEWoUYAvVQYjtJAi4M9Rsdbf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

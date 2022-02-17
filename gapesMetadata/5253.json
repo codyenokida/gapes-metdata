@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5253",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbDervNkrUCAHfoobnSWFvDr57y2PggNJgsbtCEPinNAP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

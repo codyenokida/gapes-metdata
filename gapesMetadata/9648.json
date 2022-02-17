@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9648",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcPnGdHMVRzskVVpkGZonbWYMJgNjTu5Hp9DkgrLBvNSd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

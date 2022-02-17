@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7407",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf1pBXwh8G5EaijtCG5xibWmveThHjSEkgg9uNczuzqrV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

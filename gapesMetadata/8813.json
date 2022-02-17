@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8813",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeEqcpPvhZLgG6gNW5n9uBebNtt59KZ4ZJUDGW2DMRcdn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

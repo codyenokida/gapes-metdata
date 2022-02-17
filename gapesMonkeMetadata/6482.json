@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6482",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR3FCq2Jm9KxaMd8sd4gqsyCDNpxxcij1NKAgEx9Rq33Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

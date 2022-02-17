@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXfe2JJQ8pd79QWSj6PAQyjeFg3emEmg9LisExxXCbBvC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

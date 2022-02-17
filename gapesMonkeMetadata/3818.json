@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3818",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYGC5hb9twHMfUdQejXZBxmJRehbfcCWtjbqp9HeZq7Zm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

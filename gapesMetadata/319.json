@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #319",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWDeJJmKeY7tBYkx5nKjgtCFpsoKRgS8HGtgwaMHrQdu6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

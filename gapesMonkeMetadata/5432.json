@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5432",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNsvEb54N6nNELzXpdUozerdUUxgFsjdQf7JodL6tsGxa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

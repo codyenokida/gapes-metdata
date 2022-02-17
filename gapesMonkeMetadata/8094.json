@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8094",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPBBsTWdEc6WTENU8ESwPXsrHVXvrVw2KpNpXRwadqjZX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

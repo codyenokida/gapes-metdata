@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4697",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme61Ea7yUm2q1Y18bPxKNue5CunSN7gJZudX2vMNEo5VJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #178",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRg2YBXCpf197WpYTU5174oexnmemVCXR1DQqeG1Vjyfg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

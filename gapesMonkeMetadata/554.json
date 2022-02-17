@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #554",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRDuiWhg6x8mFdtdQHiihi7WYnDQAtjMQDTq1U8KveFZU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

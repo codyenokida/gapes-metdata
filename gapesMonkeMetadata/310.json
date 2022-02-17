@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #310",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQdhdoXdHmDGeW48Se3kybjTT1APaUBMLRF1iRDr2Kf2B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

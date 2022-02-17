@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1625",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXRvpyR9dJcwUeKhGBEZqt8brbsWQCFvN5GW27UHce7qm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

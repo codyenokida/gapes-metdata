@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7703",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdKdCwK9pKPrNga77Xs8jiogzevnmy1w5PPqSY3L2rznF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

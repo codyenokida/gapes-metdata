@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2005",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSHJk7xWEbEhm7TfMw7xEkJS98inhNWqPFQgjma9NeuNE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

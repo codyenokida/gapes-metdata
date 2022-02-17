@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5000",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUieYim5Zm1nmMKZcfkJUzjienkapoy9ETKY6wBA7wtmf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

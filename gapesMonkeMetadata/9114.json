@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9114",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXwjppuJqUD1hmFAgaSrn8FCwWu7VbsmLhjyPDRQEAydc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

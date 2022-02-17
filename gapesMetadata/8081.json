@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8081",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbSP6FvLuegRDifrz18ESxG8wEfjLyaV5HrWdoxVUqSny",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

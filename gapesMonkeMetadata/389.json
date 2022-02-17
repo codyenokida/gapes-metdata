@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #389",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQGgKTAhp9K78zU53XJAKN5BiFJH94e5dJtDcDjJgFpd5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

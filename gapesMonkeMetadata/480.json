@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #480",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVzsCEVsFpEXjN1uGX91Lm4R2hFRvCXZsJpKzi9SWrhs5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

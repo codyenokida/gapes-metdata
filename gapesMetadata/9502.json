@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9502",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT1QzUr42eut9CLrGhd4BsC1957E8bRZMyvtWJQAjy7r9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

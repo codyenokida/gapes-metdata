@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6544",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY4GeTEnk6ASwpuvJeAp4rUTvfVp5qZqcC9HKEjqQyE4u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #970",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPuQtQBXyjNZZd2MSvoc25warTyt3L3e6NxtzAabzUXyt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

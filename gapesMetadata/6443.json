@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6443",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZrg1hrp6VcSc5f5T3Fp8TK67uwWkmfFDcesEdvspFUhP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

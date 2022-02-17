@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4178",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVh6ATkz1QKJP3BW3yzCUfLfGRUnyayNYuPZ9rYm9B5NJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

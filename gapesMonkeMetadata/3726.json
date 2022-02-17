@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeE4dB75HzvAztRRUP4VAvCx5h1uvcM1SxpXAsqauUoCX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

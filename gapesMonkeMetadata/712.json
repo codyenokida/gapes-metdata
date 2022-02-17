@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #712",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmULxMeqU7TuxcD2RhLipNR5vXygBUeocS1vDGUhC9hrfM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

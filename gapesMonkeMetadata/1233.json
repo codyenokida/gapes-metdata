@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcjs6ioAqbBAAZMaJq8CDcA4JyhVs7JDdGbwqGB15gPqL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

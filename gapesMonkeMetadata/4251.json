@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4251",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUiGGmLwF1aQQetJETC8xcHvXo2wLtfYwfP7VC3MBDKeq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

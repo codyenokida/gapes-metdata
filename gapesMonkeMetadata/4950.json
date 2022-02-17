@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4950",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc4aEYAte2RJyuUvJzJAVf656BkDgV4zGprJEv46W3Asq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

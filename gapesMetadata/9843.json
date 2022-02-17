@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9843",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPCABLYZqQ3n5Yak1NSiuP7Tyo4jYcTmW6MzrpymMzheR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

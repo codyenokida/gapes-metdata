@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6216",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbaHQqnVCRjN7sQQmib8GuHzoFuQNqzRctdR9EedZvS2D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

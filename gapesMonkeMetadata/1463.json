@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1463",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW7GW3F7GoZnWe38yb9pUbqKhRJumCdQL7RaWCrAxrasA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

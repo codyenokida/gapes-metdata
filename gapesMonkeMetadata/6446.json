@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6446",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRn1vDFGtw8Cg65qpPYc1Z3Egozpi3xFg5LDAjbLZEBML",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

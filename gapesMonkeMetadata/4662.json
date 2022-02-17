@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4662",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQGpbjY8Cjrhbsv7q5nU3SZsdbv8PCLJsVrWrwBJQKH3v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7503",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYn53R14f58euBP4GfBA42KM5KrekzNvAVfPhdemoWsEC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

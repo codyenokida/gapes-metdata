@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4698",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ2A29MGb2LUA3TMm1rXdkq4UGsK8wTQ8nnitB34PAHHp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

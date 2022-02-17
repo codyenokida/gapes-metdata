@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #230",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf9ucKt4EyLx54TSao5q5cNrYFnh9xpPNdubDCXNDrSxK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

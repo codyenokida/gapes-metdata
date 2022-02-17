@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #44",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmURTjqgcSDHfKmg4MXEQPZqZDhwHgGnnf2jv61etQWh9K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

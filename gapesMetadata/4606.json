@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4606",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSyn846SoYyH3b1KJ1LWp3GNxE4c74r7KnUo7YS3sYkCm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

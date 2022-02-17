@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3139",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPKp6of4AiKnwGpPqKKcj6LNQAf77KWcQaZFCW6krybVP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

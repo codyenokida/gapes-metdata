@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #484",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcBbNyTYB6a3GHU1tYEmmLXY5JKKzs44oMWAEVKAfN2x3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

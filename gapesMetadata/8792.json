@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8792",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdzuw7K2XormCAHNJkLHz7NVs45on1AFAB6xDePJvi4yo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

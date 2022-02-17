@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7722",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS3VDT7vgBL2JUmtNNjdj1saeFGcWDg2P4cVvYkKrjutk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

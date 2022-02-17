@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3822",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUqg6KnhD7nCW8m1borDS4Bm1T94KoVMWFAgdLa1Z5jNt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6332",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVc58in7aF4aRYQYdk1Xu3AatXqrMLFhSZgMP6Wj5Z3zs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

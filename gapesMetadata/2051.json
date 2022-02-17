@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2051",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNMJUXeCxPhibPYSsVF5RjUFtJxmndJthqDfbFxCTXPsS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

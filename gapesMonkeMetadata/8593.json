@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8593",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQMDfsvTkyrQbHXRXrJqn98YbpAwz22anPutxibc6rxvY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

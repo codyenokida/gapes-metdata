@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4869",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSXnDMrmUPyD7vRbrrwokNDbXHnXZ9ZTkWEWSB1iVzQrS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

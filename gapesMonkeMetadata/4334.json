@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4334",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXoN8X8bVmNjtr6rh23n479eDtjtaLYdkXoVwWrPeMDkQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfUeBiGn96h3iPR4DtDZNfB1GcBhw8KtScRQTN9pKAppj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

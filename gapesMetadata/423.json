@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #423",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUC8tdrmUKgFtuTr4Rb1MQT29fDbc5URnddj1Tf9XJu69",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    }
+  ]
+}

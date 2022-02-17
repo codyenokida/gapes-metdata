@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3304",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmScnbyJJNmhVfAXnTwAJjgsvcrjyyWE7wvdkbRvz2W22d",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

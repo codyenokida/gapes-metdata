@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8301",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRp438PzuGtdkdPsxrxnJsKuKy2KWGPeRJ8LMsPiAYLgv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2880",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUj2NZ58pfR1z72h3ty4XDg8pt5xu9LiX2uRhy8UueSat",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

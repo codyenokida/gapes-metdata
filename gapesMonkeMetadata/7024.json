@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7024",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX7JwjfoeN1FMeWjiSK9hyxXS25gdpKKt2AjHRtEuriwD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

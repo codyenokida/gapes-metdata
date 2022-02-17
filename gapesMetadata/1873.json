@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1873",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZCd3BKZw7Z4FiFcdCpR3CMC9jaheGwtGn59NV9TXaFoe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

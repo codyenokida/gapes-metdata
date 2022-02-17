@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7434",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP26N7w1F7pDfEBPWR2eEYqzh18sVRg9FfcMUun34gJbr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

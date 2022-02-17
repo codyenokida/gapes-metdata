@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6633",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc9tLEvK49dCe3sqk9uP6QgRjBTRBb6qkbbk2XNTWk5Ku",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

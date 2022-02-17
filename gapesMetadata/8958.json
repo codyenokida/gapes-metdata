@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8958",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX1Aj62UXjjwFzkevcMhbkqJmgdg811CQRSqfcVbkgm9q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

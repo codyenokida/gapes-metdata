@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1845",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXXsiN5FrN1N769M38yrLgLQdq75UwaRWh6vAMb4wWFDU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

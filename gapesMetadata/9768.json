@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9768",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWcEcGMfyXfK82xP69ib4okCnWXFKV56AdLDTaGtwcV59",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

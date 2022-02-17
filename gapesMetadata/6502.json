@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6502",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX1WQAyNdya7D9FVVHtKVBi6h7qiy5cArbN6DsLon943Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

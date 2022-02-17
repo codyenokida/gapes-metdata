@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8893",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTWctxsHkZPkf1Kmr5qaHH5EHsEi2aBVrritgi6rLqHhK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8610",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd5QqkAqTJpwfsN1Fz6VoKQXUkA5VntZByR4H7HRJajTv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

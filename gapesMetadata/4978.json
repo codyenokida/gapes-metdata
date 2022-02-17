@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4978",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZsu2XZzUB7qgQBFfQ5DTEgpigFV4xKwf9bumUf311ETa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

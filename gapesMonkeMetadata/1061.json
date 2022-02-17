@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1061",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRdGYo9dzARYPBHMa2QeX4aQnvFug94U2AnMShMMiHC2x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

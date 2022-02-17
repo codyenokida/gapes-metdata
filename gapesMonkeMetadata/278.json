@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #278",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf5uTodh2E8BArvDeTBLecfqnU71jv4jB8SE9cGraXVaD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

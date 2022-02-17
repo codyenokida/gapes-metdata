@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9743",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWNr9wnY3RW6TWZ92C9BPjCAftxs7prCWnUSH8oPo8TZD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

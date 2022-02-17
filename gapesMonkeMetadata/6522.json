@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6522",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP8m5dqhxrL9VfAiNRrNv4pti89FioqR5fe353MEg6twg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

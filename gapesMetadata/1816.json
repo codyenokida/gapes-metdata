@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1816",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYi8rmorKYU2aQ6L513BobBpqRsppdu9NYs6AsmNeTJj8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

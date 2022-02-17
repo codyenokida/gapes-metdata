@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2842",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme38zU1mfHrSGDwtVV3R7Qg8GfuF6AechMPcc6EfTK3Pe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

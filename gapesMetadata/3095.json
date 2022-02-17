@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3095",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPxwQdifvzwLvpnXMGyXHfCSJuXF51fQ5gkkHXPejwckm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

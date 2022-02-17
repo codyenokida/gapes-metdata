@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7042",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXZK3MqqNU8xUPoqey7HNLKgwiw6G2JFdEQHZT3ec4r2t",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

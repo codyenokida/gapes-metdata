@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4093",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSgtqSFHvyxSB8XhugZrSqv5yL5AD4XDNBp3Kg7gWj4JZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

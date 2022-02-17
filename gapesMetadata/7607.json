@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7607",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRu5sXaopmVqbQL6Du8HcfZ9WG8du7jdnEUMvCURvwP1M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

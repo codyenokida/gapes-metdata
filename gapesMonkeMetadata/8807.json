@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8807",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmawV8CUw8a7bX4macYT1rRGgSVk9sNKivpFJ9C5MYSJ82",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6960",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRqVSfPtPcvQw9MpNmQM81eWRwr3jzYLJVz4W9AkdYtfk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

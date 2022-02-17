@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8972",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP1pCSG8Ty2xTFCEjsHGoCWPRRq7Nm1XtCg2p3sYER6DQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

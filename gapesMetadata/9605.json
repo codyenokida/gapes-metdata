@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9605",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmayRRsByfJgSXVkwQRSX5E9PVweCFRtoeMzJDqzWG5AAK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2232",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYrpDZHFcBX6KSfepqwVVnA8W7Lkw11W9nLuZexSPuLm8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

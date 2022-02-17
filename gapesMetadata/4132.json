@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4132",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPhq42fPZrfB4UpqhXRGe55ZSsW9cyA6JwTie6Zjv2ERk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

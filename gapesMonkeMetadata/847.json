@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #847",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbGjkASBqNEt3hD9cAagjcWrvXH7Miy3PCJuxf4gJHEQh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

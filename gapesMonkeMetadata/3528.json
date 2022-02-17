@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3528",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYmFw9fRUBGj4ftxqP8gMyNQimP3CTgJUB1geNocBGvNJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

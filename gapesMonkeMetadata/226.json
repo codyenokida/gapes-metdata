@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #226",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZejz5pz3D2Fi4uYWEyWok95ypBdV6h69KNzF46EWwK5D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

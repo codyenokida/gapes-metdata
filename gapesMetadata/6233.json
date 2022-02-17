@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQpJQQ3tVEUNQvM2ACVNnMuEQLRn6UZL98QkczexAjsUR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

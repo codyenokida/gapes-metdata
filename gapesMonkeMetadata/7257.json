@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7257",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVP2QS9eyZXHz54YRKokS6tXje9T9LoTwvdjEjXBBuY2F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

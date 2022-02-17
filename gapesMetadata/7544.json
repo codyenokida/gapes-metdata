@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7544",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYZgebY8SEgP86BFDF9CBk35pHJPPkmiU4wJm1SJ2chut",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

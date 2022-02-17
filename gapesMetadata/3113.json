@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3113",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYpy3PkwGYPzMh1wjMhy9z91XoYe2U2xmXNUsNy8HHCFw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

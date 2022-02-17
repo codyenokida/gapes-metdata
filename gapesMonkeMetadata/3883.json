@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3883",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZcwUhUbiJXxf38dWj4uJvjkRK4cTtdUFXLavGwUGdjnp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

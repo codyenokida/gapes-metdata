@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1959",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeK7axyHy8EQrT5NZKzwojhGRswvDpDCfGu9A8N6nSDii",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

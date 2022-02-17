@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8020",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcHuyHDV5VJ4LH6ox2o2rPjDbSzuJ9Cjkg1yABHR41szt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    }
+  ]
+}

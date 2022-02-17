@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmam378Vq8k9AZGfGszSQ7QuY35B1Ytuv2YqHDRo6ryePk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

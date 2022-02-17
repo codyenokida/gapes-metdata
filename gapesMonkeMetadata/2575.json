@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2575",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSPojVrxd4KtgbbU35AbMUzeFYiEfMkA8iy77dGRg6277",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

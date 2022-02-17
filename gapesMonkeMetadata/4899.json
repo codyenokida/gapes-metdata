@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4899",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP3fTPhqAcn5YaR6JSGSXLLwys2r8Goc7Crc8Y8aaBz3m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

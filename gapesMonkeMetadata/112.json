@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #112",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUaaa2bmVj8XFoBg2k243aXyJxbgTqyafictybRm4HLTs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

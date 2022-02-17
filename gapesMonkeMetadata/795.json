@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #795",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV7uQtwdjjQ3vzATLiEzJdWSQtxo2WXDwR26cggtHi8iv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

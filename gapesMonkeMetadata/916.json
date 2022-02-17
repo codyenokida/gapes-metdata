@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #916",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbaBrAy3fc8hhhdNJTwToMywwAFZAbBBGq5Cd3uxf1kp9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

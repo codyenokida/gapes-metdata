@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #889",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZHTp8crP51WMDrJjgmtgC9n1eEYKLrHArni7gXjZyoWs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

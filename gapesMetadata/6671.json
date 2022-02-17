@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6671",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS7LwqbkfM5sg9ekdxNWHY8qFw64dFeK2JyZqhF67GHTe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

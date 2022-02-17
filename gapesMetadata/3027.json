@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3027",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSHqxFJzu5XZq9vpjveht3z53ijcHFnunYBdqJ51woKRT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

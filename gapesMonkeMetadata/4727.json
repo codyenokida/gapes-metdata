@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4727",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQBiQniuUcFba9rWZubo76PtATH8CJccXkqtYZ3JGZn9F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

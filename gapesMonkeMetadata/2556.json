@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2556",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSDvMseW8U3QGt7X9N5kB3C4kEcS2M96jGhsnugfQ9kvz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7567",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6vf4bCpaQqio6gcCxauXb4uSMYCa7FYEtLPgGn8FGkx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7795",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcR9xZGcrgt8DVGNCLeC7wSzB54KQ8Z6b6yjiC1reriM3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

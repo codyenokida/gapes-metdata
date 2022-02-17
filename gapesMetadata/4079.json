@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4079",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTK2ZQkXuhmAPTDbfHtaDtN6XoxFL9VQhbjAJGksxFjM2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5857",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaEwHoErgAHzDesDaZEsR2HHU53r4f3SYgYtu4bBW5r5S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

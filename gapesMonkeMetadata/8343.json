@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8343",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWpRJo6cUKKbtL6UgRVRNLoaLP32PE4eJXYjF31tfvsH5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

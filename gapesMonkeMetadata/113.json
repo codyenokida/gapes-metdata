@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #113",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWTJuebMmcWSw1yZpAQcq5LohqVT2W7jtwyaAaGv63M1N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9013",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc2RJ4ycsb86KQJpzH893JJF5jRwQfEdMoJzU2ATLtg9C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

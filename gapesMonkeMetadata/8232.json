@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8232",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRzCbux7dhZt8SFbUFS5wkKy7bKyjihQoW3gKxgYV6ayA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

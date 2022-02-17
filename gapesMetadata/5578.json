@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5578",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYeHYXWPdvjgmX54s8nQF5LdT5ocoYvoUj7un4cXX3kGY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

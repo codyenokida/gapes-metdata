@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7413",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRU77xASsPfbbEvMSfBCWArP6kyx6gpj6R4W7KgW7FLe3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

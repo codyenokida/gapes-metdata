@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8934",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSV7Yf25VT6aNvZ6J7bHK2tVoThzxVtogRbSohUTt7VKh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

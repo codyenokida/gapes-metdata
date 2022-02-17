@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6207",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdGRVbamVRFT7Y4SGsGfXj83f1YvnLwiimrM3JPuwHiuc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

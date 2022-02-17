@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #675",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW9bR11JWdazQCT4tuQnU1vCT6CuRgux1DaNjVGPFz1Ns",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

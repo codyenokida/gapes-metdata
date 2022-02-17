@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #477",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW1TPCN1833vcVZ3h6chqXjWfu7VJtRDzSn1jkAF5oWMT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

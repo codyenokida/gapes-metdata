@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4866",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaCijGLtxTWXSfNnF44tWmm28UVPsfCvoKc63hjAXRNjC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

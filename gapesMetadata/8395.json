@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8395",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYEBuf3wHXCZXkworQ3eQizg9i5NZo4tkjh7Cuspk6vn6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

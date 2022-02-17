@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5873",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXwfbUwsGWPzxEyhiEqct1TVhRVSZmXZupECv1yyJaWNw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

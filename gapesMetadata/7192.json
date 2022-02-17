@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7192",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaG7Bu3XDyyoV4YXDmfXHK83y9UjL32nY57CJmq4LnVim",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

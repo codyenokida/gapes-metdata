@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8177",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdq6XEr8147WDpK3ZBDE6xdipfB4iBDJKX8XXvyufi8T9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

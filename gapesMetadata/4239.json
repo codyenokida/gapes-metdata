@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4239",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXrPaBroveTTcCZYxMioP229sfNB2RHZ9gHTHouo7fqd5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

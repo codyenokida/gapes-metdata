@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4740",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdDR8zNnxRgNazmqpbkhMKNm5LLsb6KYozEDvqY3bVBUz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

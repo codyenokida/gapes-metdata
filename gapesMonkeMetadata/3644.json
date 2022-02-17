@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3644",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfH2Vdoq5NeF7UKzrQYe9utpSUkS1c8HvUCGMWYUSciFN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

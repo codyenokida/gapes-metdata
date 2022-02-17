@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2107",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdkvHgNH9PDrc387ETddCjukP7EhHpGDFjiPo3tfjM4Ep",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

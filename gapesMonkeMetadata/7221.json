@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7221",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmetxuhc7rbawWsM2ki1FmC1dkZNQxtXC8j4nXv38K9JK5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

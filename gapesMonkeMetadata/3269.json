@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3269",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfSusMSct9gSgRmG31Sw9mjcL3Tyq4SmZ8qfQH65Evj5f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3831",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUDqJfEh715jFdvWAjRySFWh6HUiSJzuxCLef4LW472f6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #9134",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZD6Deeh4aPvTGvPMzWTy2e1Du2Azn1s1F3CsBWxV7T7r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

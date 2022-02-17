@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1699",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRrWCiQ7goMShNNGqZYTS3QSZ5mqNbJ12TXrkLUkULC7j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

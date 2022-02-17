@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9744",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb81cJYdvUQts634jgqbFtSsZqe9JT9hyDtRc6KNG6w4i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

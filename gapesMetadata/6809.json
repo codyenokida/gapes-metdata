@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6809",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQmT8x4qWiMmKd1KQooZDradvQvpjc7VLAB8ZrCjrJBY8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

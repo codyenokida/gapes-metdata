@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #244",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWZyNXnqoqaRbqqoie8XMzdpuTWgg9z7hAWcgNZZ1oW5L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

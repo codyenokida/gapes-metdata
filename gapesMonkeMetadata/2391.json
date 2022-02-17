@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2391",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdBAt6Dug6EFkEH6xo7Fj1pDJZA39V3iCkJVzDVApJ2jm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

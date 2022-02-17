@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3408",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmakYEX2F7Q4aqMW1ir248jExVzZJQ8SfzG3S9TDoya6jX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

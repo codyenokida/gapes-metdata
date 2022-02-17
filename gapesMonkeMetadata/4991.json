@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4991",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWEPHdGnDQNhtGNBniY9uhHH7nUdwxKKsSnww3nV3S35L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

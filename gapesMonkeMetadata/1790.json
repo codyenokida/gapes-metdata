@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1790",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW9YVQPuhLrJtT1ALRbGXki22Apb93QUEty6qiC1hQBJB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

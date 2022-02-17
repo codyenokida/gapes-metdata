@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1999",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdc8Zvg71og8gexPJY81VuYrarjRtEDGRksXgSHTfCLcx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

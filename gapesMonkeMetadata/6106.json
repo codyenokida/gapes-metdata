@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6106",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYDUNa7u7XYjNHHtRfwSEkRRfHHtHfif1C8Fhhvq3Hwcv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

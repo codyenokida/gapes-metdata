@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4703",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd3WKpaNWhWuwDHWWfFJx7n1upBrdJ4UdpnVZ8vdrsWAm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

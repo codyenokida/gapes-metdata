@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2564",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVeR29ihsqwwof6tGPhdAUPnFaAcTnYRV6ij7r8diXvPH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

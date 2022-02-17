@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3614",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf7tGbVzKAGjpTV6r1KZbHfnYvd1sEfwiq2RBY1nPzHhA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

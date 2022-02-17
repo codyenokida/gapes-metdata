@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3200",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbjBshWztowPgHroXpm6w1uKmfB5W5iodQ9Au3cdU689x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

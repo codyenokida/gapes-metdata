@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3427",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRF42EbimPbhU4ebE6TN3f56UUZsEJ4SUhqamBrGveBAG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

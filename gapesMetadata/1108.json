@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1108",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUitdivHS7j3MJ999A2nWDRN4pEsM7yRHfWg666ZKzUNd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

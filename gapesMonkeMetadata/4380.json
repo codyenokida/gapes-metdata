@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4380",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVS3H6qsGkY1ZMTGKGywcVwVj7sgLYhiqQvqXp1jr1z6p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

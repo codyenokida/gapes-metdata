@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8910",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQtLjgoNL2AJJX9aJX5wfWK8trK8U4ugp1X8fLLft4ZSv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

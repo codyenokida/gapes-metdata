@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5189",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeTAQqaEwvQ96dpnfSBBcuyCSoEQoW8s5gU3ux4A5iGpD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

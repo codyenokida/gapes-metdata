@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8697",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUaV67n7P1ksD5VqCxRxGRiRg6Yn8yAB5nU5xDMdiEk7r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

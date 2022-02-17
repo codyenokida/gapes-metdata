@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #466",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb5bzMYZ4cgnV4oZw7fa1LSaYLieJgthDokX6ifpskK3y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

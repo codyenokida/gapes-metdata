@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7947",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNsnPCKrxqj1CAgqsKLFh6mbFCvxJkNLUs4AC4sqsKBmY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

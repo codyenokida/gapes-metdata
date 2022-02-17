@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #438",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNu5Dvh3qZMHFGH8iS1fnhzhLLoCKanMoHnGXNVTcfZSj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

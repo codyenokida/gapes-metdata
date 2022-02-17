@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4090",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSYxrQZGz37WZktWLq4AytegCUqJkbs2nKLyBK23QdVCh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

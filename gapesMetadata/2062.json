@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2062",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPE9buRFdyZNGH3GEU68VW9FSDFpQfqDeHxqMbVnvmkPQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

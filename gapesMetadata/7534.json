@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7534",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPp7KwjfAsDpTvYuzpijJjeHA3fPBw13coZsM7UB8xSDv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8981",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRShVqHKwp2WD6yk7e4okaHiukdwJbNXF6fEfGAcvssRJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

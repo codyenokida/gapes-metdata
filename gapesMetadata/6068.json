@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6068",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZVkG5itq72vjjbgbuDT9p4tj4KizMv3ycp7gTMK2aZG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

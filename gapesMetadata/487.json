@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #487",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfLRkmYHABA7gs6VhSFx3iRJHDNBjxP6LpcomxJZ6dyhJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

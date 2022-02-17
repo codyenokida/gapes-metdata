@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7736",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXuDZ18gt99QU17k7hXsMv7iY4fJzX4SqvCb5FWJVorfm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

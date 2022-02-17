@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #17",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZvnxTXD18DVhbJcvCNX4gMPtNXPPvFi2Ai3FtF3ueSLg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

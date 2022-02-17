@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8264",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTMHT92jJZcwcoNSJGeq5XXbRxgn5tXYNYQP4RWmUidGU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

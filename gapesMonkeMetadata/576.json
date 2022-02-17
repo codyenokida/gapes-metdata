@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #576",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX8baMSPVhjxgn7XKN3hQWHkzvpE266aJFT2rCnRxQxvi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

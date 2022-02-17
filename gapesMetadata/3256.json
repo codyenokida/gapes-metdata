@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3256",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZgQqjic1piV6SU89A8aeAkp6u9PoDZQxYQuuqkK5jpWr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

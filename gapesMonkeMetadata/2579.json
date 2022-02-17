@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2579",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdzyhxmiG7moApRLu6B6rSrnHHauJimCMtT1spxSYvZrk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

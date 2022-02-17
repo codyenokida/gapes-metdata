@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5946",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVWtKLZf1zqJGxTMm5g4CiVPF5frczmwp23pUemQEV6g9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

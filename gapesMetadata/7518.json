@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7518",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeVRt8EFKnjyQefE5d1nsxiaKhPC7UjgHqR5RAAwR8o1p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    }
+  ]
+}

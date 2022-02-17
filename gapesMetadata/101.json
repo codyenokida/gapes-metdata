@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #101",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc7e2tuL1AUAMQwKe4mpc3B8FuusV1QrT7jpqgftGe2fa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

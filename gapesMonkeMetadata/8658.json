@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8658",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNzeCpmaxhPqEgPzvp6d9aS7Q5LVD4VewLkrBTF8qb4Jr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

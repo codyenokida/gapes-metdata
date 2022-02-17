@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #277",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdvUu2L2JPtV1kKVbjbRpHcWbBDTwVr9WWg2QfbWFJefe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

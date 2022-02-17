@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7546",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma6FdtrgDLXk7nzzHs2C937MCMkmDKrEUcn9z1pgGMtDW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

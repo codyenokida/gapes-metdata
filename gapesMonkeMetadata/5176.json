@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5176",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPncBBbnjKkkq7PnhQ6d78Y9zTWT9bLtaKeaoV7LSddwj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

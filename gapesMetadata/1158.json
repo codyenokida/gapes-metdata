@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1158",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcsdz14GPY44VhXMS5L6tXoznocp7smKK3na4LB2yCU4T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

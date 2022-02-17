@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2930",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZj73Wrr3sPGGNwBNERRbQstBF9Qf9KcEJDQANCJk5E2e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

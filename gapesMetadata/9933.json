@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9933",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUL69b3UsB8doYT3ML7RXArqsjSVxHLcdZEemeE3wTZsK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

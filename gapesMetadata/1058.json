@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1058",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR73HkcV8vgtX1ebWaZUzLgmF9UDeih8vkLuB1Ld58cmy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

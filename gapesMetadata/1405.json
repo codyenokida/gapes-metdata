@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1405",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWxL5NyqqdaTdfzTzURY6e3B9VttxBuVvd8YV5hKDZ6yi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

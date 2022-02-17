@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5825",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPMLftQX6Q4sPyTVYTxGh5GMpf9N7xUfSWQprVp3kUjjh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    }
+  ]
+}

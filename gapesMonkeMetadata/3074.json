@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3074",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVH5KwWizmiYoB1AaMmvZGgw7XUddg2aJncAqjVd6A68w",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

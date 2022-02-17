@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6760",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXCKQyPyNWMX9h1XqZ96H5NQnvAzhZw4xc5mjK6ShaNmv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

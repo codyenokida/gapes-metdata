@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2580",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQb6gnLy48tP7qeKLKLJUNMK7ah3AYiioMiksKkfDeAuB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #638",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNdnn6qjspnz2K3KVysiNkmkqTf4PgLKbrqYcND7BEqMg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

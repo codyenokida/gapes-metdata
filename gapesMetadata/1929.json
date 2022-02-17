@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1929",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWMVAQpsyAnW2h2DhmP2W6YJBaRD7q2GHszG6biKgk157",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2243",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma9N4YtbzVG83VFt7gpfkSuPFsAwNVpsqG33MUTaHAvoH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

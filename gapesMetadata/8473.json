@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8473",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeeY433S7Kmo2z7N9qTkse42Stw7TNDmBpZf4ENKjYKpT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

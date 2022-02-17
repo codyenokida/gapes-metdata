@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1539",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYYnnXDwZZjgNj31Cwvxu5tuWyERNuHgcCdPMo8zbQU23",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

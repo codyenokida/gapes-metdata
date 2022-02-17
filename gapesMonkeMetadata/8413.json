@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8413",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbBRcoV5t5nunFtcW6fxknbgnXguD2CVVZiavpZK6zXHg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8272",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUzfsVhQh6RXWZsetyhxxL1CJQTXmCtVKZryWfu7nKGZD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

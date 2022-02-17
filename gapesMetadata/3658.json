@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3658",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXkuMFCWhhXX9oGadowmYNoo2FC17zTKHXz1NpcxvKaWR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2541",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUXYDSmySA7uUaY3xTDY3QmMUBYeD2EtfbwS8YXhoNXRK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

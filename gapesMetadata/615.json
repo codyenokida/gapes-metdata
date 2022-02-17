@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #615",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaZz8nuqvpPGTEfUtuzSSAk7XPMvaVi1gLRKfn2t7ZRxh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

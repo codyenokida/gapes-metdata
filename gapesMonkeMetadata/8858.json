@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8858",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdk4FjsiWxcNjhsqZvnoC8eAV5dd6bDUCX4ByYUWfUAnV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

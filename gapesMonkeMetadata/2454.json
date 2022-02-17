@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2454",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVnhPGEu9YEX1x3QsoPuCtEJMnzoLYgGWeruFpXifnTnW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

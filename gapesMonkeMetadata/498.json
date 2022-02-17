@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #498",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXGXfTjvtPUgkYZkpr1kEt3U1rgga1DTPMfeWAaEE8PEV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

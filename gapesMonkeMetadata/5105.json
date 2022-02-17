@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5105",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRcsyyckgEpx3zrco786YfHA8Ea5YCykJRvZBzcZZ4JuE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

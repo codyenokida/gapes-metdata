@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #43",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdoikBQwc93iW1qNfWKaUDpYL2YvG8gk7qvMvRrUHpHdR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

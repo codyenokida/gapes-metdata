@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4398",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY9waarn3jLbcjKKwDFHR8EunhR257M6GVKWQ9BPdZQev",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

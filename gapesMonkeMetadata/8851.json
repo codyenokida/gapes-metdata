@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8851",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma1N7RWNbATUXLN9VV6mMMWtDG1uwKfc9vHfNNaWv2H5i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

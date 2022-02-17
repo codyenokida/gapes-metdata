@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTNHUz58SZcvvtUJJjBMc4y94mVZYQrJXF8BxAgrBSZV7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

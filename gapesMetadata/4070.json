@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4070",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX4hyjPKkMcUKGxPzd41FXgkZa9wRTGDcSJi4SBG5Utct",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

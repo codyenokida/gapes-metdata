@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9104",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZrB6JhiA6B1J5T2cJW8ViD2NDPNxcWuvAFveP8qRHwLZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

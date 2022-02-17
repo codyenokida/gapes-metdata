@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4845",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXZRJeU4jwr2qirtdn28xuVrGn4znpMZXb3wNnkUMhqrV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

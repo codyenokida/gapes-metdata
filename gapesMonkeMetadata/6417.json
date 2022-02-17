@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6417",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfKPV4C22ouREFwbMYQ4pPpfLPuuge1HLq4ksBdtQH27D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

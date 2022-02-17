@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8256",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP6GFXNRnSuEjeexC9bNQ5qpxMZsNUEun5qmj9vq61aEi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

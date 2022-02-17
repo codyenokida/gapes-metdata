@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2906",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQHuW41WoHsA5hY92d7SUheZTBJN67nq5rZSmKipxMFdk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

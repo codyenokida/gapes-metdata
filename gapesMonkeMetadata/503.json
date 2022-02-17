@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #503",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme9sZTov2pd1arzfe9Ug1BieRPzXx1AsN3jJ1dj3DkxJF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

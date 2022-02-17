@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4510",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmduJ4A4GoEijyAaE2FEq8Gn5CvTMWexW3j3rgoMstchNS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

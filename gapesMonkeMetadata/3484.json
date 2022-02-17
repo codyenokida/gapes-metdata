@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3484",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc2WkstNBM1AkgTQ87YGFV3ajbeHApFziTuZSxyYp31he",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7812",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXm39xUXukhJpfmDmpfngNzzwcsWhV6yXidZFc94iAZpB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

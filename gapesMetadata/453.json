@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #453",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmebwLFFyc3AC3i4fvD8ge3HNDDrC6yU3Uo2bZ3jLdpucn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

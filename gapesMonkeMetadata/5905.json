@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5905",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVe4gJKfN7mGBBgHGBQbt3svQk2TP1Sowg1eGjkFKoT8f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

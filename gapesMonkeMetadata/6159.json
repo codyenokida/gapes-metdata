@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6159",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdeMpH7BUCguQ8uCRRyPZzQQdvJwcTGX75sDioEGC2PXy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

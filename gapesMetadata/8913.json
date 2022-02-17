@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8913",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc6V14FWeqJyyBCH61D18fv1PAqcoW7XD4GVzG5jWdV1o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

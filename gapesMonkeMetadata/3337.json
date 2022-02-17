@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3337",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdapjQkECdVHYBHbRJNF3i7JqTBppZFoDqUfWsGANhBNK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

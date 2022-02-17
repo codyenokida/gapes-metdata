@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6474",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeNJP31MLd6j1hTfRRWhrJx1sgKt7jwS42r1fZYiw3xWa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

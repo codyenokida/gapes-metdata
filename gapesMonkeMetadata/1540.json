@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQGzrWb8ikNVox3oGHpxCr4Lihe5GFJuFJUzrJGT7rEse",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

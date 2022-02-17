@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7412",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTm5speg7WU1GmD3SxcRtShRajvkfTgoPTMkMEAbE1G1F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

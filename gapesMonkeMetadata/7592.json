@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7592",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRSjgWWV328kXJfchnKSxLYbyb7dpNRNqYCeFgdPNevML",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

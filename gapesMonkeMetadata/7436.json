@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7436",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQjHxTDakDes4JZ8t19x6G6RiH9oA9xRJ6zsKKG8ZbkCB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

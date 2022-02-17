@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8556",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSXQAd9n1UcrRW4coodngHUz3GxDrBt7sx1DLap2P5Eqj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

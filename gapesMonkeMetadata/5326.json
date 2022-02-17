@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5326",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRVzLpk1WfM2o8KhoeS3bVKBkJwrKR5go8PAyPo9oJaqg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

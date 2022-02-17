@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5840",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb1v1y18893vehk7E6JTwaJJT6eS3N6afozwGt7Y7oZqs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

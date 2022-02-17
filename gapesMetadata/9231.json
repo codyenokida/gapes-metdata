@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb3gfSrAKx9siBijnqcXqmg7MfZwtZo2NZ7ztyFkc9PCn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

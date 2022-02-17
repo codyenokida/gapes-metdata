@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3494",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSFBFk4Q46hiw1x1VYprouekq2pLv6Hvczxts5HWeWocr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9663",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZbKWxHahrn3x8ArSL6gjQFpwNc3SoEDcQCudf4QGHg4b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

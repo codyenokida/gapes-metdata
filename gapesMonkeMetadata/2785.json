@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2785",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRrVKTzJrWNzqwdRj91fwK7pk7Lv1ctbBVt2HcZgBAcrv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

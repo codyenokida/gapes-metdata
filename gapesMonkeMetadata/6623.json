@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6623",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfLxZykb2GzGRhhzMuB4iSBrG46WvBuags7Ar3gw3QYVA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdKjtpnwj7kZu18oT2Dx33SoD376MkgmDxSuWobDQfs6E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

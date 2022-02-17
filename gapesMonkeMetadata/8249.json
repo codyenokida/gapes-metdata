@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8249",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcwXCTbJjkhsNsUzVoR2UE34UWMiFPoo3CUC3YkrU1TUM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

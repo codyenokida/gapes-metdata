@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7464",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcJ54Ry1PAigZ7R5tVr3cgiALAieFiTQzeLu14X1AhyyU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

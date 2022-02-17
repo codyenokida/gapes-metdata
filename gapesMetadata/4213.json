@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4213",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc8r8wkpx2QBugFp8jz4HqsrpTa72XtfstTvzS9PUwxJt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

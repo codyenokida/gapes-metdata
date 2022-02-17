@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5728",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZM5n1Mr9AbRaHtRiLmma6Nz4R5ZUwg2qAeKxiDeXFWuJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3939",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVPZY51bK9upiDyRRGc4TJLt1KNrueEvD4YJ6BvEAZN39",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

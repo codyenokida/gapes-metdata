@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1580",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWhkYvjb5g9TQF7Z2iCGyWjf2ma9kJUWpsnemQwP9VxkH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4725",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSQRkyd6Fk4XoyLfs5r72XJKw6Dsm1GcMYzWqmVryvtq2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

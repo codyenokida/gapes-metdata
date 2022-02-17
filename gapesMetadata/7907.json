@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7907",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRvsyhyAKWZc45w2y3JtYZhMdu1HEWtzRMFU6K5E2GccJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6339",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXb16BNXiANUMiBmm5836mBXs8w1nPcpjRvk2QLD73zdV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

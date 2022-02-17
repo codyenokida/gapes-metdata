@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8683",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQbC2HhFFeP7ehSXxCsoNZV6GNXNCfBR4nfzuz51LQp5n",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

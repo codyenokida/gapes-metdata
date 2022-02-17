@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9202",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdqXDHuGTFWg6KUbrZd8Q2fpoQ1mr3X9fjqW5H2W55m14",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

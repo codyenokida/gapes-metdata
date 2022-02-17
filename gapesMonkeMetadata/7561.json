@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7561",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPgig3uib8CfXzjGvj3YDkEtYJgGxLojcxk6aDvMhtJDb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

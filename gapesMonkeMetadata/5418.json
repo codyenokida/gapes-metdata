@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5418",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY4bXwmJzWko36EKXePpprcTNoZRQHazFnDMpySkjNxyZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

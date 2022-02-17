@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2278",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXDgsxZ7fRUh5uRowz5cM18d7DJ3hTrvo7bwsVyRAV5vE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

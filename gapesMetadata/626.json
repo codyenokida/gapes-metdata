@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #626",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdqxwR71XwYVu5VPLCjJmTKQuYVYW4RyJcjD2bnXBJb5a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

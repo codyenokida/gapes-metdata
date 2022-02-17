@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4167",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXtEtAz75g1x4w2Kn9zp1kxAw4vd5Gwb4NWGZfEgrfvQ7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

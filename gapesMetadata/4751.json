@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4751",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNtw46ZwACFBxswZyiw2jxVC2pmE2ms1p2vuGs1CS9ZcN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

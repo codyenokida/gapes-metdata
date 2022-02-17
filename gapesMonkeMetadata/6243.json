@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6243",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf9YnuYg2CDxmLfdFuzeKVmGwoyXFK4wgBSattso2ntJr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

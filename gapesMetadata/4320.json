@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4320",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWoNsj2zSPE7BtudzTsQX6dhPNmoC6A7EzaxQQQgscWPC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

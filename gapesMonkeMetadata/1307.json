@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1307",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd14WV8uvZEa95922ZScFF37BF3hsv9uzReX5pLqS26wt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

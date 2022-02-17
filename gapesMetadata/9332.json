@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9332",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYJKMbG2U4deDzcRk7ajE6QfiPKMJ1cqb4ADS6hwNGDQ3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

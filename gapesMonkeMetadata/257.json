@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #257",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY7baCJB7wkuWvv83xHWVey1HGYpmHwi99gZzswxJTZAA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

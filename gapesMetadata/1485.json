@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1485",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWJocP6oDbRNJEQFgmM19uvMZ31rHMJahYbHroKA9U3RQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1413",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRsX4edEjjwsiWrt9NN44XGMUpa7j4Tp4FNGiTfhg3Mh2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

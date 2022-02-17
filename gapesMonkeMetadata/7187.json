@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7187",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNQMNjUUbt3sLbbbXtM3Znrcy6W1DbktZRQAQhmBdxswi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

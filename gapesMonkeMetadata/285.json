@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #285",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRjaRJtxoNAo9h94bPY19xEMkXM1zYc5N6cBpGeu4NoLq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8738",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbedvNDQQgRN1hEDep7ZTzXuMrGqStpL6Lh4suPzhVpYk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

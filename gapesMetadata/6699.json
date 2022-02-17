@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6699",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNsjfETxnQXGRB5xW3SrztcCPtessj97tArZguYy4hgpL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

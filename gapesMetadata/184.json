@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #184",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWvXnFohRrNWAhEPSHx17h4Fg2HPLn8p35XXaetnbgrV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6107",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ1sZk3De1ubmuvCdsuHn9gPrAnv9f6tFuCMXD79x3fg2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

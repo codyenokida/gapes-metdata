@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2065",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS4SzetdD8KPfEhUt8iRoVBStJYyUAWUkbGGN88bxPxHp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

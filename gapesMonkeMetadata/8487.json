@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8487",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcEjvHqyYyP8yckuYBk2mTFB4XWSq1VWDnp5RGYvESDMT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

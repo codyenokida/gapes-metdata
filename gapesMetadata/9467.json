@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9467",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdnEjjrQXk5iN8RCKuwenMAMSbWzerPUgNCiQNEdwAbBC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

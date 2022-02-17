@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #250",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP7WGGZs2pf7oe21k9REdjDarV3L2NkrkdYuUk3hrqbMp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

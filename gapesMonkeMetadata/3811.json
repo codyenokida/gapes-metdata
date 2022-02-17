@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3811",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZLEVd8i6Jr7CPwd35jx6nSEzEaV5f9BrjVYm2VpMqs58",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

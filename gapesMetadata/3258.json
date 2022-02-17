@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3258",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXD8Wch6rgoPxL5An2PfJHUUK9iGsCykPGuSxLDV5DgXH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4937",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPWpUZGkZQhU5TdEVBVBa8sU49ZnpXK9SU6Wtp9Zb2ewb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3757",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQaQUPGragPWEbZ3WyonYQduBymcuLWwmGTBGro5t4vRp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

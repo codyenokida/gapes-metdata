@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4522",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTzFcTdHGuX87TEXUUD9GzNjte97q2Gqg6JcRrhPumyzJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

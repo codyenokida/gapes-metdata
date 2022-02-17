@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5793",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRdkokcYbR9NMXR3pgi5WPJtDJtbVnLEfUfh1EccVp6kV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

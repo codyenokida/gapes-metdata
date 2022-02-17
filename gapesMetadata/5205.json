@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdunjmKDyEk45L7pr1ZVN9KdU4VLAe1teVR8z3e2Xezsi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    }
+  ]
+}

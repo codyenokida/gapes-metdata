@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #343",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf7Tuu2SYcNYToF559n5kLPY4ubKU2sEXcF4x4rLjyJwP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

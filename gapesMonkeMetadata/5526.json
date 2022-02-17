@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5526",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRw9Pk7DFFyEJ89aTHj5ch7K5GpcoKT6LX8659f3To5rH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

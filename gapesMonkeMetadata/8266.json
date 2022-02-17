@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8266",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcQhG8dpCsviFZpTt2gZ5cZrJXcNGHc5g6y8y2xQ2jvwd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

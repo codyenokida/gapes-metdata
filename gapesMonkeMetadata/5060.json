@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5060",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcPV3htMdwhctyQrVAbk8nwa2DXy6bmxa7a3MQH7eoLbb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

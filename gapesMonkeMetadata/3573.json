@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3573",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme4DcaQnjmuZFUNsv6cGvBoZFptJUXESAqYYjCKZAnevb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

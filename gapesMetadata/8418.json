@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8418",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ8xkJL6tEi2ZDUdawm7vQFoyQ6jiPbXgGmrSmTFLLDAP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

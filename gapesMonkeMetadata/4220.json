@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4220",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWWwCNfTbb2nGZt3paDbEbQVpYaFjJFN68rvmPzZRqFfN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2593",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTpTR22Eedrt1qYY348VQrvhwrYFH3GqgEE6hY5TcMiPd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

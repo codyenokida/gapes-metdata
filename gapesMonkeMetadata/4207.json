@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4207",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbnimMweJbSKTvgJ6Daqeivt16Bqmfpm8ETAjFeaPmZUp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

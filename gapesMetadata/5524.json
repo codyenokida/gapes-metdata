@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5524",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSVN27JHEQKupqgDnCwhQXth9EWKiZ8RC7ernHDU26W3H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyberpunk"
+    }
+  ]
+}

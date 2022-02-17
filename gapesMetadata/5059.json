@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5059",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ9WZpENFWKok1a5iKqSTT1p2XUojy1xP3TqNp1CJVNTn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

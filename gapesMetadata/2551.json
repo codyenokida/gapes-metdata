@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2551",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaRf6tP165CEEdrt2Qf8KKRNxJgr4Fd3ejbABiCuRiGBz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

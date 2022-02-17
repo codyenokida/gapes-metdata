@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2719",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTHhEzhic4uHS8rsAMJb7hyBeMGCsLw124Qb4McDrW6GQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

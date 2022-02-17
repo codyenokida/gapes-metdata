@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3254",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdjGYKchS7parZRb4mPthoDno29srMQaKztYUjNjyNhxR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

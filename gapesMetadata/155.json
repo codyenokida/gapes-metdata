@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #155",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcmLjDXzUmEaLKCTmd7xoFpfb9BW6MQnhPvQKAqdBd1Rf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

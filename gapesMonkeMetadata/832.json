@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #832",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcyGY6mQc2521DSGFD6r3TH424AjkFSepQV8kVTYJCo8r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

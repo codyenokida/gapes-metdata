@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2212",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWWpa3HbKCMAspGvVy1QJFjtyiik1Xn11sh6J29UGidhG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

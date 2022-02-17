@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #928",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcBHvcw625zC3noMCiGjntDm7raRF1c2vsv3RKsKbLQ6Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5139",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZHqxyEkcq8rqjLUXRaH9Gwb16mCmQqsRijb8qxiwUifH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4438",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR1yN5VqkEmRZDNvZA631vTJeWtgWxyC7S1QmPLhkkczv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

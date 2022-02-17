@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5498",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXf7pKajPFwyFSCvW2m8B4ZmvQPybwSouPV9Yjyx9cXHb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

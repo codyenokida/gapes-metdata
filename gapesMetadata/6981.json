@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6981",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSPqaqHa8TXUCzvAVEYNejkGtq5rhM2ZVD5vXeMJNLbiQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7557",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmewg7S6a79A5dm9ZXvwUbevkdnmxtexBFiTBBC9XCQjJH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2315",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUe9NR4nQvSWXKfq6K1aUQv6YR7LBTnkxuzm2wL62CNSv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

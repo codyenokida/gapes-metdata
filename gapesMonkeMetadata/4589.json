@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4589",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP74TL7a8bFcpZDXTAwX4VP99MsjWxQaPnuMfoJsQ94bc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

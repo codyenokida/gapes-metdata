@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6751",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd4N3DzR67VEXvsNK3Bybv5rohCNBaPKdMcctqHKxcYCR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5104",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRkvnnLc2hxTrPhqv7pLj7smrFGc5F3GsDvVETNNWmZqs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

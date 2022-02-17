@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1521",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWvGePs5mPJPnpPup4aMrstCUuZy9LNi5w46GBBmV7zqj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

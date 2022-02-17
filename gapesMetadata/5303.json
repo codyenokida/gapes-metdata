@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5303",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPH4ktRRo9ZdKRKs7AxSmGUwvS981thSiTnFfCmqrwpL2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

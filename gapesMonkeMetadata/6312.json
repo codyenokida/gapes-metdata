@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6312",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUKABk7Q5tFT4rxiUKTLJ2Rhnx7727NCVrzQW2kZX57B5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

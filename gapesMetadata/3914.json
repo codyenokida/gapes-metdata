@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3914",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdQTmHTRqVymt5qY5uC2FJimz7Yaf32RGgpTM4EXzXpGC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    }
+  ]
+}

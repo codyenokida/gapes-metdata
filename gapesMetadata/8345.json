@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8345",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUfFNLpXUy9x9oZViEgkWT5HsRwRPeRQDvtDsHKPgn6Xq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

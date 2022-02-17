@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3506",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRUdxQhFnnmTmRP8W6GMKE1uX4jKTj62hwZbDXMam5Rrh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

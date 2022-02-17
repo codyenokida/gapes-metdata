@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2402",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmar5mpFH4kBDTMK4y2NcBrpZyrCXwmrFNiVXrS4o4iyBU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

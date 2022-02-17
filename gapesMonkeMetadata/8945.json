@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8945",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb119Wx8B7ogrVg4dmi4wXduEAZqwwdEiJo8SVg8ZsqWk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

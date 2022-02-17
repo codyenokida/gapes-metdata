@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4612",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQdZ4YArEfVcejzt7RkgFs24nsMTZtTmF6LdKoNTHvHaT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

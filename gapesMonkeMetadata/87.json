@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #87",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRcPwHco2znyTJHLP1Bkfu3siFXzpozdjuudDpa16rgTJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

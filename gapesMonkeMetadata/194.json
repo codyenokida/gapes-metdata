@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #194",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUfjA7FaRqwKaw1adWcBBThbD7vjhJQZ7y69gdRQtCLej",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #946",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVeuZCRgNQmGTYfRqQesk3GbxZgNFgGsf9zFSS8h7WFHZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5702",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWmEDK96xonrMwxJcGVJeUTW56NTFLhZpynWrvWdhjRks",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

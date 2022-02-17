@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4245",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVtb5RFbpdVthTzLXSqKSWzM3p2hVdK5KncAeE3t1wdrG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

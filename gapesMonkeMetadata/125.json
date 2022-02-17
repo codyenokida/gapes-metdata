@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #125",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2EZz1UUGXUYnhCet3H8WnSiLJX5Tgj6z38VJS2EtVzV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

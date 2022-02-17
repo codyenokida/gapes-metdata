@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #822",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXv3YMNxiqjwujyFBVr67KdxC6qQpN36FS46UwXDSmhQc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

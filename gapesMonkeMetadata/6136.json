@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6136",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS8jrBzp8F5tGGnGJRE2v4nYXvUo5cc2xEp7SEMH14vNZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

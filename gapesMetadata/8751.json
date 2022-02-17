@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8751",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmduuYT3ttoMZLRespjvrGp3rvy7VRF2z6iXouZh7NwYW5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

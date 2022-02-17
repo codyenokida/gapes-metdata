@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7185",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmee2CRb9PupP4RJK87i6wuYRhetwnywaxaC5fBseGyJB8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

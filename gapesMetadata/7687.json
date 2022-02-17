@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7687",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSRZMTmbELztpqDsX6DQVRsW7h4u6f41PzCCJxA6WfJvB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

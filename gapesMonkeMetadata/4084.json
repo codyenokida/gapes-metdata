@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4084",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUFm6rgsXFsjppUbVekYFtQFJCsqbAxFug3d3SfKbqQiD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

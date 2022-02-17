@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5277",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcCfKghWpUeFWxCN2PVrEU5wU7QDXzv7kcWE7ku54URf7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4352",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQmrZJDAQY4gAZaoXk1bPsohTkQN9HDBr5Cke7ZX6XWws",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

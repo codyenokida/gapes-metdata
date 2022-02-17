@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7857",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXheZTaVcES2dKJdJbEJdHtG8P8JrGi9mpguSVQVY23sn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

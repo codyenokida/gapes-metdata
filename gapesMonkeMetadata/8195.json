@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8195",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaXq1R7jvrekDJFgtxDykwxXz28pZrYZ6r8DhpUrey3jY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

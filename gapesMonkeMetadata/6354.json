@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6354",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW87cznp2BFoTw2aThAi6k3mjgTJLRUn7PhVugAo5SzYC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

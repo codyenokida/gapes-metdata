@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3734",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcHe6Z55Azex8kAxjGygS2zM2DqUv4Be9fFq1h3RHMu3V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

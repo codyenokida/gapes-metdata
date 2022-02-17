@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4907",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdBdcyEFdyRjNCtX4q54TDjo46NqcsruUrUoRSa5nhtk9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

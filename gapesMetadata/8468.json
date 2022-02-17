@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8468",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma3hqSGD6LU1T2YXmMnziw8JSm3AHNKAQ7F23qMA5ToA5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mecha"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

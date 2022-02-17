@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8537",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVp8N2PcNkT24SwDQN8BNy87MN8j4GuJa543ZGctd7WVi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

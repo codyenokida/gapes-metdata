@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8666",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP7rxWVxJGUk6TZVXyREhXiowJeyJBWZe4YMpdWzBbSMr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

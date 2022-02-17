@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1236",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8sbuK76WBnGwhcc2TBYJuHGSPzmQR1syegorVBoCewY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

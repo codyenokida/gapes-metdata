@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6338",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV9BAuUp2tfwswBBX4Xssbzd8v7rSXVDrggnB6bNmtAM4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

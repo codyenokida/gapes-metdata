@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #500",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUsVLG4PaHE4ZBvheEd4YUFMK9U8XuZLPFWKijPLSCjrg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

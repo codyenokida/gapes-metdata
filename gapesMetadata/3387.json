@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3387",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcdHypBwtJoDY4uR4XM3AcCSsZZfSBpg5av7C8w1Z5eu4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

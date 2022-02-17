@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSU1Vpr468ihwci1Eiv2mmuoE5ywcXzuaEVMHCDYARTaq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

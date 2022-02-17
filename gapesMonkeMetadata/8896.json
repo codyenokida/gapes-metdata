@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8896",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU8ny4dKPpECTfK33SeCAuCkUbVFk3kcHsJC395pGyrJZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

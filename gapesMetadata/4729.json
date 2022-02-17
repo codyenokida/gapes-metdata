@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4729",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbvjYtSMtCS1YvmqoPGShJXQ8ibNxCjVgcAkE9Z4BBQLX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

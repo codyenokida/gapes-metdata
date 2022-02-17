@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3688",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR6cLzxVcPD7WMysRVRdiFDR5u6QVJQ3dTBxXW1H13PgE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

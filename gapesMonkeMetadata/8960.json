@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8960",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc7eBZv8Pd2FkRKMDEwcuhGsLwHUYZjiEdL2jPUeUmVuL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

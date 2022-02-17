@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #513",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSGgcgFmrXYAFMjX9dB6nPk7T9LY9z1JVzszoojqd2hw6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

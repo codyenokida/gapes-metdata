@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4306",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb6c8FbymCfwoD7H2Ts33YyFDZygUxGhG9fC8jG3b3sa4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

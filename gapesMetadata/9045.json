@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9045",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfHYyy3ijZTmAHUyqrveubzvgSSKbXoG5zCgBk6skVqFt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

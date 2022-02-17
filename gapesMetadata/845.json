@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #845",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaZtWByZFYA9v8BsHiYSXMKfQZaikW8YtHE973yGmVwoJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Tech"
+    }
+  ]
+}

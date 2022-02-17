@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8079",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY8hdLdgU3eHYt8QLjaTJPc85N74US7UY1B4xLeZQZNWj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

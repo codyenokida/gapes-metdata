@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1712",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYMf8kyUa4gq48x4nUpgs4JyiPasGj2UahPqAzcZksnUx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

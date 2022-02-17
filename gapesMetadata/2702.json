@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2702",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8wEN7xydt8FaGKhzDQheW6EP9MYGcNcXPAccdW1ZMdB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

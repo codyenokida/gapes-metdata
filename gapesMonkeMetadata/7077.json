@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7077",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcJcgvYBpWn7MrxL77qRxwoN9pzSeeFBnZnZ5seziwy6E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

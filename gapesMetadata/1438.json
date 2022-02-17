@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1438",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQfwZ33o8LTGAeKJTgicshmidhciYbQrXCB2fuQKnK5eh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

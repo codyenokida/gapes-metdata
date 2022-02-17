@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6327",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS52Rer1ZERQjHPynAJUkwANwcgzSu2rArrQoBrvm6H1P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

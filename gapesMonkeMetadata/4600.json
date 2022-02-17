@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4600",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWRHZP1XMa13Dggsiqnj72yi5rLCTxg2adDQFJXbaCa2K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

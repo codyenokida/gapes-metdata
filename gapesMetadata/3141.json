@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3141",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmawpFjYqB2WEMp3oyhBPDMvezMus4JkqZoyvbq5LH7UmV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

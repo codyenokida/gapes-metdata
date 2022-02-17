@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4611",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYhtpngpL3u142fxmD3MqohmPfg2zZ9zhpULKofdNbyBf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5238",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZTj52AUSn35NiHmj7wmxn3RhGgECBbDbbwTRtEipL9V7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

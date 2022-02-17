@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6998",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfNXvi5PVqmLHKigJRUeT6UR6ptnAJJMPwmewj8rtqgSu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

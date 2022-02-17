@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3907",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmchyKLy5KDhUze64vHKeJucEyDZKTcunZyYi3fiNoWkfv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #922",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXRSfbUT9JeAHeMEyJXHZ7uumu3mbDEn2xtQMfUxUpVZS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

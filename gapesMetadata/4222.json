@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4222",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdcziNZJz4LYUtCqhoo1rinEugxNEY9465vdmhLaqEhdo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

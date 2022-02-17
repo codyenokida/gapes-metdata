@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3887",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZA1GwfsVMXc71V8kqfk9cF7cWKvXWonpHHmczaxgXj5M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

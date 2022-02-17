@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9262",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTfbF6sfMKSmurdqxSMnGAKvZyRxw2bbtf6YWM5K74rQ7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

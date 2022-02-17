@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4879",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVHCZHjhPoGFSKuWhNe98s8FC6HmhbyVtQ4fdMd24MMgQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

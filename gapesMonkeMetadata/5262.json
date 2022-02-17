@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5262",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYwSxn7EuSnsHU6sKqibYSsVnbm4cyKbj8vDCPAENM7H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

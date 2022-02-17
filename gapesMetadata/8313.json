@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8313",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcK1grF1sMUKBTNAH8swB97gLabUQcdDFfTeWvtpskLZq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

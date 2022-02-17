@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7274",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNVTVHRNvEiHWMRb8LoacKwaTsKbCk3QqJFYQFh4pMTj9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

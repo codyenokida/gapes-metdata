@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7083",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQFEUv1Tjnm7e9FzwjCUWcq6yy96mWme9M179Kzir2QYg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

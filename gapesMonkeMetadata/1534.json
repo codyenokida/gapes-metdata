@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1534",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd5MAa9zBVjTeBTmDzUvFwuv8XT1MDtMm7CadvPuQ5Bx5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

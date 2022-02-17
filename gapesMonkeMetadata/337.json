@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #337",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTWSxRXMws4Zz7Sgdruic89T2VxLdovJR2RRoJeXwoHk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

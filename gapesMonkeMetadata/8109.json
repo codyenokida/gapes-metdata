@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8109",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW9Fdx7mSaTS25wNLL1Jety2YTxXgrL4EPy4S5cNzrmHU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

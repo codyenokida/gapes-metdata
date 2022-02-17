@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1808",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX6vU6RB48uQ2ZkvWVy4TvqquwStg6auwL811M4jWfZRn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6443",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQSZkLquJjfjEqWxNyUfYFMHCUH3cFvAztNtYN8XwCHNJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

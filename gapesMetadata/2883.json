@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2883",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRSo9t33gin6ghqfYLbh9UJJSXiDNx1Jfpa4eHyx79kSv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

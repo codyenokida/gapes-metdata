@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2159",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVCB2j7YZFd8yUEjVASUJPukvT2wTzwULQZTqkYNi4dLw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3948",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUXBQ92rsgTp2dhqLphS6TvSEoqNqR6KLZ7FD5AFbEiu7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

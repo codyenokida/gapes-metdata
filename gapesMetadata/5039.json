@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSdo1UK8YvYXXAaJ6AyBTjsMLKq7XcE6mZgw4Sxtj1eei",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #571",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQxyamouvcJ3ueFJRbsmHBXJD9uFrV3w2SvUSvJrkcmt4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

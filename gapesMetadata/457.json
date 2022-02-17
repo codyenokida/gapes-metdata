@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #457",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfPE5DpjzDFy3Ufr5rnGe4LSQLYJ4ZD9TbfWQEiNxygmg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8186",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUqsRN8QmYMbpYBRjZkw1LX7R113Siw3uU6vBYgVp8ndA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

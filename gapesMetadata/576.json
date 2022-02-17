@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #576",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSBypAfyVY2rr2tt4cLdT2QQ4AGtCHa6kSb7FaR5q9Yxk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

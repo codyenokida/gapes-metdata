@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7830",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ8jaYN3ah8vDjzKgt8avFP7kbV6XZurzH8XXSLGY9GNZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    }
+  ]
+}

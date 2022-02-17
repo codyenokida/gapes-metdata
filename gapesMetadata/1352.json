@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1352",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYriSRa6upZDoiRfZCpP5mDiFBXviVmTn7A87ujDChEmu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

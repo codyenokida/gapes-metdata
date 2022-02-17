@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1579",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRQXu6xwnsKnTw98sx2hsLaL1mqFXX4pkA4zMoZBF6qjV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

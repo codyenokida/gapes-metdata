@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcoBengiwQXjLL1gavqKutSVtwDc9gYLNhrFvr2pfU1Hn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

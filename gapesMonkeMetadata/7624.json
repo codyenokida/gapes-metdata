@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7624",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSBiwgimiLzjSi4g8S531VBvEa39UgVYmXyV9Qi8KogVB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4927",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU5zSMNXuJjYFrY6rFaZMGuGH7PP8qEwHDDDiH9shjUUU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

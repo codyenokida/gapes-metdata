@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8164",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNYXWKhsYRYsfQHmxDNZaXeoBVussd7rfeK8uxjdkWqZn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8594",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUcuhQYd3Bgs6GTGBbZpyPo5fQfRdNce5Y9eoyGCy1sBG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #153",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYjQ9PMGCK1BcnbrVXe5JenknMDeqFpp17nc3sVY549Jd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

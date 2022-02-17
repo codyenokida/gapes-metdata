@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2429",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQctiqiWmE74fe5JZYzS5nJW7rLAhC9PNKzy38iPWFxpz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6883",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbDX4d1HNgJMBMXt6Kz7da8Wj6LsSTBphNeXqyC91UXc9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

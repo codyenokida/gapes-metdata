@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9846",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaMkDoEswZUnmozKM8YrdbdW7iJPVxN3RbaSV9j14NbZw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

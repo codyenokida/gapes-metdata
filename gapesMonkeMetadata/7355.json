@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7355",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZVoaKvdRozUtHL3HCTbaUFWgTj4p7VVVwy61tZudV32q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

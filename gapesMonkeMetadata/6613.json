@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6613",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYvqFnkd4QULrzenBFPRH2WukzmHFX5oyHoWPAPpvUNix",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

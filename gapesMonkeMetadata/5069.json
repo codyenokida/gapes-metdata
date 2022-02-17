@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5069",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWiQVPGuCTX37vSTFB1FXNYQ4HNdF5Q4eXX8dNCQUMsy4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

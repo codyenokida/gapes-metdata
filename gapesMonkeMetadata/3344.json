@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3344",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT7xmRKPB7AxtEXb5xguf8gvtZZmyniBbJmbzd48tKYyX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

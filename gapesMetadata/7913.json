@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7913",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZybrs94QPRJCHDu3dBoQ1YncCmhB9E9cT3FoiQs5Xfyp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

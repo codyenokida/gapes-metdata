@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9876",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeJCGs5Y5mnKLJBeK8hR3urPwVJ4idjgb4YQNY1spLUFk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

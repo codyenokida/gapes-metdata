@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7984",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWNReYGK2kwXYnUuN8XyaajLYxYSFzZsn17TbJXfoPA7M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

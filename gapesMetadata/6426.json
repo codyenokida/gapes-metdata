@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6426",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRzzQE2Du6W71WbnUuKw3FX2mqGFiDaCu6FdFg5ECvnAS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

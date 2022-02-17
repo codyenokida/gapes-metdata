@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6755",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRfZpMoxXsnxoP15es4TxLyPjEwKv6KBaCBRvwnnaVk5E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

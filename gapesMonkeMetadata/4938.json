@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4938",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbEvephMRJ6VGMC57Pcgcf7AgYoKCi3umNwdEMDf8Pwtz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

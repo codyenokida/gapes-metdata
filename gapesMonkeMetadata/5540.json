@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYQ38Xm8wGLs94yV2YUWY6NyreZgYgpxHtmKibFkV7Zvx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

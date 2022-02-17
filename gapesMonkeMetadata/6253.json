@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6253",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbrSegSK4s2iTA4evmXpgSJytN2iV8jPwpu3k47EWV7Av",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

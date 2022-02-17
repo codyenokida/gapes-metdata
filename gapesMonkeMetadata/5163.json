@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5163",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma3Bta45M2Nt9eqRg8BZoKYMvbg1qCFbpsbCg4Y2c6uG3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

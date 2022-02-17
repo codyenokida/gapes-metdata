@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6377",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdT9bbdhVBYacBjXdWYPUMhKVe3RKP4BS88rv93jpjqa2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

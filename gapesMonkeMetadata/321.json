@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #321",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZv8GujrVHhdXCuE74fhA5dH4gG3ur4Q75ThBdJ4fXQDK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

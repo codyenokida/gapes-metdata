@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2182",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX8dwN4mcsRvfdj51EUfrHC1YHyJUziSpkktryTTrdhub",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

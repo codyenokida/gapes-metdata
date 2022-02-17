@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8166",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSGDLQx4evLtDrYWr8LAyahbZkQM7taS2N1jn1B3jgJdx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

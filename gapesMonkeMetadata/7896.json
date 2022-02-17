@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7896",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY9QaBQdK4Ec8wGGZrkozGHnKEemqLVzKG2EujZkLhbF9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

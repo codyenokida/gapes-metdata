@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #79",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYrhfTLQh1Bno6nyJa2SU3b1wtNk9B3zt9MjhUUZihr6X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

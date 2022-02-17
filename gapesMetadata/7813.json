@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7813",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSJwDQkQHuiKnJjMfc2B6vi9kPtHwYyLdELvsubPSb9Aa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    }
+  ]
+}

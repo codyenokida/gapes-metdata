@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3448",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcmtQrduJxymSLFc87BNNukDqgtJKK1Ba7uDDZ2J1gpif",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

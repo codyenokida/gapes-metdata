@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6311",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNWHqwkJ3EMnNZGFuyAxUW9CVoXGmGSxheiWJbYPzTdUQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2864",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXZWCTe1UgRciHzCWbRqjB3TsvcsBiEJkxttYkqY91euc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

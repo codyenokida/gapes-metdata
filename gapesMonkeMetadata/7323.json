@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7323",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSuNpuVr71QaPu1huTGmvqyoXGuWfsM6Y5NAnBchKzDmK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3572",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeDni4sWWQ8CPDaMQVPiNePQwAZGQg7LuDG4TAzLBcXk5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

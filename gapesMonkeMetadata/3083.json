@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3083",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcMbtiVcGcsV3naYe7Qo5uWtxKg8AEQgXFt7zCsnT1on3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

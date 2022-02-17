@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3503",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPkm9GQhsM1RCZrab7RVtEg98rfEyXR1dGNxxLFpBChat",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

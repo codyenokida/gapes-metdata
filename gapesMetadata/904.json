@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #904",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcmqiqZwyCHDyrAYfSkvZUNmLyW6Vp4QSP4tFNBseTrsM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

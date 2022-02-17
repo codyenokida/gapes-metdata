@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPh473BbkASN9k4zKPcAgwpKLtuxHEM3tUB92gEteABwd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    }
+  ]
+}

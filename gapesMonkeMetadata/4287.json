@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4287",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVv2SMzdEy1ytfsfej6r1BGRrFFoYs78QPHo1HqaEevVB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

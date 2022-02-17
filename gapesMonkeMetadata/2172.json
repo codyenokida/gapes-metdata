@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2172",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcLn8XRZawWDTuVsWM8nk53KetBB3QcYNiAeGGCxtkVX8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

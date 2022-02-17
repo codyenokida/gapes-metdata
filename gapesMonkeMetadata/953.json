@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #953",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmePF4F99FUuVXwotSbd8pGQeE6j8x5ArHrDN9Hz4GhfHS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

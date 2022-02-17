@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3599",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmau7yucV2UEBct6kg4XA6xikRSgd4ZgAfVkwYForAeUvX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7266",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSjqkqaVWsPCbWejGc7HDh38E8AeyhfAKcFSFp8SYA6W2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

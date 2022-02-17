@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4816",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSiaaUxEM9ApjpxohwZ4iY9iuqvH1ygcGzadZpeLVQiQZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

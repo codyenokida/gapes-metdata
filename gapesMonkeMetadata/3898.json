@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3898",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSJHTACyFfr2oa49wC6WCvZ33xVTQj7ZigaWEwNhZx9zQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

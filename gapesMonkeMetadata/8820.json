@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8820",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNkc8SW33xeEQrae7kU7pUYa5V7QQsaGacRD2dLzPH8iX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

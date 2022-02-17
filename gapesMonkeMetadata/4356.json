@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4356",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbZ8FyzuMADJ5NXtVucRhusUVqXhW3ETkSJSewhNqqfGQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

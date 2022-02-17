@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8044",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX3ttYYFiV6Yn7qW5hUhamPSATNq23AyoFujFUQpT6z6W",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

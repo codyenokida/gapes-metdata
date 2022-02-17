@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8887",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRZTBFaZmFPswxeRDpdh2k4TjB2j8D2MXVa6Y3E2QqpDE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

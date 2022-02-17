@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8653",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZaNUJAUaNtohNo4QitV7dzkFGrad82nN2U1XwMVVW5pq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

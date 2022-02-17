@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3948",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQZZKJ7wBitEetjzcdNAeLoE1ugXGEdF6yJcr6kgcnRgZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

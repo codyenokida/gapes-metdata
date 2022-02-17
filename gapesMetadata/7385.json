@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7385",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXRFhBVqsBybzYMp2wULJKswNxDgK6gojkjiywDiE6eQZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6187",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdG3SthkSvtJqAJGW8Ff7D58VbbES8zqvRubseedCjQG5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

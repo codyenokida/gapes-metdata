@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1031",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR9kNfP7izPmD89UDGQoQXw9NHpgWRdgvKrmWxj9DNWbB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5732",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVJn48MrZKH622zohW4FtqNqTsBVTcLg5iowCQRMpocqz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

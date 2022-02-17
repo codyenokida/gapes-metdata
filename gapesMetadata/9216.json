@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9216",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmceURjsnL69j9ntX98pXTyXMHtzs8RkpgHkqKumi5yrT5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

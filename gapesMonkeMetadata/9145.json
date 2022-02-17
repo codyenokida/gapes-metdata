@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #9145",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW5GnHkCi3nBFuJW7HKCzv98MPtnppCiAij5bPKmtkjsm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

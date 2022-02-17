@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6263",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZThYVjc7ysLgT9kL24srXGfNwbt16qw8nKCLJya8DUxv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blob"
+    }
+  ]
+}

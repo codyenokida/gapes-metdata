@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8585",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVs6PcJ8aJribUEVT3K2Z4AbYArzKbJF1mxizem69UHis",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

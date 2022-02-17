@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1231",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcGtJMEZyLfgZNLhpMsfLUusyNLbqTQc2UbF6fqnLHp6h",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4552",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmViQy6vRvrYyYxZjx44ecAYBGU7vKaaNEbXrkgBqo6Ke4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

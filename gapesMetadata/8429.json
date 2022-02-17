@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8429",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXs3Ckb7UbuccuhyBbQ2TTCDo5eLJQASwoXYAbbRjhzZX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

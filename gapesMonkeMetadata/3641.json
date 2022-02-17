@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3641",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSzeBXbJaqJSd9SpWm4kaUfdUHzKg1w5xtAKT24xrLLaw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

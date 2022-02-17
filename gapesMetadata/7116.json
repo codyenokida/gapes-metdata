@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7116",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSEfYeohL3bCLsazXMhbakx3PqTijD4FMxxqSh5Wuc9tb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

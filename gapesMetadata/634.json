@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #634",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSDDgXcH7Qwv8CDAMP9TvgtkZXz4xM6EPSYa8adyHEZtg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

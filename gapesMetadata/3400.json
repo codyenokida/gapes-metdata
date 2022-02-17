@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3400",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQNAfBbta7f4vudLN6MMCSwxEcrEzf7DK9Zt6yygmwbxq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

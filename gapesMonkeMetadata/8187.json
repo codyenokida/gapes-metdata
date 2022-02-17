@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8187",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSBQFWsA7EttQgNvXcQArR5G4PHD8x7pYwxNAunG1i8oL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #219",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPzTZNRFqCD1Zd9X98aTZSBVfd4YxCvGgwSKFWAybZXd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

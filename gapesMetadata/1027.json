@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1027",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYEX7kUiGUWF1RGbX2dz1W4kXjHqBHa8GBtc53JRWqUVN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

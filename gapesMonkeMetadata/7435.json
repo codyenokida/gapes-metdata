@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeBEDfSpAiVFtKGGdvGGsH5jWWrZ2zvpP8M13thgoYvab",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

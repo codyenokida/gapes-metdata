@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5818",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXdM7L7VTamPqwJEjjPNEJYA5FxbJxjNj6MgPgFym3yyU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

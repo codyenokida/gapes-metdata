@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #928",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXiEvWknvU5kABBjPGXSawEo3Ejk5JvwfiXEches2s2vw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

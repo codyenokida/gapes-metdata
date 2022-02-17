@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8372",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSHzZypap3y4kiTN1zCUMvm3hRuwY6jL5dtwuwNJ3z3pz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

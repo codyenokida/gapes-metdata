@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4355",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcjLDX5aDcPhwE5LxCmbm6Mbw6UStqDuDm7i3aMYyXoTv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

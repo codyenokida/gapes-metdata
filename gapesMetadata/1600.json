@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1600",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaC7eCF5hj11qSZq4eb5RVbC3e5Xn5CNbReHKJpA7UEbj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

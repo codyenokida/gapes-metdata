@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4459",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWRejwWXMYypLD4egL1dYgtJi2hMqm7ykdb461D4VYtQt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9900",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVCqrx31JtbQCyGeNx3rs2qELDbPRphmMRjVcqnuSCsM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

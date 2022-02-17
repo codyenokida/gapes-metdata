@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1083",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcgTLsyjo84oYFp15nsFtMFo1gRDPxnijuVA2QBEZAePY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

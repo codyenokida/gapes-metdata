@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5615",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNdGG2gsmB2F7NUeQikhjLTUGBEBMTS6JS2eGJtENTsWh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

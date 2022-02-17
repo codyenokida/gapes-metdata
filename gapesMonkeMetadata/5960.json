@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5960",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPGapeiDXMCZYNJZ9VJwpJc4hxrA88hs1HH6mXhAcBime",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7092",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXRJoLuG8ZyrCcJ2Ae7Yj3hUFP32Ru18k7oS7j3okS81e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

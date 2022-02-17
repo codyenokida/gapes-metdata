@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV2By5xTgzMMq4U9V2zBp5NAx6yogwzgoLh9P4jMKqNgM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

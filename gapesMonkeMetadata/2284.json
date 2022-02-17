@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2284",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmafsynW7Zj1EevpKSLN5z8nJvKWxRA1kSZ5iBQ44P7Pbs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

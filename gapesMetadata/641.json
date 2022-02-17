@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #641",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWrc2mzH7BzA5ggk3L8V2tiJFrNeuCNhG6XcbzxvCKhnL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

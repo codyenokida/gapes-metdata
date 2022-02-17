@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8758",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYE5Q1HpYXTu8QxY3o8GRc8qGXoWGysbvX4n7fbMBtnnG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

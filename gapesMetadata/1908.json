@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1908",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUyHKEE76wQouZqCjpFDn8Y3hku76CKLbPP58ZWPoAB7p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

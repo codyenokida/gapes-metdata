@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1523",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQao3eEf7jFBrCEzDa9RN7XmGwSsijtJ9bukJfsVUmwuK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

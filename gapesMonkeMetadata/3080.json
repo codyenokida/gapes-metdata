@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3080",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR6NthBg6nkDTjaqV81es2J5Z1xjJkNpWDWywGr9PzLnT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

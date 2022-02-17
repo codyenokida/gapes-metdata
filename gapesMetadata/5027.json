@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5027",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZtCBKsw5cAKYtgqJZ7tHA2fWfVBCumdYMbvGGp6mGBis",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2401",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTS7g3fVmSBvrf1ajiitpr6FkQJ1q1UvX9Bo6qzA1ztyt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

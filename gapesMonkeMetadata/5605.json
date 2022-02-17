@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5605",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdZyhh1gi1faCMvFJGhQehup9vecjacCTY16zupeGq4DC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmacCQ3wLeaRxME3LNbiwSjbG5wwanhhn1XUoUJfLWfm62",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

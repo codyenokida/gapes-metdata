@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2811",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbcn1TWY1Nx3yrn2eA9dFFa8XDsiH7akvHCeem2VuYrby",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

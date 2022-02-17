@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7200",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPuF54rz18BRYQPtLgwMTii5uqJnT4AJutShKii78kQj1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6094",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ6a5KuNKxxsPf1MKpzd7XBjZYWYAPxQMzdAeWAYbkFqQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

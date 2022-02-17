@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4527",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXm12DFEsgwJzChCMDrfhPQ1Za4CnoLS3o2vkLMHbGAL6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

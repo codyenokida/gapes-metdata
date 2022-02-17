@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4980",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ58QRg5WbqZHp8TDd9EpiwzghorsuHueuZNFU4xsqnWu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

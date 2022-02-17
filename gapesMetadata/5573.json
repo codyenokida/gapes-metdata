@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5573",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZx4RL3DzN4hH9UU6NWxf2siLE6a9tahP7MuQJzWTH8N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

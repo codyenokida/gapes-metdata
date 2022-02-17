@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9410",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSNNMYz9t6RNWaTuFuAYcQ4qvente6mTWaKNNpbKVvonp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

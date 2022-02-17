@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4359",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWXqELVGEub9a73iPkM8SGv8N8jUUgHm45b2npCsd5jkc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

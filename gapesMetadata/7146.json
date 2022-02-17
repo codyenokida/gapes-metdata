@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7146",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmegi2Fcckgc6ewPSLW9aQTRmZtvA7gzx5r8kAbzDZEpnS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

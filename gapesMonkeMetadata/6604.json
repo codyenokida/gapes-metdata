@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6604",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTXKSjRHMYwPRraNGUNxpLVq1V3J4S8wTrHeNPBGxVgML",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

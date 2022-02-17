@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9223",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaMHtn4GLzmYPiG2sfJuUxCt24ZyafaUFi5zdCZYTZQdF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

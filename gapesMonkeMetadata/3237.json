@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3237",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdaiQ4t7BJrcEqnTWHpC2aBqzk6p8evKZKcNk5KpsbCMG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

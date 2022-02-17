@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1599",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJ8wLBUV9EDAWxUSLobK6vXYUUW7SQsgZSv7cgih78Xf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6921",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW4nfMsKhmxL5JEg2AX3KB6xDhm1dBLvvkq9pnSLvH8CH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

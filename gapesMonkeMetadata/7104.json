@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7104",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTcTzLSr3wgskBAVdhbEdRYpb3c4WFTa728rrpieyx8ih",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3659",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcwE4jP8gdgYTt68xWAi8eYtwFooHGzRHonjheZsTKwVx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

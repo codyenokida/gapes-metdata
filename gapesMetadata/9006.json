@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9006",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWZQeUoZRTcykh5PhZHy2416ZYmZMf2eU7gjtbD1MPvt5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

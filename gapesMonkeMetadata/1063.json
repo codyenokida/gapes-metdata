@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1063",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVHPjxE2a95a75kRcVM5XNWgkJbcr3wFPi36P5inH1uE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

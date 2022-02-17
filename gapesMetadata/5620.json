@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5620",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPCuugYUBvZS3NbkM2s8LLehxsWBmPcToCmNE87eiP9ej",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3428",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW6A7i1hAvHFM6Uxr7em18bWHiKMNf6dXZQGiTZxKG1g8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

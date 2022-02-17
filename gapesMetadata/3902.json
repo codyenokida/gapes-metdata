@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3902",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWXGDn4tD1v4cSbuQCYXJd2MfxGXg9jmyS3cLb4VqyBP3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

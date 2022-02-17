@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1869",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQGo4B88bLmA24x5whESpvycboAKzqKYmcNE9go21WF4y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

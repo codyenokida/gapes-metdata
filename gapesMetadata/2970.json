@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2970",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQLguLaE64TfDPKVAxryXAVaveMqKbCi12iuxyhTQnDCw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

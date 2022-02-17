@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #9123",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKr3mQXtBoYTg8nbXP3y46o8DNJJp7WqQSH8JQ6Xn41V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

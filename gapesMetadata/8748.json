@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8748",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQWP4a1QQmabNDHC71gi7Y1sE55EktDoiBuPEC5WQGWmq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

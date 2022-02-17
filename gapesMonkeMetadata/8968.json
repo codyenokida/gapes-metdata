@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8968",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWVKjPhTtd9K7Ycd2DMquh7TAmsMcVmQD6VeirTPp1GCF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

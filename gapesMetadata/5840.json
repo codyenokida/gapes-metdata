@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5840",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmainJH52riMwt2neMKvkuHuYMWexk5PXGhJJY6CmD6AJX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

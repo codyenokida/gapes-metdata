@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2929",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQS8bdmAUHLrM3XHfWXLfTqzWXEm1t58R1gRX4nLDbVxT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

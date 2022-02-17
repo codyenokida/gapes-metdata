@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1644",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeFmgyej9QTHM4ZPffXQiQjUfoKLtKgoGEA9pSFEBV4fj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1181",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeJps2F2GbhHWcuqzVmmFwcdUozG25rRm6mv2Hgzughdp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

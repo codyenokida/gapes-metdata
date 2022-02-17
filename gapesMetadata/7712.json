@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7712",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPm81Vmjs5Nhg54WLXx9Z2TvXx8PqfchKW5iRNA7M8ofw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

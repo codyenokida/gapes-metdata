@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2806",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmak1NDDj1A5Zsp28Jb7YbVMHrhX5RKaLoqi5tQCfecQvA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

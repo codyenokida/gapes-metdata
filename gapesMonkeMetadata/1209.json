@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1209",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRCK43eZcepq2sEf8b1E7cCsxRwA1pZRJzn3K2Bws9qUu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

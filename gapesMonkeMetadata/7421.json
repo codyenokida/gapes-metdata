@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb1Hr4zVeMM9G9QEna2ZSaDfKwdQTDxwuuXYfjq5YoN6X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

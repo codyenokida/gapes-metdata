@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #400",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZVDmtYGJ47swGMfxXJJDYV4BUqm2CS44qLKacEAzPgYp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

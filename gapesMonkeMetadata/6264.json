@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6264",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUTowyYYvrEfBgHUdab7R1gsvwzTesiE2y7kkC5d1EFqZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

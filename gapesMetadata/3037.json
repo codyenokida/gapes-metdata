@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3037",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmezPJijR9vfgwA5mshJrC1rYRsyr35LVJt4dSPgBsiNvq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7537",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZN4NuVohi2fBKRierZb1cHK6HS2hen9P9wd1gpP9eEbo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

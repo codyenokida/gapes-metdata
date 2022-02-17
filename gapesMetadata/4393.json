@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4393",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdaLe2MDGQifGtMx2vxQWCqaoAAU9bA1hqmznD8fKsbSP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

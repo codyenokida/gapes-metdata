@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5701",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ2i9xXnhv8v8xahbcWVEEymsTXzZNn1B1FGJ9p2zsVwp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

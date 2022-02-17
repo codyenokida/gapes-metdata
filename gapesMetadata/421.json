@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYz6dKNAwb76yKgmu63u1cfmf8a2QTUfo5QHpPU65GCj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Four"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

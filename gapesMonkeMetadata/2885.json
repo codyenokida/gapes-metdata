@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2885",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYAKvSPLGGR5S5S5o7YT2WhAwQJAqwPAhLT9aWnnM46sL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

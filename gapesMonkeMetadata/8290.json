@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8290",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYzmMHGvLtbMZC1uDrwL3SqYA2Nh1Y7uUmo4RxK5oFQF7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

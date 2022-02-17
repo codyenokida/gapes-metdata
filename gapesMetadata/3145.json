@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3145",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZqBQLv5hRvZLPt48m2ufgzh5VojTaeBeDiR36sKucd6b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

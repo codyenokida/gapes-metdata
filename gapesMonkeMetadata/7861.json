@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7861",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfFMXRRaMTk3ydkAK1r98DQLXyJiEEJLtN6oWdq6kA9fS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

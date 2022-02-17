@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2332",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcdTx7Pk98MhH56aAiAmpJ1ZNJ7s3WwFwDqEmaCqShNLh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

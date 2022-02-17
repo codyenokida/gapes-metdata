@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #505",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWdd5cWxoz5TXHqFpAa5KzqEMCtgjKGgy7EHrwHUhGN2f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

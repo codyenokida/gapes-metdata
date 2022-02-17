@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6365",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZtUMZNcq9AZtKSGVDHJDVFgyYaL7x1gCaPxW7QgSCpit",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

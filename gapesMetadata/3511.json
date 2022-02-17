@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3511",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWQax9oVdunkvcV3DRWe5fbmQq1ZT9cjJi9wnDEphMaTA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    }
+  ]
+}

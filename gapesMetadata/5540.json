@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5540",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYdssLJ1C85BgHVm5483sKAYbL5UJg2BFUUfLtiNGt82U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

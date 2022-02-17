@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4264",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNsXkHCv7YprP1bVbHEhAsves4YmGbeJ8nS6jumqEjsyL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

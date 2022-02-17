@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4536",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcyA2hXDoDVbWBJgvqAq9rg5ebYeEAsjf8B2q71xqpMoS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

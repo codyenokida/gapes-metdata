@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7327",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme99vK74c2bPZek1jH2BWxDFahmG88wvZcsvPKL8mXux5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

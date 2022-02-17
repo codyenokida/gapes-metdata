@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6806",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdv2TrdHLq6nuCxy8ksdyDXm1WRifibBTEW6a3EZqsP98",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

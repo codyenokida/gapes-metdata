@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4128",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfD54ykxivFRe9F9Nm1woJFvKT9xM4wF5YwdNRxwpygQn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

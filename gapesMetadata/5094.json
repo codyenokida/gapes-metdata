@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5094",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbczPVvPUxUARGJZfmicua1XgKZMVoYn8eCG2SrBsg3Be",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

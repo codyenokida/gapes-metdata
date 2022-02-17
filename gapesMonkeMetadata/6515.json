@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6515",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8cRbppTTDrnBkZ8QmXdFyPyvv3bn6B5oF1645KbBfzm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

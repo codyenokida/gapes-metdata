@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4081",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRoZTjzDQhsizWkyRT6z3PLf89SXWpwEVnex6ig7wvJDL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

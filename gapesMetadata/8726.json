@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZUMjvNEjuT8faemJ51zGYcXkbhE1CdvqijLkPewmLogn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

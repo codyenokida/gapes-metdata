@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5760",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSw9uB7hY4foMEcWxLkAo2CyVRZPibqhR96qCa1UbW82t",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

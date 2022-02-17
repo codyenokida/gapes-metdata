@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5481",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQy9iS5jU2cGVKug33BxkCPGdocMABJ8TbC4d5SzAPMHP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

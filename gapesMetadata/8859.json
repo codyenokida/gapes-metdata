@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8859",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYrsL3Mkc19ymDRw9URdEz6exTpLeXrTB9w3zjWP5mLzf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3563",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYjq8AaXY9thyt9mP5PkfRSJQHbv6gtbQawknRE5umKbo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

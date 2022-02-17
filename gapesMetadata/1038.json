@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1038",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfWoQr65zVuW9GrCkfXGMkJaQVcK1dtTRQsojKognf1Ni",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

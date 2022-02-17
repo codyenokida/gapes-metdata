@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4583",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdHKatUNSaxgi68oxeKQoFYGsLNAHA7VdYYv6Z96PNQ1Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7240",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcSJYFfQVZo7nJrscRsRam9GyB1aVX8S5SzNzMcu4VjZf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

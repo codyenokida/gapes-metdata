@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRxx4c7tGktWBS6oz7UX51gic5pYBVGh6caQUHsgL3K9w",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

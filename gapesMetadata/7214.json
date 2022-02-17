@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7214",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVDbJLn8ZV8Rf6KAAzCdgwejCKyUSgcevGpddTrFECtgB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

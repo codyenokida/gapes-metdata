@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #555",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZcVTC9P4kyeNCnJvQbigfDZLPpUcGWWyJoLxEr3VjAVf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

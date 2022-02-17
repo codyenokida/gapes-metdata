@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8558",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTSbcjPbdUggQLC4vJjMaTsDHTHi6hEkU6hz6KZdCLTo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

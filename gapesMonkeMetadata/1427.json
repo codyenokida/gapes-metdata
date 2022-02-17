@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1427",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbCaJfn77wjdeNk6Rb6FAwovUXi3PVJayszKFCiBq1Dpu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

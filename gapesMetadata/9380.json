@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9380",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRD2WVTkNTdNWTP65jE6wNwJNHeV2E1UmRRsGubhLu8JA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

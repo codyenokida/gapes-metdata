@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTCJriSxxoskAr6LwLL7SQ8aSw1Qo8EDBtJfQJ8UdnACu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8644",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUuy3Gz9VQW1zdbv4p4BKVcR3dMA8bbdHKKaRrtbpqBZu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

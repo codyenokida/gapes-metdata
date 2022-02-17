@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5367",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeo6v2ycrE872RXmFwjyPc267o8PQ9B9rSUxobM53dHv6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

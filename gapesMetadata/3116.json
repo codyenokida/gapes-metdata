@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3116",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmag1rQJnN5pwFJGgXHL9LRFiMQhx9Xh6qHBUE7ND2TGBW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

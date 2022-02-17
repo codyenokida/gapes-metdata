@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #878",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQkDPaQhJJbVLKtAmHAkv8XcDxEHPDue1ZwBurAqdDdbd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #642",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPRttSfhRnWf2aJ7zSr75Do2t5fnYVka9n3kboJ2Lirjm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

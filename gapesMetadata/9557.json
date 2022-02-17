@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9557",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfKUEAurnqwNR9MX8F6zf7yTeo99arZDBZDocctT82WUw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

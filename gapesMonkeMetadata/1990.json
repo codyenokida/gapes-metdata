@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1990",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQkjaXCH5PyBVcoKriZmLReVNGFpD7qcWsScRePBbkwWM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

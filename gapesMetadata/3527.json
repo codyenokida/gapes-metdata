@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3527",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbHWLEgeVz3TLyjrLre9Uy2Uz6sjVNePQnZhYLx48phYp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

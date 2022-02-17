@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3155",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPdxG6M42KhdG9CWYXt4TRB2oTcKRkDe1SJ54nKC3Y99f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

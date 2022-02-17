@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4553",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYgXJcX4AgwaKmTYi3NNP9c2bc5X45B9dxbzY43crX3eX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4542",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbQE7fwBCutMeoNVzKvo6GmyXSpv5UftWsEKnbrrdoNXm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

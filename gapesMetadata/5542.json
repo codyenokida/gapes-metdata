@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5542",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSiRfMBSHhWdjJJMSKVBiJ75L5EcdXxebem1v2ZMe6yrF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

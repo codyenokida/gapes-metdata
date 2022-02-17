@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3109",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbs3Vbj5EE9DHw6fdNGp2ACS4iFugpR7zt85EZ8du8yGX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4091",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdLEjSGW5zZZcG3fhmjQ8Bvtr3E2wvxdtApMg8xDQRh44",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

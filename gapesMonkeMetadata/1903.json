@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1903",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb764NaLPSuBt9x74Y8N43kwPpBPWef5QNA4pghGXUQxr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

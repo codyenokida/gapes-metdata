@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6236",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWbPK7ePEGP2h7XoCRnyRXZARXxFxKEBbrNvoGN7CQCz8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6071",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXwMTBFt9HrFHq9oM39fRFH4tgLhExfP7MgVEkoUfj73N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

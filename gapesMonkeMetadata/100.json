@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #100",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbv664vRkSpQ5X3uEmXUZoFw78v6TvRSU71egxnL51Epn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

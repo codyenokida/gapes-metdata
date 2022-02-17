@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5434",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYZaBzYJEtM36rQwKKwzGf9KfjStJkhpEpXNegh6WFyBd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

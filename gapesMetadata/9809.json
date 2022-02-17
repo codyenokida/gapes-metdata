@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9809",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmac8emFRRM3jqKNwWNNzR3moPuSopsFoXQWDiY1U4eUbG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

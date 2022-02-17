@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4778",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXNJ7gzpio8UnibPnpjfY7jWuQPZDFUk4Kj6xM9ogiYzM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

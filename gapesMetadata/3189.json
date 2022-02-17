@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3189",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQfoaB2GkSkmpoq6QgQKzZx6pvNiV8DcH6pa8s6fSSoNZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

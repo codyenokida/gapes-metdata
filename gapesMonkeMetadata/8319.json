@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8319",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVWvQMu7BsfuYy6RREXtLgDsCp8doEvbfQvfYTQXZXGak",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

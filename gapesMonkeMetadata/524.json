@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #524",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNXzjJ2UfLTL2RiH5M98v6ngpbc7PLBzZ9Liv2rH599JT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

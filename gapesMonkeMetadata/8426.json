@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8426",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQCEZsgW5aRLh4kAKvkTMM9jJWndMahcLCKhuzJPPWi6x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

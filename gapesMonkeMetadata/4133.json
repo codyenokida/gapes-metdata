@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4133",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmepTuAnYj7s2onzHiaePaonRcQSYZBm1HUTpvfjn1LEhj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

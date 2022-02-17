@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8415",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZQTcJuLFaEenD2ZbxkxqFshrGAN83aiUHExjZEwFhi6m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

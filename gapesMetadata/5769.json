@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5769",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVyWE2y4k4R7UnJr2xfdn6cZQbmYak1WNA7WnTmiSSquM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

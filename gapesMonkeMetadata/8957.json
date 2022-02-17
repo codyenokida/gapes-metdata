@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8957",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaU3mERLMtRhpxKDz7ff1Ev9R7oPTt48CLq9Fo3E42ipq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

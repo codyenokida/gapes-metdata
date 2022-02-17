@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6657",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbeB9wsdvkvmCqoub7Z4g1fbhLMtw23Nr43mapgcyZKga",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

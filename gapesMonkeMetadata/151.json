@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #151",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfD52trijUQKa1Zx75i3dsSR4AEh2Yz13ZbgyWgQyuCUS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

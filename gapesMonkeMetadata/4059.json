@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4059",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQMAeEESEuoRD3HEPvwy7eiGJ7Qdztt7qc7qcN3vYxXeJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

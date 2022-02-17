@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4026",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmezTt1xX9kcR69SWgPTtJ1xkHTEt6jfYKhAnpVok7QEhx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

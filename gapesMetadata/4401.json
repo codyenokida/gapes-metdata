@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4401",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNzcWKRvqpNNjCtQMJFGmpMPBuQhgf1dNc5SUqxSfXDTN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

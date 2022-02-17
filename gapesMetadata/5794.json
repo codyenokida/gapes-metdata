@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5794",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbfCcysxeT99VvpgFTpC96JHTHjo2safTcxzWmHUAN2pN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

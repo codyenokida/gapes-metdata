@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6830",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSTHKTKKpVqpE21VHF443gyoBgryvs9cN1aDK5LGUWtyw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

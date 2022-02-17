@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1968",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaC9JfWkUEd889BkHu5kspfQxSdzVUkwUfinpgxhLU1QU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

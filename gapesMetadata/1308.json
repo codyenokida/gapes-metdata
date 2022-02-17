@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1308",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUKqN8NWd2dzYBvfmKMXiWYcaGmfnDH4ke7y8cKw71JqM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

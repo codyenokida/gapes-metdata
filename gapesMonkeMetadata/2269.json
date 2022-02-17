@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2269",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbFFAzJfwDmzLKgqSbNATkh7HCNPLg6eZyodbMW9wnYjC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

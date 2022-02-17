@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #122",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNQm88Zss7RYbvHp964WGUbvA1yMK7Kshk8nkxzeKDSh3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

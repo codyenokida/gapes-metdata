@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #496",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVz3PtKrfcPVMnMMdKF5ZBA2xtNdNdCEXuXBiQqMkcar5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

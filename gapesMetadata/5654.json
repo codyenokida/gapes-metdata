@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5654",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZDdjebXD7hEtEmCWg4mf7kUyNWQwQHeVdiz1SKcTAtvQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

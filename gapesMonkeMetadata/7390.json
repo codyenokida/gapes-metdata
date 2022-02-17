@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7390",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVL18LjTdJmQKvLSbQjbL12t25u95pEt4avDkaAmsXHwG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6317",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY24z1jZX8ruH1tmVUdq3ETdkJMqmXrcTZfKJd51cMHFt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5566",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWaG8vvpomyyJUWY3B93BwAv3G79zUiPcFwkANUWik1g3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

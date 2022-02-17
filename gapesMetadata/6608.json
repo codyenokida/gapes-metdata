@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6608",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWB89gpb91YXsuSCSYm4hpjmiTHARSDBYXZJvgvia6B3N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

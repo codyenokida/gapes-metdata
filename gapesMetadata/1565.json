@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1565",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeRymAbByTuNw4H51DV2earuk4ZqCU4LofVaVfbaxE9RS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

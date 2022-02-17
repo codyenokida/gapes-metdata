@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #806",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXJd7dN5v5av1y6UC1S6r8ea29GAJK9CLLvWgzT3cMFZa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

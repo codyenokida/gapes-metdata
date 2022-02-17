@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9295",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWNrGDWSMFrMVRtkAG6tiRTf65JvtNiWZBrS8zTcWkPUw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    }
+  ]
+}

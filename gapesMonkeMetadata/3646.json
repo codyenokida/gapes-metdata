@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3646",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWfJKj5Y3yeAeq1zybnNR4qBPVkGzrJdqz34APg2H7DtL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7460",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWP8Vkbexynaq1rqzvnTBtTep1ekMSVmEcnDckysSyPzg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5101",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZDFAmrU1QL8vHx7mGZ9792WHuS5HYufPPTXzaJ2ETc2s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

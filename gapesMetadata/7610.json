@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7610",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTumuNrv8me6zgyY6PXHhe26hnqYKe7EDKiNohVD8jLfo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

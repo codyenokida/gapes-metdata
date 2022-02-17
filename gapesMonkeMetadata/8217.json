@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8217",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUw4XGvvvQ5aVABSXvXYoTE3o1NA9GaWSTBYHEJJgNHCZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

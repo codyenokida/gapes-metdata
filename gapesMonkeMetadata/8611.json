@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8611",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYHjUVQRPHPyA7WwywfnApy5iKZpcMy6UQyru9wN6fGpb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

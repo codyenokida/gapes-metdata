@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5148",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmReFVc5N4WSzWeByZGPz8m8BZqVycvUjY5gyWuKrESXmc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

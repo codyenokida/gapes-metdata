@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6875",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS3kd91HWAGRVQn1mWcLS6UqktaMPPbN3o1r3Em9fRuqs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3516",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZsxWZii92GZX7BhTc3GgwuPZtMFjAKHopRPMD1gkYQ52",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

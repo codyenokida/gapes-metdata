@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5290",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPiScRwMCVaVb39iVsFNWDxiQar4jyheArAmsjLSwwB5V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

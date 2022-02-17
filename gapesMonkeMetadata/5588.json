@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5588",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVnjWDUANcUwKuMUfbJ7Hck8eWH6YN7VmHdi7GNTNgQgZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

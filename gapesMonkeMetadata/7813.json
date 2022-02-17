@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7813",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRmcujWXYHszPLjRm32ruSgEb4r1Q1oJDfkN7hQNhx9CC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

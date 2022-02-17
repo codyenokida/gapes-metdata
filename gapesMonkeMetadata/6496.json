@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6496",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbTy8gP1ap1H1toF9yNWgjZbzxKfMzde7sNF6XwhAT66N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

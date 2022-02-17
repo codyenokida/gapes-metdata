@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8605",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWg9Wtnfy8B5JyVV8AWGPKA2v7RyQY3Lhfyorp856CFZ9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

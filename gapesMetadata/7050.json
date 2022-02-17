@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7050",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYT1jm4oQCX6sdVYbyrMnznYV2bQQeTopxb1URU6Trb6E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

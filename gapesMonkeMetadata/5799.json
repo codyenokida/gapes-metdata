@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5799",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRVANRDkMNnse3KFdciMHFAscrHNG5pz7QCNj55r2Ao74",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1974",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWJs6WrMsfTEmCxx88MEX1kdNP8qAgG4NEiq5msQLdEpP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

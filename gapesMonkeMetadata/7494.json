@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7494",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbmQqLMtXH8zDnXm6T9BHcrDUeQP9QJTLcgMPb8AzkBJK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

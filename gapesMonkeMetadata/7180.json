@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7180",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTwCrDyzTrbwMbyK1jubV2hhYpJ4o6u2r2vPV2BYdgZEC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

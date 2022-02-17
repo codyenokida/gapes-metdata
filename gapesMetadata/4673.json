@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4673",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP57a6hdsP14DBJ9M4KKAbw46KaXhAgbn1UtwCuJ8tpuH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

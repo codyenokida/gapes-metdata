@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTZXsuKBKieanexiVKyaY7iqCPNXKAet8FYDH1qBcz7Tk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

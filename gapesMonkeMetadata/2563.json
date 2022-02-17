@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2563",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWTYawoH375ygKNweu4egHAQZ6JXDhfqNkmk63xDZq2Dj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

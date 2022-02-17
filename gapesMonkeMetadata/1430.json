@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1430",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRUA53d5rEo7LTYp9EEL9ddyEByRVfD3Tp1aonaehyVXD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

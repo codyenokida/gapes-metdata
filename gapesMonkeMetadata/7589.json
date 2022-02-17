@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7589",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPtDxUZmSY4GcFjQwHkTWPvb3WsSN1XSqJ8qF28ZLevsm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8029",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfTCRJG8GmVCEnsVn8vk38hsR2VQYpbJ63Zo69K4b7FMQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

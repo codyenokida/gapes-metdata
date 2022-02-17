@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2918",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXQjXfZMVycrKHrCTfxnXLFxKjBoC4aDrskYuidkLRbVN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

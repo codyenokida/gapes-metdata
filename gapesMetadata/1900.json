@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1900",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaHtD13e8iDQUrmHeepjAjRMkUmJahVHrSJY1tPbVSs5i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

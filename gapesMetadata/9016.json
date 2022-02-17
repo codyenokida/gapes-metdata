@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9016",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc9XVPkbDnVBJ7TpSEkTfQN7YxUDdid6gh6ub7cvHkP7g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

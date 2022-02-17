@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6760",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP4x5gDDstTiUosZ5bxAQhQY9wvetkNKxeahaTGyU2SNg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

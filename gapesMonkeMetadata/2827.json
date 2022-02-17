@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2827",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmawBr6bmYDpT9UVUpC5YoGtAKKVZRTGxbBhrVxfiqUVPh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

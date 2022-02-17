@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1768",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYtLoibBRWuZApE3dMY9WKvYJoLkEFS1yiqf7V3sZ5Fg8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

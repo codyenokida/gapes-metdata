@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4373",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcgPtAQ4hbtoyqxHiYQXScJ557nA89KY33SoEYN7te3MM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

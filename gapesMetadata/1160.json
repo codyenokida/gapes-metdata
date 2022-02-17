@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1160",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma4vP3Dp2UxKmop9Ku4oX3A4Py3iAvjM2Ex5fo1CAjL7E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

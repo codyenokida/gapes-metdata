@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3345",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTaNx6P4QYSA4MuqHjaw9s5J7n5sZWpQv1AcPriKHYqk5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

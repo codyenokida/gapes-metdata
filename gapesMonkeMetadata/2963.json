@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2963",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma7UHaNTyjigJqeVNCswqhogrMWdrW1YtY6ovpgJxoAPy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

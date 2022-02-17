@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7854",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmc8u2AYFdsYdW8vTRpeXWkhykMFqUhEsuHn5GLcity5UY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

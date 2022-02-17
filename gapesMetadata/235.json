@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #235",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbGsB5rYLEAMVoELg6kkAEqkxKqhiVCkUqs1gwgxvPsrR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

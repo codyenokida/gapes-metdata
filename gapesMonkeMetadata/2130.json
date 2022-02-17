@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2130",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQBPRt3eektfNVaseqPEqwBM2t7PjyWFdFe57zw3Rom5e",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

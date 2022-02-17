@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8137",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdY8JqGjfE4oistokAEMHhd3z5X6Fup45Q32hTX6b7BEP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

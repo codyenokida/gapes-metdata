@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7759",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXbnTvwmPiMeGjHeKbpk12369Qd3anuLs7CiVzHZLJSN7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    }
+  ]
+}

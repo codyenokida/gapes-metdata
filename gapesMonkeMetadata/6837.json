@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6837",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRbFXn2RkdXegkE8e9NJqPamf5Y34QDWzyDXjD3iEzJwT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

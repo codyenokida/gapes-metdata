@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5308",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXseoUZ9BnKFEvGmMJ1tNr6ZViWrQb3czxX4tZpzLvSqB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

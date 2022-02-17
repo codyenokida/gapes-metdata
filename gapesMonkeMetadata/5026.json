@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5026",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXWcYMHzVekRJx2t7EMasgQ87nyAFjgYpRXWp4o4jmzr3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

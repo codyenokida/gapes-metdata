@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #531",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRM8v8iqUBKAQiqLadP3KgTFAAqC36jxZKK7vVZWKbRbx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2900",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPjT5YzCW6MdYemfAKbnNzvMzEFtkkABzCcwx7mCkSFfp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

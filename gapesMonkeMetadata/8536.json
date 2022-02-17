@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8536",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXpGgMsDb4viTcK8qUjxCEpstwAu6Z3xi5F61nEqZjZx6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

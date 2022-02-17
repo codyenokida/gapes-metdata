@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #25",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVw5kxNXdt9DCzeKmdzNRbaXg4FuCGWjXgrfj7MYXnV9Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Beast"
+    }
+  ]
+}

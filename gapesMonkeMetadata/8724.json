@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8724",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPeR6LFwiwB6Y9sg3qZEkV3npBfLKk8CTprYZFh1mEsJS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

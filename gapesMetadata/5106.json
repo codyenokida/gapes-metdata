@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5106",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQD86e9DjF1agVmenWwRZ7GdaqpC23GbVf11FRVL2wDQk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

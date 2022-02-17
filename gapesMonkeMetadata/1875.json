@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1875",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeUfWKgLa2uHJm4ox2mSQb2Jeu8ZPAQ3U1baZKM84iuSf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

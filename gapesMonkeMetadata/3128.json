@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3128",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQKcmpV8TH2aH8q8WzymVaLi4ZvbPnoeXi6bRG4pus4kU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

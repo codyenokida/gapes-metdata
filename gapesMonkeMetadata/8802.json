@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8802",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdSWDk2J4sNSGsHZDz46zkpen9b6uv79FUUewdVGkd7Mt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

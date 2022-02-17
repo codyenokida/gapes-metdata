@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5121",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYqUubAWsF1EMkt3xp4ZE2y9N8838rbhLZVh3dv3NmQHT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

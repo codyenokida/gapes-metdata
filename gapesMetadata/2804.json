@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2804",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSq7ZuhN9HKyvA8KaKdDvo2EmUkmJTegx6KUctF2Qwv9k",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

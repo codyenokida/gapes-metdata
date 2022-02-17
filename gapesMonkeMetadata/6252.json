@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6252",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUwL41gtJQFHTFJHwZFvv5HzBJJyJFva9YuH99FiqL1CQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5635",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeXEQnHhG16heZLLF3qjZdfeDPFHqoBiar6DnUuMgVQhJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

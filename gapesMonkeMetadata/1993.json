@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1993",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ3HgZw5QGnkGSb6qrrDkvo18nXZUMiu1gvkPa11dfnPv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

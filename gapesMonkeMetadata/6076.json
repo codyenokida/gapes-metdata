@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6076",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXypWY2fp3ToVuyxsApRX2RNUtsuKEH8MCrKXczBqzZMA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

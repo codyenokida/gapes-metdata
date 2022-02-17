@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9144",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcKutBTeTub6592Yz6KiRAQV2GdY8N6Gcvrfi2DiLYZqU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

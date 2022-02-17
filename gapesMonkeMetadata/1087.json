@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1087",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXrio7oPWH1yVHouqaVjSCbswZpJUcgNvAiqTbToT2kCh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

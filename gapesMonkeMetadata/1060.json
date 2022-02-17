@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1060",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXrgQNkWfAKAMaKnQdpe94Ms3JjUUGia4x3X61a5EDJsa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

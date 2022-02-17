@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5702",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRw2Wv16b7682ifFbiuDe8XGftv1V2sQbzR7FmVTBheUQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

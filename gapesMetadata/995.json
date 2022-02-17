@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #995",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWtfSeY4ZiydMBEtN9oZ3TPJtvwaEvAiYhG4vy9o1UUq9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

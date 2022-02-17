@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6344",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVXWgyFSdwmiDiP9zHQbhxk452ZdTJzkjTEJxco1winfy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

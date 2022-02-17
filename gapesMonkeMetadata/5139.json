@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5139",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWz6Zq6TauKtRMfajkRDskDbhrNhQ81wfNbZ9QFPCgPXM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUQ3b7WjebFhgiHW9jRduRvHKDqtJkWLz29obrbNic3AC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

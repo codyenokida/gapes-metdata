@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7952",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeHtJGmTVYzBwvCbrAcq7BRuW2HCJyW9xog6d4C1CC2k4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7795",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYm6TVKAuy3CDrbKLDUuEUYAwbLYu62cnno1kC3qKXh9m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3296",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTeszEcjCrpPLdQTbvyc8FUT95wqVjTkujAhb9DQ1hRE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2987",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUivqG4qYHd52232gUJgodLgeuj1Jzx7x64fMWoUgWCba",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6350",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUvotqnL9bLeiCJRsdLgrJmo69BMjF58rBZGgREJMNd98",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

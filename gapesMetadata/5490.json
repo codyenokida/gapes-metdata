@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbohm9a5C2iypbetPFxVZR7GtvYbxPnJvCziCN5rYtE3c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    }
+  ]
+}

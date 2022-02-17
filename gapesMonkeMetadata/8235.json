@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8235",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUWQBbA81pM4syj1xGw2gmQeGAj4toBdtDF2aE8ZZTQPF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

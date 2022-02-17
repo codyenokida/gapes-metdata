@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5821",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTJnYjf9JCymE4YSEt3BFUu5fmqvE1YXx1ZTvNz1LybA1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

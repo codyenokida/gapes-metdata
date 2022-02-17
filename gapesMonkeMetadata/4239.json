@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4239",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmemGtZKV6BJknYubM6qpFPv13cDN7LwovivPzeqwZx3wC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

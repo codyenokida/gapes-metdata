@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6815",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd9PhAiBTS7rZtodWX3Vm68igeNWiYcZYyHXx2F1Fgjaa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

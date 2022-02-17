@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2009",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbXFGoDLRp7HLtr5mwNd8wYDVa7ypPv6EgqqAMFQ7J3C8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

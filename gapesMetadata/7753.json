@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7753",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRC5sDMrfDiwju5U7nTj8yQUvRWGdJkxHZbCFMdR2YTA2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

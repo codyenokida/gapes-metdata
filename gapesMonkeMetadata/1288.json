@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1288",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZLS5TFsHoui6pmfmf79tBC9gAX4auYYV3MLfyZcyXHZA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

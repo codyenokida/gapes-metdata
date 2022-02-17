@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7867",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPzpFgm1VDhjQ47oSSAyS3WcjqPwC5euaX6z2K4TnxkN9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

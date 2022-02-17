@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #472",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbz5joWVuVrm3EEaDoudNeHaALuUmTT9qkHUx5DLePWC3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4787",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNm9WB5hpGtNz2o1F6e8Qvdny5nYd9JVdguM49HuKJMjZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

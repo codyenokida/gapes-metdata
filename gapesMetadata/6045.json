@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6045",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2u7LJzmw9og19FksmaLM6m8HMhweWBVXJeemAUvpqFX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

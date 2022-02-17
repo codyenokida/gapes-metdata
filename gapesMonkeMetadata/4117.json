@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4117",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPB78rz9myebornkA59fotLy3bkggysDs6Ft9apHJCgct",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

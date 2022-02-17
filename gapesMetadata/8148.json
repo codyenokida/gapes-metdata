@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8148",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYkL7ermHAPj65vzSA85WzjeNqpACZZqZFUiL3FPvJ38X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    }
+  ]
+}

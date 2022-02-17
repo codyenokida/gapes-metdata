@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7798",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVzfsnx7D6RHBoftuhoNcRjLuVzMzQrjfmKHPFnXY8gvn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

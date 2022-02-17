@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8088",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmare8bwi5rmSLFPScHPSP7a45cyBMFvRocNcvLzzPnpvR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

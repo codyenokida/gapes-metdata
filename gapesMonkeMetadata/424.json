@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbM7WcAeVEywJNr8ZjW6GjRXgr57ArDZLyCHBRL78z1gg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

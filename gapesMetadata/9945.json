@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9945",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYz7Nzyj34pY1gRXwbm3Nv6J5BKhT5B9uaaX5kKB1irS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1623",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYG99QMR6XJzqWAxQrNCir4A8nnrrrj1uMjXKZWiDubSc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cyber Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4206",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ3xZ7seDXdVPab3rhu9U6A7YWFe4ZAUwn8h8Dpb2X7AY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

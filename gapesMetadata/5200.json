@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5200",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNyUDBK3hv2zQLA2bHGTtnyKkABNVcZsM37QQkw89PbZA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

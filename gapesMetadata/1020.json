@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1020",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRPraWrSo2JU4tP3zRR7T2CQ9yLvYeiACaWm7iZmxUeQV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    }
+  ]
+}

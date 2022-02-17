@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #965",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTWEf7XrAUPcviwhyj3gsaDxuuLB3jVeHMLD92yCiKLFg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

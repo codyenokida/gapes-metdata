@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8939",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbZyMxRR7bRp55En4mMzZsQRVaTLajcUbYiRJ3Wfs6tG3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

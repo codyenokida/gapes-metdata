@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1275",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmddu3Y2QU1JMiZgsSepJWi6GSb2jV5HM3S7QD7fTgobY8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7765",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRmcBxJHGo4H4jPodPupXnnzofbXNevzkeBHaRygW2TXg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

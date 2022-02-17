@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1014",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeisogr8ktoTuzj7bXRqj73CwqjDgwMKAenSHza3hwuA8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

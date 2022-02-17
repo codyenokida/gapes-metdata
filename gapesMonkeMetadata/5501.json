@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5501",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWRR4CkfJKL7PKT9d7aac5YgyibL8u7oH2mQFuMkbZLjE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

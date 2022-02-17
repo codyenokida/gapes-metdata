@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3370",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcak4gvQDjmyTFQzodw8RLgGVKjiNMa6UiHB6owZf2UD7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

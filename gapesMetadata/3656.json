@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3656",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZyUapEzx3is683VbQPmWGkoysqWuAfdAk7DEVJ1koFyd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

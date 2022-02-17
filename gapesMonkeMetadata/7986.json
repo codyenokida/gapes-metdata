@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXa7po5FtB6Lsh4PYBSsHgRNUtWDMEDxFc4spQghtur4Q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

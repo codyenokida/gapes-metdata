@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4693",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNxNnkKygVkimCPUzqkwjjnS46GDqSGrs6eAyBao8oZg3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

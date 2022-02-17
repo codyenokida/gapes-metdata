@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4916",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVzweyEfb4smpTztC29F1UVc9XSG1PGvQ7pihPZyHkuXy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

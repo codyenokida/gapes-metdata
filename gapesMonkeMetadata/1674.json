@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1674",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ6X9ARmaHSZBWhvSB4wV1Xk1Bm8V1JJvdt2HDy4npKmR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

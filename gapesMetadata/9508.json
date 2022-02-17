@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9508",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZA2EUbvCxe8TjB3u1XQwSo8fVG75nJGDZqRXfjbtbWDF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

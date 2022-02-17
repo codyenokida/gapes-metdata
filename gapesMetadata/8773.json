@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8773",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXdU7eLM5td8VvUHy73EF1TgVxk9qHSAtGwBk9kfv8eyt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3393",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdFWqfMTdoRnz8PTEw13pH3asQhqcUxh3X93wN877iDsX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

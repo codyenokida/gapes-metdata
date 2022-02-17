@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8529",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRn7ZyjTSnCxf2Rc4aAb4ZsshZ4Ngh8u8mG5PvpaoPUEH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

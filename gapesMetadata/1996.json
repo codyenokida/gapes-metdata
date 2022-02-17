@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1996",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeNnmDrSxrtmVS9rNwX8zMojAwnWrCznJ5gso2MLUhqDQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

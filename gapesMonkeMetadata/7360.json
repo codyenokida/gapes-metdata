@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7360",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVgqopGgSB1YWhffKabQ5ydjxjS8DoTqsyi65DnhWDCNS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

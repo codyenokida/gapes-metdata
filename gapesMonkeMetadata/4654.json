@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4654",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSRqDk2ZAhq44ug6xMsLSnsoUE8Wr1ra7P6rFj5g8d3R5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

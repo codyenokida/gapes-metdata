@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9602",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfKqErozgNUCTzwrA9gte1KkGz6dRKj5TuGWL8zCfJvEp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

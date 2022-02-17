@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #129",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcQHmo4kQrnQ7ovuyqRMi1bfoh9TxhXhX3Wbq3qoxqPmw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    }
+  ]
+}

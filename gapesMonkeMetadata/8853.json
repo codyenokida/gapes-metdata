@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8853",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYHNAE9NSiVHdKF6wBoPEXEsJdvbzB68Y5eiLgHArLCz6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2807",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYiyamdnfLaeV2WZsj7Xy7EnukKzVq43fxA2EQWhwkLCi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7050",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVmLxJEcumeQBqueT7qcSj17aXWqgY6f4pdycXu6o2QjZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

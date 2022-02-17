@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #467",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTcARPBGMTWWUtNvNh9qyBqD7vDVmZfQGNpfzJAtnjGmT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyberpunk"
+    }
+  ]
+}

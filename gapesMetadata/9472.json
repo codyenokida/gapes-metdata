@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9472",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNnyC4oVe3fx8Kf9ZEcMkE4LNJZ8RZwZgyLpr7wf7AbNh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    }
+  ]
+}

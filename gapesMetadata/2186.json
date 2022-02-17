@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2186",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNneyr6V6RoemnjXTRC8RdSFGpKwY6j3ypadUh2bjVaKX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

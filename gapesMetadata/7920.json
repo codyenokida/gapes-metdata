@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7920",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT77FYmz4i5tW28e6yvA3qyCeWhQ7m8QaNLZQ78rcoj7U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2509",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeFpdQE89uGLnsRv3yu2DBCRd1cU66XmNbhR245WRcaiY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

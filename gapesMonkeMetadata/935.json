@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #935",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYyN8wtre6RaMkAmwFSDQqtg8yQ1n4PNLTwscoJspqSSi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

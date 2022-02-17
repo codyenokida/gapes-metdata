@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7903",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma77KWdxPkZ9UFCHuKSKukYPvsLSr5sEPHKQaJvGRFgF3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

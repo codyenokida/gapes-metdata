@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #414",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPQaEcZPKqqepwTo6GYoLXJvkFe8cvFi215BE2s5e2eLr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

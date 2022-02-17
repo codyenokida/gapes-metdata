@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5683",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdPBeWdoQUfUTh361MnaEWbrx52amAhoyAaHuuDpDdxpg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

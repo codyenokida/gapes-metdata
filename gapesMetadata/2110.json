@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2110",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNcDrx4onvFe1tM4n7YRgGy8mbWp7S4LzUgGx3BHN4PAZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

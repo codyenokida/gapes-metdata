@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #282",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXvW5saTmzqGYrxQQG9j3k31vBRQ4mNZAWFuhusLyEjyt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

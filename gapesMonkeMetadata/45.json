@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #45",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma2eJ5eCdyft48D2pF31C74jVUaPrq8Tm3jupx47u4ntz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

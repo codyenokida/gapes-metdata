@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfQeyX9geDFPNmaYg3vnNJH7gyEKo9LAXz8LC1Zh8irCK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

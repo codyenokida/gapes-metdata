@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7238",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUyhBowQjpRDXLriSitV1nQU6qBFoa5FzBego9R39q82W",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

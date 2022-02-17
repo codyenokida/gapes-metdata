@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8144",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQm7on8yihD5Vxg3Mp6fgN5vMoYgFqFJW23EaTxMdZKXP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

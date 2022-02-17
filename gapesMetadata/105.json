@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #105",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmajhrVshL7FvkeRJNQBKkKRbDZsbyKhmamZ1e4YYezgSw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

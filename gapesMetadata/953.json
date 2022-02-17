@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #953",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV7YtU6jZMMReJmHP938rGCevQf2hviyzaX5x9M9AmapA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyberpunk"
+    }
+  ]
+}

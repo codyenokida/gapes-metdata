@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4587",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPLPRgm2Q89JTPSt5Bi8oBaixGq6q3GotggRn7eW3Lu5o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

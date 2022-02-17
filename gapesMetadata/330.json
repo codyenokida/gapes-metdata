@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #330",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVfddTYopySRiduRpWdihjERGicqhKpoRLNGjbknBB6T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

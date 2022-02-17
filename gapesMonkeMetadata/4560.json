@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4560",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb6Yr5YgaQTmb35KoFVmb1Ee2ThWt7nGFcEJSU6M9gbEC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

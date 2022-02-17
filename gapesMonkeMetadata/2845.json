@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2845",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPGKbX5iZFKG8cdnF79GTrQYhBBmpXU68RFHK34QD823G",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

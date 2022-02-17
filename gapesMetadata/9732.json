@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9732",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYrnz5QKYcubGC3ozMDS29d4ej7Z7RHF6k6dpMabWRadW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

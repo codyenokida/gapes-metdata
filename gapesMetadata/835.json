@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #835",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdbkNjo2K226xkknzrRRtHsBjmiDqkkf8m1U4ZmLk2aqD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

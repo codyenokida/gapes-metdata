@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8761",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5aweCiVZdxnWZ8Rjy5AV7Bd7bK5y4PrmugLbtakR8Un",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

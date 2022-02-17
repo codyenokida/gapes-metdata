@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3282",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTcMMzfFyKZzSWtPwYDx7M2QyvALF4yZNqKMbVMCQbNpq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

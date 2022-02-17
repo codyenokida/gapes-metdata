@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7048",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXnBjp24AgFUTW2JtypR3mBeBjGuTJfFwRQGxHWZjBFPq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

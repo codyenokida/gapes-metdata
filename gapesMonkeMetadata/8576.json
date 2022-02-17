@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8576",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme21zKjG1DxZELLE7DPTNvCnakyopTeb6HRsmaR5po2Q7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

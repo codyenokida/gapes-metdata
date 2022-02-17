@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7840",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYJqVPQUDSeS3wrSZvNC6c7u2pvHVrzyNMKe2Hn7SvCgv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

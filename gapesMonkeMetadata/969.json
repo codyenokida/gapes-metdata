@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #969",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX1AM4QTA8gy53gyt7fRtDjWJPNwX4t9Zydg3JKpkx7BU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

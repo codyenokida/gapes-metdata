@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8708",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf6h7y8J8m2UyAXxHJHoUx61EjtXnW4ZRHr2YuQWDt8xd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

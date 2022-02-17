@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #704",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV9f9aCmJdGFchg5B5pLny7p8kF6hLPfb1o2TiGbsgR4v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

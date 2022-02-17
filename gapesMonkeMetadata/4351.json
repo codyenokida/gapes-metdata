@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4351",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXKj9kjPQUwX2EEYu5udgYAG2USSxdS8oro8yMLk53dtR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

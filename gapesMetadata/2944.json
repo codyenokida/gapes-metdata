@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2944",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbpNpK142ftiRiX5FgHwSWK2UwxfB47rXis3vKBp2xo3K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

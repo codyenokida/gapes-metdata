@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4664",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQM5ZPkmUyZAFmUkxw7wjU3QCKjv5PuQZca1DRPyAA371",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

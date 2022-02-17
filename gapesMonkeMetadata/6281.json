@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6281",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUHPRwosEUzKQzMSZ3oPgKDvGynhY4JBfDc4KzD7zDRgq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

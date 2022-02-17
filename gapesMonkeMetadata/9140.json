@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9140",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSaGrEFDLjcZaVWGLcTsXmi3qLZcg2iZ1GYetLeRPKZiv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

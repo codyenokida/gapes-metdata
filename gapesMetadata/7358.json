@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7358",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmev4kMz2CRhgCpse1R58e5o1rm9Eq11Zi94KUyZ7XzdXk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

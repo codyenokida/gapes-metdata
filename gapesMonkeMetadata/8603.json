@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8603",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYpD37TZHy9LcZGhncLc8FponRNnwXBWDfaHUk3NA5vev",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6155",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVifYbRXzrsY8LmVa5U5uCvvcSYzuFLK3WVFeCd4mdq1n",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8130",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSchcjSYm2SN5tBk5C3VFzNJ3xCbdMoCbc9YVeAzJs5XC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

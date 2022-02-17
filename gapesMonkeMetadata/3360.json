@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3360",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQiJm4UrJyUrdSLoJVHiaMHCNuovYGwaQ4yvEjmr1VfWf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

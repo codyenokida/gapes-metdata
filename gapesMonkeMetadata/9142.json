@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9142",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPQcVBjQQv1Ur3DTthuBnAzyGZ2rFH95aB1L7dLczrDZM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

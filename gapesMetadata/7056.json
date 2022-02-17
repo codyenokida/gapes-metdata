@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7056",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUaAEkovrPE6gCgxjgG56sNCZuDRXBcCZhWbYdWQJuVA8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

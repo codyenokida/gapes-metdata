@@ -1,0 +1,34 @@
+{
+  "name": "GalacticApe #3536",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdfh2ZANrB6F6duGJ1kkFkQsxQ9F56NCLhF3Yj3Ca6fZe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Little King Ape"
+    }
+  ]
+}

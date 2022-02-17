@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNsoz36ekT9qJhoN7sYW3MjYV2FHGddhJ6gxgKJ2UZP9L",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

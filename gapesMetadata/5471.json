@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYMCdiXgUAmoas7SAPi3DJfrSzV22VBc9ZtKwVu3SmuyR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crystal"
+    }
+  ]
+}

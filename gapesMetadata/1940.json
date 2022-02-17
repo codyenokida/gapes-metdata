@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1940",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUUxhrk1wLf7wp2JXYBysrTgCPuTyx7VxbDXJsVzYjyD6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

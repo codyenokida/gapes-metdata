@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3567",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWVbNCmmH1hNVYyzf3SUM48ZuhmMnGwHwitcTSzmyrxcJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

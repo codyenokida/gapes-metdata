@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5704",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbUBpqX1uCzFpaTW8vEfrwwV1e86gFanzpeeWCt93N3D8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

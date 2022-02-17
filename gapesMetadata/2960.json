@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2960",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcs7pcN4Q7EC44Afzaze2eNVrSvRqqDM6b5R5xAjzq6Z9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

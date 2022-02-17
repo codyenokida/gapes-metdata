@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6287",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWii2ErQY85CgGjdJZytQJ8zGnWz6tVkdU9fg7R192dsz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

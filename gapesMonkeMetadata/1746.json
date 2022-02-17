@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1746",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPFjQ35PYpLo3ZuRSs9gLQwAMG8eqwPR8v6HP51hoNHm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

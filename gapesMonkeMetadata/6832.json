@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6832",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNukModqtydBDKMApcpzAGUhdMfbzKsriGxJeAkk1kUpH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8380",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQHMBS2HqD5ACLgEZBovUjN5B3i5H4RL4B6Wrw45VbH43",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

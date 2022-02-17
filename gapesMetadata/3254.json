@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3254",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb7oscjqUX5hqF5dX1JzaoyAdQz6vKP5SkgD8vBmXAyDp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

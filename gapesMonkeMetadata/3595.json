@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3595",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPMAumjvmY13BsxnmMQjSR8dmvWxrrLukr7q45zX6Eeg1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1201",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdP1the37mDoM94TffkLSrTjf6FHyqQk84A3k6oghBrDD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

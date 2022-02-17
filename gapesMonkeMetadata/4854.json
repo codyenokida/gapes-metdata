@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4854",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPdSj4jhPtYMfGNnXsfvh73Cj38F8mzrqJWb7dgucq9or",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

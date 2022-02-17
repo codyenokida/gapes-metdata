@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8304",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVUkrB6a9HcbKuermj4FzHVzp3Wok6VAEbvPxVptVfKAU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

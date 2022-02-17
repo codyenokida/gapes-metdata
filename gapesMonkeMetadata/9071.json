@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9071",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcH9e5ak5v4B496eqYSzD1HcCSzY3Nq55MuSSGJqbfjW3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

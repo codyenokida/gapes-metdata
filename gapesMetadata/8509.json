@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8509",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbgb8m6McS2Uht1sDfjdDYCwNdWBmaJvG1refPwrZ2pFz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

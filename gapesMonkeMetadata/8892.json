@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8892",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYhvQGMnqtDMmKM5dbaaQhh3Hun6xJM66PBGGWcy463u1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

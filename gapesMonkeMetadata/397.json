@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #397",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXbR16jW9UJH1QFrjRRmGBRJqL6F5G61s9ngqExm6opkF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

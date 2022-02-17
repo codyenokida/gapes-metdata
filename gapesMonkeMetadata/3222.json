@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3222",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRzGC4h11UUuCvuDWpSSA1CmVFnHtWPcQ1HLpySSt26xp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

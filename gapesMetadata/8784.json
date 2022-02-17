@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8784",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWgwSF7kwgwR5ZXi78HiY5nV2tXz12JPYoYoLdpg4u3Rw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

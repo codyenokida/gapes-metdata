@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3138",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaR7sem76Yk82husCoHF7vGVZjMBdh1Ek7g38AhWmiRuE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6573",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSKPaiTALtPhgQ6uSUnbe3TFCq7Zwk3NM1NR9P7cUzCq5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

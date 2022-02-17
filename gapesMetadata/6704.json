@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6704",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdWdV1rAQdY6w2wY8UKqn9C6Qw7nRzzH7vi9AkaJynBAW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

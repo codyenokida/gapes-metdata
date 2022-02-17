@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1259",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTVVvJMVqwDPf9JGDDDP2hPtTZFsiWQQp4rXRtRWZCDEV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

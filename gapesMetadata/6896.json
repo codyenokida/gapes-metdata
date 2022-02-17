@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6896",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRH4c4iZR2mZUbqzvWTaBXVcBT2wPwz3FCaji6fgrAmvH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6042",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTUcQMmF1r4ywg6fn12iMBeygr51bJVp5nsAmQ3qfmWQs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    }
+  ]
+}

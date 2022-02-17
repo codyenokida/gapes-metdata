@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1245",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUHXuQgDuVK2jdXmErmzDNsrZuZBsca3hbjbUmnfoKj7a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

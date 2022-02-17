@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4580",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSocG4Ha7pr1RmQBn9xxTRi9ngvEZ1aMoHyqqGvk1a3cS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

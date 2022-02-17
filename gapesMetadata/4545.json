@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4545",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ1AVge4wc3vS58wQrcFfWpt173FubGnmYpc2K1C5mKwR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

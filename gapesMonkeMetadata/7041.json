@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7041",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQynUZ2LqRmJ4iLTv5CBKGktyDkU7Hbd4TrCUnQUG3G1Q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

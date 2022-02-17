@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4265",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZfndXdwuhCSpkAWDWqqmz2HBoRvQYvYnTrpT3wH5X9xF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1534",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPUJyshor4dGUtZdzTkwZVF6YUymxiZpr6x6nby4TBnem",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

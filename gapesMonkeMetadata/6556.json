@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6556",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb4HozrtQtceRmFJ8k7QrUPrJZAeHacT7BDrr29XGiQ5i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

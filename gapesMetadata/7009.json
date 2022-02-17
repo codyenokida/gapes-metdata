@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7009",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbs3AVHV5Z9mUCRqQ26D468TU2uJ2mnFJYCgaCx6xRoYh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

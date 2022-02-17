@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8349",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQttwhm6nVffMATbmUJsfhPoLoKUANhNaabPN93waQ1Uk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

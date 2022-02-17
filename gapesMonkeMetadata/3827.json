@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3827",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYtm6zQMdWMCx9qxeACsmTgAZEtHFce7CzCqm2xiysGU5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

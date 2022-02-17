@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3825",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWiNwXuU91Wq8zAosPNLAYkUTAbKJgNT5oTaCnPpFdLUe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

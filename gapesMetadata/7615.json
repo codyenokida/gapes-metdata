@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7615",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdGDhEhT7Pmmnp3yPbGkWC5bqkoY5JpwSd54xVKDDW61t",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

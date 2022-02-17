@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1371",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUBpSrgZPb9mBkjSwWGHASQ998ac6U2wzhNvAJ2EddB44",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

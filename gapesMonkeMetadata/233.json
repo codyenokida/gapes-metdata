@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXdNu826W1FozaYSLVnyEaqFf11FB39iWmAN3MpKJYswP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

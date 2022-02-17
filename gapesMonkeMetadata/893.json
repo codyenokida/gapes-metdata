@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #893",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdjaUPxhHvah1k6ZZ5z2UvkM2h8JB9kMr4NEDreyBxWjm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

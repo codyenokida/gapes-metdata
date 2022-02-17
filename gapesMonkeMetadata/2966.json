@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2966",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme3nCNWyUKq1iEEHtGzUUok6jSQxh8J9mnp13qTxjRGiw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

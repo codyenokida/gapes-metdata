@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5692",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXeZfnw4cFuxeeUF2t7f5bB7Mw8jvH4dNym5zFFjooJ7v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

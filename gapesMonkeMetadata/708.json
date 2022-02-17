@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #708",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPJBzyFrhUtV5Jbp1TEmJwAzby9aYHR3tRZCr7WqjvECr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

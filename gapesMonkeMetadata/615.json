@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #615",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfSgvRCprFRtVx3acubeNgvGfbPkJB8TdeNfwHW3AXR7E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

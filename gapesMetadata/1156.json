@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1156",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWmoGMYfdFSLrV13SwZ9t33HSvRvQYoWSrtSJPckpBg4Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

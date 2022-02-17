@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6744",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmadaNKTULvzxsJEszTBmzfhSuS5GXehCDa63g6GNEzxZY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

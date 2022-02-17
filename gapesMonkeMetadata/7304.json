@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7304",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaSaE7KSV5LZxrfHu4Zzpo5eDEBJ7oWh7JK2zUyoNh5VL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

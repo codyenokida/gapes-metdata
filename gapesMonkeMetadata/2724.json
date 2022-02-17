@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2724",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZTN522Shw1oLmyMvgzm8fVwuMhYAiHiwkJzfXw7jqeXo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

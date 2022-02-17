@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #520",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdqhLWhCaUFam9s6kRDfScYXM3THLnWrccVq58NbeBuMP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

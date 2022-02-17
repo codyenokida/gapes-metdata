@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #79",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPziaHhJ5X9EZozRL9FNmSvax56b2c9x4z6o61TfkzbGD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

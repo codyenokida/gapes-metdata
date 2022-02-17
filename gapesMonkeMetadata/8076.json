@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8076",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZbENPHZrLT33aVyufBMV6dqVbuN4Qn1w9zCgHJ8zxBHc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

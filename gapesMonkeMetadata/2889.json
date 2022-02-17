@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2889",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdHL69hCWU2qrgtKR9w3j7SE6dyCf1Uhq17cZdYzQjFLM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

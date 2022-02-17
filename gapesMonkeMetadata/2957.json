@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2957",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaT9aoE6a41rJYbSzi8W2Dffrd626f6F28LrZqdyQiXTh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

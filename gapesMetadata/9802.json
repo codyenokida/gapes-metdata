@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9802",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVxGHmm3pEQTZGdaNwvVLrBbACP3Ye63E98S5gq9PQ5a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

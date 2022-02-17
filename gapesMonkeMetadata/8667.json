@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8667",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWHmJmGiYutJET6bdeEYkiCJMkTCLfe4hGFDq8pgdxTTA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

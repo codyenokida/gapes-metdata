@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #657",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXZN8gjQdbN3pv6jw8swAQ2rzcvvtueAGeNXZurJf5q9P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

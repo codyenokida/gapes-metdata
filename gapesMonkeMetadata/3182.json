@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3182",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdRYJSMXc9er9VpGF7MybGMRYwQanBmvVmBT228vZhqEY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

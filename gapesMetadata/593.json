@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #593",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXoB5xijB5ufFVvF1nm8Q6iM567DnKFJmdabcK6rktm9i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    }
+  ]
+}

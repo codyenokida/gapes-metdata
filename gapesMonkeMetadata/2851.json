@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2851",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd8wTf67E2HjFcdUVCUfCP8UGAeACjudojDSd3UW8vLEb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

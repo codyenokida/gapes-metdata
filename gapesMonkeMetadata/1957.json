@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1957",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSppjg41vLa6a7LciMP1NZTKscPtQC7AQTf8MMQ1ic2cn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

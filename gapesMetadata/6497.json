@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6497",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcJRB4xNNwMsZDzUev8qzLGTTEm2NEcoTuWocTA8zEXgT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

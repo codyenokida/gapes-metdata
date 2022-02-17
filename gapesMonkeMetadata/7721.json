@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7721",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSV5BNyJN3SKErr3CzaPVB1AjkwxaFJNaQypX89bi6EdV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

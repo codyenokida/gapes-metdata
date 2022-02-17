@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #281",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWsX76SCFYFVPSbXCqPA8SkAcbx46MvhHfBBSvHMtMnr8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

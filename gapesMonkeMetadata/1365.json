@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1365",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQAa2HBSPejuF2ovaqWQq3DWrQ1tHZFwEda9ZPkiW6Vmr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

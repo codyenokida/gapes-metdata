@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1952",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTynLf1rqYgH38ymUkxmYATugEiT3nWU8Jx3V3eGi8VkL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

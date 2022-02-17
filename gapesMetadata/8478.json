@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8478",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNQvmXDv4VHtfpM4FJA1927ym5AwewK5qKYByAbGkAZHY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    }
+  ]
+}

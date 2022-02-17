@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8687",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSDK9oUGZC5FzfNZeFNsNnjaQVSzn8TsD8eAcadNTU8cr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

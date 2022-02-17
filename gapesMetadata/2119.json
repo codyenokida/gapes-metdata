@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2119",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSJob34ghzKLZxRzUT1GMro7wA1eSdpmYNGvVYN3xZEUo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #448",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZiW6RiXq18c4zW3B7mV5gPnPMfcpKVZtpudZtZwBv8C4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

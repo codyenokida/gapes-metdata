@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7712",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYqusrpLsAqKHcSsABkbS8C1Htep6UiMg2Fw7obn9tVzp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5030",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWGHnfN1et43JmRTTD1yvgsQNPwSAbM49VKshT2gs7G8E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8498",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUiXo5SK2Z7LykV8JGmiHfLLsZF2ENpwCvVWgaTkPDyN7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

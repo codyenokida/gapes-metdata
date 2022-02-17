@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4061",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ3Hd5zBbcKoErsB1o5r36nGN6x4Pi5qBL3G8ZARKrFZN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5363",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPF2MEjd4yYjaGHm8XbD1hWXWdWRQWPaCh4JuBwYyCgrZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

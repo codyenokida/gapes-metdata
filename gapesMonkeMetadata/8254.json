@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8254",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVdZTefy5tLNGdccvisGvVPmB3W3B4BoLYTuLvp2jjacS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

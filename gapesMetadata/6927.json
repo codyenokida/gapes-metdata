@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6927",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW5vZyAP8h3L93sGxU5QTr2w2oMkRVKyrTqispqizs8te",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

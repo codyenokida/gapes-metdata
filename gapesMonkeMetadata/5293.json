@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5293",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPHDvveGkK4KvY1HnWtuw32WZhHnQBpvYBewhyotCC7NL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

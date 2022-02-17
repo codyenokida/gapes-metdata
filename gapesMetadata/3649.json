@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3649",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXvBVHRavuTqXRcX7Pjfo6gwzq1K1mXhctSGyRe3MJva4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mecha"
+    }
+  ]
+}

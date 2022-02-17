@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2985",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUhhiqDaR2M5K2gt9Eh4qgbYVDHnkY1kPUo3zw9mkyVJW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

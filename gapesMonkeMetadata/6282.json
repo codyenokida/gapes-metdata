@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6282",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRHWMaUcw7cxpi7DziiL1f8Fy7zmjeAqhjQLNEeWrckmZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

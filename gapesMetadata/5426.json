@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5426",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf32mKUrjz6SqtF2k3fJirrsj4vckFPEHV238gZs5kLbK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

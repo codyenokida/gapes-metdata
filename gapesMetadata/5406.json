@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5406",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbMd1Lq4NnfHNdB17PZAgJanZgrQdJU5sHUpz4DHCL2U3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Beast"
+    }
+  ]
+}

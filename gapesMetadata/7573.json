@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7573",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNrneedanF48W4y9jpbH7XejbKHBaiM7FcNXikEFBdTXE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2582",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXHKtUJSso7LgrDsEwjP4Cyq3vK9MZ1VGQYN8XT5ZJHvk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

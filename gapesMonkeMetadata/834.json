@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #834",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNVcGFLZmMUfa5u84xnAaDDTmmRZDtsGJhsKerZaESkvE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

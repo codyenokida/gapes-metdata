@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8335",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUdEe1DfguviJYYcu8NXTf3FABkQkvacEnbmwgtyW9fsN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #542",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS7zntRCvPWFLHfkAxVZUG7F2Vjj6rqo79AvALsNKnW4F",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

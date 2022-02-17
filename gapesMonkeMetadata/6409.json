@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6409",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUBGzjPGCW5acVnmdc96BAFkMVGdnrEHeSQTYoxqEgBJm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

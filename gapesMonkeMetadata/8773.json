@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8773",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmThkcTBX7vMCPqeDHuDzxbXbUZoijKYc2Zfe52DzP9QMj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

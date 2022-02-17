@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4124",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUXVFak2cpF9iYLnsJQ8P8wtxkYYs2FnmyXnkSdRXyD9U",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

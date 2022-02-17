@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8311",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQPK8mPjVD84ssgWYirLGhSzgCEvGW3HwN1RRVr1bTfct",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

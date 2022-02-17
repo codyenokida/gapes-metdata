@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5022",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbSMkTzp9ShnpNP5Q2mBY9e2vmV9bE2Khvvj7wsp45c1H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

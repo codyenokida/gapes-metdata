@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1574",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX8r9Dfbe7LFms2NKFTRF72scq2Np1yNyixxmCsBhhz8K",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6750",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWRQB8VesXW6Bcy1GLnEzeSyGw6uw154VbnEXK7i2Nz9Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

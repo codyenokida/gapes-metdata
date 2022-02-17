@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbG1cDDxs1qRoLdNZm29L4ahmuPcABWWMNxEW91iAG8jt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

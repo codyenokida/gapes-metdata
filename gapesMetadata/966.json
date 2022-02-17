@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #966",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPgtnkFHs9akeHia8YUqhiFja65GnRyzdggjWqSAagFru",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

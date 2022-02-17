@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2513",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW8vXGrvn4UMWeLE2UvGcihPa6uWT5BNRKHQZChVa2Efc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

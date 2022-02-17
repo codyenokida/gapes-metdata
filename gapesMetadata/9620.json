@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9620",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZULJAiDFndqCy9mALrMLyzw89zsXahZBurkCbiUhVyMY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

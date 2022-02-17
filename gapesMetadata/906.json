@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #906",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNahaapRZcNkg89JdoiwtHNbnUZA9Lw98dHS1h72TK6ES",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    }
+  ]
+}

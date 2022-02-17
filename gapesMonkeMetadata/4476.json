@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4476",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT27MYim6cRQ3CHesj6n9uKbRByTd3ae2KEJCQC1VWwjw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

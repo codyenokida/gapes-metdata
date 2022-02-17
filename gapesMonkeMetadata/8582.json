@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8582",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ4TLWNGWBzDoVWVNbriAMCC87wwhexAurs21BUjEith6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

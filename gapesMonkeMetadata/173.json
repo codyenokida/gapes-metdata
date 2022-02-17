@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #173",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUtq7VgaspELo6mpE5gaRkeNpzD1rPvGVs5xMZs9q96oR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

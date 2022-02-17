@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2039",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUiewyyXmkUNfBEL4WhJDPdnYUAMejUZw7WrqEeD8KpAF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

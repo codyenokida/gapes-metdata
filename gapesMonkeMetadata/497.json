@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #497",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTzUWBpqQeYjKdBVX2NhDcLaPgmZWTJeG8RAP5zgyEJfX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

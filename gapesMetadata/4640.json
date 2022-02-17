@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4640",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX8AizChEvmAYZ6Fip1n5nLFgSVwtXwJGBm3KS6pCqDEG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

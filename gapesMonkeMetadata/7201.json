@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7201",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS3xTXmMNN99KyEXZTYPhXAuuAWrsaw3cg1Bh27KNpw52",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

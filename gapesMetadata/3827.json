@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3827",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPsRAevLfDVnTigT3xaKCCmhRZB1b9MX3XJ6foJbwbocU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

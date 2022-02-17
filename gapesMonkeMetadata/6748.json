@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6748",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKF9xE3e4edTJAiE27qpjYkCT2THEtgvmWfLFQVtBuqQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

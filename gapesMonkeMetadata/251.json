@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #251",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZjs45JYpsCzxbeiPmU89FGHMJd6MSESKHbWftYR1GUc3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

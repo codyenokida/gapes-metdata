@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7869",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcX4VBDbPMPRHaWYqVvP81HzErq7WRCzdpRuMqg1C2i4H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

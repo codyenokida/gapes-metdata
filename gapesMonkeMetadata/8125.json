@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8125",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUEPT9jKkc7RMxMZPkBMqwerpcoUayXLWkLmyxeBvDqxb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

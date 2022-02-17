@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9428",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQQPM46Fnr2w6B4kipZsW9hU3YyRMVvEoEE1z4e3w9GV7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

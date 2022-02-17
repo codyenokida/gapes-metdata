@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #375",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcpX4VeZAnPfgXufN1PBy5n3p8hDi88ZZ8ckworHr5XZa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

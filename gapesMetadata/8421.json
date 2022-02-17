@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR3QA8w3no7HQjGBck8CDz4EMX1TrhE7edX9jt5FBtsDN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

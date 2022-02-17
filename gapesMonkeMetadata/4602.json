@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4602",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdqNpfrAfpekLX3hrPiaE1WdZ14gV1krRtY2H3HipGomS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #991",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfNW7bkRU9G32zoyYUQePJxfajLGkBREF1UkZYwDpTNgT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

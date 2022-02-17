@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #715",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSBZvqEmZcFuHXxRWmjp2uP7XLJLXu8PEwg6vH2P3wZrF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

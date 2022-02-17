@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1745",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb7BTXNgwV5urrRoe2TVMTH4AqdupRq5XQzSVjvoiXVRy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

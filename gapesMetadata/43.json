@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #43",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRNo72tk95JMXi8EDvcg6S9P1ftR2soTNeFefrgb9GC1x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wing Band"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4434",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTN8a9kLHUQzTjDAJbDMokLnKiNEbhZNB6TP5joT7cUUJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

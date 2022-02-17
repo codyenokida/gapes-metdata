@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2710",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSRXAQ3BJUFqCrZxHCkQDeoEDiccNuNanSFsuqft9Bc7Y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

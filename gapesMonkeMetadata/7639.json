@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7639",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPCGU1DPeRpT7YVjRmWwEqgKSuY6z4iX4yoG1seqjviBZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

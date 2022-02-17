@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #706",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfFAvRLd3R436BTFsVZ8vP63aS47CSxgZw8zLhkAWHrTQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

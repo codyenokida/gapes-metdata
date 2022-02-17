@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #259",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQiy2j57GsFrEUiP8nbdNHmHUzVxLw33rq4SRhr9y54xr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

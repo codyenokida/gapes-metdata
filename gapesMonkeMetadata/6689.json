@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6689",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZpL2xg5sr5bHUfHcQ9HFqbrgyG8vVcrVmKdCVvQTJJDT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

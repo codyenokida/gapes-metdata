@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1267",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdNaA6nT1zXEmhhVaNToNf18M9FUaJokfGpS38FHsAMQx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

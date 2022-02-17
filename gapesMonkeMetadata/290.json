@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #290",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPTerbSCUiHCVuDTZg1h56YzrHbK1q4Cjjzu5gpLJPNP6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

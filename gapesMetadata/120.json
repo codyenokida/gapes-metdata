@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #120",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQVAo8Nod7Npyr4P8DKU6jNrAp9HrQDDBafT6RTynyuET",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ]
+}

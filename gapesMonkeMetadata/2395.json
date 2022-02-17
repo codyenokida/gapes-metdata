@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2395",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPm5yAUE3GMBQEDYoqBaheGXNcvhQSsDNZQtubTGeDoow",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

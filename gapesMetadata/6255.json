@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6255",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZ43hX5it8cQyd6D1sAkq9JHezZyGZ8Ny945ECMmxX9i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

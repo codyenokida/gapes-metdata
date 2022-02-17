@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7693",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSw1S1voJyMdYLg1vdpPgGWTezSZRBvngewkVbHGRj3AG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

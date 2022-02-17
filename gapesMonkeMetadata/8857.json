@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8857",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT6weNdg7WvXGuYuBg7bB9tuTgNva8ZR9QH5m7CCYG43i",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

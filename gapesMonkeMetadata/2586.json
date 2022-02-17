@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2586",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW3bmv9hrene7aEjDoi1ZEySaK3w2NxJfLxP6o6xJh4kq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

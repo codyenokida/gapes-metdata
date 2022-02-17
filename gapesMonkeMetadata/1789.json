@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1789",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWuohLQS7QkSVdhnBTamocKLjnf3da35adUiKpZUERv9z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

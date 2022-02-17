@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8018",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXrBp8HEbPQ6yqJA6K5Nb3H4YMRFU1HQxwWNgynqBko7k",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    }
+  ]
+}

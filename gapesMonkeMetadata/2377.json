@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2377",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQrcaGKad3pxyGZjZkm73N1YrXbJgmx3Gz2QTZWxSBo1v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

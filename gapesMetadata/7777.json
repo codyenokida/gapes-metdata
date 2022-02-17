@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7777",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZXKQSsdKuLH1JKWgeSNYddyoSyjCAtxEiyuGPHnNf2pu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

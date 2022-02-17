@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3407",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcNcY2TvfMkuzi347LkzJ277axvoUbfY7rMUhqHUgFsLT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

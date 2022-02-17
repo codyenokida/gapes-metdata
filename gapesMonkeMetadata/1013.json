@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1013",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSB5DWa2YWFKVgX6fQjqVwwnjSmwutMSgx54u7zQ6ekwZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

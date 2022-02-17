@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7777",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZZxspZke8AwVD8vkHcAtB2G9GRp9WdwobY4JGQgLck3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

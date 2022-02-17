@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7107",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbN3Qr65QCb4fc2hV827MHijbJ1g4UoQXhoCprq1zgape",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

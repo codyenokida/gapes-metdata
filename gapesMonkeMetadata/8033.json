@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8033",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZngR2BTeEhvfcD761JMzKQtf8QbvyDrujFij1fEg9d43",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

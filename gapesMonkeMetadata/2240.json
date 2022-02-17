@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2240",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYhBasAthmFTh1S1JSHZfHG9kntSEZMm3abaFyCmPu2WU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

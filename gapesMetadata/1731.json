@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1731",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWXB219BzSq4VHw9AaSAnJ4UiA5cpWnoKC14KiimBNEPj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

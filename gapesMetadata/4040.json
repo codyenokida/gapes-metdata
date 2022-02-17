@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4040",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeu2EsuEvXpX2PzzhCdUGr7wkMbb9JjJSEKbA7t3T9fdq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

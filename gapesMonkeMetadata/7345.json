@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7345",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmabLAAHaCyEnzCGZDJ57ieN13MEs63UebetHw3q94RxRn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

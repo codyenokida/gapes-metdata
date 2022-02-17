@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7049",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2V9UEhSJas9ccQ2RGEQoHBqa3NPgGKKgmT7Ao4YdLeK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

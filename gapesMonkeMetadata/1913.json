@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1913",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXkqo7z7BgX3biCCp27PPXLF3zFkcwiW9WGduxv3btA6S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3154",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfKCZoAiAwc8ZTHSZH7HhCL6oSPFbcdznVgmazZDPQJWn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4508",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdp4n8VwAE67Wp7VWDW1BJAHXSh7xpffyykZArLG6h26T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

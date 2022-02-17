@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7695",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeXvWQeriouF3BhzYqhaXeCT6oWfB7UpauDRm9y1DbhVT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8165",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXH1RyCwRQYi8ZArRjhhVS8QGsoB4bgZQweH8HugbBkpW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

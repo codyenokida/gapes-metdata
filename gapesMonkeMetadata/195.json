@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #195",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma6K85CDDrMYGWkNCq1JPm94aUkkwLrGc2f5h3sYRzT5S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2740",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUAksaGgheBpcVAJrMi7WVMtk4gp1mt62soJRWwSMh5hU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

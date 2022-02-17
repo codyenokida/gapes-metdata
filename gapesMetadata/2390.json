@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2390",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSGLsLNkixDQaZWF11mCfPm1w4pRmBbhCjRu85WAudobX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

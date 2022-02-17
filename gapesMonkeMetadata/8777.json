@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8777",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUnrga8up8xYrSwfRajX5mxFyrX9qihBv17KBQfa9bBsi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

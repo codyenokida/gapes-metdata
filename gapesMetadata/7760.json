@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7760",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPvwPELDcqVNKTxjg7oGqEXZDJoBpPzNY4L4y6VqL2eEX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6017",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZT6NzrJpsvHd5DskA3RTLZFeeFtKCXQkUzKe3aWuxa9j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

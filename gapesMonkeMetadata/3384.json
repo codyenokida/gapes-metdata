@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3384",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQTR4rXVBA51DGxC1LDvHZs5tsUtLD14K4PhF1m83ge2s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

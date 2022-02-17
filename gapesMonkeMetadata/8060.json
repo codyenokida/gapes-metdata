@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8060",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdnU5zwS6ipnrgJR9tuakZoGi2dAkWDPqVpjZcaKk5NYV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

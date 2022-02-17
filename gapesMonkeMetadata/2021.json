@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2021",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaeJBGsHZAwa3yNZqRsUM3b4Wff9tXpNKmyjy4fgkzLAB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4072",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUWgd1gdEsYqooZMXg2jLGEeX6gMvL7gknyKv6i1A3GmC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

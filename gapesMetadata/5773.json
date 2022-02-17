@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5773",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWSE11ky9rewMytC8KWiCw6YRcVDQ2jSyeHnMshCxqnTi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

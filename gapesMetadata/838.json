@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #838",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmabdRzpjkvUSwieqJsyLhMJgB4dbQye3EHTF65cSgxv6E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

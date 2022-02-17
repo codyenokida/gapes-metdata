@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4712",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYvQL7oTq9aHXsDxtAm6VoPNEY9TRJgzT838y64RXAw95",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

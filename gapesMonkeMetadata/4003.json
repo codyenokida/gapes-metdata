@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4003",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma8smwaKNNk5q4cvPtAgjC16ug4QQcrEgQ54mbjSGJXyP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

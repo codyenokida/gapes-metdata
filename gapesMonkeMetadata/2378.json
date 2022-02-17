@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2378",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZv4BB64k9oRzMfZoHAJDPYTtngPRGocyMRCBkWLZF2aC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

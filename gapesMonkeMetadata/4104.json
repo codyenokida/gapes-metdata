@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4104",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVL7Hxvfz5fMH7c6fosiQ41sjFUpKFQqTnxTY43QNWtZm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

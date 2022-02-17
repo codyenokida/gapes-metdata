@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6621",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV6SeTqFas2Ye3nzRJf37GkCMduBrxZXai4BNr3VJ6eWh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

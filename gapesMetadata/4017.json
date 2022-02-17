@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4017",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfRmcMrn3MJYHgaWVF6g6kgcqc8ThQqryNedwzAW4Ko39",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

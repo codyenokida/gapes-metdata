@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7820",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVHu9ucmK44GqLHbF1UTJS9gGRdCDdRucn86A424BPyKi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

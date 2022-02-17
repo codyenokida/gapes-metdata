@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5721",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYu5vJo7sd4wA3BmvLG93z4Jp1QCw9xMYnFjAce4EsMXk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

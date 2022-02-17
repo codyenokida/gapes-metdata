@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4068",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmajC3DNSJtNLqvBe9vEKcDSVHXb2VNqcohQmtyFaKa4bK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

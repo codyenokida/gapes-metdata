@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5602",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUCtjPCy1B8xiTRJBPGP1SC4xcS5krwMGmFTjeNr1uWmk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Engineer"
+    }
+  ]
+}

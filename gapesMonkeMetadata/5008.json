@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5008",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeDkpmxd7PDLWCFmj1GPibAURB4Lw71vAH2vex1hNBFUL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

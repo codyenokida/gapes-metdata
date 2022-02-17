@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1560",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSxTuRcwqjGC8Y4sQozn1aB5MyhvAH6JnwrwnP9XBrchV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    }
+  ]
+}

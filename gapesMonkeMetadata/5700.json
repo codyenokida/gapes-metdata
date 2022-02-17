@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmViyGdpRScxFywreqSNLGWGH3GcAbgQyehZd3gw75eWNa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

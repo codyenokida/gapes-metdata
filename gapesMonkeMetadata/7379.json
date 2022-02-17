@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7379",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRYS3dx7ghqzm1bXKqKY6V7nFbj5cL2oLW11niJwoPJNi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

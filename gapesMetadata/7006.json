@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7006",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVZAuzxmjJCd5idFmSBmyQQX6YesgmU7Bx6TEXfYBC32c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

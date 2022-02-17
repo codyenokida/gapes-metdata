@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1617",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQFhK2nd4bXbf5Z3inniUCEwLL5hBtz4qrvBC8DhR2f7o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6179",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfPxmN33rDmTgsY1KeLDrnu7HxibK3nzd23iqub9qdztP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

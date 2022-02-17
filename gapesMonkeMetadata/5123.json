@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5123",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWpg6a1hvsLuAfLhAP7ZerTUucRzJs4t2c2mHr9CwKsZW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

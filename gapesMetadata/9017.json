@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9017",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWRGwfD3U7p62HR7iPvg4eAA5Ro28c4MQet8E9EtVkWE6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

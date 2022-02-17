@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9002",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTpNkBHf4t7woKfukG9heX6pBumwjaudTdC6xCUc9jRwD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

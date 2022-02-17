@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2134",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVzPRrESuLuN7xqedRGVpj3u8uWCEodkbF5CHkawWD7r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

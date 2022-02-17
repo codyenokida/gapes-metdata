@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3586",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVxAppizUyhE4Bzk1sk1JMbisHMASipur2tC8WYQYqaEg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

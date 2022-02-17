@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2879",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSa4BPk1UVrpxLd8UTwTwyGpPHvpA2g9a8v3WFv3ZJNna",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

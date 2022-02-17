@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7436",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYve4ZE2YXc9w1r2bov7vNjLyJ5rGbMovR3XmK5rZQsAK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

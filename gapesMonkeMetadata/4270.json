@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4270",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRHYjVcTCnuGix7qtq7bouVWx9Wpgduoq9TG2haeAPLpr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

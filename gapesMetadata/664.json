@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #664",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSYuyvz6jQLszWZEXLRUG3UEDaUE7T1Q5Coptik3dN5Ja",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

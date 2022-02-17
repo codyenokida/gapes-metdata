@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8102",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVLMEoFWgpVHs5uZVdH7RwFTo21ZxfyEBEhEi4J63y6vE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

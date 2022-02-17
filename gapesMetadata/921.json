@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #921",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYac6sHiUQ3E1TMYedEy5QS8fGMgBKdhFgsvkzKFXfiQQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

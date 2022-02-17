@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5567",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVuimEhHvHucxcysyDYCr7PfWDMHRMC46i1ZwkYUSzCSc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3019",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQDsH87RxHxeEinfuoqWSUNb1vUMH6skFXxfu6fjoTYug",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

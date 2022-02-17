@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7772",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRkKdJT3bXVHD5GSAtnVFGj5SPgaC1Sk7kLVK9cw73Zwj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

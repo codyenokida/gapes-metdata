@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4617",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZGudC5MX1g8PrYYCPZbRQuYyNAsDVidtQaeGePnuU8tm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

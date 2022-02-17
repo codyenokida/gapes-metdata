@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8305",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS2h5LPQTSjPqs6MqAnX2XqhC342ysuYH2Bn7FCD6JgEG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6798",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVwmdxj8p2QbNWQAPqLQspuknvNVYWQdiyQS2bGgum4rD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

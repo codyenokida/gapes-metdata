@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #177",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSWuYRUEYQGnyXtM2pGefzHMYwxcqmk3h8P3RBJ4gqfm6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

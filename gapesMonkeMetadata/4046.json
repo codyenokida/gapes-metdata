@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4046",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVCy4FEc2NZsPTMCVjWGqCzn695R9ok7BR4k6K6cznWUk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

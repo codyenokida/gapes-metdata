@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5134",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWzzytcdxr4PSsdb5bon1Toh2tTqsyvYK7LHVjZGFEUBX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

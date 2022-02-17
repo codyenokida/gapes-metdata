@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7146",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ9m24E72A87pnztdffjSPah82quc5ex1PknPJTHHs68g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

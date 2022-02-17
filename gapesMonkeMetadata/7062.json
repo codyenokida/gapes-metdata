@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7062",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUxrD7Bt1QQ9PkjYweeu2VeHpb3ug8irJdBdDVJhnYrsx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #829",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSSJQnbTNegTTuJEi7Qd9q1WHMdBe6rxktqVyv2ysXWLE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

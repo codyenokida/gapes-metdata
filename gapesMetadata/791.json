@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #791",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVzq1BZhVg2Aj8aiApiVzpRindCKy9d3tppxhH97hW1zp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

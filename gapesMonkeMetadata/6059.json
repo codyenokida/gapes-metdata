@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6059",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcAC2Hxq7vvN7DdzRM8ZsDGtFyWX7LfbEkgAimAy4pwuA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

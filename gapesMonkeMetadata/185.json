@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #185",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWFk2EfbTKetLzoD3JX5DkF1eUGJU9wudHBYYNcaH3qHH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

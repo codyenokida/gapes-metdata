@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1151",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY28nzrWMcCthrBLEYS5CShhH7G524T4AAXbnaUKvCvCj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8892",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP9A8zqrobpqssqUsTgpvPwD3JBkyBDpKRJL85co5cpE3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ]
+}

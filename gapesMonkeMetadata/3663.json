@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3663",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRXihZziQBXY8yBzuZTPGDhYfJZFXgxbEXZbMmYRKuimE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

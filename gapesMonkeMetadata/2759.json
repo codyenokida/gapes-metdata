@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2759",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTmbLfpZXDmwrN1zGST3JwJ1VpP84K5KeQvFKpvNqSTta",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

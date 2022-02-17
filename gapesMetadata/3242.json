@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3242",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbb8ZTpQYaYwGUpoHBGnD2ejCBGC6pDutnEG5sfuuBMan",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

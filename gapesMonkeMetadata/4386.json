@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4386",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ9tDvJp3hJ7EVBdhmmazyxxFktNZsUT3NCLwjtMFRXMo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

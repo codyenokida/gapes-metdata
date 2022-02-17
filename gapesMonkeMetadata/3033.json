@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3033",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ8CpknTukYCNv2ewot8SQ8B24AJRdrr5D7vBtrNG99vX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

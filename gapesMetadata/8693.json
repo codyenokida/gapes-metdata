@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8693",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQHmEzsm4fduYjSbWiANUzSdKRcMTGUqATi3etyiT1PDN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

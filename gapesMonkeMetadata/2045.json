@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2045",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZcrabyuFoURYZ2mTv2jxhFowswAcNJToPBdd8WdtwuHT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

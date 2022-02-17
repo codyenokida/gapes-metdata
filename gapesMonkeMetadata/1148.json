@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1148",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW1docKdzEQ1rEPGBFDiSPCjLrvG9PFzJX9LXacMtpPK7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

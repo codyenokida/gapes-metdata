@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9752",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcrzVrGVDTj3fTzjcqJhXezMdbzqg7uQpN37XmAdyZggX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7325",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWXJDbix9GdZJw8Ak2uLq8Mh79EqgXNPvDaC51gW3dNJK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7016",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmThS3jjc7FaRaRHgkqmpaLFLHkCgwaf4YdA5zaThViBzb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

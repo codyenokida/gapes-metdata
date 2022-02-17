@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8873",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeLZ6NzTgbvNewfqwjx4uYJtnAzpo2f8mgy8k4ExH8C8M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

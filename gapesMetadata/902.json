@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #902",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaA6NWCHUqBSQNG9b3Gr7fZ55pExhgxmuUZ2E9azfuLSq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3641",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQouXPGRVMbjN6HN3Lq3E2Jy4X9RTH4Mq77k42kXCJYYn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

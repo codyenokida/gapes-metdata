@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6219",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmemJd9CxnXfRmV7EzDPuZX6wA1N2Bpy1tnJLa2xVLkZ6T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    }
+  ]
+}

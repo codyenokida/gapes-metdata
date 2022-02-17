@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1748",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQPQQ9MSYeg4JHar85o4rmoDu3VwYg85GuC2Yiv7aaqKq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

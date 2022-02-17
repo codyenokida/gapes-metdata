@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6547",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVTK5GyPqgmZJzx99bym9uGc4usQpfGrQtiyacmA6pWzg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Horn"
+    }
+  ]
+}

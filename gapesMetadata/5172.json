@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5172",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeL52xawogRqVPTWQshAU3K5WUtRD4wS22eFfJf71gNQh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5093",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUqEebyZNiZJs4mfnzj4NYT2zbPyqVqGCsioWLg2jVnhR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

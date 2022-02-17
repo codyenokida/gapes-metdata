@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1268",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSri2KEfcXUTDn2k5gS9SEBMT4HVBntiwDxJWbFPwYArT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

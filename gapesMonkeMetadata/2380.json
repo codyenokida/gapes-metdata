@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2380",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUNW7ZZ7SySy1frG2VXr334UkP1TzABxx4D4TzpQhWUn3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

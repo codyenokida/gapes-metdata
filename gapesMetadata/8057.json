@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8057",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY3QqC6CXWrz5CLXicg5jmcQwwUkKUEWsauVUTZBAYgUU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

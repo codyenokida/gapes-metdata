@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2535",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdJmmi9sdWcJcJnVFfzfmDWzKvJGdhSL8zgTGNz55b1gM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

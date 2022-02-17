@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5153",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmScUgQi8w2mymoCtcnKwx9YEVoWi8v9RwbqAFaN1hLRxo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

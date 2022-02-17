@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7368",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaphTXvJeP51CoQ4wfGgDeSusNfBn5ArCm6UFDhDUBbhp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

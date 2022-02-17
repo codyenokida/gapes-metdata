@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7593",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZRYnPhrE42Lk96WCL7MMyCzgeNS4d6tg6ZE5vWQUoVSP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

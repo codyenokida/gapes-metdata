@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #99",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTXHTEwgJ77BKXqQkD6fj5M6nupo8ju71HjhX5gSMrGZJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

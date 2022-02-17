@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8167",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSCYATB5YZh1hHCVtDvUQ3PPqJ242umSk9HxpHcGgbdnM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3068",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYyqdBEVm5AhFAP9B4Ba8JreLVhkHqstrxEuueujUzcJ5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

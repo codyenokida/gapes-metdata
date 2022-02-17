@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5088",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS1iwKJsgQG6qpvQWaW5yTjeEZ9XiTSUsrYbbEjPE6xes",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

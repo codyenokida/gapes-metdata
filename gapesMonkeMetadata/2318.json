@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2318",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPTZKAg2SEkdumCYoo11jcYmapaTwTJp1N4kQoWApHEBa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

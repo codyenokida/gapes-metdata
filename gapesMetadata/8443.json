@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8443",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUrt3ErovN3DBNEkv85bYeZDxbdcVVTaJu8Hmj6ndKoHp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

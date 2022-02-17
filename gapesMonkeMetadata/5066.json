@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5066",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd2DwTEM4byGGreSSDY2c3KqM3xRjuBYVPngnxTeELuYP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

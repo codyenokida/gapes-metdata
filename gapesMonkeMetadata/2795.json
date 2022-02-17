@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2795",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXKqeCdAnmDibe8pMw9H5BBaM9GkyFHchHHcnt2g1Jiuw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

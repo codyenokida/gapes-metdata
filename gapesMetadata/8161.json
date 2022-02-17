@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8161",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfEe6tz965Rpx88xNnbjnauFcYE9Scw8GicKyKw3VXPAs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

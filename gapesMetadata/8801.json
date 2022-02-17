@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8801",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaqdhkySpm7daoDtteudrKkJpquX41eAZ6YPCv87pDZYq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

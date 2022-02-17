@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4638",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWAnbrd4U3usdeeouX9TiPDmyAo1VfyfndkyLFL9fNukV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

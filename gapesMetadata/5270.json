@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5270",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPa9SmhFipEH8TCAcUVhPVJje6JdycsBzhgus2hRpRRQr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

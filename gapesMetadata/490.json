@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #490",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcjcT9qeQFxtk1coqYz8DsA7bCW8J33JYnKmjNL2d1tro",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

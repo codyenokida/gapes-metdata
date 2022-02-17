@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2904",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmez3j7aRHEn9JX66hXS5DaEk8iJQben2RQneNGT8s1baf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

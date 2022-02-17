@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5812",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTQVZbCwhMWJPsdm66DZakch7Qpc9UN2hbK8eYGDWWamU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

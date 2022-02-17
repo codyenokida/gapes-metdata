@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2958",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdN2WyvQHpHMG2ihJswAYWVqHpZUM6QyhW6sdHm2WUX6V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

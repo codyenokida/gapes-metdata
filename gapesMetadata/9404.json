@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9404",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmamKDsUdqFxdQwQa78WsPiw7CgB5AKwz3BYQ1GSUGSHFq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4768",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmantjWaJokFvkXCvd85g2KDw6AuQtpAUutxuk92zwXqb9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #687",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmethvYsc6dnV1inxwnrVNfVYykvfdUj6k3WH5cyq3oe4J",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

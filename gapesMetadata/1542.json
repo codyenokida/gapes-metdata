@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1542",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQT5uQBeBxD6AVPvM4VyXmsNUd4ghHCm5XmTzaof4S33D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

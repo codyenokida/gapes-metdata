@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3268",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbdsZXoKZpj2ivi5tx21Ksf6qp8a1Rgspq5gC5pNqTxuy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

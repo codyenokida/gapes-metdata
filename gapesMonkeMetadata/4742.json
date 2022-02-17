@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4742",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTA8B1J2QL4spSaWRJXAN59hvyMEmXbs73diGvPU3GvuM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

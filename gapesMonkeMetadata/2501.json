@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2501",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTrnMET12FDVEJ1QqdUq5t3aHdSguRGF2eUJDX8Ym7TEW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

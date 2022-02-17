@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3863",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmciNWLkHvAnen71HC89rV5gxmCQxT6wjdzA8wtPBPCW48",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7790",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZFYPHmdS5cFwpnxthroYRnay4N3cmnQ2iKqGpJTYQ3Gi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

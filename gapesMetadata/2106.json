@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2106",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcL37Rjkk2Q2JLyzBLXaj7khSSHz881PD9TpX3Ny5Cge8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2966",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUod6QTQdRSoEe6pioWByLavgUCnPjj3egdJavygsMoSY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #464",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2eUzjPux19opFzYEeqG1pvngbSfpVDtFtDGPZnJBW4T",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6184",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbLqS6tBeERvnXGtqd1MBQqizojyNxRxQsnAzZJCv6vEs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

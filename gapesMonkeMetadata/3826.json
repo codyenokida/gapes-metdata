@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3826",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQdRZ66aMUUkmKNupSuZ1uqPNNDjcGYaQrorHy1itqsN7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

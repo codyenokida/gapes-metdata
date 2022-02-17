@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5086",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaBqBVoCeKupvvJHqkBuRTtBnvKbRstZyGwjRASRq54B2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

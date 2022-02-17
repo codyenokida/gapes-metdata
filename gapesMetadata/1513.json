@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1513",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTYXBDDmiq4zzbbE63pyc6Qpr8wgufZkQa5ic5RX4KrnA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

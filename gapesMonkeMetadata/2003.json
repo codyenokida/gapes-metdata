@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2003",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcnCgvFvTMcgXyTbneMteFYh2MXG6HDyT4gi1ND9rkFPi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

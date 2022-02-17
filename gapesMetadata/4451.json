@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4451",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaKEpn2iyEyx6UdPtMom1nGkZrNDJbYH37aVJ5xftcSmF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

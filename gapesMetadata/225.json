@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #225",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWEo4wyt2FoJaCv5bXmqfeZ7TiVZ9YmVpKGCPPMrL6NDj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

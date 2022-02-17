@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7233",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd52ESze1uVyR7Z8hpjBv4g6twUR6i3LKXVkg8zRaz38u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

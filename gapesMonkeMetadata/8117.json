@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8117",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZwoC2vwZnSmpvZDEaEWkPJkarR2wq25PvtvTTyUiQzkt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

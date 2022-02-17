@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7862",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaK1DdXEjh2gziPwvFD8GLP74nCytPi5tCWbgxWTcYHcU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5181",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcXby1XntjWLdHAWGnaoM9GN8Wr9NSFLTSCx9TZTqi6Mv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

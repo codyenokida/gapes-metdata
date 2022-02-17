@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8954",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUwZojLvgxN5tt2s4BJ9uxgC2yoS8aWnz7X3cYyZp11tx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

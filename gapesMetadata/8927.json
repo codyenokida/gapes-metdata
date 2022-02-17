@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8927",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYZJQtLnmtcGYJ8hcQD8cMGSj88UrezVNnXrsseCpUFp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

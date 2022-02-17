@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #442",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbeye9B6C2uTX7AbZgMeibRwcShUjNL3WWXHMcp5zqd8a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

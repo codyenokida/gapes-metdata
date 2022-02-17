@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5519",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfZe2ct9A78cM7PQ9Fbx6DwXxrk26Bn2wxkk9B7fGKRYW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

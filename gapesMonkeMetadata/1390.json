@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1390",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYoUQ6xrpxtx1Uuq24TNecaQE8be5cQFECRxodhebidLy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

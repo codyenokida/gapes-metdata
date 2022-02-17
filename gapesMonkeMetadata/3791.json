@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3791",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbecg6CDtKFGAJF6nVwczbX1jUKBRypuZvWJVspBQjoF2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

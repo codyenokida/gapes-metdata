@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3062",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRt4cyPDKifohYgfw16riRLwsgjTN5S7uBrFxL6nuP3s4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

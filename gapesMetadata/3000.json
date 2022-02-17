@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3000",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSjARYyMCekXpgaocC2CKxbhVFhc3XPZUGCKsPBh493Sz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2295",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWoQ8di6YrQXzf83DJKkt4mwFhpi3CA1kA6wF4ZNnUuau",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

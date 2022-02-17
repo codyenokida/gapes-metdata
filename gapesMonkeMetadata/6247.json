@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6247",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf6ooWpriKjqXH4UCnh1Mh4CEAMcvXRW6RghAAMrzy7xv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

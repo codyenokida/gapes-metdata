@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9031",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRYvYDwN91GvoQbNFZ1yTk9n7rWu4FNTWdkU1igdFPYgc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

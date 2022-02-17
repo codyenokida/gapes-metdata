@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2424",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXYqELtEhe4xcxyorajUaUN4Wm1LmfLKhfvkQvtww76Vr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Voggles"
+    }
+  ]
+}

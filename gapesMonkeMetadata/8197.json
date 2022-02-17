@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8197",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcYVHFCU8M4Mc41vQYDpxb6LvMQUBMkLFpad4cAo5H4ci",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

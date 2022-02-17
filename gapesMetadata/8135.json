@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8135",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdLZv84gq9jLPTzUBSwwGiWYgP6WPWLA1D2cDk424hBmt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

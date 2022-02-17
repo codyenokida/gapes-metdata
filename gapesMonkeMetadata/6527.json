@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6527",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXph6jE43oFG1RZp1nuK86dJp2pPbswKetwoxYCfGZS8P",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

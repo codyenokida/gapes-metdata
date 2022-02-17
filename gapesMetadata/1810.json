@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1810",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUg8VM2rgQwyvmfKRyM7E7Kuct8m4KyrSd7mUqSRcmZ8k",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2598",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXKXdAgYLSQ4EWZnrhaTBK4B6hnRamwY1WeG6hFRkZzwb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

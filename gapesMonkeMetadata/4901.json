@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4901",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfZMafsCKJG54X7DrWrtnBQAYb3fNBmbr4744CTHHzCcX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

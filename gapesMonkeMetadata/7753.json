@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7753",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdv3qCKGq35eqi1E3Kec6tEtq91PjA2S4yjDwhuqTHKkP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

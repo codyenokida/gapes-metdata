@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8467",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSgpkRovwLW7A4J9ExBZPnV55s3GuCibcaiAfV1D7tLXN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

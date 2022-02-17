@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2694",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVomGUVZPm54FaYvwxrRRBnHNkrfnrY4tyPN7fnocrAEW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

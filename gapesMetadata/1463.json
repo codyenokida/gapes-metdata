@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1463",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdBwGgynxaymDRZCtpc5i3YtrrLtA9R9VhH9d5XWQqmfH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

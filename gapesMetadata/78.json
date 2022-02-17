@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #78",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWKt736ng5wc9uPvcvpjQE2dadDnXoRGbj747S7NDEuWV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

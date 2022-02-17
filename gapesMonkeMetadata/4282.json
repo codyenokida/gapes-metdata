@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4282",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSEh4qu4VfaBuLGp9ER2x5YVSpBmfNDqsSmm17FhWCmXv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

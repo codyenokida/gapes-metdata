@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2188",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNz2USeEd3s3ubRL8jSZzo3fNee8Dgbyk1JCfr8DTbZzd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2258",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYMFHoy1caRcEDyZkSciP4GZHXGq7kAAwKNqkBtDd9a5R",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

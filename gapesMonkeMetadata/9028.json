@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9028",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf85hcB4xKZvj39kYjXH5QrDTaLfjXBzHsREBDwHp6q9q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7135",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNzrwRx6uJmrrWs9F6GfghfemDfT9cH9T6SUSvXH4HZVR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

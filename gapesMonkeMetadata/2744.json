@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2744",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRC3RWd4LfySMgS3TJRA3oGQdoF1XhShiWpbzy5QKRUvm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

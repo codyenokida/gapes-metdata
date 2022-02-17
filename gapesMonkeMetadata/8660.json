@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8660",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdDrr7BVsyXKHrMcEPNen2saAXqR622Kw3Epb4Y2JVCQd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

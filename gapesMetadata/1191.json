@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1191",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmadTfyM3uoo27kfgD9hJ5QQqgM6p98rZU4DZbAxFyCwb1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

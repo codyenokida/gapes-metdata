@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #9138",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRCsYPdzUK8MjWZk2t9MHVn4AMDetUmjtFgPdkhF3HxwR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

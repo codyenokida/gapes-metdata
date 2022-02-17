@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8321",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdUCvbMNfrtMschLv211CYikQLXbsQKvyxR9VYHYmvrRj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

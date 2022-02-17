@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8543",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZQuMspyW2jsxEMQw7gB7xyK14WnCUosyeccNNvscoeEv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

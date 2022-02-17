@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2010",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTjiMjzuFmrmY6yrx3MhEwpWRKRqk5XfNg5KCz51Pfi91",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Crown"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8936",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb1Gw55Sgb5kSxoVknyKa4rSYHw48XzYfjbKZjYgaACr6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

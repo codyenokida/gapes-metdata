@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5965",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQxeJ6F2CeKJMXY1msjYbUjkxK72rcLmbAsa1dRGZkTRW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

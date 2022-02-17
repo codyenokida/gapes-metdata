@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7175",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUKjj6Gjbg9X16ntsupT9NrXZoxUHACLkg3QtjkaRJ4sY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

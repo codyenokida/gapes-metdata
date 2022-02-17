@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5987",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT4KBCcfwAa6PKKgQQZNFVnrw5D3naLwb4LpsMwanRz1N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2747",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaWPhabfPRXsQzxHf47FJf55T2BFdPFnmSehRAQHguKPh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

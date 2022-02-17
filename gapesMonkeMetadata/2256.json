@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2256",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNLsQDNnvAMWQ62hK9oja57Dj6HsiTGsD8DRn4r5FkfY5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

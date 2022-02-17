@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7035",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPuVM453EcgswTRfDx819DwBvjPgSMj4iEeEFPpM1KHoT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

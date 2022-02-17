@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2450",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZh9eie4bgTV6mdiLL6XjiLb71c2NhKokVGySKDURsrg8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7772",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTB7ctQgR7ex14Qi7v51y5ZrapagbZonGp94TWYZX4TGp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4597",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaQgbtNzEWBQK6KWFy5sRi6PfJqWmbW1VKYRkyfF2HjVR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

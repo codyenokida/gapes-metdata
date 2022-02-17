@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7728",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP94L2Wm8zqJnS2DEXK6HK64nvHHE5T2U43TXY4pR3nCo",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

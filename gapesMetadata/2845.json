@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2845",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmawj2i9XiZVQ29UvhMF8w36FYx7q2LVfRzH9yN5HQuRGC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

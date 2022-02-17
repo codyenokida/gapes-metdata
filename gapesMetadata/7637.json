@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7637",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ6D3micPZ9wou7vcchQ9gefE86wbBnDDjqjy7bSMVvHB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Four"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP2LHH3twaNur3AaFMjWuHEMGUJvdifHVEz6N9rJWa7Y3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

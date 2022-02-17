@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2865",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb5nAc8cx6ZY43T1JcSRWCxwnHbNBp6PKsiuWjpG3ik1M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

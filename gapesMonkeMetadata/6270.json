@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6270",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTzEqgLcPwpSFb18qNDTMyv5D9PC2CAtjyD6JaQa1XkWD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

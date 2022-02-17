@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6385",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUpz3ckvcu13Ag4R59qrfkJZtQ1ieHXx8ECSoA2Hj7dda",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2551",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPatCt7KJabXSCdSp4NyX2S1zYqdBwVDVmgKphsGCHBxd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

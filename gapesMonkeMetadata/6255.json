@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6255",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPEpvoEw75BNsT44X4omGCdVagBqEFAB66pUiBLRHHTCt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

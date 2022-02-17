@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2232",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTTJKjfvx4yi5BtwssuM4oirN2gDecjU8nfh6X5wszK4Z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

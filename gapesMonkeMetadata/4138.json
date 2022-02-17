@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4138",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd1mmy86XDD6AmTiiRkJpigZeU37zRVXNXQmktAH1xpeU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

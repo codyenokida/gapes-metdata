@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8147",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTgV6ccf97EDCa76orXWtQfm9ZQYUqZYNDdtoM9yixkC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

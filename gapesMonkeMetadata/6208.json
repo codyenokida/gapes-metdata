@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6208",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeKJNaR9z5F3h23tDQQPWnw9Lypesom6JGJ75yqt19a1b",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

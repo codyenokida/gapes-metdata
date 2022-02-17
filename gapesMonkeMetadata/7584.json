@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7584",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNqkmrxARNEmNiEriy1r1UVi9AkiNw3P6X2UpzZGNe15M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

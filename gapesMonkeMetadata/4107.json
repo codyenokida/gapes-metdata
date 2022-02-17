@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4107",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma6ZksEykd39NhNJZVFZ4DaFgLPzQSTCxCKduLn6nd88r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

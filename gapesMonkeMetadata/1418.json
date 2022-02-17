@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1418",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNgGaLpvJhcbLQSmbHcWZp4CW2vBpUTdv1LjDatNk3o5R",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Degen"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

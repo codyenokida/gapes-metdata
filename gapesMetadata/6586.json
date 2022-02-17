@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6586",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS31fYMqSV6GVqG8PyB81W7gBVEt7GsMs8B4EL4w5Edvx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

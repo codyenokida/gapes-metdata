@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX7SKg1NKAMhUZb92xRbv4KDwKHAzpnSwUSusxAPi8yEK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5300",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT7kAZBTFusgQt6DFrACrLs16f3XF4m9n6qf7q5eVoK8m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

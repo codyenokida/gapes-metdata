@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5334",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUMDK4yWacoG4aJSveUCnRaG9SR3o6tfpkx1TBF32dVzB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

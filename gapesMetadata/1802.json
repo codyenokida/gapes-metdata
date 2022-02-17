@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1802",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmemAAQpGqKKqDrBAY2JYECk7wJFVZsXEv7N1T5Rr4hmdV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

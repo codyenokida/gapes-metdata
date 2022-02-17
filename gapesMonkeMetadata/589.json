@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #589",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNTMgfW83G2qpEk3pB2BxW2EmgNpGeDjGH51uFGiJVyVu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

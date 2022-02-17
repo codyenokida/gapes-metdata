@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2614",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNdC1GThnJvDADASZcHenC3XZ71zEuAoVJJcR7dEf5Ea4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    }
+  ]
+}

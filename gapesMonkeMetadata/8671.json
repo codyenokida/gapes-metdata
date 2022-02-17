@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8671",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSbfZ561eGZYvL71XbYHmrUgqwkw1EPtoHn11YMubRzuP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

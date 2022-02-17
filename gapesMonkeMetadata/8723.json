@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8723",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZjY3YnRuR9YRxqLJRPzqo1B6AcCKbRvaRtPzwHkMM4Gd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

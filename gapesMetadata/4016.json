@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4016",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUPYXyeqLzJzuZwkfDDMhUNuDs9BjTokgPVNBEobfnFVr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    }
+  ]
+}

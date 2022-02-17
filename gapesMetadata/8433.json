@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8433",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYj5eZHPRG5Q8nBGUJqwyfTZwdeD3SYyBSokn1bfqQpay",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8897",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPBJyBmRQJ3yHQ3rKWuKfhT6SWnZm3mVZrT89q8WLPrM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    }
+  ]
+}

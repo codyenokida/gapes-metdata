@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3809",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRqFFR9J7B5RCpUvD7M5TBPhX25uqVgsfGwi7e6p4Nsa8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

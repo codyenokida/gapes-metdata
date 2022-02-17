@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3845",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQrxgb9H9J62VneB4hkrRNCD4qCBV1nTCAoWzA4jhc6bz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

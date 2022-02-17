@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7374",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYNV8DHKzCkcAYXu7nuJgVXjnMAJ9P6XYbv2jmH2TSYqt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

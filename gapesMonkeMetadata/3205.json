@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYP7FaVGe8Xt1MDjTvfRhXb6Ke8dyLq6Gfr9xBxGhM2u5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

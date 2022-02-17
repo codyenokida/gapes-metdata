@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6034",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSvTHXdbvwpWUFrSsV6cVAENxPtH6QFcxJA4uo1UZ1tU6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

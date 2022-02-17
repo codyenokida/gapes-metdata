@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8176",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeReUKJtDcxper3YeLzBJyHsmoZMnV62vyZ4wtFuUKaod",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

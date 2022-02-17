@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7207",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPZeTCC2LBdGSCZPJW5TZVjrMU1FdxVFs79uWv6q3wgu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

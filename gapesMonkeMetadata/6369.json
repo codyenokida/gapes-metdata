@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6369",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZGkcus3shUuMYx2nMoJbaUszMnhuoRYYzyEXDHsFCobg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

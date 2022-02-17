@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3545",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWpLpLDPGvsRq373HY9ctaR9ufKrm3bVZTQtkNNQw46AN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

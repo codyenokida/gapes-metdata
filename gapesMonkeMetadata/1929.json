@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1929",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNdBTWKaAJm8yomTSBjsCeLUvpjyAEPTTNBdYzv1y8J2j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4881",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPBoX4NSWHgfCL1TP34DhoGUpKyh1U3VB3kqdNvpZBiue",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

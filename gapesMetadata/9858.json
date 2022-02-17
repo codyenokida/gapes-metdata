@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9858",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVjEr2GP9f3yPfHuiNb8FRTX2do8NyEMsPmJZaWXupmvR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

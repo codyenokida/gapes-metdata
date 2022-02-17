@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1073",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcWSQKuiFjCrNnMKKZUgun5A8qNqPRwk8hx4fms5VithX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

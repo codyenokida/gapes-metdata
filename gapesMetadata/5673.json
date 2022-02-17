@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5673",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbKzwsSxA9XgnbwhTLxigVYtd9iWkyrRswueq1wgBFHka",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

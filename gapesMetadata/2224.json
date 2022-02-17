@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2224",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWCgJR8tPudZJQETbuBtbJFbQimR1kc7oeuKxfRLQNJZz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

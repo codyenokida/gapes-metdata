@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1998",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTmAaNEXWU9RLcqgJr6vFByFPMBFhM8LaNUrkwh48EUsq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

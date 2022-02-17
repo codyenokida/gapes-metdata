@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6598",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNsGQXGRE2RW8WDrC96T4s6Byw9KbcB7NWb7HjcU2qVjX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

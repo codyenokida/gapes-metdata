@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8958",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRMGt7FhjTQUYQGjndrGUxGG5vUhKEKfQvM13cPRaRv4u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

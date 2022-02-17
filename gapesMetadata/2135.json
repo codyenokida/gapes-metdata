@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2135",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPcjvqRfcM8Ye6wx75cqSrkXErzNbLgjvPw3eFzmvGCzm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

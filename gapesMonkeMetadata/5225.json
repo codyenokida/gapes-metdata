@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5225",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVfxKawGoAReUCiDtDG9RL2TpMrikW9Fb54Em2zH3L25E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

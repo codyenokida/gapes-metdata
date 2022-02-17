@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #992",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPq5wRyX5JdL8yi4qXS9V8KbP7Rkag3EMvUbg5bifkne",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

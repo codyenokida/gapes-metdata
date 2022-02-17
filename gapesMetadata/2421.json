@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY2VrbjCXbwF2VpyJE4RGdBaVkiYL2eaEJNLF8H1W5D7g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

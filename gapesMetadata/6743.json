@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6743",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVjo6dk8teQX49W4cF8u6gNXWADyXjir5oVev62AeDSEN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

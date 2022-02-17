@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1568",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUNCdwSEs1mbz6nKGDyz4KgR5ByEM4c6uzrxqAsqkPutE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

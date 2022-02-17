@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8759",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdZ6gzzz4DF59ckVkdHjZerwCVSL75nJTNQ6n6gNkKxtv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

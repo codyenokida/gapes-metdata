@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2000",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfN8CmJdR7BwYMzAkM8mSXXGXr9KcYteAKja6aev9zZgp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

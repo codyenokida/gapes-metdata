@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8105",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbaNy4xnnUVKTxdsGncfjx9C4PwzBPhNCcXzK9WznFJkW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6399",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZAtMQGZzs6RyZEqbJTBhwJUupyKKa8pXGfoePQXr9KRN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4284",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPKRLfAvwhNKsn1b45m8DShDZZUCKFNueJpgRk9VBZtuw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

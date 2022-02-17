@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7389",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma811NUygscWwmWLck2S1N2MUiEscNWaenXqWAbytr6MK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

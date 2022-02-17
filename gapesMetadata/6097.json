@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6097",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX2NKWmkgZ4MY8GrU5Awnc6oz2DBdjU3cC4ym6whtjQy8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    }
+  ]
+}

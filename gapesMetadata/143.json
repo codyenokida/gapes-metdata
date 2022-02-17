@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbmoCLRCRJti9gBVoyptGwotx38vECLCPnzrEPNCBayH4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

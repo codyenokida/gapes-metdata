@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8310",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVYb3CX3vuYSvKohL2ms3bJuupQVUgYAuwXFQdrA3wBoN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    }
+  ]
+}

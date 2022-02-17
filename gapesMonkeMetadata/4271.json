@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4271",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbYM675ESBwECtGjzFN5vwvMR5asGHkGGn8VpHP1dQ57k",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

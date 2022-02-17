@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5203",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmch3i7xNqzF9oTBz3UUCuSTAv7cWbRWjbzJuHnhw6tTWk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Space Geographer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

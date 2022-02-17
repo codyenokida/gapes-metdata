@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4433",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qma8i3aQGHz3qdLB3BN9jGx7RjVRDp7YEkBbhpaXoN7X1E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

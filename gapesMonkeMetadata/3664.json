@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3664",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaTuSB7LXmyxFYUqsWxMqvr3TRLmKnWJnaJKA8ybgU2b8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4115",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmejjA8fW1c8QvCzr13ZucbrrB8knp89dsqJU4xobQYncT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

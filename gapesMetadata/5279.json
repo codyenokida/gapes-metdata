@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5279",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmas2jVa5zh7xyxSzFpxf2eA47KwUKxFNbJtqJ9hWARdz7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

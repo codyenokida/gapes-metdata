@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8476",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeYFmzzqfGfn9FMFCtpvVyTTYqjbAE7zX3QtM5CqmQ8nj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3861",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaTxhsYh3RLcervUW8HuaNVPUVb8qGhZfwuRzRXKzvq6J",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    }
+  ]
+}

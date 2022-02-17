@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2522",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmURm5LuzcysEGjS1BqzXEGihGxhuPmdnKAABPdFMxYRuy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

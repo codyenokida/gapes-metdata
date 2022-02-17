@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7897",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRn7Af5AK9kzZS9Kq8mBoqQXAfEFe8fiaCFfewpLefyKY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

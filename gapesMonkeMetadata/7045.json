@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7045",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY18Lthx7bJ49AbafHiXwEW5PD6ET8D6geiUTUyHSJ7wt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

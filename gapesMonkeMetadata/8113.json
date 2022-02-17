@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8113",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmd6u26hSRUekq2mYRAL29p4Gokm9DqjcUgDk156q5X2XL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

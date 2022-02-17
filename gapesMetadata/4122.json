@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4122",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZD8uzcRsSYBwpEa9CvY8qbZ9cR6RHnuUsMDJ6ZYfcdxd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    }
+  ]
+}

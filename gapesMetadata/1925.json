@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1925",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmanTeNw9wWQad8LT6kq3hVMbFUmhQYogkjXAHgHHSnD1S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Metal"
+    }
+  ]
+}

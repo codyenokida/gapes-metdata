@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2013",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbLFbFzunZ1963h3Vj3JAqp5dUguHyXsBhMUBtQyJBiPS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

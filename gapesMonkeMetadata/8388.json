@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8388",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNUYqQC36j5fvBAxZcyzTvhE8WGmuhYAQJbnqSyyqzhzJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

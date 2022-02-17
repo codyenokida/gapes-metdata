@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7143",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU5xjFcTuP4MTLL9WQbPq249hiVozgwtRW7muFReB8GqW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

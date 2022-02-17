@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQAbvvkMypZsK82CK9fZMG6ckqCD29YxDP6bXd9sZYtEy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

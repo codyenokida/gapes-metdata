@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7176",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZJ3gZ1MTy3u6aBedq9UzjCwVNHxkhMCYWuocxz6R7FXg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

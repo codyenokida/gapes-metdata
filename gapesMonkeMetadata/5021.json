@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5021",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQbDj5dFKDRpr7M7zS4bKBsnUoUaYJs9qeF9QGzLPmHw4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

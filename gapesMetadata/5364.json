@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5364",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmb3k8xUgC5rkyCKUUa7pMC7iATWHQjXWp312jMZyTbh64",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

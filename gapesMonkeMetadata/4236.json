@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4236",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNvnEdcHQ1G6AN4XACySC9upVM2pyxJqngkokpCudHhwT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

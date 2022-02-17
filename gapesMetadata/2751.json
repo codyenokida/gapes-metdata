@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2751",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaV2UzegRXNi4Y8HNBy44sqPoKJKeWWBsjpEPwRGhD8MA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #220",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP7yN9ptozzCS9iibTXGJPM75CqUh1VE7GxeC9v5dAabe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

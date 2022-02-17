@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7428",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXM2i9APUa9KMe3fLRVaSAKbNLhbRLr6jJEBopXAp26Vb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1522",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRdqZ5hDThAvYMCpg64VFJ7aUL1LqpHBZhGUkq5mbwL3q",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

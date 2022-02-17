@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7608",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR4HC8GKGUb3kfkkCvDAR2WWxdUtbvq6wMGCzKBCDvufN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5170",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmamNj3xMMeMV7j7XBe5Fp2WbBwMoC5jQMtbSTz9sUf7pd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

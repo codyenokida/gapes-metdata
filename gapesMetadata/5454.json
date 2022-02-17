@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5454",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUQSzQPGgNsMz9aHhMWiqGJmo4RgkjNsQCcMPzMn2RGjn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

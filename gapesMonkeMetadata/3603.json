@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3603",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmThQqrcK1gCkLnD95oyn7BRkDA2U8mDx3h5EfoK5BYRzY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

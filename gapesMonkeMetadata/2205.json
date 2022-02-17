@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfCWyoEdeZsdVVjcQ61rr2AS1qnBSvyuKSU4Ra8DwmkMX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ninja Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Scanner"
+    }
+  ]
+}

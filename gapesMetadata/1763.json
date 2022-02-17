@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1763",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeABwSHGUzTCiGzBjrmcrE7ajZk73DnT5c2CEkfyjXgc4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "LED Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

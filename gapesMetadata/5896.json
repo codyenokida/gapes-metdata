@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5896",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfVxxh3Yybmi5PSwBXnneSJPuLQcM3GamqSvDEDwCwTDp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

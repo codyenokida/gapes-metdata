@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2185",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQVyf9wqNTyq3uwwRSqbwkqPfHvpA4gEx9K139YeLGjKZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

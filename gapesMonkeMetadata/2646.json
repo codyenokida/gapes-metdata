@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2646",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNvRzJ1u4QovcPs3eBR72CuZU2cu9Buz48aH1zC3DPmtq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

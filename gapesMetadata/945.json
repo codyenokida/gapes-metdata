@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #945",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWkNqfsK3RZWGPxzKR4hDnTh2Rn7GdL99czcpQh1S2xJ7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

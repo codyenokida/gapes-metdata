@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7036",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQN88vZDD3i9FCAdXBKqm7WckkQQ6bENeWfQGUpH678hY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

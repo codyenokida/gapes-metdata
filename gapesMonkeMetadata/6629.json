@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6629",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUpsgUK8pqH7YoyHtuHJgvssmNWFHDbPWkHAvZi6ufsQE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lilu"
+    }
+  ]
+}

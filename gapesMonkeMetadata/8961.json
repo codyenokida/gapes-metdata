@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8961",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPDw5xzwh7b8tepE5dZhJVEdThLLHchZ2Ynu9iDtfqd3y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

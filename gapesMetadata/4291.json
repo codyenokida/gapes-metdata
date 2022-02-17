@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4291",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYf27Z1cEopSKayDRMvHwYTHrixEfR31hHm4K5yxw1PGi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

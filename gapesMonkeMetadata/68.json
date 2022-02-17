@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #68",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZK5vBfvrDRTdjfKJ34E1F1GW32wU49iLxjy8y4vF2TB1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Matrix"
+    }
+  ]
+}

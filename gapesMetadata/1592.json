@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1592",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaCNcKGtXkpgU62yxtPxiv8HmDB82sHkKqUPAUB8CE5JV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

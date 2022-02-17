@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2694",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5Wo9g4R4yqe3SXVQnLJ6hDPWiUtruNN3aZjdJQPBDZz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

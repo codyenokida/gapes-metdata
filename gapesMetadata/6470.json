@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPXSmQdoyCrGgzexPmJvcoGuvkpupwxDNvY9JqBwCRBSS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

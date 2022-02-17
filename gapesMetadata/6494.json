@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6494",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmasjFujojW8uqB4eL8mwrAbWfRiaMA5HEdn56x4ZMWutV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

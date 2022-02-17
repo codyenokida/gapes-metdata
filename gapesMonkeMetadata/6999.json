@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6999",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbUVETNh2ivApQJHQG5pbrYJbhSrNF3FEUxXrqnqxzDLn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

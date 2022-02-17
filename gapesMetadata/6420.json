@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6420",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSD9yhvuL7iDZ1QFFPDDDFrHdA8g22srUuBDaCyybcYR7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Tribal"
+    }
+  ]
+}

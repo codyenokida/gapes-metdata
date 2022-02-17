@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1914",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVo1tVT9Jmubg4PKFx3jiN7f7k9m8LJ8qrVc1uXM9vg5r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

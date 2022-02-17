@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2338",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdpFUpWzoeMLiyv8wB7CX4NJU8f679c1STrXKrFZQbJrf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

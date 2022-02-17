@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #701",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeqQp3Wo1ydCJVcvbPxpJB1rnsbT8fg3TA2v5yY3SbwR7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4089",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaxqKZW8Gck6N9EBh6KnDp1ZAaktLziGZW9VaJDzAC8vT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

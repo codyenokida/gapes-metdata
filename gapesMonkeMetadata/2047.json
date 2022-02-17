@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2047",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfZu6hbGaRV85ND41PKp79hJUb6RJruj4whrKnBcJdf3C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

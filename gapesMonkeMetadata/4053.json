@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4053",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUMLKLhvpzZFDxvbw1HvF1xaW13MjCkbFhziVqDN9maFC",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

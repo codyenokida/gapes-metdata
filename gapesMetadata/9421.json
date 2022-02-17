@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9421",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS6oY13VhkrUBNbwVXkpa84tetHYg8HDpHNLVopb7hRX8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

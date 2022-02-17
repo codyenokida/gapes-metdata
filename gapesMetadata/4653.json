@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4653",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdeuo346HDbeg4ank7Xuy8EiPouf2EYtXc7jNNzaD9S8o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Terraform"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

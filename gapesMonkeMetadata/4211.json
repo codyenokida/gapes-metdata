@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4211",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme9XJz7jinv8aFp7YmgEiXzX6E34MaeY72ftyQcTVGE7v",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

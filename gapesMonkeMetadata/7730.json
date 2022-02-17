@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7730",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWoN84uceF881VJbs5zjTNSyJtz2JnpbZLkebApbUcNBP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

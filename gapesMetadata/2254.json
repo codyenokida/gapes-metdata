@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2254",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQjbaD8bdd8LdmRk8AcvuVTbmQBExCVXPgFGLNU1zTX63",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

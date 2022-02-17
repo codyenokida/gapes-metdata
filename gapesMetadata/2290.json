@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2290",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmbtqke3P7iGvZC3s5RVK5LLgzWUkH1YZs2yAqbtLnuqg7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Ops"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7736",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmawmCaotfP4UStpQhjncf7MnYp4uBAWDFAemcw9LqPAQE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

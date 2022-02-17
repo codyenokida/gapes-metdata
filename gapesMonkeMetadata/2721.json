@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2721",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcbBC7XgKuKySVKELyanYmbUYp6ABs3PjaTSwAmK6PHEU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5252",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXBx73kG7Rr2cwjvA222qhVAbbmeKKQ44uvGgeWMuDCv6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

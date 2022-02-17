@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #352",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVy6atMeoKxXCDmaHYACXitrP5GFqL6fJ6oAh5JsXjpdk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

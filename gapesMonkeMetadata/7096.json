@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7096",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ7pbsMqtJvCbuz5tfWBZXi6jxq4TH3xtDHERXswidGhp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

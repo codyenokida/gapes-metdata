@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4005",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmashg3z4BMFSpkMBAyDdcva4AxWMBY7mqhXyJhYs5cznk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

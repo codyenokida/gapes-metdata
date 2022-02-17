@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3955",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXP3gDDQxphzNWr2wqWHsEFBgy3zGEg2DgXoBCS2i2Gec",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

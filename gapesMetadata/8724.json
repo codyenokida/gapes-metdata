@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8724",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVNv8Ut6ZJ2Q2uGZB8jFKujcDxo4B18Swgc4xkz8ZetUy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

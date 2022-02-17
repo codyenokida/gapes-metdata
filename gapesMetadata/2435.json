@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2435",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYdL7P3JZyE54BzN2eWNLd77RFkviijJ41Bbhm4fdjyYF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

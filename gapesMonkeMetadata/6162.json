@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6162",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWvqsGAtUvDzf8UxtBza6ybb6epvsBDZnjhdgzSAZucA8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

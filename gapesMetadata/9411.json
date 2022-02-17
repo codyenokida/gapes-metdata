@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9411",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVqNKD59jLTy5VZCWRGtTAp5yCQ2TKc8YPisS5y5PS9sw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Rainbow VR"
+    }
+  ]
+}

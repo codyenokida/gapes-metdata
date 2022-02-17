@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1419",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVijtGuYGgnMvvzzaikMYJm3fksyUAZSr5p8qP2TVc1ug",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

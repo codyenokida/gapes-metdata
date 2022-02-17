@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1297",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRHwVc88puC9axBka7omZxczNso1WGGqJq1DNybUGtZgq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Signal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

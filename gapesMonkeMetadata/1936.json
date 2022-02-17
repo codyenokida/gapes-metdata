@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1936",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcQbr3W4dXSWqAFAG6WokMSw5T5RGTA5kPqEQ55n1nHuR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5507",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQBHkkXbnAdZAKrSkzVMHV2Z9rkBdo7Lkc4v4JkNeKv17",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

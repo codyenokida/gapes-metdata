@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #189",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPLf8To7aDu43HKzkmra5o3o6FQnQYoMeRmWsLUX2Yzya",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

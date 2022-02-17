@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #843",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWnRtLstS1XHzy7u8YcSs5AdbDUuckUP7qqxvEzoNvjEn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

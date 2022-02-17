@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1093",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUchSC5AKGd7uC8Bny2qq5z4V9TP39MK7BiCtt2zG8tbK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    }
+  ]
+}

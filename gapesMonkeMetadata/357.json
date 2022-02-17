@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #357",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfU9nED7qqL25K5GLuYzvbSdBGNCUoNTXQe34SpMEoaUi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

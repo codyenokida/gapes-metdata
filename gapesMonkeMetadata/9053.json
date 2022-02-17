@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9053",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmePCWxnUwyobnnaqXWbyecB1WJQ5eMmMXFBfaDkWt6wjM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

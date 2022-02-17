@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #750",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPZpDoJ3Avt9Gx6dAy9GxuiYiybLAtrGgbjntaj5K1RRT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "T-Rex"
+    }
+  ]
+}

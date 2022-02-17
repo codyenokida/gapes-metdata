@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #4935",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5xDZxnyKwx1TRZw1zVv6qdAKAevMJ28gncJJn4mH5Qu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

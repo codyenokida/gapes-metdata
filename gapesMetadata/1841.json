@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1841",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfP6iUvbe2tfVRbau629pbq8dHHJSdVQEs8oxVzf5DZtz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

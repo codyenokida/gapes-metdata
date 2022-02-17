@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3505",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcrWP5BPVhEhrQYGP4q6iXsniCD1uHMp532G2FJnqaAvA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Emergency VR"
+    }
+  ]
+}

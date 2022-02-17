@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3079",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVwmZphTqxzUerxBLtPZhaVubQKk3DcmWr8U8JEWoAVJ7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

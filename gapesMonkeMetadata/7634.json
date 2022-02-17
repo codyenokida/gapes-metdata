@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7634",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNrdmRvj5cxjYNsL9Xc4PZza9sQxiGrAKTRzQtKNMQNFY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

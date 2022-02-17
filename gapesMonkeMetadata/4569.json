@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4569",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcHoo8t7ag2FLezrdjVU4Trj7iE8yxz27jEbvefDzQ7V5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

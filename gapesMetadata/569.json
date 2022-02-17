@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #569",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmawHDHbkUCZy8o9v1N7TzheEpdj4nQcz5uLvCqatR39RQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

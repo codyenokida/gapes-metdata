@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8657",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRBd1HppwzkFv2LfPpBpPPzWMQkaZfAeaNVzJY1u6s1qu",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

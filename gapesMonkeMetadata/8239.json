@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8239",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmac64ybbpmjBD3rXyKNqgfZiwTKkgLj7VUsUx8GJ9yZcr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

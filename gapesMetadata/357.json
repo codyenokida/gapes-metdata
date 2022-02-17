@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #357",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNxB5KF4jvUFaWEyrwH6JMcyHewWP63cLpNagwy1aqpHD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "God Horns"
+    }
+  ]
+}

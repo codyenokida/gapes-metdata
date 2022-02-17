@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3455",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcq7TRzsGAyzXPs6cYXmN56iJ8zVfyFEXgCP2S95RTJSf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1179",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmea8AzpRnX4C6eXfs4max15xraHT2UFA4SqiHHXEwBoqM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

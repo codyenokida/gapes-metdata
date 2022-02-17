@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3886",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPs7fWUi8iFUMcJMSkZ8eZwkotkJoTq5KBrrHBNeBTiPj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

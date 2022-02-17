@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #975",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdxXRQ2FgkM8PuiDdeLXgFyQu4eYJZioK5XmPxpz58Fdw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gedi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "War Paint"
+    }
+  ]
+}

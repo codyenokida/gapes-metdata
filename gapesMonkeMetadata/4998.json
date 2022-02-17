@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4998",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme2Ja2mK89p5tTE6b2s5hqveiRgC9z2KcLVLvACtG1YEs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4291",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXxAY6JgDB2wUz4jXtaEiB8tJPTDK8zbiddEkT4Twt1RG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

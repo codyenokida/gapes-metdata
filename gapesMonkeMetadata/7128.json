@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7128",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmReF9iTmX717wVqFaJpurP11Lu9uChQtufMj9eNxEAw36",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

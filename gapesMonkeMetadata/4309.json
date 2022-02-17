@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4309",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT7vyAJDHUJ81ydDqhpFKZZD446JgBVhSw4519Fumxtgm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

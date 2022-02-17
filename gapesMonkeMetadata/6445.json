@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6445",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPYjc7raQ4AG6rU6EZWiygCfWUWv6Mpwniuk1YpjC6eu7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

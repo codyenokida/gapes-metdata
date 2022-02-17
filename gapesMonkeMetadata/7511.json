@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7511",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbzwosgM5f9q5teSiNndJeRi6XogGitdYQE4SSdpg4hT5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

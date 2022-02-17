@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3206",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaprqnuRRCXuRv9X7P9WMqRra9RRZaCNy22Af2CBo7j2d",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thorns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

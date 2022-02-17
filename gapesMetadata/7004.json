@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYnMxd4LUc9CwCfZyLiVB4ABa1TgyDnKjvZRsJrfRBcjG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

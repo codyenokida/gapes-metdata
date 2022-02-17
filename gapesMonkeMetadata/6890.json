@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6890",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbaWaFSPvsngWfH1R8PJvPxA2TfsvSxhfiUpwhikA4f4f",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

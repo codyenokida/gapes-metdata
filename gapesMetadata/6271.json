@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6271",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS3aBba5vkBpGnXszw7ji3BHvSfnwxQYBZDRN2rnDkSM4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    }
+  ]
+}

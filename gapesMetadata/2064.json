@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2064",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZxGqSf73F421aa8fjV8fVzViL2n9QAPwWVAuRvoRt7DE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scout"
+    }
+  ]
+}

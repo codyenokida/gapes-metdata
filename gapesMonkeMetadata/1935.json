@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1935",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSoGirNhMP3o8c4CAafD3PZb7xRKwCeK8CBSHhqSWAVJR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

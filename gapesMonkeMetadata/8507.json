@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8507",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbaF9VcvMZWeJJgsKfanYPu4ZJDqyh2fK6u5TCHQ1Jio4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

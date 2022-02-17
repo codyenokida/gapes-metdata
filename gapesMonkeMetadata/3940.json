@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3940",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf46oKryRhE5aGxvg5AzBPtg2QxXWngb1be4nqQPfPaQG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

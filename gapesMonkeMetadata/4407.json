@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4407",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP8raZzoBpPoa7j1Z3RV9RFua1hEfhkCjhvcRor8quzUD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

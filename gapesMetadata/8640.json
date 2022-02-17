@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8640",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYw7YwGTKRAjQkMp6Wz4wfdvJdKEfZCVJPH72DoAuvFqE",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6137",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPnzLsvxiymNcZ6tzmrLyeMoo5ZwwXELUTuZUfP28TH1A",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

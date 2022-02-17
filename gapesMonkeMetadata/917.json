@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #917",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNNMd432KiZR763Swm6LSA5QXEsyZxjrfnybhg1ZweYjp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

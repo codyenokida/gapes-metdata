@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #536",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV2KLCxJFKmsG3WGZsHhPUBhuGHqhzYTDGL9KZguNjZ3B",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

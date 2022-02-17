@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8265",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNyKpkPNK5Hwo1PNEUiro6dJE2FuC2K89cwkpsPxW3FuS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

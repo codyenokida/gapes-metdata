@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1586",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmaq2hVmSUrnpbvyxGVrC3VcggkwfsGy9hKtwMAHkwcPcp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

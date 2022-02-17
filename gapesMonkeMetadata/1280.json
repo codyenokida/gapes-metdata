@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1280",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSXtvkLgNqJGWSNWsvzZVGPYu15RXD5emiAYTLBkhn1Ba",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bert"
+    }
+  ]
+}

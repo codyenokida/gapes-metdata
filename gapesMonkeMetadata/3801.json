@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3801",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRF7z4owBdL44snP84iCs1uhFDF1p3xXqDUj4auhUSZFx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

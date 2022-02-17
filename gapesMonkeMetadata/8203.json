@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8203",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZPgbHse5CvyFDcvQ2oV9Bn2AcPQa4eF4XPwbcmZmJ9Pz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgie"
+    }
+  ]
+}

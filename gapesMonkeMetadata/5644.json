@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5644",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS6eZzw9kx1CAiSftRBMvjLDyUgCuMsks4XYYVuz2gDbB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5565",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTQUfTM9pP4TWpgLVnb1dMQfw7Gx3BzPqHM9ownATkZ8N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

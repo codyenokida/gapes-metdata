@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3618",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUSuEhVfAHj1zAj3GxCFKyPCBc2kioqsHtrrazKpsNYVQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5664",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmThZvZiLimFAbRKVEZi1gE72SRhUPzpFv8gtDsmddfb1p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

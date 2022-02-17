@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4631",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbmZp5AtCQ7GN7FiCeiGjvnWCX2aGYCat7EVu7PxpxftS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

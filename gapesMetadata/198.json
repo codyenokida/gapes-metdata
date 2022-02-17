@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #198",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmezcQRuCYe3tW4oSMMH7H7HETJo4hHNSFpi9g5dtz2UPQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    }
+  ]
+}

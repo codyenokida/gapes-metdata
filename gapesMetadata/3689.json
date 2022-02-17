@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3689",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmReNCKTN9bEZzrtGNofLsLxh7ihMvqchFbKZ9ShJJsSE9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spikes"
+    }
+  ]
+}

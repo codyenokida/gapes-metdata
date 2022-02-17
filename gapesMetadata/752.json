@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #752",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRpmMUSRpJW4MRi5Be5c7iWCpk4gGawWjvsSn37v6rhaY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    }
+  ]
+}

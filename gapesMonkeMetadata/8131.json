@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8131",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRhkVX44gA1Wv3tuWi7wNGSXD8evwqLArVpBFi1TXw9QP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

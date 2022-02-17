@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #684",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW1C2mgySXQFyNeAEtGeVPeminjxSekTmzcC9qnPz7hKw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

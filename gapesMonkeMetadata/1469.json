@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1469",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSEmcnQc2ExQdbKH5s5wuXqD6uec3ffEA2x6n4kBBefN4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

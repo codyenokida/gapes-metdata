@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8570",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcNrU885ujYAcJyEZ9HQmzJaTapi2vW5ajhxAgUQ7du2S",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

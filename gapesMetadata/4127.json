@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4127",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPqTycNBioY6in8kSVKCFBn2PHN3Acyci9vrTiatwuET3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    }
+  ]
+}

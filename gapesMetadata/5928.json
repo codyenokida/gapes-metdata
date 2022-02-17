@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5928",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdQiUjPn7mct6qHDnQLZAxZTYrJZppCTXuDLnk5BpADVp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

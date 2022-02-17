@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2534",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPrkRKcyDuizmreXzDDqaTRfKVc9nLMVhkb31L8UAvFbg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    }
+  ]
+}

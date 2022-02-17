@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3335",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ5RiBQB8EVmVnPNWUeYxx3tNBZJcS3TC8HCGHYXbEn9z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

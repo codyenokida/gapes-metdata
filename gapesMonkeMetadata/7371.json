@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7371",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTwk54J2CSdtK1TozpAW3fparEUjQjU6CHUwCeb8eyyEM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Keeper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

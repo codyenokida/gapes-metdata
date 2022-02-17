@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1512",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPNBnfGHH4VvA8RJds3bMaNxXsFRXueSYgPYHPTmFB4vH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

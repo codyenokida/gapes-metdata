@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6519",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcuQtiNSbYNTZSsvNw2EQ1c3Jyhip1tnGT3MvwUG2q1ku",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot"
+    }
+  ]
+}

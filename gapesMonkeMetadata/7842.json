@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7842",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmadtTt9WgqDxnv454Tmd772xiowejYkwF5cY5cGVZoFYR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

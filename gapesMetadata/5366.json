@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5366",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcu9amtuyHbushHFDQeKW1dRjXATJCWLFFHw13eZs6z6h",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

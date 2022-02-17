@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7111",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbhRupm5oex7TGGffAKdgxqdQi3qo2U5wWHZNyzM6145p",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supernerd"
+    }
+  ]
+}

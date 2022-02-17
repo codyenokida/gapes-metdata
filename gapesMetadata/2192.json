@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2192",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdFdwpi7tthffoPXxuvLogKRTnShyayg4zEAi9xLY7bHy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

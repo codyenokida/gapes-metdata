@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #8365",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUswANiNkrdrJtDaCXc4RV993ffZ6upqTQKvxFXHzscUf",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Plasma Crown"
+    }
+  ]
+}

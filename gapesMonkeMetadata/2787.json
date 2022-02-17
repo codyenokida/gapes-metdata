@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2787",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZgRok3DJ9F5XYcnFc7VW4jUXnyPSvdSieaYs7EvAkFiS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snow Cat"
+    }
+  ]
+}

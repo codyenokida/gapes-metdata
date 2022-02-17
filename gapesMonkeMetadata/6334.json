@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6334",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNbfZDYex6jqe1aTTHBtQ7z7u9T9rKZvMrKGsAEHQhTpk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

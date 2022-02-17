@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5858",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTD22wTiY8o8FDn5wGAwvdBYjJAqMVSm8NTD7d3vJhUvD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    }
+  ]
+}

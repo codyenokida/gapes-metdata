@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #4952",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmazRF2Ujy1usygcSVAr2k2iBDnHaaiE3Nvquur5Q9niJ9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

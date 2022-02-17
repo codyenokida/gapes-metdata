@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8506",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWxNHTEPWCGEzxVeekh6EdvAaJ98pJxPqrq3RLcrVtoS3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3550",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVz7HRwPXUK1RJ9oqLPEezNb9TGaUTZz2xBXXtixMPUdY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

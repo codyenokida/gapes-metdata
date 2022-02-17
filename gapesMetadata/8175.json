@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8175",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQsh25YtzKo3QoGzssCgboTv93ajhqrmsvfFETPTRzYfD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

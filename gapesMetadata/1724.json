@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1724",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVQyfLGGp544uF9Wam1PfvnviRKDxWuMu85wAGM5F4cTq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Tech"
+    }
+  ]
+}

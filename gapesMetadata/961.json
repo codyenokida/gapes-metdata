@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #961",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmast5ZDt1yN3njW5hFekHcZa6tRxjqNAgj6FJa7kFB7mp",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shogun"
+    }
+  ]
+}

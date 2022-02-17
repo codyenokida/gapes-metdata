@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #636",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUq7P1QStxmp1JkurrbAUvVUJXLdjDgiG7V88QSwj6MUD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

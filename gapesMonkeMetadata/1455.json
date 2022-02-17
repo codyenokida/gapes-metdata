@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1455",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfUqg6SCqc6ZpHsE7fysBj27UCe728wmZax1BVytNHfjg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

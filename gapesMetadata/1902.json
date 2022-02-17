@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1902",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNRvULahMqSpHkdqMgE3F1cBJfL7VH9KX5gtazevTVkN6",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3262",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQbsqTcRZc2XF4t4AnhpLUf4ZZ6M4FbdN5xPu9DWubrWe",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

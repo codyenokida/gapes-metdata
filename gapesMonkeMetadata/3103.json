@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3103",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcZPk6JRU4ZsfpSM4GfsA4bH2WGZHchfqNRMoa1jDN1s1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Supreme"
+    }
+  ]
+}

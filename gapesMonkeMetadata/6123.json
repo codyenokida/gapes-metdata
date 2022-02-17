@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6123",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXwx2STKccibSSHM6uVsLhhQ8dVPMxA6aykSjuXoiCr4C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

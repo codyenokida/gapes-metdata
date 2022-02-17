@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5371",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaPvSzp35Hpnpj91K4RkRWDGrZ21X6s61pjci5eM9wbk3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

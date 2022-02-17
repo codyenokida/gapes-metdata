@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1954",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQe8PC81LjHv4YgEdQJprM9qZEm1AKVUroxgeQdPiUbPZ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

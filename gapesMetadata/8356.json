@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8356",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcHFtsrqnzv9mj2vEkHrNq2pCwX9VnXaSqxoYXorNkJzM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pink Glasses"
+    }
+  ]
+}

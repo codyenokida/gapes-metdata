@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2028",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbeoJmawCiEn6hGsD6KJEfotRMcrjYe6L2QwZLfV4DdDK",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horns"
+    }
+  ]
+}

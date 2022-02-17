@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #199",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ58z7Z5hxP5NPgmFjCnxK2JgxhVcDi3t9Hg97fwEiWGx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

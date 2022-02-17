@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8720",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQJstPXVJGRg7BHKSJqMTHq1t6as3h9gS9vr1bCz4ZdEY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

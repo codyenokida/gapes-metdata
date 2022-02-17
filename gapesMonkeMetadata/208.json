@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #208",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbsQ4QYdMhgtpKXdh7tM39UUDknxjHqkCxfUCs7YBAa2m",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

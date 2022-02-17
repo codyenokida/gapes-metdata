@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5600",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZzEGAsFvuLc1rHYnqXyxKczgkFnpDve1TeGMbY5QFpCy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

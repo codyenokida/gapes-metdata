@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4981",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV5wXK5YBSvcWXjceLEgPSGx78F7QdJeMGFcQPWmFtHHx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

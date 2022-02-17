@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7672",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWk1SFkhRJVY1vCsnUtPf8b6fc3ph5tr1u5AvHdFzAYoU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galea"
+    }
+  ]
+}

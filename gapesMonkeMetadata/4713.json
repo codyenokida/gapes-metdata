@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4713",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYVbMiCMsYQEPQJncxpcByjsv1fXA8pQ5hwaV1JB61kHi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

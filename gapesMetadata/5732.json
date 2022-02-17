@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5732",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVDhTRJnf55MYAC2sbxHP1qGC5jYEXa4mTNte24cTu2FP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beam"
+    }
+  ]
+}

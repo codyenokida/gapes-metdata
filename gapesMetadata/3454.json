@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3454",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdnQVsPxpbZfCz7A538f8d3rqXLf6pafsExMqKohUi27E",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

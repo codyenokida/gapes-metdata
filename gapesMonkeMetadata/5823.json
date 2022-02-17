@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5823",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNVVhEcPPsSUzj2e1FK9U3ffrSF68qi9SBSVwqmjxKq7M",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7387",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPQ6yp6RQHsMpKKwJVnQesti9Nm6dXdCNTAVgGnAKXjjJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

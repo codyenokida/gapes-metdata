@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #458",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPXAMmGsEZSb9VSoQfZ6oC4TND4oBhyZmpD5Esn6Ang2c",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

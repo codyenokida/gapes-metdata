@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2567",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQUfwP3P7UgrkHnerj392AQWi6v8C8JNSwtJoKWhjVeBy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

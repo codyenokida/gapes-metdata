@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7238",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYYoAUES6562FD4bXQ8J8tVspg3FFyDFkyzcYf4ud6cX8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

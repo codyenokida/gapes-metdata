@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #5733",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQR12XaiMazhL8aRHUZ8b7mpJ2JkP2nCtmdTP522uQwo2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Safety Goggles"
+    }
+  ]
+}

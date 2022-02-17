@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6156",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXtUDszsCc2jgKzxj2tVbQ4PSZ463SyqEyu9UhJFiMrBX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toon"
+    }
+  ]
+}

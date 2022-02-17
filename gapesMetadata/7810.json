@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7810",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPMPLHKvRQGQPEb1A35BftthchXjuutJvYGwv7xdbS1YW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

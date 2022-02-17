@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2655",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYu7hhBapF3pCSUnivYrUJHqqfvRRt6j9eAQxx2Atm414",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Holograph"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

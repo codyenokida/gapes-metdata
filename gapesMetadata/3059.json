@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3059",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfZq6vnECC2MxDQMcTHhn1H2MtEHiRtfWhyyDhJAnQbt3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    }
+  ]
+}

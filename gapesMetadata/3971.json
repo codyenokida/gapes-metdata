@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3971",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbSXu8a9r37paDFqs9uJbN4tKqBpnbQGDY97WNZQxLUbv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    }
+  ]
+}

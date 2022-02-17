@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1629",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTXaoMRrbvPZt9HdedXtNku8UF6KbLntDSsXTSRhSs1NL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

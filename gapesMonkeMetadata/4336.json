@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4336",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVdiUEYVUydZLtD5ruGk55a3WQDoqR6ve761eLWzp9G1z",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

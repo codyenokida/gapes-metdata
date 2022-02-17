@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #205",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNkczRxb2k6m8eowPX7utAx5VPf2BYA2N8M8rviXezrJF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

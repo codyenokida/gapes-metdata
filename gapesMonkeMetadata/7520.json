@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7520",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaipeVuV7CdXg5RBDaj4t6jKd3gTBRbivLqXUjJ9A2Tmm",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

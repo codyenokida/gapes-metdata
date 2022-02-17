@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5311",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZyEyTFuJJWkb7pgwJa2KyU1orQdaormjMx6bLZ4hLE6s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

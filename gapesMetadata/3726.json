@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #3726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRyeHKh7QwrM3ma2veou2X25LG5f9kxdbD5Fz5kyDnNqn",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    }
+  ]
+}

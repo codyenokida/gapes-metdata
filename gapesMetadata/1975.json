@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1975",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdwZZ1pJ8UUf4Th1DBSZX6eyr8hgFT5wPhskr76vh7x1g",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8336",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbAH38URg8oXAE5YJuHgoC46tdrxcDG7qvQi8RwhE2pwJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

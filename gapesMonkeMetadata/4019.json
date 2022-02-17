@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4019",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYnnHHzYuYBHxTqWjDfJoyaVzz2ryxFWktbp4BAEVnix5",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

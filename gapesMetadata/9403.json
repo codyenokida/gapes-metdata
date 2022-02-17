@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9403",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdRXwqW7JcVccB5KLGRkJxbzVU8itkqYWBX26tJbxNF64",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    }
+  ]
+}

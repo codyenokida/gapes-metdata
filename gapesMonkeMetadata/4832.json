@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4832",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRcHnAgAXjameJe8zhpLJA1GPZDo4UJpwyPXTgaq879s8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

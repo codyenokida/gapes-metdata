@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2770",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYTGoAcgCeQHwh9rmei8j6C9ktGxzqicB85aFP8QnaW23",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hops"
+    }
+  ]
+}

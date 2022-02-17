@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2810",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmf2W4T91AiqJzs28ucMsmEtKHAErWsGsFeBpr4EPZ9TBa",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crash Cap"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #502",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbF8NfsK55JJGo6Ckfv1FeAt3ue7JCwV65yuEHhyXdtWb",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

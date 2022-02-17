@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2796",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNYG7MgHVsgpwrA3mB92HMvV69prvtLXx7FfAaJzB5Zix",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

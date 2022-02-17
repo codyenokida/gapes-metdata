@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2345",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTPwWXBmrvomnHXYBExbpFPJD6V6hdPopcsUiBqaB38Qc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

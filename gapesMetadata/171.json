@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #171",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYTkmCkcSsGMgp2dyrvsm1igATCBSAgYpS5V9jARsHiCq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Battleworn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

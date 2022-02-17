@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7672",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWcx4x9KLFZ4hpKCnESncHV5LBMnQjCXwZv2ae69qA27A",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #45",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTFjhtgz51VrENMJ4V7Yhaij3HpUy3bqMgGnhNwmoKTW3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Pilot Goggles"
+    }
+  ]
+}

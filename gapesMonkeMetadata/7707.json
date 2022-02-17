@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7707",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfYKo1MRQ6Uc9TZ4gd8QkxRvdmet2A8RPqz4JvHZfFZUV",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

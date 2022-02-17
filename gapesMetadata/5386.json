@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5386",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXST1AGvLnqkM29UPpWeKn9SJHF324QABRbJmazrJkciG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Angry Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

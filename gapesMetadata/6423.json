@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6423",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS7qv5tExNaYVSxQf4SXuK1GmzEuBGgQaTiBmRQMSVuKS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galactic Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

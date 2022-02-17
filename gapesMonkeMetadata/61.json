@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #61",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQ6JZG8VmQVmNxAwMB7ZgJvg7uwn49SE84cVH8wAbmwcN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

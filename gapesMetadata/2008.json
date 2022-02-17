@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #2008",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaMtjM9FRf1KqgaCBzYdN3fodroAZo4T3mnWp9JmR5BC8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

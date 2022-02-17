@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7726",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcXhVMoGwLvD2CwG4ZTV3khbBCKTcKDSRWWaMpvUxU9WP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

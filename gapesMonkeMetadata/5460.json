@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5460",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdL3JYJvBHtPxE44nSowKez58V25A3Uj8FcwKQjLeKqGj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

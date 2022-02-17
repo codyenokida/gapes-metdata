@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #128",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVDe5mFTdvXXJcE7CyncoXvxGxcLbCpnDf3nW9P9JM9wA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

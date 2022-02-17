@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6977",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTKbYt9fQo2TBSs3DJEupvmMqeMWSmsTtyFnVV7YW2Dpi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

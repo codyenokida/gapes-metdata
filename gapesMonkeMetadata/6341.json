@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6341",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSw1KfX5hpQKuSaPyYAfK9uoBdFmbo3FbP4s8c9qGMJzg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Tech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mutation Expert"
+    }
+  ]
+}

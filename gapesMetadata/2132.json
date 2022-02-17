@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2132",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeLba3PxGRXj9wK92nHK56PX646e4jKZuLjnrMceoTDZv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

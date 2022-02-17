@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #324",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTKpGi94y9Nswr3u1AiJMjvZBDt9XuyHJQk8n5vC45HLv",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

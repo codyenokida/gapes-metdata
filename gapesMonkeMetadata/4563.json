@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4563",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSXNdeXtT9KoxQqMK6FgSN28xsty7dABGcMwLJBvQfWRg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Creature Hunter"
+    }
+  ]
+}

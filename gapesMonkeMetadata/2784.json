@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2784",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQU7hwogY8VAK2y1HD9P33rL14i5HKsLY2wwPUgnK3SbH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

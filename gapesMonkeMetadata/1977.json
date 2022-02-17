@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1977",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbiuceGPyaJuv7JdDUEBTcs9Rfpuimvyrtg3z7tx3GTzJ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #36",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaG7a7Vz4oC9YDVxtwZC2BzyCYjgCwgjL3dXZGRu6RDAB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

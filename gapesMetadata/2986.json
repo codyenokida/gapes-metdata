@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2986",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWTEuDRFRXbTBVDNi6NRY3k3GGW2HwYXGhLi8gAL8tvhx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Tron"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

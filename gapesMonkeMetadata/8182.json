@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8182",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTUrcWEHSFgahonfmb2Yga9gEtHkzV25DN8wBWPtavZ9y",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aerospace Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

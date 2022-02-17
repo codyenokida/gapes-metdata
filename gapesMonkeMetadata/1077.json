@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1077",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZEeMxyfavh2LBmiLBPxtB96tasz17W3yoy5dH9drNe2D",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6508",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmdz7HRG1AuiUETR5FpcSXpwffHHi9YhuxuVfhqr4CjJZt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chemical"
+    }
+  ]
+}

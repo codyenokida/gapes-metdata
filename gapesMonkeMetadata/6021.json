@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6021",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW4Uqi2NRWSoMeKPe2TkYKekDmLcqJr9ivUS5c4siyuVh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arachnid"
+    }
+  ]
+}

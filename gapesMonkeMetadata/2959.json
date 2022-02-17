@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2959",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQcZYzkUwb5L7JSsmo8v51DLCTLE276ja5xap9oRRm7uL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

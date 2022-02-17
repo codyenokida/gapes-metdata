@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2334",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYEPamUPFVhpFA6KmFnpZLwj8Qf2SspLhTppbqsuxpjp8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

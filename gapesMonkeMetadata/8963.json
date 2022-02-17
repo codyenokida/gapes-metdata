@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8963",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmchU65hdmpfVrepYdoiYf5SJ6VPAmjDG2yDitPMtXp1Du",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Puffer"
+    }
+  ]
+}

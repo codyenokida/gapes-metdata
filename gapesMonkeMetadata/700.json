@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #700",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUGriWFEd2jhJX4BZNsMH3Z5j2Lfwtdf7mzYHpzVvzkF8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Supreme"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

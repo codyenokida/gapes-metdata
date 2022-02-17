@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #597",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS6hoEYKFFaM7hnhrWhbpjgHcAZQiHn5rYzQgW9xsMG9C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Little Tank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

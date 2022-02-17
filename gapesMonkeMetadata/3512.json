@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3512",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZqAhRFAjEHpizgW6KSWEZNXVBMqwAttJuMZAhaQ6ffUD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mechanic"
+    }
+  ]
+}

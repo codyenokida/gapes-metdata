@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #368",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmZ1zereHcVNNYQ5D2bm35zxqR5gLvK7RhLrh4bdUfHThA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

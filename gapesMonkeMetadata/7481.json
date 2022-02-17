@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7481",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQzBrzQcD4AftKEozue1RDM84gKiYpto3SzqSVyQQGEV9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

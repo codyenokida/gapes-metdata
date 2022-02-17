@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #5933",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXnBf5Q8KFEWT2cgiu7Z9CTZoeS1dDaqPjReDJaLgbh2V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

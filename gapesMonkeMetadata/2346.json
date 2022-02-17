@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2346",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRb7Q3bnmzsnVJab9dyGzxN5jiyPU5GEfGdAYSaTwpcFX",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

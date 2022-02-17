@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6637",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV92b1WP4VTUTdnDqqfYByzXJFnPw1LZP1y11dRux92Go",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blobfish"
+    }
+  ]
+}

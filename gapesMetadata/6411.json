@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6411",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQyrV3Uk2RFshgLqLpV52T1bX7sn5WugLcULJUzfa9wiz",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mecha"
+    }
+  ]
+}

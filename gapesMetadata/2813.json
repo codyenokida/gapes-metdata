@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2813",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSbaV6zv3yVtyLTwwefUkQr1NbAMTTdkWFSKqCvxkADq7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octo"
+    }
+  ]
+}

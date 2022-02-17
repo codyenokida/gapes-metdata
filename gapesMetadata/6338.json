@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6338",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVFBgfvnituk35Uq2BT4uzSxcGcWVCCZk7wAFHn3mRj7a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

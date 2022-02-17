@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3070",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXezLNmFGtZ7FKaWs1Ht7dFP6ugCuCNskgZt2WMESx1BH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Miner"
+    }
+  ]
+}

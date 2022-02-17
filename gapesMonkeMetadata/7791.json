@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7791",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmeuot7p8VeHrAP2FJkofRbHWpQgeSi17H2NYrGqKsNZsw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

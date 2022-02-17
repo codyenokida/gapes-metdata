@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2476",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXJn8kCnvmdJjU432XtB3KZqAMg4XzLpRxt16AcWqHDCU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captian"
+    }
+  ]
+}

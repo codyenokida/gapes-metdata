@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3049",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeHrF5ygySkcTCwUUSZUnNDoKQTEfnwatA1vNwQ8oc9Yk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

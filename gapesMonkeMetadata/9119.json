@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9119",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVVyLYqZ1nq6RGpHEAqXMLDswCtGiqJGEtxYr4QjpJFp7",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rocket Hat"
+    }
+  ]
+}

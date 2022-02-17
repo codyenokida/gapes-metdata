@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6194",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVwa3hbUTShWfFgY2PQZ8eA26FAiU8k4ArBgZ3hGPDHYk",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

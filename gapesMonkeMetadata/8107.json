@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8107",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmaSc7FsgtSrg2V1zJVrUNEa9HsDm6s6Sms9UdxiYTLVkc",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robotics Expert"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumanchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9064",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWp23KC6dM8PN3VLB1rW7fWphB5qQ6QCrm2QZUrJx1kc9",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggletooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

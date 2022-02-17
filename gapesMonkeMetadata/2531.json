@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2531",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfAoxr7L9zKEDmgHjXk3JhrfRGzAtCftUQsBMFjCo9DSB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlebar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Squiddly"
+    }
+  ]
+}

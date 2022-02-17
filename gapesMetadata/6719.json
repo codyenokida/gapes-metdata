@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6719",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmP3ZLBKg6DdavbzSwEdtJ49MZNbR7U9YbmfwBxWkXUaku",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brawler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

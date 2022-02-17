@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5538",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRit6E6BAHKQodyKwqFXiTfYmjUvRumKU7R6wDBcZML2a",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bio Farmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Search and Rescue"
+    }
+  ]
+}

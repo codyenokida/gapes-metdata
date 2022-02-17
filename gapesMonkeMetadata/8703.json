@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8703",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUsgYrFNro22dDWLRDddfWoCeNi7SeA5QNxT8Yi2WVRE8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Galactic Patrol"
+    }
+  ]
+}

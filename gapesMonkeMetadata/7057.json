@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7057",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVjEvgg3YMU7oLEApMXGRs4F6RLKD6xQXSjopReRUA4to",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Missle Launcher"
+    }
+  ]
+}

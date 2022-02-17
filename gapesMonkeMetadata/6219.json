@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #6219",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX5snLSYqKdQHJ7FXa6zfyJws7aGibb5cTZU4hrvRMB4H",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

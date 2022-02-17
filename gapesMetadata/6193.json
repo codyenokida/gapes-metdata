@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6193",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSG5tVyutYMNtm6ht9qqHQJh8PT1SjcJkw3TWrckhi4mU",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

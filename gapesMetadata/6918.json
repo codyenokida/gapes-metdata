@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6918",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRPULASdVZuCqcUKGxNQZ7cWLgsLAnA38Bbid6ZAaQdBw",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    }
+  ]
+}

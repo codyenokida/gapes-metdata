@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4807",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbhwAV6v2YGt8m8GESsKPwpKf6FTjrKa2eRNP7F7fmAXW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elder"
+    }
+  ]
+}

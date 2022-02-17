@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9710",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPc8kkGJnj3WarNQ58uaR3Bvzb7tP2ryP3H1XDkhQKd86",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "War Machine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9032",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWzbp1B9h579Fi9uyV8rqXMkBd7oVjSCTSeJKa4ekKaJd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Guard"
+    }
+  ]
+}

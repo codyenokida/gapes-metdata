@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #901",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSponFYuLTQawamKEeVcch6bYRbnopbq4rw4xsbDQeMoW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

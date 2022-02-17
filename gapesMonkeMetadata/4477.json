@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4477",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQWxXk2HD2vpu8gS88e7gou5uhhqZHGSy5dqs44nP2g7x",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Tank"
+    }
+  ]
+}

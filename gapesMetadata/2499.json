@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2499",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWexvhebcTzJWfFp5WFdRWT6dDBrREVjRhVck7zDS3BFA",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cosmic Cat"
+    }
+  ]
+}

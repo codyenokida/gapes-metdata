@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #442",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWcxikjRP5Mtta9Dy73iYJmyzY5GsaV8ZM1zawQbGYoki",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

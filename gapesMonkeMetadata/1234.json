@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1234",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPfPikLARp6Lr7QtSXCAyYYxyGUxaSSiCWJKf62jWNbLG",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aww"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

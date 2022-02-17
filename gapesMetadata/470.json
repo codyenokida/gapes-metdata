@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #470",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme7nAXNDYyS15WSMLWZFPRMmyZ2EWhGHHi36hN3U4NTA8",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ]
+}

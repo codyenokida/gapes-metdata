@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7005",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTGNKYLpYxwmLnrZ6R8GiGnespfC4qywo3aux24V6Hn3r",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scales"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

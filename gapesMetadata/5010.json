@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5010",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWEsHiQkbaxgou8YSPB55uPuf2paQh8EofJmxXYYaVsow",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    }
+  ]
+}

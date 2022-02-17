@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8905",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmStCrSXfy6RTpQusnNYfse7YDTw4BRqDPwM11AtRvRY6V",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryogenicist"
+    }
+  ]
+}

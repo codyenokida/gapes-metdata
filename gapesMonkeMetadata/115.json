@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #115",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQendjNxpr7dGQuTdfuc6jUAHS5mFHs9yNkEyr4pcTdep",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Smoggles"
+    }
+  ]
+}

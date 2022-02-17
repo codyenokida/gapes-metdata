@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #1219",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdwboNF6D2AkjyHFEqhPbrmKeEa5CyChzGF4m2en3siM3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

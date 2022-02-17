@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6041",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmagvmGsRX7D1roA6utX9XH2KtJXvGJG5MSif36QsFPsgd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ]
+}

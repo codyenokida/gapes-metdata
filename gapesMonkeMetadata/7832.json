@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7832",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXNy4ChrZBZAuHCD9sVPQQ7sKs7we61RZ69CgcRcVhgd4",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beast"
+    }
+  ]
+}

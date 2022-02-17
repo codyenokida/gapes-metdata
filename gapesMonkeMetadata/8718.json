@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8718",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfV6fzfT8tgveVYyx5upg3QUjzcydrvgwbHqctE7m2zkr",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

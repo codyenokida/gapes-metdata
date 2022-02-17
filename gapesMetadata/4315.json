@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4315",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPyzB366sytr8PMF8zBvqiF7vBYN7g7rN7tWU5N7nqgNh",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Futuristic Sunglasses"
+    }
+  ]
+}

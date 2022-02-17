@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1526",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmec4TkRSH5mh5EUunhVRARCxPaZUR4vWFSqMRCHdirkJN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

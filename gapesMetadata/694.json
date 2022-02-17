@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #694",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbAvkfCmXfbhFaKGqoU8r8kSy1BRZ2zqedJDnY8fx45xt",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jaws"
+    }
+  ]
+}

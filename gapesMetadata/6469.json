@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6469",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmY92ea29S1FWcoAST4e6NKmzTJY7ZGTJFMfZw1Jm1t75X",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

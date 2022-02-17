@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #9591",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmNrREn2VVEicT1YsWioAdGJbbPsb7y8JLqqukdYuicno1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Heads Up"
+    }
+  ]
+}

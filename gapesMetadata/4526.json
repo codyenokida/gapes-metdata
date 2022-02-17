@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4526",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmWopALwoTwEaXbSYjCb9MSX4cc8iRDEurTMaprH5uLdde",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

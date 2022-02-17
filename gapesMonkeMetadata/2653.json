@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2653",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT4QGzLYbkyy4wyi3wMJdvrRwdZp2F2UtuZDX1x17g8sg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frog Helmet"
+    }
+  ]
+}

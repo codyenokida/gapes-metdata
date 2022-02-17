@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #3825",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcKpF1rfAP8MLKwr3rWKbtBBJBaEEEPSDyA57PrjxxoBP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Roloway"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Smol Flyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Gear"
+    }
+  ]
+}

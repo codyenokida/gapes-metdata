@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6756",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmV1bWsZxKZgVK65C4LuBWvNzQmPG3Wg7KCT8x9rjeYLEj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Optics"
+    }
+  ]
+}

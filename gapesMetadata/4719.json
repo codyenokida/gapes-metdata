@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #4719",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmanGAAwKeZXMeotzQR2vSTuPrqEN48bA3w5BAwbBXPKWR",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptile"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #8386",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmTzGe28Q2iMQ4dnWZFD5NVVc6brHpeCMbTfscXjHZQx7A",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    }
+  ]
+}

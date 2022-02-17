@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #109",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXguZzi3YAKTWiR4jFePqKS6eNvYwG5untN6v5XYNs8hj",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Creature Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

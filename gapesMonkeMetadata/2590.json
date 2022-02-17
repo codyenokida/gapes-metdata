@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #2590",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qme959GuMSVoXQTu9WBGUx3kmbe8qvMWgXyXdrAEGRK8AB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Assasin"
+    }
+  ]
+}

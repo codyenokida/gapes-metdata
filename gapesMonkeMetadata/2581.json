@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2581",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXKJmTTRmcsTC3NthEjnCP78i3V9ZLV86Sbw2fqA47WDx",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Security"
+    }
+  ]
+}

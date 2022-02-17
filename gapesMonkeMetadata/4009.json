@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4009",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmadrqGcNP7xD3ydTa7YFJK4UphacxYmjiyh8aFmJRiiZg",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

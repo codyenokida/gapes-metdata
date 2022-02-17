@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4040",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT5ycYv7xq7qb8LeE5gb1RqxwxXQijsYiB8Xb738iFP6o",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil Teddy"
+    }
+  ]
+}

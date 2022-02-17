@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5156",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qmcgcz1N2cqeWi1j72KuqWjyhNfLbSUnQdQyVUwHa5hyHN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}

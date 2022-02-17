@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #9004",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfAR5grWvCZvdqoNRCsYZb3AWnBrsaJeE9tsQ7XhVLi8C",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scawy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    }
+  ]
+}

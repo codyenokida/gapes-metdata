@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #856",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmQvNZCyKE2VTUBeyNLvWMB1Z5Bu3coyiwjz6qKp4yBXsW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

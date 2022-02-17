@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #6674",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmSGKBsjmaNLVbkuBqKLDUAo2gxQQJR1nEpTEVzF6jg363",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

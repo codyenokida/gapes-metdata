@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1295",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRARVfxVQ1QBLXYXi64DLQgYiGNM8XhpejGjcNVENuWzN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Intellibot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antennae"
+    }
+  ]
+}

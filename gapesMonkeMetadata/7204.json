@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7204",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXUZ689zmjXpCgp3PdbpsX3QQ4DpHj295w3b35RAmBsAN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller"
+    }
+  ]
+}

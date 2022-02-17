@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #1711",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcZ3AWZjSBaKq411y8xGBKPjTSGu4UtoRPmrFQWShTpYF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Creature Keeper"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #3053",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmW1Nibuv4R79S2smLqqnYtBTSfQFCuVjqNcaE8jHrQ1gy",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Cyberpunk VR"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

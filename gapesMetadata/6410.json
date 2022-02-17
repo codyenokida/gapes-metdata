@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #6410",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmU7os9Fmm96z9EgAA3q1WFBv3ccUCcMm8qnQ7PtK9EtGF",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bubble Afro"
+    }
+  ]
+}

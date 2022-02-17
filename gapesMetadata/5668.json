@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #5668",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmT9E8kq99zAjugKbDV1gdB5FNbp1iTDo4V1B6WW2a3icQ",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Specialist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

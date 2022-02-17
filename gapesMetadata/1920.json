@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1920",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRpTmoPcMXXeD446uS5LXN6BcD29NQwQrT2QMV9idJ8Xs",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thorny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

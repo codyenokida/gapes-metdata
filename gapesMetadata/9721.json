@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #9721",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUmKdsWkB9fDjEedQbuEALXSpbfxpp9hUBMMi3oskycdH",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Scrapper"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    }
+  ]
+}

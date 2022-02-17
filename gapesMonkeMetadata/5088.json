@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #5088",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmefgWBya69m2NfZzoGJ1EStoPTF2MksfNpWNzT1RMYs3N",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soul"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juggernaut"
+    }
+  ]
+}

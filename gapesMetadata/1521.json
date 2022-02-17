@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1521",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmYKfRS346uPppqJNtUX6ZWEtHqnmxy6Ls34ZT1AwRf3M1",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone Guardian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Friendly Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Dreads"
+    }
+  ]
+}

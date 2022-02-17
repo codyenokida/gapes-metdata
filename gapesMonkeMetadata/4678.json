@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4678",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmS5agbcMhQZbXd9p5mf3e4PckWDDEHWjKeUggZTdVehuq",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dragon"
+    }
+  ]
+}

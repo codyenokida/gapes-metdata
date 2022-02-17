@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7965",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmeniE4veLvcnyTgyMK61oRFD2hRMHhAjveVoiW9oiwdCY",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Insect"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Horn"
+    }
+  ]
+}

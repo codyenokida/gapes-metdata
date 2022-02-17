@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7217",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmbqrcoxCJWHSwFYsYvDa8nzCv64wpfrDtA9WpsDz5GvuN",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Smol Brain"
+    }
+  ]
+}

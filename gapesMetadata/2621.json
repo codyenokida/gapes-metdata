@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #2621",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVXxnrA5wMLd4udmoKS96j8uMP3DkKodf8B7zk4SCqbWi",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tusks"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Scientist"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Hat"
+    }
+  ]
+}

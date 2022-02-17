@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #7320",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPT6Rqna5z8Dn5qyztVchZ6RYYjVWzYvReQZysncoZZUL",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Search and Rescue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Sungear"
+    }
+  ]
+}

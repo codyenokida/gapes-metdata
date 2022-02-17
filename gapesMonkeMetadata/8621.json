@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #8621",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmcpMX8jWZZZBNYnL4UT6h1UNmRxoSMiC44z2WkwroTic2",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Golden Snub-Nosed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

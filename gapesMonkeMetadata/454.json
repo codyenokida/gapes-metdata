@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #454",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmXEowAk1q54dxGEmZzW4dCmPdimwHRgKschg2nzrdaAFW",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Imperial"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "Neon Racer"
+    }
+  ]
+}

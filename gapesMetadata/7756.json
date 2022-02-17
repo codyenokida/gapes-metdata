@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #7756",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPJ5538ydAsWyBYEaH3rvan1F67M3xknwghYUjZWd64kB",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robo Bunny"
+    }
+  ]
+}

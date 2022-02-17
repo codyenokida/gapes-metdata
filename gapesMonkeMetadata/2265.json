@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2265",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmR8fekepJo4JvmqN9o6SFmN31e8uY7xPbkhzUvbkr9Z4u",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Capuchin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teddy"
+    }
+  ]
+}

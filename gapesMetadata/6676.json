@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #6676",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmX72ojjf5SGCdKxBpZSi6dfcVt15zei6mJctRe16zV71j",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Orangutan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Bright Tech"
+    }
+  ]
+}

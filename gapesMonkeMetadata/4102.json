@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #4102",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUhrL7HYG6NGSSHFLUT3RksrG6Hq7XQKqxY4yhpGG9Wa3",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cryogenicist"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Builder"
+    }
+  ]
+}

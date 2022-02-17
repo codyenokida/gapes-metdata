@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1471",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/Qman67XG7o24xxjLoqbdqZvf8uCFBJi4b1geKcS8aVR1vD",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Pygmy Marmoset"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    }
+  ]
+}

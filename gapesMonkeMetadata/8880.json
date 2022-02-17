@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #8880",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmfJt9fKzWsu3ta6JdvxmsrVaeayC1D7B599SyCvErYAhd",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galactic Patrol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyegear",
+      "value": "POP VR"
+    }
+  ]
+}

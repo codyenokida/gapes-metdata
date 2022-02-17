@@ -1,0 +1,26 @@
+{
+  "name": "GalacticApe #7002",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmRBxQoC6Ts84B897d9Ym9ZiN4Ni91QGX7LihpzVH9oYWS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire Breath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #2686",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmVq196rEMz41czmTMkGQ1UHZhu1R1hdtErC97Nwmfxz5s",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Emperor Tamarin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Treasure Hunter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Supreme"
+    }
+  ]
+}

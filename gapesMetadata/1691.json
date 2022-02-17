@@ -1,0 +1,30 @@
+{
+  "name": "GalacticApe #1691",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmdbbDiAn6m4gC9KGCqPbm5fP3ATbeREAN1ruBLUh8qxzM",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eye Gear",
+      "value": "Villain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GalacticMonke #3890",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmUr8N9HVcGF8b6hiTo9CAcBEVLVnSMhwdawCAxAdVvwYS",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Langur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Degen"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nocturnal"
+    }
+  ]
+}

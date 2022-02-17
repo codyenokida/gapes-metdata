@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #7141",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmPxQvca9WTqdZxhh4PjXpN2KTMy1MZXLjXdbWNALYQayP",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dopey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bolt Helmet"
+    }
+  ]
+}

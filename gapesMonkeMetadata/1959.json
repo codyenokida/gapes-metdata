@@ -1,0 +1,30 @@
+{
+  "name": "GalacticMonke #1959",
+  "image": "https://galacticapesnft.mypinata.cloud/ipfs/QmePEE6LcNsUSsFQnT76oS7BCzjgYk898h7RZw9KoEA8CT",
+  "attributes": [
+    {
+      "trait_type": "Genus",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gooh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Monster Snapback"
+    }
+  ]
+}
